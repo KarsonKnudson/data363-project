@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Trucker Path: Truck GPS Truck Stops Weigh Stations',
+    installs: 2205381,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/tjqTaG_SPki6W6LSzjkrxoz687KzIgwU3bD6rJSjTG4Wd_A3gtbaWmuDz_4Ql-2cVLgp',
+    appId: 'com.sixdays.truckerpath',
+    url: 'https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en&gl=us'
+  },
+  {
+    title: 'Circuit Route Planner',
+    installs: 767897,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/xNTl0wMMmWmKLzBxKIEiErxHkYmRp_9XKG3TaeE43Ugg6QtWaGycltvvyVnowp2ExBTt',
+    appId: 'com.underwood.route_optimiser',
+    url: 'https://play.google.com/store/apps/details?id=com.underwood.route_optimiser&hl=en&gl=us'
+  },
+  {
+    title: 'RoadWarrior Route Planner',
+    installs: 731208,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/siiR0SZGtR6TfI6N9slBPzbBtQj7t8qHIZNk0dUSKBP6IorRYOXHFNJLJJaH3b40qig',
+    appId: 'com.roadwarrior.android',
+    url: 'https://play.google.com/store/apps/details?id=com.roadwarrior.android&hl=en&gl=us'
+  },
+  {
+    title: 'Gaia GPS: Hiking, Offroad Maps',
+    installs: 702010,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/s6pHmiQZL7sSISU8A67xQ8dA5xhK2GhLkCO8ul6Ow0IrLUXGb_BjQP-4uaXA3ZsavbI',
+    appId: 'com.trailbehind.android.gaiagps.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.trailbehind.android.gaiagps.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Boating HD Marine & Lakes',
+    installs: 3192332,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/AIw-PyUXw9OhUvkXqy9pCBvHiPV1KKSqYo_v1xvIrVzGrqhkPq94DWjUFfvodSm3e2Y',
+    appId: 'it.navionics.singleAppMarineLakesHD',
+    url: 'https://play.google.com/store/apps/details?id=it.navionics.singleAppMarineLakesHD&hl=en&gl=us'
+  },
+  {
+    title: 'onX Offroad GPS Trails: Jeep, 4x4, ATV, SxS, UTV',
+    installs: 290852,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/tk1eRB_YhjMMH1TecdDVQd6FpldQt2tK_Nr7N4F6fnepPQCzjFUUMCD9134EG60cuw',
+    appId: 'onxmaps.offroad',
+    url: 'https://play.google.com/store/apps/details?id=onxmaps.offroad&hl=en&gl=us'
+  },
+  {
+    title: 'Avenza Maps: Offline Mapping',
+    installs: 2170222,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/nQ7Z70PNN-cdiu9KZAbp6FZYrJ5k8WClBSh_DXlrkSiBjkcu-33NJNSGcr8r4fdzwBZN',
+    appId: 'com.Avenza',
+    url: 'https://play.google.com/store/apps/details?id=com.Avenza&hl=en&gl=us'
+  },
+  {
+    title: 'SmartTruckRoute2 Truck GPS Navigation  Live Routes',
+    installs: 191141,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/M6uFBOh_YEXVglJwKFhtb8ZZZUkyyI87FXx8991ME4nXFmDfGjqSjXxFZbE9IFZ4nw',
+    appId: 'com.teletype.smarttruckroute4',
+    url: 'https://play.google.com/store/apps/details?id=com.teletype.smarttruckroute4&hl=en&gl=us'
+  },
+  {
+    title: 'CoPilot GPS Navigation & Traffic',
+    installs: 5693044,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/xGLfoZXOCDC7UEpdsBul4t4e8FC52fUAFEuPPFBhzoaSf55-KbcL5BxXREYxTODWsg',
+    appId: 'com.alk.copilot.mapviewer',
+    url: 'https://play.google.com/store/apps/details?id=com.alk.copilot.mapviewer&hl=en&gl=us'
+  },
+  {
+    title: 'Route4Me Route Planner',
+    installs: 707884,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/2jlOsOlk41hZQWTZ5Yv8R5hAkOC95zwyfd7kRu6xW5HX9LlLAF5qDrR-8b0iYDNsDhV_',
+    appId: 'com.route4me.routeoptimizer',
+    url: 'https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer&hl=en&gl=us'
+  },
+  {
+    title: 'Truckloads & Freight – Free Truck Load Boards',
+    installs: 379407,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VUWBHRKVYnhS3Z-JG3U9th8NF3fU20cSnGKIvO9fmKlVve169AZTao8HLpQ8-HbkLoY',
+    appId: 'com.truckerpath.truckloads',
+    url: 'https://play.google.com/store/apps/details?id=com.truckerpath.truckloads&hl=en&gl=us'
+  },
+  {
+    title: 'SmartTruckRoute Truck GPS Navigation Live Routes',
+    installs: 699141,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/PrZ_e8lpF2ijzAsItOUo47jEZgSp8ySkt4q7F94KxhRe5lmGc97gLO9D_f4zAVg2TPo',
+    appId: 'com.teletype.smarttruckroute',
+    url: 'https://play.google.com/store/apps/details?id=com.teletype.smarttruckroute&hl=en&gl=us'
+  },
+  {
+    title: 'Navigation Pro: Google Maps Navi on Samsung Watch',
+    installs: 616074,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/AEXCG0OBJoHKiDR9l9706kULLCyhI02zjWTFHHsmeZYGUq0hBLuvkVLqPEUaA-Ulh6c',
+    appId: 'smartwatchstudios.app.gears3navigation',
+    url: 'https://play.google.com/store/apps/details?id=smartwatchstudios.app.gears3navigation&hl=en&gl=us'
+  },
+  {
+    title: 'Sygic GPS Navigation & Offline Maps',
+    installs: 82396939,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/7C0WIhhdtfzwpBuOft_8lkXoEGsPgH__MbCyNdFX7Wow-CNdKX0WxZzxSv7Mi1PHMg',
+    appId: 'com.sygic.aura',
+    url: 'https://play.google.com/store/apps/details?id=com.sygic.aura&hl=en&gl=us'
+  },
+  {
+    title: 'Garmin ActiveCaptain',
+    installs: 346174,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0lmKpf9Tt4cbNP6PF8JkZGNBjTHfGlJmz1ZL3LBOUKLBJooFtNEXIyZOBvwLFuvkw8ff',
+    appId: 'com.garmin.android.marine',
+    url: 'https://play.google.com/store/apps/details?id=com.garmin.android.marine&hl=en&gl=us'
+  },
+  {
+    title: 'BackCountry Navigator TOPO GPS PRO',
+    installs: 211639,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/oKT4wTKSsr5jiCgdLlG9Dj1CxXVEMePS4aBss6iUIsIV-hwvOdDk5YTGzKE4Ynjq1A',
+    appId: 'com.crittermap.backcountrynavigator.license',
+    url: 'https://play.google.com/store/apps/details?id=com.crittermap.backcountrynavigator.license&hl=en&gl=us'
+  },
+  {
+    title: 'BlackVue',
+    installs: 372112,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/cMykZ0ExO3lJ4QrTSbUrKKkCMYw-bYkT-DFnTUAH6NIR5xMM6cUGG0-fbVUYBeS9zA',
+    appId: 'comb.blackvuec',
+    url: 'https://play.google.com/store/apps/details?id=comb.blackvuec&hl=en&gl=us'
+  },
+  {
+    title: 'Escort Live Radar',
+    installs: 686743,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/E6REYdICF6rUMFg_rrs4o-VMptr0sigkYTYZ7LVQgoRno5YLqmvO7vOAJdx8FwVKR-wF',
+    appId: 'com.escort.androidui.root',
+    url: 'https://play.google.com/store/apps/details?id=com.escort.androidui.root&hl=en&gl=us'
+  },
+  {
+    title: 'calimoto – Motorcycle Rides & Offline GPS',
+    installs: 1366143,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/_H2EZiIUjDUvZm5fAn1H-qZE8idSarPaBnDEBjv_1b_yOh9AgbSwHgrcZYbR_F1w1w',
+    appId: 'com.calimoto.calimoto',
+    url: 'https://play.google.com/store/apps/details?id=com.calimoto.calimoto&hl=en&gl=us'
+  },
+  {
+    title: 'DroidEFB - Fly with Android',
+    installs: 63331,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/pdpgAkZP728uhQptsWbVjP100Xrt89aOYIJTPw1qBnWNAwk3TWmGDOsH2nF7oLZQAQ',
+    appId: 'com.droidefb.play',
+    url: 'https://play.google.com/store/apps/details?id=com.droidefb.play&hl=en&gl=us'
+  },
+  {
+    title: 'Multi Stop Route Planner',
+    installs: 297822,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/JsmMj1cyr5inXimrjzIHO_OxrJuC6PksIky0UrR7HAPxg3_1vQycRFP7-XbOnGf-mg',
+    appId: 'com.mapamai.maps.batchgeocode',
+    url: 'https://play.google.com/store/apps/details?id=com.mapamai.maps.batchgeocode&hl=en&gl=us'
+  },
+  {
+    title: 'REVER: GPS, Navigation, Discover, Maps & Planner',
+    installs: 994127,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/I7wjrTHkjkv-LZh0HU1FLsLCYJaJAX4B2ojiWV6OZ_XmC1ij-jsNZ8udNyVWubUrdtKP',
+    appId: 'com.reverllc.rever',
+    url: 'https://play.google.com/store/apps/details?id=com.reverllc.rever&hl=en&gl=us'
+  },
+  {
+    title: 'MarineTraffic ship positions',
+    installs: 649643,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/rkAUYZpBSaLKHCRBQN4Nu5DlYRSCAIav8uqJn34THtkTZcCp4VrP-8wPdbYQmZz61g0',
+    appId: 'com.marinetraffic.android',
+    url: 'https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=en&gl=us'
+  },
+  {
+    title: 'US Topo Maps Pro',
+    installs: 48863,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/Rxbs31PqBxV4DKvyaU2cBnaU0-oYnqzlPF7Sed_WB1czAi4tPEJXg0z52irKBOjjtJ0',
+    appId: 'com.atlogis.northamerica',
+    url: 'https://play.google.com/store/apps/details?id=com.atlogis.northamerica&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Navigation - Route Finder, Direction, Road Map',
+    installs: 1286398,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/1E_8c2v_KNQ8n7IlCSjDmseneIJeMTy_XHTS0PkPBA6yHFuj63AYlvJHmbNE57B7SZE',
+    appId: 'com.gpsnavigation.maps.gpsroutefinder.routemap',
+    url: 'https://play.google.com/store/apps/details?id=com.gpsnavigation.maps.gpsroutefinder.routemap&hl=en&gl=us'
+  },
+  {
+    title: 'Wavve Boating: Community Marine Navigation GPS',
+    installs: 10681,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ZAqIwZ0nWqzZmjOBDxbswzA6l-KOV_GXCKs-_w6Ozkl4-g0rdqHzc-MrxkYjCeK8pO0',
+    appId: 'com.wavve.boating.gps',
+    url: 'https://play.google.com/store/apps/details?id=com.wavve.boating.gps&hl=en&gl=us'
+  },
+  {
+    title: 'BackCountry Navigator XE: Outdoor GPS App (New)',
+    installs: 82572,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/w6GIXRtco7iKXIh8lOgJF75pLQycBZv4zwGiBCkQmXfaRpf07_HIU95WEFkMEk6LvQ',
+    appId: 'com.crittermap.backcountrynavigator.xe',
+    url: 'https://play.google.com/store/apps/details?id=com.crittermap.backcountrynavigator.xe&hl=en&gl=us'
+  },
+  {
+    title: 'C-MAP - Marine Charts. GPS navigation for Boating',
+    installs: 467449,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VAmXSY3195-sRHhlg3Wt_xfmy8vLIIyiUZpZR72KFBLxM66t-ir8jOrco0bAKig9LQ',
+    appId: 'com.isea.Embark',
+    url: 'https://play.google.com/store/apps/details?id=com.isea.Embark&hl=en&gl=us'
+  },
+  {
+    title: 'Bikemap - Your Cycling Map & GPS Navigation',
+    installs: 2180884,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/FXxfaZjuD-zso36Z5dF9dbCoW1aSMULf31qILqt7VYv8tGHZ10VaCWbKHxahQIqPxA',
+    appId: 'com.toursprung.bikemap',
+    url: 'https://play.google.com/store/apps/details?id=com.toursprung.bikemap&hl=en&gl=us'
+  },
+  {
+    title: 'Radarbot Free: Speed Camera Detector & Speedometer',
+    installs: 26327944,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/afGeJpaU6yzSKYAru2LS1aBscpk7irbpLJ43pvj0t54CGM1ZSYvG3JfK_kGbxmEpVg',
+    appId: 'com.vialsoft.radarbot_free',
+    url: 'https://play.google.com/store/apps/details?id=com.vialsoft.radarbot_free&hl=en&gl=us'
+  },
+  {
+    title: 'Locus Map Pro - Outdoor GPS navigation and maps',
+    installs: 324575,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ackLPaYexBteLrJd896qhjfsedg9uAq9D7nYIHdFhBqk87Iyj5imHSWTebSP5tMsJhc',
+    appId: 'menion.android.locus.pro',
+    url: 'https://play.google.com/store/apps/details?id=menion.android.locus.pro&hl=en&gl=us'
+  },
+  {
+    title: 'TomTom GO Navigation - GPS Maps & Live Traffic',
+    installs: 12492019,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/4fjOU1VC1ggnTja27FhemVvl_cJtn2SAv0JW5UkzltIsXw6XqzqyDpalq9QR6KIEqDc',
+    appId: 'com.tomtom.gplay.navapp',
+    url: 'https://play.google.com/store/apps/details?id=com.tomtom.gplay.navapp&hl=en&gl=us'
+  },
+  {
+    title: 'Sygic Truck GPS Navigation & Maps',
+    installs: 2352457,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/oZWaYLMbVwIhBoRjLnkIu1Wi0iKHStYZof7jdFgOzmgX8DHnozv2y9Jo0iIm7sJ7nvvw',
+    appId: 'com.sygic.truck',
+    url: 'https://play.google.com/store/apps/details?id=com.sygic.truck&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Route Planner',
+    installs: 894251,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0mJlLkvGLYKezD33paH2OJ1c3m1M-YtpkO66t02ZFR6m7f_fOXSJ7oNJZGseDYpfRBE',
+    appId: 'com.gps.maps.navigation.routeplanner',
+    url: 'https://play.google.com/store/apps/details?id=com.gps.maps.navigation.routeplanner&hl=en&gl=us'
+  },
+  {
+    title: 'Wikiloc Outdoor Navigation GPS',
+    installs: 4629681,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/uAL8cfVSubXM-QTv5F0_8D-yJaA09bXlGwUrRXVxOeEqfWl8xAUfWhJSjQlXU9SOIPU',
+    appId: 'com.wikiloc.wikilocandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Genius Maps: Offline GPS Navigation',
+    installs: 548855,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/_Dh0e0hFlOKam8zOQzMo8ufdlOpgyraimQGU8L4wEDL4zBXwBZl-FZn8rQqosgi-eQ',
+    appId: 'hr.mireo.arthur',
+    url: 'https://play.google.com/store/apps/details?id=hr.mireo.arthur&hl=en&gl=us'
+  },
+  {
+    title: 'Mgrs & Utm Map Pro',
+    installs: 10408,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/7MAT-ZLee0PdIEkJpJPlCBo3FLKcarEf0tFzZeSa0WPOwL3YgSYUw0Pgfb7eINhGnw',
+    appId: 'com.zahidcataltas.mgrsutmmappro',
+    url: 'https://play.google.com/store/apps/details?id=com.zahidcataltas.mgrsutmmappro&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Speedometer : Odometer and Speed Tracker App',
+    installs: 3172265,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/EoHWE65_eb9e6YLGEYk0qj8le-Rk3C0EnYqyPgaMs4X7ZsiMC5IQENXhsIAnyC3Zng',
+    appId: 'gps.speedometer.digihud.odometer',
+    url: 'https://play.google.com/store/apps/details?id=gps.speedometer.digihud.odometer&hl=en&gl=us'
+  },
+  {
+    title: 'Headunit Reloaded Emulator for Android Auto',
+    installs: 14301,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/qWpEF30c4VIiHXl39ZF86yMyI-GZxe3cBNBgLicWdXohHPPr5n_lj8Pz0Vsogey8U8I',
+    appId: 'gb.xxy.hr',
+    url: 'https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Waypoints Navigator',
+    installs: 43211,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/PGIMYfXUjppzIzOut28nVxWawGgBDLhSZ9QXw835PAWeczd8VCnACwZl-zSrPosv93w',
+    appId: 'com.discipleskies.android.gpswaypointsnavigator',
+    url: 'https://play.google.com/store/apps/details?id=com.discipleskies.android.gpswaypointsnavigator&hl=en&gl=us'
+  },
+  {
+    title: 'iGO Navigation',
+    installs: 2019268,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/t6WwwwFsWszc4_W8ckhcVAZwQ86N5TAN_9BBGDb9JdMZTGZyWSZlP3PHDQ6SopbdbkFx',
+    appId: 'com.nng.igo.primong.igoworld',
+    url: 'https://play.google.com/store/apps/details?id=com.nng.igo.primong.igoworld&hl=en&gl=us'
+  },
+  {
+    title: 'PlaceMaker Route Planner',
+    installs: 2559,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/xuwVEAEsCyhPKDlDVMUgFL1plig_aKE4Ir8PgY3J-DjhMAw0Q1J7wM16h8vYE7mIcA',
+    appId: 'com.qworkly.placemaker',
+    url: 'https://play.google.com/store/apps/details?id=com.qworkly.placemaker&hl=en&gl=us'
+  },
+  {
+    title: 'Wheel It Off',
+    installs: 73,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/X-F9BtwZDfbRGMme_mZOdJj6Uc25sMVXoDWm0PY-5jNr6YXZb4S_IQb1Wc5BOOlh-E5M',
+    appId: 'com.globaldpi.wheelitoff',
+    url: 'https://play.google.com/store/apps/details?id=com.globaldpi.wheelitoff&hl=en&gl=us'
+  },
+  {
+    title: 'GPX Viewer PRO - Tracks, Routes & Waypoints',
+    installs: 60609,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Vxl7vAYgKa4pfXPfNpH1GA7kq5oWMgrDBwwSQrnHCAqoWCDMVLjFLzzk7s3WeEq7P0M',
+    appId: 'com.vecturagames.android.app.gpxviewer.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.vecturagames.android.app.gpxviewer.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Maps Directions & GPS Navigation',
+    installs: 1755144,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0zmXLD2U0NLZ6Wda6jWUtIdQhlugT4Y7mPOXlc6hAsNJRE054l5g3DTjzK7OZC_fikE',
+    appId: 'com.gai.GPS.map.navigation',
+    url: 'https://play.google.com/store/apps/details?id=com.gai.GPS.map.navigation&hl=en&gl=us'
+  },
+  {
+    title: 'Land Nav Assistant',
+    installs: 42139,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/x6ZsFJ8erIJaT5leLnbE5zYl6FyrU4uHTiC6ocs6zSxBcrvDcjgiEfvIAWQx149eO0dQ',
+    appId: 'com.gammonapps.android.straightlinenavigator',
+    url: 'https://play.google.com/store/apps/details?id=com.gammonapps.android.straightlinenavigator&hl=en&gl=us'
+  },
+  {
+    title: 'iNavX - Sailing & Boating Navigation, NOAA Charts',
+    installs: 93510,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/fnBj6Wd3c0Aa6SVyVw9OOaSfM4R59qt-fiPpi4lIFEl5FlaT2GzTzHVwGhe8oLRx6kw',
+    appId: 'com.gpsnavx.iNavX',
+    url: 'https://play.google.com/store/apps/details?id=com.gpsnavx.iNavX&hl=en&gl=us'
+  },
+  {
+    title: 'MileOn by PC*MILER - Truck Stops & Truck Routing',
+    installs: 18164,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/zVLVkh2HyYu1x5kZIj16AAavbxAMveIqhb7msyCW6UV8lbvC-7hbkT3AYFe0EyfzX5g',
+    appId: 'com.trimble.mileon',
+    url: 'https://play.google.com/store/apps/details?id=com.trimble.mileon&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Offline Maps, Directions - Explore & Navigate',
+    installs: 7299979,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/EueHGAzobpLDgytljvMbMOHL6eUL2VVB8FkjoH4-m8cidQHqJqMB5_kOB5D-h0mdzYFT',
+    appId: 'com.jvstudios.gpstracker',
+    url: 'https://play.google.com/store/apps/details?id=com.jvstudios.gpstracker&hl=en&gl=us'
+  },
+  {
+    title: 'Just Draw It! - Route planner & distance finder',
+    installs: 191405,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/R5yzpY3wpA6SwlmoVz09L_EA0OayvsuWgHuIbEqM1h2oDmYQQ8o-9uCYm0yppJpUJWza',
+    appId: 'com.lapacadevs.justdrawit',
+    url: 'https://play.google.com/store/apps/details?id=com.lapacadevs.justdrawit&hl=en&gl=us'
+  },
+  {
+    title: 'Straightaway Route Planner',
+    installs: 32886,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/KqvBxEpm_7zBYeB0oMXdXwGobTY_kewasaejm7f3waGo7A8-_NjgD6UhcSdQzZOwlJA',
+    appId: 'com.getstraightaway.android',
+    url: 'https://play.google.com/store/apps/details?id=com.getstraightaway.android&hl=en&gl=us'
+  },
+  {
+    title: 'Ship Tracker - Live Marine Radar & Boat traffic',
+    installs: 612598,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/GUTAQ4J4vSEPql1_H1MHGcICjS7IiMWqbtfHPHzVanccDkdIMLuAhDoio5q5GqVyL6gj',
+    appId: 'com.trackingdeluxe.shiptracker',
+    url: 'https://play.google.com/store/apps/details?id=com.trackingdeluxe.shiptracker&hl=en&gl=us'
+  },
+  {
+    title: 'IWM Locate Pro',
+    installs: 23,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Lr_YaTfj-F-cMoBf_GYH3DvROGz4qUlXWrWtagByO7O1H6o7mo6sgcC4NPxE0dBSreQ',
+    appId: 'com.iwmlocate.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.iwmlocate.pro&hl=en&gl=us'
+  },
+  {
+    title: 'MapFactor Navigator - GPS Navigation Maps',
+    installs: 35404816,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU',
+    appId: 'com.mapfactor.navigator',
+    url: 'https://play.google.com/store/apps/details?id=com.mapfactor.navigator&hl=en&gl=us'
+  },
+  {
+    title: 'Aqua Map Marine - Boating GPS',
+    installs: 42805,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/cua6wRgZJ0-0kcqSKjplDOOMYlbGqd79on7lD4QH9eV3xGf6pSfYoAK6KuY8z1njLDi2',
+    appId: 'com.gec.MarineApp.WorldViewerLite',
+    url: 'https://play.google.com/store/apps/details?id=com.gec.MarineApp.WorldViewerLite&hl=en&gl=us'
+  },
+  {
+    title: 'RedWaypoint PRO for DJI (Mavic Mini compatible)',
+    installs: 1137,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/f47YnsKfYvOMbVamEZ3oDaTqDtmvZGzQDCOFinfWpYSC2gQQO0NAQK9JxImJowd_HFA',
+    appId: 'red.waypoint.RedWaypointPro',
+    url: 'https://play.google.com/store/apps/details?id=red.waypoint.RedWaypointPro&hl=en&gl=us'
+  },
+  {
+    title: 'Detecht - Motorcycle App and GPS Navigation',
+    installs: 57528,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kEWGX_4vh4I140bnshuoh7Yv6e9jB-Jb3OT5QeQYo9l9-Om-XiSsNqgC4a6UQL187Xo',
+    appId: 'se.app.detecht',
+    url: 'https://play.google.com/store/apps/details?id=se.app.detecht&hl=en&gl=us'
+  },
+  {
+    title: 'Lowrance: Fishing & Navigation',
+    installs: 87115,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/PVfHdyB_xSxXX3HiiXUYwk5EX4Np2oZSQPM6NvU5HGyNVk1qtGRcSYG1xlxUnlCY8WIB',
+    appId: 'com.lowrance.Lowrance',
+    url: 'https://play.google.com/store/apps/details?id=com.lowrance.Lowrance&hl=en&gl=us'
+  },
+  {
+    title: 'Nexar - AI Dash Cam for Peace of Mind on the Road',
+    installs: 171046,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/lKz2TXRPRVG67_qvKjyB-v9uLNYOlgbOrdlrmPzF64zvPdYnzsJFtnJmryP1JtPwkXM',
+    appId: 'mobi.nexar.dashcam',
+    url: 'https://play.google.com/store/apps/details?id=mobi.nexar.dashcam&hl=en&gl=us'
+  },
+  {
+    title: 'SUBARU STARLINK',
+    installs: 601779,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/rTCbpRqtpyf0fKKo5_ZLlT3mDztkRaFHglRx-iFD0sdoSoMENLlxnKeD5trnIrMiip4',
+    appId: 'com.subaru.global.infotainment.gen2',
+    url: 'https://play.google.com/store/apps/details?id=com.subaru.global.infotainment.gen2&hl=en&gl=us'
+  },
+  {
+    title: 'Smooth Parking',
+    installs: 28461,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/0dLsvcHYo8vmKfcCiNsswicpQnfgWjBcM5CQlwtjyTfGcsM5M0A_NlSmz4euUZpn7i8',
+    appId: 'com.parking.nycparking',
+    url: 'https://play.google.com/store/apps/details?id=com.parking.nycparking&hl=en&gl=us'
+  },
+  {
+    title: 'Speedometer - GPS Odometer & Speed Tracker mph',
+    installs: 66044,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/o8XBnGSl0HBeEpBnORItgMQ4kKhhm7A9a7nHjPt-bha1T6h7t-1iPty5ZHWfsd7sd4ml',
+    appId: 'com.gps.speedometer.odometer.speedtracker.pedometer.stepcounter',
+    url: 'https://play.google.com/store/apps/details?id=com.gps.speedometer.odometer.speedtracker.pedometer.stepcounter&hl=en&gl=us'
+  },
+  {
+    title: 'WingX',
+    installs: 6843,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/MoYLcCOSh392aDxTDUPd2vU5f_q2CfkCeNeDCdQuIGQWcFqYwOJWoKFZmyMWymLtbEs',
+    appId: 'com.hiltonsoftware.wingxpro7',
+    url: 'https://play.google.com/store/apps/details?id=com.hiltonsoftware.wingxpro7&hl=en&gl=us'
+  },
+  {
+    title: 'Boat Beacon - AIS Navigation',
+    installs: 13672,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/91lHfXwjyvTVjdrxMDWja3Mq86g7lIp-aO_kGxfE7PDbMuAfHUJbfmcmTtaOqfhmL1E',
+    appId: 'com.electricpocket.boatbeacon',
+    url: 'https://play.google.com/store/apps/details?id=com.electricpocket.boatbeacon&hl=en&gl=us'
+  },
+  {
+    title: 'Air Navigation Pro',
+    installs: 92598,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/c86Xgc93F0m3eQ7OqJsc7MDWuFmpdMdy9v9UlJQAtVy8zGUe9LgW3OnpUKyjr0RuLg',
+    appId: 'com.xample.airnavigation',
+    url: 'https://play.google.com/store/apps/details?id=com.xample.airnavigation&hl=en&gl=us'
+  },
+  {
+    title: 'Tactical NAV',
+    installs: 6169,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/rqdtDj5yTUunSHIQd0RCL-_sf69v58qv39btuLFc6Id76RJRvS6Gp1y20X2IhKgCRA',
+    appId: 'com.appdaddy.tacnav',
+    url: 'https://play.google.com/store/apps/details?id=com.appdaddy.tacnav&hl=en&gl=us'
+  },
+  {
+    title: 'Simrad: Boating & Navigation',
+    installs: 10802,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/yKTL0_SYjv4hbUNuypuMXHmohYAMJlFxC_6RttmFmIf_fBUi-nSdfbpo5k5Th-JCRO8',
+    appId: 'com.simrad.yachting.Simrad',
+    url: 'https://play.google.com/store/apps/details?id=com.simrad.yachting.Simrad&hl=en&gl=us'
+  },
+  {
+    title: 'Jack Reports – weigh stations',
+    installs: 70264,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/9OunU7Iij4Yl13i3ZUNCn9BNKjo_7AxHbrzW7hRF6jJpLD8Nre54f3dJ5xI7ALCQxYs',
+    appId: 'com.jackreports',
+    url: 'https://play.google.com/store/apps/details?id=com.jackreports&hl=en&gl=us'
+  },
+  {
+    title: 'Villages GPS',
+    installs: 8992,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/UQssxjoP5BEDsxnWXu7BDGzRlI4W3KqHK3W8Qxy21qeFKxGf3gH-1Y2lNEy6FbRcHg',
+    appId: 'com.golfcart',
+    url: 'https://play.google.com/store/apps/details?id=com.golfcart&hl=en&gl=us'
+  },
+  {
+    title: 'GPS, Maps, Voice Navigation & Directions',
+    installs: 21922747,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/NrK0b-e6cpj4yYkDuNZJHO9KUAl8pSj9TGi4Xw4GbPZ6UVsnAlLBH2AZuEMpb24Xig',
+    appId: 'com.maps.voice.navigation.traffic.gps.location.route.driving.directions',
+    url: 'https://play.google.com/store/apps/details?id=com.maps.voice.navigation.traffic.gps.location.route.driving.directions&hl=en&gl=us'
+  },
+  {
+    title: 'KTM MY RIDE Navigation',
+    installs: 14319,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/3Emuo5zPnvXpaGBpEx3FOjasPIjZRX_TEicJ23_SlT2zhIPbLqlIaXCNenGV-fQDuJU',
+    appId: 'com.ktm.myride',
+    url: 'https://play.google.com/store/apps/details?id=com.ktm.myride&hl=en&gl=us'
+  },
+  {
+    title: 'Guru Maps Pro - Offline Maps & Navigation',
+    installs: 47021,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/iyFOlJ4AhRK-cMGOCjqPXs0U96AHvBbwFFkHpngYej4yIoSwxfGwlDO455BmxOGdhQ',
+    appId: 'com.bodunov.GalileoPro',
+    url: 'https://play.google.com/store/apps/details?id=com.bodunov.GalileoPro&hl=en&gl=us'
+  },
+  {
+    title: 'Measure Map Pro',
+    installs: 3793,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/jtc1oKWGUE2jv1Pw4DZF_iHnNi1PF2lCfBwKQcZvEF_McnsLut5GKAQBmqxHHjvVvnI',
+    appId: 'com.globaldpi.measuremappro',
+    url: 'https://play.google.com/store/apps/details?id=com.globaldpi.measuremappro&hl=en&gl=us'
+  },
+  {
+    title: 'VesselFinder Pro',
+    installs: 36464,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/behsTJATkwsZmUM9BSJzFyKxmQdK2B0mg4aydxCJEZj6HPMoi7GLg2vyM-tTlsfCLL4',
+    appId: 'com.astrapaging.vf',
+    url: 'https://play.google.com/store/apps/details?id=com.astrapaging.vf&hl=en&gl=us'
+  },
+  {
+    title: 'Naviator',
+    installs: 172860,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/XuUhLv_WEwnYM9ZHjbeTKw0ELOo8UjQzi8nfFt7TpIVhbsB9eKHXsVhuITOSXJU9tQ',
+    appId: 'com.onetwentythree.skynav',
+    url: 'https://play.google.com/store/apps/details?id=com.onetwentythree.skynav&hl=en&gl=us'
+  },
+  {
+    title: 'Cairn: Hiking & Outdoor Trail Safety',
+    installs: 6999,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/CYwpXnpadQBWVAUkdtFB7JlT32ejg6qv3Bhfu12kc9ryuWO2CjSzulQgeZn9WvOlc1wf',
+    appId: 'com.cairnapp.cairn',
+    url: 'https://play.google.com/store/apps/details?id=com.cairnapp.cairn&hl=en&gl=us'
+  },
+  {
+    title: 'Blumeter - Fare meter for private drivers',
+    installs: 497254,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/H183NK-fcfe5qD4srLRPwCba7xiPaF_PWdcwQdURt1hkdML4f9EOttra0XBre6cDIg',
+    appId: 'com.getblumeter.droid',
+    url: 'https://play.google.com/store/apps/details?id=com.getblumeter.droid&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Speedometer and Odometer (Pro)',
+    installs: 29549,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/KSk929NGilkXbWgeRWDsRw1MfhMSbQRS4MTCtZFJdchMUaxoj7zVj-SCa0Ry9W2F-Q',
+    appId: 'com.coolniks.speedometerandodometerpro',
+    url: 'https://play.google.com/store/apps/details?id=com.coolniks.speedometerandodometerpro&hl=en&gl=us'
+  },
+  {
+    title: 'NavMeTo GPS Truck Navigation',
+    installs: 79279,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/5ChPuMW6jz155E2G-WDoo4vA1tO4ecZFTLjLV2lyvRGJ4841LI9zbpZnb-GjcKfuKBA',
+    appId: 'io.noox.nxfleetmobile.play.truck',
+    url: 'https://play.google.com/store/apps/details?id=io.noox.nxfleetmobile.play.truck&hl=en&gl=us'
+  },
+  {
+    title: 'Toll Calculator - Truck RV Car US Canada GPS Maps',
+    installs: 87408,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Dftai47G-PoCA0p6K8R1cX1RGKHcZIPVIF5IxeT-tqoRBpuQoBptuRlzntMMY9lXcsk9',
+    appId: 'com.infotalk.android.tollcalc',
+    url: 'https://play.google.com/store/apps/details?id=com.infotalk.android.tollcalc&hl=en&gl=us'
+  },
+  {
+    title: 'Live Earth Map - Satellite View, World Map 3D',
+    installs: 5645671,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/KYl72zKurl4EBCUV0EyQ24PhbA4ZGj_80MiDWNYngSSF-CyoY4sffJXoNXjuC66yfw',
+    appId: 'liveearthmaps.livelocations.streetview.livcams',
+    url: 'https://play.google.com/store/apps/details?id=liveearthmaps.livelocations.streetview.livcams&hl=en&gl=us'
+  },
+  {
+    title: 'New York Subway – Official MTA map of NYC',
+    installs: 1975919,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/zhNgA1vIXs8wP4JMuYsY6CXG-yvWDq-AcxyJsRVbqGNcu-VlOx_sRtsMpHw7MDqpFA',
+    appId: 'uk.co.mxdata.newyorksub',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.mxdata.newyorksub&hl=en&gl=us'
+  },
+  {
+    title: 'Navitel Navigator GPS & Maps',
+    installs: 16925130,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/TlncyVTZlZSXE-rBdO_jKYGLpw79vHCUDJ-t3j9OmHC_XrygTVtvnAfEtMpxltkhESnQ',
+    appId: 'com.navitel',
+    url: 'https://play.google.com/store/apps/details?id=com.navitel&hl=en&gl=us'
+  },
+  {
+    title: 'FindShip',
+    installs: 3376090,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/pr1K7LxAXAuAX43hxyfoo7E-rwx6HqYIhf11-ZCze6PhcE6fswP5VY89wVIK2DpOlg',
+    appId: 'co.findship.FindShip2',
+    url: 'https://play.google.com/store/apps/details?id=co.findship.FindShip2&hl=en&gl=us'
+  },
+  {
+    title: 'Truckers Trip Planning App (Team Owner Operators)',
+    installs: 15,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/n7Ln8f2BGRWYSclBFqv-URxXIHJ3CSQksFXWlwBxx328HpaE_oyKm2JDde2j2T0GBvE',
+    appId: 'com.youngandhealthymarketing.teamstripplan',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketing.teamstripplan&hl=en&gl=us'
+  },
+  {
+    title: 'OS Maps: Explore hiking trails & walking routes',
+    installs: 937395,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/oteaRCRUjkliOjOV4LmcI1fNp1zvZo3P5H-OV0eqqDeHkAoQc1puHQ_EN2_s4fqlqLgr',
+    appId: 'uk.co.ordnancesurvey.osmaps',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.ordnancesurvey.osmaps&hl=en&gl=us'
+  },
+  {
+    title: 'Pile Driving',
+    installs: 732,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/Eoo8e8PoEkNxpXEnfA-OTPrmXcGhayQO3YB1zGHBIv5bhEwu0Lzc6zYKWolD7zmj-Z0',
+    appId: 'com.bridge3',
+    url: 'https://play.google.com/store/apps/details?id=com.bridge3&hl=en&gl=us'
+  },
+  {
+    title: 'Wärtsilä iSailor',
+    installs: 266767,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/gT1TCbKIb6oWm73uun7xTyGHiE3GZ0OGXI95FVrj4viInCIR4CdBzuMlDT3zYx9zcoY',
+    appId: 'com.transas.uninav.plotter',
+    url: 'https://play.google.com/store/apps/details?id=com.transas.uninav.plotter&hl=en&gl=us'
+  },
+  {
+    title: 'Citymapper: Directions For All Your Transportation',
+    installs: 10839665,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69',
+    appId: 'com.citymapper.app.release',
+    url: 'https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en&gl=us'
+  },
+  {
+    title: 'Coverage?',
+    installs: 15566,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VpnOoM8FcMoQEPGPFnYuS9clfjvNeC0Fc8RMe7Y2bjq_PwFOk18KnH5ttpQkxrWU',
+    appId: 'com.twostepsbeyond.coverage',
+    url: 'https://play.google.com/store/apps/details?id=com.twostepsbeyond.coverage&hl=en&gl=us'
+  },
+  {
+    title: 'Scooter Map',
+    installs: 90957,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/nlrFI-mONBdP4-q6SH3JbR9GnPIKbrXEeZvRyQDV1tMOuSP0nhqWDd7pJz-SVyntmEA',
+    appId: 'com.opolislabs.scootermap',
+    url: 'https://play.google.com/store/apps/details?id=com.opolislabs.scootermap&hl=en&gl=us'
+  },
+  {
+    title: 'MSDroid',
+    installs: 55802,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/aPFP1dlisPcAXkQ3Ozw7N6ZWy0O9CayjE41utD_68PPKs4IouUYJX6K5eL1mfMHw2IVy',
+    appId: 'com.msdroid',
+    url: 'https://play.google.com/store/apps/details?id=com.msdroid&hl=en&gl=us'
+  },
+  {
+    title: 'FGL Pro',
+    installs: 4937369,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/2ySY3hnmOAPaW8xSGpmeZSp7zxisMqyfsrcJp72w1PC9S64rHlocRMUzZ0uA-rzlnQ',
+    appId: 'com.ltp.pro.fakelocation',
+    url: 'https://play.google.com/store/apps/details?id=com.ltp.pro.fakelocation&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Device (IMEI Tracker)',
+    installs: 201813,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/4gCxNJicCF09uMSbnwaDaqkt7iCPf6kFbsl_5_Fqv3Zkip4HUodPcbAIoNSjZ3-hoOA',
+    appId: 'com.swae.porpl.cdrue.imei',
+    url: 'https://play.google.com/store/apps/details?id=com.swae.porpl.cdrue.imei&hl=en&gl=us'
+  },
+  {
+    title: 'Truckers Trip Planning App (Solo Owner Operators)',
+    installs: 189,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/7zGcXeS-Wj6iBOPHxFAXsx0E7NzfVz3MThVcqEawI04-PWr7r8BIhc7hEKprZWxpog',
+    appId: 'com.youngandhealthymarketing.truckerstripplan',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketing.truckerstripplan&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Emulator',
+    installs: 1550205,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ZdGYzeIyf8QMIyZEHf6ncXBzjIaswWJmq0k8_s4NtpZbYPpHFwjeRfP_04EUNIA2QHU',
+    appId: 'com.rosteam.gpsemulator',
+    url: 'https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en&gl=us'
+  },
+  {
+    title: 'Go To Well',
+    installs: 2737,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/AmqBXKu78gYcqsG_Rdu6gF7GFEfpeR-OyPVwQIzdFYIDTCx32sadmw5UixjCTP-e',
+    appId: 'com.sunlandsoftware.gotowell',
+    url: 'https://play.google.com/store/apps/details?id=com.sunlandsoftware.gotowell&hl=en&gl=us'
+  },
+  {
+    title: 'HUDWAY Go — GPS Navigation & Maps with HUD',
+    installs: 1156844,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/GkQOd_vWqcEXhckctbfKeE-AS1K1NvIE5zVI9dfbEGNt64tCw8NmuFhHyStmjvI7iFhT',
+    appId: 'com.hudway.online',
+    url: 'https://play.google.com/store/apps/details?id=com.hudway.online&hl=en&gl=us'
+  },
+  {
+    title: 'WeHunt',
+    installs: 180374,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/C5o-u3x9zDKCMk2d2tyiAScSkHf6Pip0j56Jz6W9Drb72K9RQfaO3PARIItGTCPWKQ',
+    appId: 'se.jagareforbundet.wehunt',
+    url: 'https://play.google.com/store/apps/details?id=se.jagareforbundet.wehunt&hl=en&gl=us'
+  },
+  {
+    title: 'RoadRUNNER Rides',
+    installs: 7310,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/tGYrMKYQ_850knm1_tZi9sQ9cjN0vzIw8c-bfl6e70rFU7lHeQOptA8AF-CJ2R9qGzuy',
+    appId: 'org.tourstart.roadrunner',
+    url: 'https://play.google.com/store/apps/details?id=org.tourstart.roadrunner&hl=en&gl=us'
+  },
+  {
+    title: 'Live Earth Map HD – Live Cam & Satellite View',
+    installs: 5484231,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/sHAwRYEBsjDTX5h-6rUbnXy7uAhqqySvW4NwSZkMsWydxRFPHGvE18TWItk9FEEFH7Q',
+    appId: 'liveearthmap.liveearthcam.livestreetview',
+    url: 'https://play.google.com/store/apps/details?id=liveearthmap.liveearthcam.livestreetview&hl=en&gl=us'
+  },
+  {
+    title: 'OpenCPN',
+    installs: 9740,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/fJ41XprzRNTOh-iOS-gXiQKS2NIwzo3aTRM-C8_CeS3B0gArLT6DAaAEtapmqRBt2vg',
+    appId: 'org.opencpn.opencpn',
+    url: 'https://play.google.com/store/apps/details?id=org.opencpn.opencpn&hl=en&gl=us'
+  },
+  {
+    title: 'Hondata KPro dash logger-SDash',
+    installs: 523,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/G5IAq190QvqstBrQob8yO4Mj395KScxshvAcpQuv85qVd1cmI5hptI_LzF0IZhhpIIk',
+    appId: 'br.com.finxco.sdash.kpro',
+    url: 'https://play.google.com/store/apps/details?id=br.com.finxco.sdash.kpro&hl=en&gl=us'
+  },
+  {
+    title: 'Relief Maps - 3D GPS for Hiking & Trail Running',
+    installs: 73879,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/BfrcjUDZeuOIcyvoxI7-AORJ2YxvHLXPOJHvslqt9OgfDC8Qk_IUxSpx2o1gApmAbg',
+    appId: 'fr.reliefmaps.app',
+    url: 'https://play.google.com/store/apps/details?id=fr.reliefmaps.app&hl=en&gl=us'
+  },
+  {
+    title: 'Meter for Uber and Lyft',
+    installs: 989906,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/6fEl_zvDudFOEGnAu6P6EtSqg1HvyLkXOEJpuqqLNx9yQ5z7VSI_KE1QeOb7dbjXpLo',
+    appId: 'osacky.ridemeter',
+    url: 'https://play.google.com/store/apps/details?id=osacky.ridemeter&hl=en&gl=us'
+  },
+  {
+    title: 'AvNav: Flight Planning and Navigation (USA Only)',
+    installs: 29307,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/SGJPKYzvBBis93bAsMUrNup6cwiFDnyDocs-nDS74bt43eCrKOOGcypwtay0OgJmgaI',
+    appId: 'us.avnav.efb',
+    url: 'https://play.google.com/store/apps/details?id=us.avnav.efb&hl=en&gl=us'
+  },
+  {
+    title: 'Mega Pack r.485',
+    installs: 7277,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/3DmMFpmH0hboVDPZb5f4nCm9AFl_dpqTZ01Fvec8HwqJSpCqERCy_rdvz2It_3COrA',
+    appId: 'com.connectiq.r485.mapsr485companion2',
+    url: 'https://play.google.com/store/apps/details?id=com.connectiq.r485.mapsr485companion2&hl=en&gl=us'
+  },
+  {
+    title: 'Back Seat Navigator',
+    installs: 69080,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/9OYWKxQvRZ-zs-wJaO_mc9gz9_bTorM7nCInCTXBVoD5ZfqmuTrS_3UxrHQ6FbSfJx8',
+    appId: 'com.nightcatproductions.backseatnavigator',
+    url: 'https://play.google.com/store/apps/details?id=com.nightcatproductions.backseatnavigator&hl=en&gl=us'
+  },
+  {
+    title: 'New England Hiker',
+    installs: 2536,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/LSwqrlWk3AFVu-UUzrlrrf69lchAsfI4IbE8s7rs9aXp98M6ogq838kamFr4tY7aDg',
+    appId: 'com.highsierraattitude.newenglandhiker',
+    url: 'https://play.google.com/store/apps/details?id=com.highsierraattitude.newenglandhiker&hl=en&gl=us'
+  },
+  {
+    title: 'DigiHUD Pro Speedometer',
+    installs: 60911,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/PaQ9sUoAVXNLQCe0zD4i1tvI110QICIMEVI_WVbhqLxyUTyq1FyIR8WJv5wSjwx2q_U',
+    appId: 'org.mrchops.android.digihudpro',
+    url: 'https://play.google.com/store/apps/details?id=org.mrchops.android.digihudpro&hl=en&gl=us'
+  },
+  {
+    title: 'WayPoint Route Planner & GPS Navigation',
+    installs: 3082,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/N7JWjw7OeuLsMVxTeFo4ljCnxwkX8vfA9B6D1WFBn8cSqZzS95Krf5TH2EZ9GleG_Q',
+    appId: 'com.thirdplanetinteractive.tpims',
+    url: 'https://play.google.com/store/apps/details?id=com.thirdplanetinteractive.tpims&hl=en&gl=us'
+  },
+  {
+    title: 'Navdy (alelec)',
+    installs: 4119,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/mqvEgmJhv74QKHVXiOiOsLjL2iD91ft7hg5esqtopWvqARRypfbQJdgLlpjPZ5Ib19c',
+    appId: 'com.alelec.navdyclient',
+    url: 'https://play.google.com/store/apps/details?id=com.alelec.navdyclient&hl=en&gl=us'
+  },
+  {
+    title: 'Light pollution map',
+    installs: 71,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/yaWv709O-CsQv2nOQO4JDsKIj0l1y2D0YFtVQM_OmvgAYqPWX0maVylbkUStEUTcVNo',
+    appId: 'info.lightpollutionmap.mobile',
+    url: 'https://play.google.com/store/apps/details?id=info.lightpollutionmap.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Routin: Smart Route Planner',
+    installs: 163641,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/WbMf94z8YnHzGChBjBAMzG_DlAaWFdR-92cddDJQJAuD7jdDSBeE3HhTHw9c0CwcxjQp',
+    appId: 'tr.com.ussal.smartrouteplanner',
+    url: 'https://play.google.com/store/apps/details?id=tr.com.ussal.smartrouteplanner&hl=en&gl=us'
+  },
+  {
+    title: 'Offline Map Navigation - Live GPS, Locate, Explore',
+    installs: 3031959,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/OqjXYpeehElGFSy2DTkAxuzGrR8Qev5MbPIkFelpo58guwxJq5efL3dqxZ7UYJE5W63F',
+    appId: 'com.virtualmaze.offlinemapnavigationtracker',
+    url: 'https://play.google.com/store/apps/details?id=com.virtualmaze.offlinemapnavigationtracker&hl=en&gl=us'
+  },
+  {
+    title: 'Flying Jetpack Hero Crime 3D Fighter Simulator',
+    installs: 1460819,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/gWwUa4O2c4rwNcbM4pA6H88ljBDUQ9zqcXHda6c8wpmNjomwrbU2qT3USYleCqvY39g',
+    appId: 'com.sg.openworldgames.fightinghero.criminalcity.jetpackgames',
+    url: 'https://play.google.com/store/apps/details?id=com.sg.openworldgames.fightinghero.criminalcity.jetpackgames&hl=en&gl=us'
+  },
+  {
+    title: 'Trap Tracker',
+    installs: 20,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/djj0uWdPnw7dsMH9yIZRZVKUaEFi1TzgXojDLBVgQRdbVPOTBxo0Il9Oq9uUHk4GKiU',
+    appId: 'com.edgetech.TrapTracker',
+    url: 'https://play.google.com/store/apps/details?id=com.edgetech.TrapTracker&hl=en&gl=us'
+  },
+  {
+    title: 'Spyglass',
+    installs: 244160,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/sdu3t2GnUmj8hmkSIMDGDJBlzODpwNmAuD1p7l1flQOwlQbE69prcmROjGuhomuLBC8',
+    appId: 'com.happymagenta.spyglass',
+    url: 'https://play.google.com/store/apps/details?id=com.happymagenta.spyglass&hl=en&gl=us'
+  },
+  {
+    title: 'MyRoute-app Navigation: route editing & navigation',
+    installs: 18787,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/uXsGF7Kr_kpkimEh2RELkVHtWBwglWHtzmHNyh2n8NeRBHgxjWNYFVZVjDNs7DPSGec',
+    appId: 'com.myrouteapp.navigation',
+    url: 'https://play.google.com/store/apps/details?id=com.myrouteapp.navigation&hl=en&gl=us'
+  },
+  {
+    title: 'Karttaselain - Maastokartta',
+    installs: 481858,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/UGVrAmvoQ-Vc9uEvJqnB-nJiKyc1T1SquFPucndmvahusRIUU-30Un7vea8f7bqo98o',
+    appId: 'com.accelbit.karttaselain',
+    url: 'https://play.google.com/store/apps/details?id=com.accelbit.karttaselain&hl=en&gl=us'
+  },
+  {
+    title: 'Truckers Trip Planning App (Solo Company Drivers )',
+    installs: 73,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/KCqUU1aihv6hrYHtZCvKMRUGTTwcXSXRBWC0ijB_K7ds2SmhIP0XfuugzHgYo0jIfxw',
+    appId: 'com.youngandhealthymarketingllc.solocompanydrivertruckerstripplanningapp',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketingllc.solocompanydrivertruckerstripplanningapp&hl=en&gl=us'
+  },
+  {
+    title: 'Russian Topo Maps Pro',
+    installs: 57813,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/feGL-tOxY65KXuqCBZlwanprjq6uD2AAE_eZzpG4LDcsQfkqbhdNrisZOpYJnUWZAdo',
+    appId: 'com.atlogis.sovietmaps',
+    url: 'https://play.google.com/store/apps/details?id=com.atlogis.sovietmaps&hl=en&gl=us'
+  },
+  {
+    title: 'Avia Maps Aeronautical Charts',
+    installs: 76242,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0dGIZdXpuwqznhSzZY6cf8qomOWWt6SxwDxfdGrUkn5_eRzESXBFBPFYQuK7qs122fM',
+    appId: 'com.mytowntonight.aviamap',
+    url: 'https://play.google.com/store/apps/details?id=com.mytowntonight.aviamap&hl=en&gl=us'
+  },
+  {
+    title: 'Free GPS Navigation: Offline Maps and Directions',
+    installs: 4799446,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/jpyiVxrEkC5aN_CuXBaGFrTdlGdxo4aTOAoqirZut4fqihYLXD3tffy2XPI_SIhJ',
+    appId: 'navigation.location.maps.finder.directions.gps.gpsroutefinder',
+    url: 'https://play.google.com/store/apps/details?id=navigation.location.maps.finder.directions.gps.gpsroutefinder&hl=en&gl=us'
+  },
+  {
+    title: 'Instruments for Wear OS (Android Wear)',
+    installs: 64076,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VwV708zIqxYhvlzlJ4msvYAowOmE5X6spy_SPTmLcmblU2e-nU3uNieClHi1EFWxgpA',
+    appId: 'com.appfour.wearinstruments',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearinstruments&hl=en&gl=us'
+  },
+  {
+    title: 'Radarbot Pro: Speed Camera Detector & Speedometer',
+    installs: 26617,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/rrLEXfmhcNATJDwFj-F7Ka1UWpDnUY_ciGjcT8OBK3o7LV-tF0Mx0gHS2Su-TozD5O4',
+    appId: 'com.vialsoft.radarbot',
+    url: 'https://play.google.com/store/apps/details?id=com.vialsoft.radarbot&hl=en&gl=us'
+  },
+  {
+    title: 'Deliveries – Route Planner for Delivery Driver',
+    installs: 38673,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/5m-tlVXY47x2CBXq-x44ynB7UmoE0ox-yfAantRMUGegI0a-WVQOAqUsMH5vx8gGLA',
+    appId: 'com.shakhaev.deliveries',
+    url: 'https://play.google.com/store/apps/details?id=com.shakhaev.deliveries&hl=en&gl=us'
+  },
+  {
+    title: 'PlanMyRoute - Route Planner for Runners & Cycling',
+    installs: 103301,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0-ot_m0bCgPzK-CkFNadv6NncbGDiL3b65zu_eYXzThK0gauouiUZzPprr4WS5zheQ',
+    appId: 'com.buneme.fitness.findarun',
+    url: 'https://play.google.com/store/apps/details?id=com.buneme.fitness.findarun&hl=en&gl=us'
+  },
+  {
+    title: 'USA: NOAA Marine Charts & Lake Maps',
+    installs: 8629,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VJroYyhi0Nm-YIcRe5_bhlRsTpqvoOXg0AEB3MpGgJJW8AOZVVyD-EogezRWSsy8gQ',
+    appId: 'com.skiracer.nautical_astore_us',
+    url: 'https://play.google.com/store/apps/details?id=com.skiracer.nautical_astore_us&hl=en&gl=us'
+  },
+  {
+    title: 'MapcamDroid Radar detector',
+    installs: 4326706,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/bDV8wWACqR8zYJS2cBHcjWQQf7evYJXpMa6wBn00OvA7HO5NLUbLN_7EjF2SB2z0ICo',
+    appId: 'info.mapcam.droid',
+    url: 'https://play.google.com/store/apps/details?id=info.mapcam.droid&hl=en&gl=us'
+  },
+  {
+    title: 'NAVITIME - Map & Transfer Navi',
+    installs: 9049033,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/cw8gJBnk7_CsKtJBpvJN43HE14F-LHJ0ARppO4fqaMz6JFg_fH-Q5LCflaNT9U1tNg',
+    appId: 'com.navitime.local.navitime',
+    url: 'https://play.google.com/store/apps/details?id=com.navitime.local.navitime&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Parked Car - Automatically Locate Car',
+    installs: 1188385,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/nkYboouZW9Qvsb2sXMYdT0iFN9Uhqm11EztbMUnbL3t51fsP-bZJAjEjzZj_MfkIYcvd',
+    appId: 'com.ofirmiron.findmycarandroidwear',
+    url: 'https://play.google.com/store/apps/details?id=com.ofirmiron.findmycarandroidwear&hl=en&gl=us'
+  },
+  {
+    title: 'Cyclers: Bike Map, Navigation & Tracker',
+    installs: 124685,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/N-xq02XNw_ITJy0jbzDrHMds75AvrtnRHOcoTtd-SVVu9jaPSd5qZI4vrifY0HT7YNs',
+    appId: 'com.umotional.bikeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.umotional.bikeapp&hl=en&gl=us'
+  },
+  {
+    title: 'Truck Stops Pro',
+    installs: 7981,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/62-T68sxI1HYEm1KUzpWkZADtpb3SdHPUwHnAuXd3LRd9K00GAn7vtBPJqcF5gToqr8',
+    appId: 'com.AppAvenger.TruckStops',
+    url: 'https://play.google.com/store/apps/details?id=com.AppAvenger.TruckStops&hl=en&gl=us'
+  },
+  {
+    title: 'Live Earth Map 2020 -Satellite & Street View Map',
+    installs: 1664951,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/iUUDxhI23mMaiDB4eiKoNI6g2XTX2-JwNTlsnTJ5eskKF7PLPOuNiliBXqPRpekgcQ',
+    appId: 'com.live.earth.maps.liveearth.livelocations.mylocation.streetview.maps2019',
+    url: 'https://play.google.com/store/apps/details?id=com.live.earth.maps.liveearth.livelocations.mylocation.streetview.maps2019&hl=en&gl=us'
+  },
+  {
+    title: 'Truckers Trip Planning App (Dispatchers )',
+    installs: 3,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/XkT1I3Vg2kzByhDpTMhTFGehmAaM-Xc0XpjT8iJo54XY-OEOE0rbDPK0-HoEfaub-3HX',
+    appId: 'com.youngandhealthymarketingllc.dispatcherstripplan',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketingllc.dispatcherstripplan&hl=en&gl=us'
+  },
+  {
+    title: 'Route Planner - GetWay',
+    installs: 53671,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/OEYKYN5fOMZh1IDF5jBy0o-2fV6xitTP76-EePTIv2PoACS1llCxKWTAu6K7Ldq-KZ0',
+    appId: 'get.way.com',
+    url: 'https://play.google.com/store/apps/details?id=get.way.com&hl=en&gl=us'
+  },
+  {
+    title: 'Plastira Lake topoguide',
+    installs: 27,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/CPRVy9ptfhJelE-dvqZzgXckp-hndL55TCK84nbLVPU43mqUZYvdt9tL4MJMTZkjM0B9',
+    appId: 'anadigit.adventures.plastira_lake',
+    url: 'https://play.google.com/store/apps/details?id=anadigit.adventures.plastira_lake&hl=en&gl=us'
+  },
+  {
+    title: 'PRO CHARTS - Marine Navigation',
+    installs: 598,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/IMYFpOnRt8w3DL98bgPkPXfZeDilSpqOWV-TcsA6Ygwiq16Q6hV1B2_M-OenJbVevKA',
+    appId: 'com.redskyengineering.procharts.blue',
+    url: 'https://play.google.com/store/apps/details?id=com.redskyengineering.procharts.blue&hl=en&gl=us'
+  },
+  {
+    title: 'RedWaypoint for DJI Drones (Mavic Mini compatible)',
+    installs: 24013,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/1X4_bskrZLwwcyPB3IilamIPcnn7c1g2VWeiEg0sA_VLSxtu-0Hn0rmZN66oZMimwg',
+    appId: 'red.waypoint.RedWaypoint',
+    url: 'https://play.google.com/store/apps/details?id=red.waypoint.RedWaypoint&hl=en&gl=us'
+  },
+  {
+    title: 'Handy GPS',
+    installs: 18655,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/97et6mFy3rMZkTkoSMFWLCLX286m5FnUkjxhZKWi5CdrII62hPqITJRiLZtg4lgPHWf7',
+    appId: 'binaryearth.handygps',
+    url: 'https://play.google.com/store/apps/details?id=binaryearth.handygps&hl=en&gl=us'
+  },
+  {
+    title: 'Navier HUD 3',
+    installs: 1178644,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/efztsGhd3YFCmlPdSd9IG4s4FrS5agPN1vh87Sbaz0qaLNxAGdVGqhtSB7qvW5PNHLU',
+    appId: 'idv.xunqun.navier',
+    url: 'https://play.google.com/store/apps/details?id=idv.xunqun.navier&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Speedometer, Distance Meter',
+    installs: 8237834,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kfegpFvP7WW1JcxwTTiYVkrNe5v7m9fFUxwfK60sJgEi2kFLO4JD5KLB_NjU9vlKdZXN',
+    appId: 'com.fragileheart.gpsspeedometer',
+    url: 'https://play.google.com/store/apps/details?id=com.fragileheart.gpsspeedometer&hl=en&gl=us'
+  },
+  {
+    title: "Hunt'n Buddy:  GPS hunt & tracking app",
+    installs: 18335,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/acbdbh_GsODVruD8Urqpgv0J24lxv_ik9RJejGZw1nF1bDI5dEXNyYvPDEpz7szAep4',
+    appId: 'com.binatebits.hunt',
+    url: 'https://play.google.com/store/apps/details?id=com.binatebits.hunt&hl=en&gl=us'
+  },
+  {
+    title: 'Route 66 Navigation',
+    installs: 21079,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/pQAtgh7EVFD5bwrYGub6a-berZkoIo1Pez4GOCQh3PCiQ3W4kllCAD9q3HFaYAn6cBQ',
+    appId: 'com.route66navigation',
+    url: 'https://play.google.com/store/apps/details?id=com.route66navigation&hl=en&gl=us'
+  },
+  {
+    title: 'AppRadio Unchained Reloaded',
+    installs: 8493,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/QJf1Xmsiwm5onlQ_74kZGc56y57NnC4zdtkluqp4HktwtFvv0K2srT6m4nDIcmLVqw',
+    appId: 'mars.area51.arunchained',
+    url: 'https://play.google.com/store/apps/details?id=mars.area51.arunchained&hl=en&gl=us'
+  },
+  {
+    title: 'Royal Blue ATV Trails',
+    installs: 241,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/G3bqfSEYRL2DUoPnaMrBBtr-HTtHjpXG4YpHfa3EW2dLqaEEOIn_2Z0VYamGoAnESoM',
+    appId: 'com.royalblueatvtrails',
+    url: 'https://play.google.com/store/apps/details?id=com.royalblueatvtrails&hl=en&gl=us'
+  },
+  {
+    title: 'Trail Treker',
+    installs: 1383,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/E6suXRqQnj7_iHr8o9YO-sDhUJrdC2Bdsnt64MIeHKJnb89o3-s99D7hUyMYELFkuA',
+    appId: 'com.trailtreker',
+    url: 'https://play.google.com/store/apps/details?id=com.trailtreker&hl=en&gl=us'
+  },
+  {
+    title: 'SDash - Hondata Bluetooth',
+    installs: 923,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/_Xj0eLsJMpPu123zbE3y8T1Msjw2HsdJ9frLJEKY8MBfkRaQ8Dl0T0Tq2CwXNmh79Q',
+    appId: 'br.com.finxco.sdash.hbt',
+    url: 'https://play.google.com/store/apps/details?id=br.com.finxco.sdash.hbt&hl=en&gl=us'
+  },
+  {
+    title: 'Map Marker',
+    installs: 903936,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/0vvseBA58IeEhVqsCbNB4HbuSGuYcxtm558zOiA2o-80hkGNR2zpYdiRIYcVl98p8A',
+    appId: 'com.exlyo.mapmarker',
+    url: 'https://play.google.com/store/apps/details?id=com.exlyo.mapmarker&hl=en&gl=us'
+  },
+  {
+    title: 'CityMaps2Go  Offline Maps for Travel and Outdoors',
+    installs: 5258353,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/jlxDuWTYVJVqyPD0QEgarbEDnB-Nnia3N6LmDLbw6ysK-FA_fc_Pie_oqQjEaQqo94fp',
+    appId: 'com.ulmon.android.citymaps2go',
+    url: 'https://play.google.com/store/apps/details?id=com.ulmon.android.citymaps2go&hl=en&gl=us'
+  },
+  {
+    title: 'Mapulator - Map Area and Distance Calculator',
+    installs: 24049,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VAlDSpb5JMdxyufVwmtnUJC5SYelWL_ej2dewsOi3YJo-zDcItWGpyY1DTIsjB-M-EQ',
+    appId: 'com.logisian.mapulator',
+    url: 'https://play.google.com/store/apps/details?id=com.logisian.mapulator&hl=en&gl=us'
+  },
+  {
+    title: 'My Location: GPS Maps, Share & Save Locations',
+    installs: 9395472,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/GEF40VtYYC8vNKcKzDvB1XLhvrgBKcAfw00mlnmkUy88N5xqSE1tU-YKCZyDS5yyvQ',
+    appId: 'com.location.test',
+    url: 'https://play.google.com/store/apps/details?id=com.location.test&hl=en&gl=us'
+  },
+  {
+    title: 'i-Boating:Canada & USA Marine',
+    installs: 393,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Dsf43pB2zXLl3ZOLlOFQi5AarOzGUFu50Rxcc4sueHNLbsX6fpvH9TEr3O6K_aBQw3w',
+    appId: 'com.skiracer.nautical_astore_canusa',
+    url: 'https://play.google.com/store/apps/details?id=com.skiracer.nautical_astore_canusa&hl=en&gl=us'
+  },
+  {
+    title: 'Tools for Google Maps',
+    installs: 7638,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/HDZDPWRIwBt1YSCOzOx_YlihQRaGiC88FJSBiSQa05Nx7FunxP7O2T1l3T0mn7W2lg',
+    appId: 'com.service.fullscreenmaps',
+    url: 'https://play.google.com/store/apps/details?id=com.service.fullscreenmaps&hl=en&gl=us'
+  },
+  {
+    title: '乗換NAVITIME　Timetable & Route Search in Japan Tokyo',
+    installs: 7343678,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kTr1rJu7niM31NugmFhdSyuYg25WqSQA9h0nLXDvC4brSJgYty-_U3APnc4eghgOIAc',
+    appId: 'com.navitime.local.nttransfer',
+    url: 'https://play.google.com/store/apps/details?id=com.navitime.local.nttransfer&hl=en&gl=us'
+  },
+  {
+    title: 'Maverick Pro',
+    installs: 43745,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/LJHs0oQwlIY1gZ4ut2A-Dw4LID8PCFltpsR_sts-eEUS5qPY97-Cqur4myb-wA4ziEw9',
+    appId: 'com.codesector.maverick.full',
+    url: 'https://play.google.com/store/apps/details?id=com.codesector.maverick.full&hl=en&gl=us'
+  },
+  {
+    title: 'Wake [Lake Norman]',
+    installs: 856,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/uIHW24YagmOMGn_ds3VXbhzfUeyAQEC_EPdUjfXOu0pUnCei_ggWfOhf9jehe1ZXzrY',
+    appId: 'com.lakenavi.wake',
+    url: 'https://play.google.com/store/apps/details?id=com.lakenavi.wake&hl=en&gl=us'
+  },
+  {
+    title: 'Offline GPS Navigation, Traffic & Maps by Karta',
+    installs: 9542941,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/hrL08oXqy04Z4G5vMtd93P-L18eQ7gJreK9Ok7GkaUOOTxQmrqWgtl_kRlAJMWf7Yps',
+    appId: 'com.kartatech.karta.gps',
+    url: 'https://play.google.com/store/apps/details?id=com.kartatech.karta.gps&hl=en&gl=us'
+  },
+  {
+    title: 'Widgets for Torque (OBD / Car)',
+    installs: 22279,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/AqUgJwD6QD5KEQM2istQ02gDfM8LqaEo9Y4sMWELAoNY2PlA1Ijt1AjaFd6EWxI50TVD',
+    appId: 'org.prowl.torquewidget',
+    url: 'https://play.google.com/store/apps/details?id=org.prowl.torquewidget&hl=en&gl=us'
+  },
+  {
+    title: 'C&O Canal Explorer',
+    installs: 1874,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/wg_Iad65nT---V4nz_gPBMCacqS0c0jVcH9FAb96NGtuiUNMcMpGZXeG3A2-V7etPM4',
+    appId: 'org.canaltrust.explorer',
+    url: 'https://play.google.com/store/apps/details?id=org.canaltrust.explorer&hl=en&gl=us'
+  },
+  {
+    title: 'Alignment Viewer',
+    installs: 509,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/aM7Cw8z15nAvo25lTHIg_5jpqYLBoS9bpT7jJ3WJwIJTon2WC9RShy1dlne8dTveKAtg',
+    appId: 'com.nrgsurveys.alignmentViewer',
+    url: 'https://play.google.com/store/apps/details?id=com.nrgsurveys.alignmentViewer&hl=en&gl=us'
+  },
+  {
+    title: 'Velociraptor - Speed Limits & Speedometer',
+    installs: 562517,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/jplJ4Hmc1YE8-svO_cPZotbAWLHQ0udqIWoun5WY9uu8rMEOLiZtWJo5i_B9jWBIqA',
+    appId: 'com.pluscubed.velociraptor',
+    url: 'https://play.google.com/store/apps/details?id=com.pluscubed.velociraptor&hl=en&gl=us'
+  },
+  {
+    title: 'B&G: Sailing & Navigation',
+    installs: 2628,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/tjz0N8tPt12FprHB3-3uXvlvdleEEmSsP6jtMQrit0nJfQ0QNbdBQkWxeWAtch79rA7P',
+    appId: 'com.bandg.Bandg',
+    url: 'https://play.google.com/store/apps/details?id=com.bandg.Bandg&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Navigation: Live Earth Map & Route Planner',
+    installs: 184792,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/fpDsklUub0EASxEcx_GExJz78bfIw87fwNzhH37jJuclke3JI90QL0d24U0xNHNj7Q',
+    appId: 'gps.navigation.maps.directions.location.finder.pro',
+    url: 'https://play.google.com/store/apps/details?id=gps.navigation.maps.directions.location.finder.pro&hl=en&gl=us'
+  },
+  {
+    title: 'U-Droid Center for u-blox®',
+    installs: 433,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/jXvYVKfJWU2eQGnVDisF1CYMk-KA2MuKsGGnjqhfXEYXmxIN34uL9U_Mi2j_BH9gzYA',
+    appId: 'com.droid.acenter',
+    url: 'https://play.google.com/store/apps/details?id=com.droid.acenter&hl=en&gl=us'
+  },
+  {
+    title: 'myTrucks',
+    installs: 87,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/VXkxJP2LAytnO2Q789c9Nor3lUDeLr_14cqfSvDNZzFQVcniyVMGI8ChlV-FtTN3kA',
+    appId: 'com.blackbook.heavydutytruckshell',
+    url: 'https://play.google.com/store/apps/details?id=com.blackbook.heavydutytruckshell&hl=en&gl=us'
+  },
+  {
+    title: 'Hondata s300 dash logger-SDash',
+    installs: 853,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/EE3YIoNv7pUpGOhFUNS8czaC_nnl31ym80zseeYh0hQRvWHlf22DFTdUyWjxT3eG38BB',
+    appId: 'br.com.finxco.sdash',
+    url: 'https://play.google.com/store/apps/details?id=br.com.finxco.sdash&hl=en&gl=us'
+  },
+  {
+    title: 'Speed Cameras Radar NAVIGATOR',
+    installs: 290105,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/xWC12aT1wl3H5ei0zpFXWz9oPNc6x77skWxOozLb2R_t2IE03DZshKK12o4S8UGEhUs',
+    appId: 'com.bigdream.radar.speedcam.mapbox',
+    url: 'https://play.google.com/store/apps/details?id=com.bigdream.radar.speedcam.mapbox&hl=en&gl=us'
+  },
+  {
+    title: 'AllMyTribe',
+    installs: 21633,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ocvbkvFhTUIkhSQyPzUn6oqoT7BrOa_HJOA0UUVlStQraDx_rYIB_CKNVwtPM_rrONE',
+    appId: 'com.mgmwireless.allmytribe3',
+    url: 'https://play.google.com/store/apps/details?id=com.mgmwireless.allmytribe3&hl=en&gl=us'
+  },
+  {
+    title: 'Mine Locator Map',
+    installs: 3128,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/TaHHoWFlmdqWz68nPv0W04QO2TDp-zePBIu8N6ut2LKIj0WUMQCh5Kph4F2A2h-sig',
+    appId: 'com.rmtheis.mines',
+    url: 'https://play.google.com/store/apps/details?id=com.rmtheis.mines&hl=en&gl=us'
+  },
+  {
+    title: 'Moab ATV Jeep Trails',
+    installs: 75,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/8wyL_CmWYwmedPki3VAo7gMNrXfszIzDUIaRQnDeENO76CJ4MmMPEfnJ4Csgxk28Lg',
+    appId: 'com.moabatvjeeptrails',
+    url: 'https://play.google.com/store/apps/details?id=com.moabatvjeeptrails&hl=en&gl=us'
+  },
+  {
+    title: 'ADSB Receiver Pro',
+    installs: 6555,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/5wHeg7zqeO7QKu5fJhQASdWOKiOSF3IeMlwwRNKENJJlButLZwMdqWZvKQopw_k1wsg',
+    appId: 'bs.Avare.ADSB.Pro',
+    url: 'https://play.google.com/store/apps/details?id=bs.Avare.ADSB.Pro&hl=en&gl=us'
+  },
+  {
+    title: 'Leveltap-Delivery Route Optimizer | Plan My Route',
+    installs: 4075,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kyrhjf3MSjUnyJkaRPMdMQ_BxRp_tIr3KeZyz7MmolHCq6zYmqFVZJtDjkTs17eOtPov',
+    appId: 'net.cloudninedev.routeplanner',
+    url: 'https://play.google.com/store/apps/details?id=net.cloudninedev.routeplanner&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Anti Spoof Pro',
+    installs: 40,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/2bDgnXXjhP0Qmi1R1gEdKtYGaN4guNPIv9aePILrCMV6gHceBbvhY_kjoYXD-ThC9Zc',
+    appId: 'com.clockwk.GPSAntiSpoofPro',
+    url: 'https://play.google.com/store/apps/details?id=com.clockwk.GPSAntiSpoofPro&hl=en&gl=us'
+  },
+  {
+    title: 'Lake Oneida Offline GPS Nautical Charts',
+    installs: 7,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/7Uowlj43PaZB9I0-5xGALiHacndsZvT4ERXNl_8_gjW-e6WJx2xbj1YnjlVphLb_QPA',
+    appId: 'com.mapitech.lakeonida',
+    url: 'https://play.google.com/store/apps/details?id=com.mapitech.lakeonida&hl=en&gl=us'
+  },
+  {
+    title: 'Hours Of Service - ETA Calculator (Team Truckers)',
+    installs: 16,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/mE-gQVDT3Sm6t19J_78Q_friPoV9Q0XTvqLctGM0KvE3nogasrnU_IyhKwuEcpipCw',
+    appId: 'com.youngandhealthymarketing.etaptateams',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketing.etaptateams&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Tracker Car TK SMS Full',
+    installs: 817,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/yKrXw4hVJOy3HMhZkZ7A6xDq5WVZT2YwlL6LZUP5bVDzAvXh6LzQfKsZa8X03s3HGw',
+    appId: 'com.austral.gpscartracker.full',
+    url: 'https://play.google.com/store/apps/details?id=com.austral.gpscartracker.full&hl=en&gl=us'
+  },
+  {
+    title: 'New River ATV Trails',
+    installs: 34,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/rT_BzqVTbCoBdchpFX1juOt4S302ULwxw4ApZhwsbg9dBs9YGT3kCEjmGKahiWx9nS8',
+    appId: 'com.newriveratvtrails',
+    url: 'https://play.google.com/store/apps/details?id=com.newriveratvtrails&hl=en&gl=us'
+  },
+  {
+    title: 'Live Earth map HD - World map, Satellite view 3D',
+    installs: 390217,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/_dKDLWbYiVHea6V3Zqq6csh4K0AJa8V4XGTtH88A8Lb_3Rcebzr-s5n82fBDyC0D_9o',
+    appId: 'com.gps.routefinder.livecams.earthmaps.voicenavigation.maps',
+    url: 'https://play.google.com/store/apps/details?id=com.gps.routefinder.livecams.earthmaps.voicenavigation.maps&hl=en&gl=us'
+  },
+  {
+    title: 'Legal Land Map - Field Names',
+    installs: 66,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/RQZLhoHo_CCGbzhHNBErCHXPfn5pbFIRvRt-e-ZjjHc5k05Ag7w5HRWsiiew5yzC4A',
+    appId: 'com.chuckwagoncomputing.plssmap',
+    url: 'https://play.google.com/store/apps/details?id=com.chuckwagoncomputing.plssmap&hl=en&gl=us'
+  },
+  {
+    title: 'Hours Of Service App And ETA Calculator (Solo)',
+    installs: 108,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ZCd2gIbJNUrseYfFrGYDAd8yUcyqXg5UaV9DU_H13rKQ78lDnREus3c2_0tuyDo4poc',
+    appId: 'com.youngandhealthymarketing.etaptacalculator',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketing.etaptacalculator&hl=en&gl=us'
+  },
+  {
+    title: 'Maps on Chromecast | 🌎 Map app for your TV',
+    installs: 25346,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/HHtTBJ2Fou5ZLeBQtZ8JMIBdKm-LWmi7N0aWPTMQjEdkjroiSQBLYX7THUL69rB1Oio',
+    appId: 'com.theophrast.chromecastapps.mapsonchromecast',
+    url: 'https://play.google.com/store/apps/details?id=com.theophrast.chromecastapps.mapsonchromecast&hl=en&gl=us'
+  },
+  {
+    title: 'BikerSOS - Motorcycle Trip GPS Tracker & SOS',
+    installs: 94129,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/CZvd39ksvbfl--rf_fk2vYgD9dVMxdJbuzYp2qo-fbxdUByfoU3P_nzP_nj3xDlLiAE',
+    appId: 'at.bikersos',
+    url: 'https://play.google.com/store/apps/details?id=at.bikersos&hl=en&gl=us'
+  },
+  {
+    title: 'Taximeter for all',
+    installs: 904440,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/j2rmXKOHamM6QwY4GosrtLo8eqvVzi_yV0BI-6r48cCRIzkKNePhwgpQ_80cUuH37g',
+    appId: 'taxo.metr',
+    url: 'https://play.google.com/store/apps/details?id=taxo.metr&hl=en&gl=us'
+  },
+  {
+    title: 'Fake GPS Location - GPS JoyStick',
+    installs: 4673614,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kv1a85fl8tg24IjQqdkTiHy5wXtnKnv4uBrZWc2CtukZ71l_yWxpvgUlgbXapmqWj56A',
+    appId: 'com.theappninjas.fakegpsjoystick',
+    url: 'https://play.google.com/store/apps/details?id=com.theappninjas.fakegpsjoystick&hl=en&gl=us'
+  },
+  {
+    title: 'Chirp: Find Family & Friends',
+    installs: 9250,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Q3-R793MSWW-AUFrbXShwgM79UOutjuKjyS7Adl6YWOmPfNK0ktEqHz75_M2iG2RRdg',
+    appId: 'com.chirpgps.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.chirpgps.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Bluebill WildLife Pond - IOWA',
+    installs: 4,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/-CuK3ZyLN5xDRAgv4H7tqfZCzqcn7LQf03MqXH8yBkmIFBR87lba00qkefcrCXg-QoHS',
+    appId: 'com.flytomap.marineapp.worldviewer.lakebluebillwildlifepond',
+    url: 'https://play.google.com/store/apps/details?id=com.flytomap.marineapp.worldviewer.lakebluebillwildlifepond&hl=en&gl=us'
+  },
+  {
+    title: 'Sister - Personal safety app',
+    installs: 17717,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/MwDAzkSkbGW0ISSdKcN2qeNgcvpMxsrzvBiUBrp0kvafgBzfWh7uGuWSUg-gTLMSrf4',
+    appId: 'com.wavelt.sister',
+    url: 'https://play.google.com/store/apps/details?id=com.wavelt.sister&hl=en&gl=us'
+  },
+  {
+    title: 'All-In-One Offline Maps',
+    installs: 2804468,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/8JTsss2mWCRDQPYOPcv8IedoAqSpaa1Kwm_Tr7TA8YoQ7Xa6KokD9t5UMPrHiC6H-RA',
+    appId: 'net.psyberia.offlinemaps',
+    url: 'https://play.google.com/store/apps/details?id=net.psyberia.offlinemaps&hl=en&gl=us'
+  },
+  {
+    title: 'CAR NAVITIME Traffic info/Parking/Highway/Offline',
+    installs: 410123,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/mftkDdSUNp7bvfF_vFej3dbe-DRLS3OkPPMGsKgl6VCaQVabMHOt0elvaB5rJLz9g3px',
+    appId: 'com.navitime.local.carnavitime',
+    url: 'https://play.google.com/store/apps/details?id=com.navitime.local.carnavitime&hl=en&gl=us'
+  },
+  {
+    title: 'UTM Geo Map',
+    installs: 964272,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/FG1HquqP8Ka88CrE_Uh5Q-h8s4RRyCjbNyeUyXG0GQakW9CpATKqF9UROLbaDW1ZO7DW',
+    appId: 'info.yogantara.utmgeomap',
+    url: 'https://play.google.com/store/apps/details?id=info.yogantara.utmgeomap&hl=en&gl=us'
+  },
+  {
+    title: 'Boat Watch',
+    installs: 417960,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/I8ny7AtIr4L2RtjXEf0x635SQJQb9G-grDW2ePld3EvfygOKg_kQE-NvrrxNj2jfIVE',
+    appId: 'com.electricpocket.boatwatch',
+    url: 'https://play.google.com/store/apps/details?id=com.electricpocket.boatwatch&hl=en&gl=us'
+  },
+  {
+    title: 'Locus Map Free - Hiking GPS navigation and maps',
+    installs: 4579273,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/kZGy01Xih5ooezx4lGW-CcOdBZHu0WEc718j066NGaEggrHvOneOuMFOhvyTkSPeLA',
+    appId: 'menion.android.locus',
+    url: 'https://play.google.com/store/apps/details?id=menion.android.locus&hl=en&gl=us'
+  },
+  {
+    title: 'ParKing Premium: Find my car - Automatic',
+    installs: 5288,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/zkpJkJMoAsdq95ILD5LFNhKvz01eTfPUG4iHeVO1_-Wma_WyQR9BGKU4rY_j7e1JAA',
+    appId: 'il.talent.parking.premium',
+    url: 'https://play.google.com/store/apps/details?id=il.talent.parking.premium&hl=en&gl=us'
+  },
+  {
+    title: 'Marine Navigation',
+    installs: 11116,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://play-lh.googleusercontent.com/FWmAU8Pfelubz4Yz7jA4vI0XDQAsewrK49FCv4YDcDXLAOcWF1iVRE-5lRCprJHwHZnf',
+    appId: 'air.it.palaferri.fishpointsamerigo',
+    url: 'https://play.google.com/store/apps/details?id=air.it.palaferri.fishpointsamerigo&hl=en&gl=us'
+  },
+  {
+    title: 'Live Earth Map HD-GPS Satellite & Live Street View',
+    installs: 48455,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/seQZw3zglKq-OYMDe3eA1fzdwuI_y3cli3Nv83K-y7UCO5pAXsPOUOMQmQyW4bgv5wQ',
+    appId: 'com.live.earth.map.satellite.map.street.view.gps.navigation',
+    url: 'https://play.google.com/store/apps/details?id=com.live.earth.map.satellite.map.street.view.gps.navigation&hl=en&gl=us'
+  },
+  {
+    title: 'Compass Pro',
+    installs: 4624,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/xQbLykTj9d-gw47nK9cK6eCiIPRffE0jn45Q8CN8A36czOCSOaB8NgRyqi8YQPbAqb4',
+    appId: 'com.fulminesoftware.compass.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.fulminesoftware.compass.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Hours of Service App  and Recap Calculator (Solo)',
+    installs: 418,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/ZLEAfjyNIjTK1lUjqAEdKn7qpZCGncRB3S3tf_Z_jCP3o31yvoBjdudLEWzKmZYO9Q',
+    appId: 'com.youngandhealthymarketingllc.hosrecapcalculatorsolo',
+    url: 'https://play.google.com/store/apps/details?id=com.youngandhealthymarketingllc.hosrecapcalculatorsolo&hl=en&gl=us'
+  },
+  {
+    title: 'Find my parked car: The parking spot, gps, maps',
+    installs: 1302846,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/Pn9O51mELMw7O8PS6FCX9rrm6BmJC-PTJfSUQvh0_EoiAOcPzlmVKvZ-5Hf2seKgXQ1c',
+    appId: 'it.carfind',
+    url: 'https://play.google.com/store/apps/details?id=it.carfind&hl=en&gl=us'
+  }
+]

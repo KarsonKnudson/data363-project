@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Pandora - Streaming Music, Radio & Podcasts',
+    installs: 265538164,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/MoJxQ-5RA73b3Wffj91crqXUb-C5LKRYCADm11KbfykIkmNbicXGDa3g9X62C_buEg',
+    appId: 'com.pandora.android',
+    url: 'https://play.google.com/store/apps/details?id=com.pandora.android&hl=en&gl=us'
+  },
+  {
+    title: 'iHeartRadio: Radio, Podcasts & Music On Demand',
+    installs: 78160504,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/UTfBaYUzml-7QPLpKI45GbuVjCjddn5Byi6yjzb87jPWHnrBSuAbaJDCsPMn3m6NjLBC',
+    appId: 'com.clearchannel.iheartradio.controller',
+    url: 'https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller&hl=en&gl=us'
+  },
+  {
+    title: 'Calm - Meditate, Sleep, Relax',
+    installs: 29989031,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84',
+    appId: 'com.calm.android',
+    url: 'https://play.google.com/store/apps/details?id=com.calm.android&hl=en&gl=us'
+  },
+  {
+    title: 'Messenger – Text and Video Chat for Free',
+    installs: 4704519127,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rkBi-WHAI-dzkAIYjGBSMUToUoi6SWKoy9Fu7QybFb6KVOJweb51NNzokTtjod__MzA',
+    appId: 'com.facebook.orca',
+    url: 'https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=us'
+  },
+  {
+    title: 'Strava: Track Running, Cycling & Swimming',
+    installs: 35501213,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU',
+    appId: 'com.strava',
+    url: 'https://play.google.com/store/apps/details?id=com.strava&hl=en&gl=us'
+  },
+  {
+    title: 'Fishbrain - local fishing map and forecast app',
+    installs: 6976639,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/YyCRzBWSnWssfkpcLSI8ZRCxYXcgepf3AoA_02EkFiXG3eASfBHg05Ohsb8fBVAk_Po',
+    appId: 'com.fishbrain.app',
+    url: 'https://play.google.com/store/apps/details?id=com.fishbrain.app&hl=en&gl=us'
+  },
+  {
+    title: 'Lifesum - Diet Plan, Macro Calculator & Food Diary',
+    installs: 17535942,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/xbF2DUtTeEB7E4wy0hArgj2QoxlufPiXei72K9t_1PdfFmM-ws-zrJAB7ODRwGU8smg',
+    appId: 'com.sillens.shapeupclub',
+    url: 'https://play.google.com/store/apps/details?id=com.sillens.shapeupclub&hl=en&gl=us'
+  },
+  {
+    title: 'The Washington Post',
+    installs: 1998276,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE',
+    appId: 'com.washingtonpost.android',
+    url: 'https://play.google.com/store/apps/details?id=com.washingtonpost.android&hl=en&gl=us'
+  },
+  {
+    title: 'Any.do: To do list, Calendar, Planner & Reminders',
+    installs: 24169961,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/zgOLUXCHkF91H8xuMTMLT17smwgLPwSBjUlKVWF-cZRFjlv-Uvtman7DiHEii54fbEE',
+    appId: 'com.anydo',
+    url: 'https://play.google.com/store/apps/details?id=com.anydo&hl=en&gl=us'
+  },
+  {
+    title: 'Viber Messenger - Messages, Group Chats & Calls',
+    installs: 924773346,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/U6w6exKdvzjRC6ypN68s6nvn8OBlNgDOf5ub9xcqvZPAkXXVW153t9KMeD8yeAVlTxw',
+    appId: 'com.viber.voip',
+    url: 'https://play.google.com/store/apps/details?id=com.viber.voip&hl=en&gl=us'
+  },
+  {
+    title: 'Golf GPS Rangefinder: Golf Pad',
+    installs: 1631464,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/XHBg5Kp2ZxLJAmMEZ9Nl-wC9HNj3F3asMDSmHGOMz2CYBZq36z0zXYyQ1JTQnpDoFA',
+    appId: 'com.contorra.golfpad',
+    url: 'https://play.google.com/store/apps/details?id=com.contorra.golfpad&hl=en&gl=us'
+  },
+  {
+    title: 'Todoist: To-Do List, Tasks & Reminders',
+    installs: 30081156,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/GK0SwEBVqlFBpRkPjY6y_1go6E6xZzAN0Ivzfgbuf28J4TTOoOsgWnqR4oJ_RhIhsg',
+    appId: 'com.todoist',
+    url: 'https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=us'
+  },
+  {
+    title: 'Journey: Diary, Journal',
+    installs: 3091666,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ZaSoyzS0E33u-xi49lnNEPr7A4iZPTyJH2ddwSnDOFdNpvsy9VMS50CW3egKNUO8J14',
+    appId: 'com.journey.app',
+    url: 'https://play.google.com/store/apps/details?id=com.journey.app&hl=en&gl=us'
+  },
+  {
+    title: 'Facer Watch Faces',
+    installs: 4903212,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/S_uuQu2pL1-I3f5nv2lnv3DVSJQDlKpCjvgSl-_HtRa0IzaCF_R8dLp7AHpZAu7VsPk',
+    appId: 'com.jeremysteckling.facerrel',
+    url: 'https://play.google.com/store/apps/details?id=com.jeremysteckling.facerrel&hl=en&gl=us'
+  },
+  {
+    title: 'RadarScope',
+    installs: 132762,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/rkIP575uIUyHtV995G-H1JRfb8ikFaS0ceg6R4f_RDncO3EguCc2eaNW36-B3uHP6S0',
+    appId: 'com.basevelocity.radarscope',
+    url: 'https://play.google.com/store/apps/details?id=com.basevelocity.radarscope&hl=en&gl=us'
+  },
+  {
+    title: 'CallApp: Caller ID, Call Blocker & Call Recorder',
+    installs: 79870012,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/mqOaVp2k4cl5JXpwnq4jmF6u5GEOTTxRVxoAJjvJt8GwxdtKzle87387D80pXbTvxQ',
+    appId: 'com.callapp.contacts',
+    url: 'https://play.google.com/store/apps/details?id=com.callapp.contacts&hl=en&gl=us'
+  },
+  {
+    title: 'Zombies, Run! (Free)',
+    installs: 2147872,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/bRzCrcCrIftHokr1vtBYopBP_vOLEE8J1msdeG21m6yetcPYaHag6y_JdmCB7wM2Ja98',
+    appId: 'com.sixtostart.zombiesrunclient',
+    url: 'https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en&gl=us'
+  },
+  {
+    title: 'UDisc Disc Golf App',
+    installs: 451642,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/KeRELjNMhfFyLfPQW3Nc8g_a2U0abXLVjxO_I-NjpfnSJSme05-LmdGTOU17hvGA7Oo',
+    appId: 'com.regasoftware.udisc',
+    url: 'https://play.google.com/store/apps/details?id=com.regasoftware.udisc&hl=en&gl=us'
+  },
+  {
+    title: 'Smartwatch Bluetooth Notifier: sync watch & wear',
+    installs: 1054910,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eVf7HMpBGc9vxXXPu7gHMjz_jaCm9JpsKm0kIe5VfsuL2JWtVLfEoRXL2LSEdUC_ozE',
+    appId: 'com.smartwatch.bluetooth.sync.notifications',
+    url: 'https://play.google.com/store/apps/details?id=com.smartwatch.bluetooth.sync.notifications&hl=en&gl=us'
+  },
+  {
+    title: 'MyRadar Weather Radar',
+    installs: 13548076,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/djRrVzE8nTiT7-TDeOchMrx8bUFukHiEhk9VC_iA8JyWTObEgjDf9_JtcvESzJwJnw',
+    appId: 'com.acmeaom.android.myradar',
+    url: 'https://play.google.com/store/apps/details?id=com.acmeaom.android.myradar&hl=en&gl=us'
+  },
+  {
+    title: 'Pulse SMS (Phone/Tablet/Web)',
+    installs: 2110715,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/EpnWcEdGdcub3ORg8INZWt91lXSJ_wrfTUo66_vLmsDjnV46OnEgI1uq4zOQozPCPkM',
+    appId: 'xyz.klinker.messenger',
+    url: 'https://play.google.com/store/apps/details?id=xyz.klinker.messenger&hl=en&gl=us'
+  },
+  {
+    title: 'Watch Faces - WatchMaker 100,000 Faces',
+    installs: 3251629,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/CWmk5rg6suAhFH_guHIM0CrKa7Q49ldQ-HGtH8TFv8p_SEz0x-0xPpSBUwTo1CVunHs',
+    appId: 'slide.watchFrenzy',
+    url: 'https://play.google.com/store/apps/details?id=slide.watchFrenzy&hl=en&gl=us'
+  },
+  {
+    title: 'adidas Running App by Runtastic - Run Tracker',
+    installs: 59954933,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/nRkIEopF36LYyA26jUlEE0QfzPLpgEFATZnJd-oDiFc0afm3YCaCWKxGlHh448gFTA',
+    appId: 'com.runtastic.android',
+    url: 'https://play.google.com/store/apps/details?id=com.runtastic.android&hl=en&gl=us'
+  },
+  {
+    title: 'SmartWatch Sync & Bluetooth notifier',
+    installs: 6470243,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Ipy0xrUDTc71ly-Qm5_HJbuMvWR0YuygB4aQ8xtSW4Pz7KnR5APQapV0ds9n9SbpmA',
+    appId: 'com.OnSoft.android.BluetoothChat',
+    url: 'https://play.google.com/store/apps/details?id=com.OnSoft.android.BluetoothChat&hl=en&gl=us'
+  },
+  {
+    title: 'MyRadar Weather Radar Ad Free',
+    installs: 70978,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/n2QL8ZrouJ8CtX9mpX3tezUn16AcYkU2tDcAnpzGGdVg-YkehGT62QiZ4hSUemI1GA',
+    appId: 'com.acmeaom.android.myradarpro',
+    url: 'https://play.google.com/store/apps/details?id=com.acmeaom.android.myradarpro&hl=en&gl=us'
+  },
+  {
+    title: 'AccuWeather: Live weather radar & local forecast',
+    installs: 98776980,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU',
+    appId: 'com.accuweather.android',
+    url: 'https://play.google.com/store/apps/details?id=com.accuweather.android&hl=en&gl=us'
+  },
+  {
+    title: 'Cardiogram: Wear OS, Fitbit, Garmin, Android Wear',
+    installs: 784162,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/CoqplE_dN12JNbo5oCTrwFCFRpcKx-WkwyPEx9Tge3V_RizcbRCOb32-lJDbp2Vy-LM',
+    appId: 'com.cardiogram.v1',
+    url: 'https://play.google.com/store/apps/details?id=com.cardiogram.v1&hl=en&gl=us'
+  },
+  {
+    title: 'Fitify: Workout Routines & Training Plans',
+    installs: 5763219,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/47dZgPvkjH_ptvjLFSk3tO8wC3wfJ-HM-CDBH3RWFoSDVG0VdnZZA9-hqFh_E3ENhg',
+    appId: 'com.fitifyworkouts.bodyweight.workoutapp',
+    url: 'https://play.google.com/store/apps/details?id=com.fitifyworkouts.bodyweight.workoutapp&hl=en&gl=us'
+  },
+  {
+    title: 'ViewRanger: Trail Maps for Hiking, Biking, Skiing',
+    installs: 5659786,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/zTOMKxqsRw4tbC4HDomGNaVJfjDUJtBZlT6PljH2dXSLHYITS6gfnrvUJE4uikQH_k4',
+    appId: 'com.augmentra.viewranger.android',
+    url: 'https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=en&gl=us'
+  },
+  {
+    title: 'Workout Trainer: home fitness coach',
+    installs: 13683726,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/0z67i96D6NfdID5nDPXGud7_kISa2uB0pRGftrXD5fdEd40pQnR1Nt0mECEWQkZEuyIL',
+    appId: 'com.skimble.workouts',
+    url: 'https://play.google.com/store/apps/details?id=com.skimble.workouts&hl=en&gl=us'
+  },
+  {
+    title: 'Equilab - Equestrian Tracker',
+    installs: 399538,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/BBWIUa4GllQEPSgDOZ_K7nZN0CmMc1geuN4I3KM5Qh6bMZ5kB4SykfmvO9CE0JAQ9EMb',
+    appId: 'horse.schvung.equilab',
+    url: 'https://play.google.com/store/apps/details?id=horse.schvung.equilab&hl=en&gl=us'
+  },
+  {
+    title: 'Weight Loss Fitness at Home by Verv',
+    installs: 2490131,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/mSDSbasjLlHKSzoDCsAuIyFbs533H9_CYuajsNw1rGh7Uf1Ys5ADC5IhdbxyPJLkalny',
+    appId: 'com.grinasys.fwl',
+    url: 'https://play.google.com/store/apps/details?id=com.grinasys.fwl&hl=en&gl=us'
+  },
+  {
+    title: 'Threema. Secure and private Messenger',
+    installs: 3276718,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-',
+    appId: 'ch.threema.app',
+    url: 'https://play.google.com/store/apps/details?id=ch.threema.app&hl=en&gl=us'
+  },
+  {
+    title: 'Handcent Next SMS - Best texting w/ MMS & stickers',
+    installs: 2336917,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/WNyx_T82wztq7szEMhY7x00NzfyA0pP-IcT3Ss28b9aihu2CzjccONEsp7bobSOECQ',
+    appId: 'com.handcent.app.nextsms',
+    url: 'https://play.google.com/store/apps/details?id=com.handcent.app.nextsms&hl=en&gl=us'
+  },
+  {
+    title: 'Diabetes:M - Management & Blood Sugar Tracker App',
+    installs: 625868,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/aMkPFTtGHdW550VQYpD0Q0_X2eNPApCgpTo1Z5rEpHN0aJyc8u8HOpBK5un7l-1-f4E',
+    appId: 'com.mydiabetes',
+    url: 'https://play.google.com/store/apps/details?id=com.mydiabetes&hl=en&gl=us'
+  },
+  {
+    title: 'Easy Voice Recorder Pro',
+    installs: 364709,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/w_eG3rz4w3FZQog3zbtwoe5j8wOR_ERumHRoIv7IyUzg0tHx6vOn78-_UyFrF3RHo3k',
+    appId: 'com.digipom.easyvoicerecorder.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro&hl=en&gl=us'
+  },
+  {
+    title: 'PhotoWear Photo Watch Face',
+    installs: 1678524,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/1RT17qhsMJlbDzqJ8LPd9MWAdIFg2DGPiltcDXcuyI7vgTZ_BrtcqUFxOVQpy25Q0Q',
+    appId: 'com.sparkistic.photowear',
+    url: 'https://play.google.com/store/apps/details?id=com.sparkistic.photowear&hl=en&gl=us'
+  },
+  {
+    title: 'Tiimo - your daily planner, made visual',
+    installs: 14903,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/vQGxLStef3J5zMOq-tEWsUdRznz97BLASRQY_fIy5BV9H_Xj2ggnKmfGL5VXsmHQZQ',
+    appId: 'com.tiimoapp.androidapp',
+    url: 'https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Minimal Watch Face',
+    installs: 82452,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/dPNUM1HgSwJehH4eldTX8AF0ovlEO4aOAlH9kylwQd_3IGahCJB0T9mhDXXWCyCUPis',
+    appId: 'com.benoitletondor.pixelminimalwatchface',
+    url: 'https://play.google.com/store/apps/details?id=com.benoitletondor.pixelminimalwatchface&hl=en&gl=us'
+  },
+  {
+    title: 'Hole19: Golf GPS App, Rangefinder & Scorecard',
+    installs: 740798,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/kvnaCT0yE7_UaqfFIv8N8lLgEnX3jY9aYeNkkTigyECbMI5gF7TZDo421WXQlMN0Qw',
+    appId: 'com.hole19golf.hole19.beta',
+    url: 'https://play.google.com/store/apps/details?id=com.hole19golf.hole19.beta&hl=en&gl=us'
+  },
+  {
+    title: 'Zombies, Run! 5k Training (Free)',
+    installs: 139036,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/Cf2Zw8tCoiei6WsXM7L2cmYBRkPqtEeFgcFWFSkk1vzZHgQ4CWaCH6S_kw3n0wSgKsAV',
+    appId: 'com.sixtostart.zombies5ktraining',
+    url: 'https://play.google.com/store/apps/details?id=com.sixtostart.zombies5ktraining&hl=en&gl=us'
+  },
+  {
+    title: 'Bikemap - Your Cycling Map & GPS Navigation',
+    installs: 2180884,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/FXxfaZjuD-zso36Z5dF9dbCoW1aSMULf31qILqt7VYv8tGHZ10VaCWbKHxahQIqPxA',
+    appId: 'com.toursprung.bikemap',
+    url: 'https://play.google.com/store/apps/details?id=com.toursprung.bikemap&hl=en&gl=us'
+  },
+  {
+    title: 'Unified Remote Full',
+    installs: 553026,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/kZbZSyOJ5TAExBPwTi5JHelHhPGnP_18w5cMnS4OOvvY02ynV18l8ILBjxlWt7bs0Q',
+    appId: 'com.Relmtech.RemotePaid',
+    url: 'https://play.google.com/store/apps/details?id=com.Relmtech.RemotePaid&hl=en&gl=us'
+  },
+  {
+    title: 'Grocery Shopping List - Listonic',
+    installs: 6399822,
+    genre: 'SHOPPING',
+    icon: 'https://lh3.googleusercontent.com/gsFFxjZoAe8Fy2gwL331VXFedGfir3IloxSe3fLSge171uibft6RZskW2lnMtih71A0',
+    appId: 'com.l',
+    url: 'https://play.google.com/store/apps/details?id=com.l&hl=en&gl=us'
+  },
+  {
+    title: 'Mobills Budget Planner and Track your Finances',
+    installs: 7152457,
+    genre: 'FINANCE',
+    icon: 'https://lh3.googleusercontent.com/C_DMNe7BHT7tQMA7rw_biogleTJXo5V6FfexF0wcSwgVxKKOjB9SAe_pPFzu-OOrj9g',
+    appId: 'br.com.gerenciadorfinanceiro.controller',
+    url: 'https://play.google.com/store/apps/details?id=br.com.gerenciadorfinanceiro.controller&hl=en&gl=us'
+  },
+  {
+    title: 'FITIV Pulse: Heart Rate Monitor + Workout Tracker',
+    installs: 68536,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/7Qa9Sj-_V73XnJeu_L1oYUPypWo1BrrAHx1fhv5rwmp8XdDGj6K9xgIvQjy576EkXrU',
+    appId: 'com.fitiv.fitivapplication',
+    url: 'https://play.google.com/store/apps/details?id=com.fitiv.fitivapplication&hl=en&gl=us'
+  },
+  {
+    title: 'Hue Essentials - Philips Hue & TRÅDFRI',
+    installs: 476311,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/3Q6eRDyrgfHLj6JcSr7Lq1j874o1pGUNv7VfufKfJB8VGkF-agOb5ImhGxxq6UHOow',
+    appId: 'com.superthomaslab.hueessentials',
+    url: 'https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Tools® - Find, Measure, Navigate & Explore',
+    installs: 6097215,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/uO8Yd0bIPciZjkwmnBmN0OIB4dP4X_ReQKiGoTzQVIl73TxWWmERJBFaorMgwcrNLs6Q',
+    appId: 'com.VirtualMaze.gpsutils',
+    url: 'https://play.google.com/store/apps/details?id=com.VirtualMaze.gpsutils&hl=en&gl=us'
+  },
+  {
+    title: 'Endel: Focus, Relax, and Sleep soundscapes',
+    installs: 184235,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/3igeqB6-iF8X7BXMea6NwHtvCF_CFdpDWmzg1Ek2DoAApCJrEpH4WyYRgLCITn9DAg',
+    appId: 'com.endel.endel',
+    url: 'https://play.google.com/store/apps/details?id=com.endel.endel&hl=en&gl=us'
+  },
+  {
+    title: 'Keep Trainer - Workout Trainer & Fitness Coach',
+    installs: 7643193,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/4TqdfZd6Ey-ADadiuM9TqodesAxYms9dLRrtxJfTC4KjptwLqN0nhsC3sSUGlhLfMyE',
+    appId: 'com.gotokeep.keep.intl',
+    url: 'https://play.google.com/store/apps/details?id=com.gotokeep.keep.intl&hl=en&gl=us'
+  },
+  {
+    title: 'Noonlight: Feel Protected 24/7',
+    installs: 1011820,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wXfCGra09BXBcVpX2t-1nPfA1Txrls6Jx48pxOsS8KpO7G2UyM1JmEuPKVuNhamFmRg',
+    appId: 'com.safetrekapp.safetrek',
+    url: 'https://play.google.com/store/apps/details?id=com.safetrekapp.safetrek&hl=en&gl=us'
+  },
+  {
+    title: 'Watch Face App MR TIME',
+    installs: 1875094,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/1i7_zMJvX5GgqNywBT9Bmy4h2M_mr2QJUUYBoHLMbT751R7QI-YDXS7zcDgx8-_ohrdb',
+    appId: 'com.apposter.watchmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.apposter.watchmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Messages for Wear OS (Android Wear)',
+    installs: 1051242,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/E6pxy-ja6KBq4uaiCC5RQRzabNF0HQ2W2fMEiDlDK69_iNCzUCMGIF1H1XOTFOCmIf1B',
+    appId: 'com.appfour.wearmessages',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearmessages&hl=en&gl=us'
+  },
+  {
+    title: 'ByssWeather for Wear OS',
+    installs: 2243313,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/dLzxUas_duDqfqSmLZxWP-7uYUZw9kRbvQGh4ArM3w3_2kLrFb9CpvRJXBLZbq0MqRAM',
+    appId: 'mobi.byss.instaweather.watchface',
+    url: 'https://play.google.com/store/apps/details?id=mobi.byss.instaweather.watchface&hl=en&gl=us'
+  },
+  {
+    title: 'Password Manager SafeInCloud Pro',
+    installs: 212885,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/701ZtPqagBgasQuodBJe92fvqzAHl9NCzqMZPd27tnHJehKRi7u4DHe_0kb1f_rWgDkP',
+    appId: 'com.safeincloud',
+    url: 'https://play.google.com/store/apps/details?id=com.safeincloud&hl=en&gl=us'
+  },
+  {
+    title: 'Printoid - Remote for OctoPrint [PREMIUM]',
+    installs: 13778,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/QyIYedllWLPtzBAp97XNlj84dpIcIi8mUBKFMllNyW4Lw2nCTFFURgLbcLl6zrBt99g',
+    appId: 'fr.yochi76.printoid.phones.premium',
+    url: 'https://play.google.com/store/apps/details?id=fr.yochi76.printoid.phones.premium&hl=en&gl=us'
+  },
+  {
+    title: 'Glide - Video Chat Messenger',
+    installs: 22739451,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/PRgK-zOIUQ33_5fVIkVcALLzRWQCFlq6FfxLl3pAkn7hte9YMitoHAN78djQP4a9dg',
+    appId: 'com.glidetalk.glideapp',
+    url: 'https://play.google.com/store/apps/details?id=com.glidetalk.glideapp&hl=en&gl=us'
+  },
+  {
+    title: 'Watch Face - Pujie Black - Wear OS & Galaxy Watch',
+    installs: 181727,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/W8VxKjGEM02qMlkQEhnoX6opHw4oXM1qCcRG5GadEYsE36jmLPXp_sKQnbtx1MeTXNw',
+    appId: 'com.pujie.wristwear.pujieblack',
+    url: 'https://play.google.com/store/apps/details?id=com.pujie.wristwear.pujieblack&hl=en&gl=us'
+  },
+  {
+    title: 'My Passwords - Password Manager',
+    installs: 2095572,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/s3VLEopo45Q5BzwLttGcXbTvYCP2-jfjWTxosF4wqlLm5YLYo50jQBiRIW3mONLJzw',
+    appId: 'com.er.mo.apps.mypasswords',
+    url: 'https://play.google.com/store/apps/details?id=com.er.mo.apps.mypasswords&hl=en&gl=us'
+  },
+  {
+    title: 'VLC Mobile Remote - Control VLC, PC & Mac',
+    installs: 2779597,
+    genre: 'VIDEO_PLAYERS',
+    icon: 'https://lh3.googleusercontent.com/OiTMhg6whahuXjckkbPx47YxJCqS4GIrBUJQrLau958RI_dZ239JfIVIpe2nP6PvRRci',
+    appId: 'adarshurs.android.vlcmobileremote',
+    url: 'https://play.google.com/store/apps/details?id=adarshurs.android.vlcmobileremote&hl=en&gl=us'
+  },
+  {
+    title: 'GymRun Workout Log & Fitness Tracker',
+    installs: 1192282,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/A5RXb1ZBVL8di1EQIEd1t38AMCzDacDXC7v1YSfzRpvFqINtSCUNsKGrRsST8UtMinlj',
+    appId: 'com.imperon.android.gymapp',
+    url: 'https://play.google.com/store/apps/details?id=com.imperon.android.gymapp&hl=en&gl=us'
+  },
+  {
+    title: 'Fu*** Weather (Funny Weather)',
+    installs: 1882547,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/7et6yTQTz3cMC0UnqvfEfOKiqJx8kjVcbAzfRKknhAxccF7TEJDzOojbFldpCCd7Ng',
+    appId: 'pl.lawiusz.funnyweather.release',
+    url: 'https://play.google.com/store/apps/details?id=pl.lawiusz.funnyweather.release&hl=en&gl=us'
+  },
+  {
+    title: 'Dashboard for Tesla',
+    installs: 45999,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Q-77_Uxpasj3EJC0QTzejNrqmPwaE3NkZv39hVbdr9-vE14dH8lM6QhgZoXo1zAxiXE',
+    appId: 'com.sg57.tesladashboard',
+    url: 'https://play.google.com/store/apps/details?id=com.sg57.tesladashboard&hl=en&gl=us'
+  },
+  {
+    title: 'Ultimate Alexa - The Voice Assistant',
+    installs: 1710424,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/4WbdxRjRU8ikML0nvgQOcieYBRvVce9DNNf9NAnGU5tACQQNrZLznmETYpp2f2w0Ow',
+    appId: 'com.customsolutions.android.alexa',
+    url: 'https://play.google.com/store/apps/details?id=com.customsolutions.android.alexa&hl=en&gl=us'
+  },
+  {
+    title: 'myTuner Radio and Podcasts',
+    installs: 9987663,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_b__1xKSj-ipkqoVwUFZHRqoExqGxV6Ba-lqlKvVwt5n-orli89i8MFZaAHVuZit1fH2',
+    appId: 'com.appgeneration.itunerfree',
+    url: 'https://play.google.com/store/apps/details?id=com.appgeneration.itunerfree&hl=en&gl=us'
+  },
+  {
+    title: 'Geooh GO',
+    installs: 2123,
+    genre: 'ENTERTAINMENT',
+    icon: 'https://lh3.googleusercontent.com/7U-wIYlh9LuyXO2k87xut01W3ETZv4mKbTjaYk62vsICp4tU0ehxZGhyqamER7_Yh3s',
+    appId: 'com.mobiltal.geoohGO',
+    url: 'https://play.google.com/store/apps/details?id=com.mobiltal.geoohGO&hl=en&gl=us'
+  },
+  {
+    title: 'Chronus Information Widgets',
+    installs: 1545880,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/lkL-_PP2YKdHmtDI44Mf1V1G2Qxlg8AgniFP8bfah76gjX28L2jfvEPcKXnB0NbkSag',
+    appId: 'com.dvtonder.chronus',
+    url: 'https://play.google.com/store/apps/details?id=com.dvtonder.chronus&hl=en&gl=us'
+  },
+  {
+    title: 'REFSIX - Soccer Referee Watch App',
+    installs: 29805,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/Djgtwvf9jPyctPL6dsDyva_8VtQgjv7dz0OP-pbLM7WB-uazuzbfuLE3YPBGp31ibRk',
+    appId: 'co.refsix',
+    url: 'https://play.google.com/store/apps/details?id=co.refsix&hl=en&gl=us'
+  },
+  {
+    title: 'Exercise Timer',
+    installs: 1657599,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/oz_OOHZBFCjRn3g1Gpom5SgkDNLj1c_TG6Q9ToqP7m6SkKYt0ebGB0LyCvsuthLnyjQ',
+    appId: 'com.neurondigital.exercisetimer',
+    url: 'https://play.google.com/store/apps/details?id=com.neurondigital.exercisetimer&hl=en&gl=us'
+  },
+  {
+    title: 'Password Manager SafeInCloud',
+    installs: 2043201,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/oAqq1D70HidjHRWcHGrlGM5NVwP2_xteL1PY_iI2qXaZv68TAvyJzpUi0TynJ79KoTE',
+    appId: 'com.safeincloud.free',
+    url: 'https://play.google.com/store/apps/details?id=com.safeincloud.free&hl=en&gl=us'
+  },
+  {
+    title: 'Super Bright Flashlight - Lighting Brightly',
+    installs: 502976,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/8Ayg2t8kZ23ZemWQCAXa_cXj4lEB2UPXcdp8N1AzrMgMWbA0MLpK-Kn3-r8asc3Ax_s',
+    appId: 'flashlight.free.light.bright.torch',
+    url: 'https://play.google.com/store/apps/details?id=flashlight.free.light.bright.torch&hl=en&gl=us'
+  },
+  {
+    title: 'GPS Tracker for Wear OS (Android Wear)',
+    installs: 113383,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/7duXbuc4YebpwTpvaJTAje5YieqMEjijey2uEqevS9Vzak-AdwkkjvCL8m3HqYqXlQ',
+    appId: 'com.appfour.weartracker',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.weartracker&hl=en&gl=us'
+  },
+  {
+    title: 'StayLit Wear: Longer Backlight',
+    installs: 35355,
+    genre: 'TOOLS',
+    icon: 'https://play-lh.googleusercontent.com/n_l_HMSRV-ckXUtE1uxSl18iXWxvKSywyUFD7UE7kojlHyPbGPVxH9FMe5gC7hwNI7eY',
+    appId: 'com.phonephreak.extendedlight',
+    url: 'https://play.google.com/store/apps/details?id=com.phonephreak.extendedlight&hl=en&gl=us'
+  },
+  {
+    title: 'Outdooractive: Hiking & Biking Trails, GPS & Maps',
+    installs: 1051388,
+    genre: 'TRAVEL_AND_LOCAL',
+    icon: 'https://lh3.googleusercontent.com/zykBMnBm66Da5zhW5bwOvnKkC5HHtijjc4l9Iu2Y25vaWamn7nlhNWg6LmLPji-9bdkQ',
+    appId: 'com.outdooractive.Outdooractive',
+    url: 'https://play.google.com/store/apps/details?id=com.outdooractive.Outdooractive&hl=en&gl=us'
+  },
+  {
+    title: 'Water Time Drink Tracker & Reminder',
+    installs: 8547166,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/2QgJB6KGjX-NAIYQxX8Zn0Bu9FzE2ET3mJD7dbm4TqBEKKI4BctvIVeRcSvx5cQtAQ',
+    appId: 'com.mobilecreatures.drinkwater',
+    url: 'https://play.google.com/store/apps/details?id=com.mobilecreatures.drinkwater&hl=en&gl=us'
+  },
+  {
+    title: 'WatchMaster - Watch Face',
+    installs: 836736,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/nVCjOfu8NjivvfJ-78Y5VD5dbVsSnGhQcW05DsWLR2BRb7EV3Gq8h4J74iCSY9JM34xU',
+    appId: 'dd.watchmaster',
+    url: 'https://play.google.com/store/apps/details?id=dd.watchmaster&hl=en&gl=us'
+  },
+  {
+    title: 'Yatse: Kodi remote control and cast',
+    installs: 3930256,
+    genre: 'VIDEO_PLAYERS',
+    icon: 'https://lh3.googleusercontent.com/PIdjYUNQvduZ1in2oJom6FqzDYF3hNoGiAxWfAnlwMM6zNv-pWpqbzS67h9ngdm4IKQ',
+    appId: 'org.leetzone.android.yatsewidgetfree',
+    url: 'https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree&hl=en&gl=us'
+  },
+  {
+    title: 'Video Player for YouTube on Wear OS smartwatches',
+    installs: 618696,
+    genre: 'VIDEO_PLAYERS',
+    icon: 'https://lh3.googleusercontent.com/2C5WMqkaeyku8ag9G7NpgsOARTswmklbI2H4dEhdzRmQnrnlbw3f1xKpTcGzLXr6pw',
+    appId: 'com.appfour.weartube',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.weartube&hl=en&gl=us'
+  },
+  {
+    title: 'Lunescope 🔭🌘 Moon Viewer',
+    installs: 193035,
+    genre: 'BOOKS_AND_REFERENCE',
+    icon: 'https://lh3.googleusercontent.com/6Y60QWp2cjwrCOWK5abH1KJBdpDarPBSx7LqjcdV3sfBOTeE2PA4H2YtpuVEQ_86hzDJ',
+    appId: 'com.daylightmap.moon.pro.android',
+    url: 'https://play.google.com/store/apps/details?id=com.daylightmap.moon.pro.android&hl=en&gl=us'
+  },
+  {
+    title: 'Marine Commander Watch Face for WearOS',
+    installs: 443006,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/4dkx7dRXEPXgB_pnY08x8tgemiGgS716WsoHq-ecO6UMw4c5E_uXhRCHbOoExr4ZDgw',
+    appId: 'com.bosenko.watchface.marinecommander',
+    url: 'https://play.google.com/store/apps/details?id=com.bosenko.watchface.marinecommander&hl=en&gl=us'
+  },
+  {
+    title: 'Water Drink Reminder',
+    installs: 27195209,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/XptpJ4SCKSPaPHG7SalVvu1sgqxyVMFYZlX7FP8Zx4ORMm80jWRPCT4lq-jSYjWkD0I',
+    appId: 'com.northpark.drinkwater',
+    url: 'https://play.google.com/store/apps/details?id=com.northpark.drinkwater&hl=en&gl=us'
+  },
+  {
+    title: 'Wear for Tesla',
+    installs: 982,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/N9wqivM9MyuLHnFCkzYdR-pTF-l8ldntbT4ZXE9EyTsCWjndbYXmGd93pBmxkDwhDen0',
+    appId: 'com.teslawear.danielcastro.teslaapp',
+    url: 'https://play.google.com/store/apps/details?id=com.teslawear.danielcastro.teslaapp&hl=en&gl=us'
+  },
+  {
+    title: 'Wearable Widgets',
+    installs: 338918,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/bBSQsGwawRWf7P4imBc4GB6N-0oS1wWtbSxBScd7n300tZlQ9P2IxDffMbhu9HhGstQ',
+    appId: 'com.wearablewidgets',
+    url: 'https://play.google.com/store/apps/details?id=com.wearablewidgets&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast Republic - Podcast Player & Podcast App',
+    installs: 2678059,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/lthJnaOfgebO_ZTi3GFideRTi22RHgiP6CqAfkfvjUN7Aoni5Xi5HvxYNkaL5AdtKHSW',
+    appId: 'com.itunestoppodcastplayer.app',
+    url: 'https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app&hl=en&gl=us'
+  },
+  {
+    title: 'Citymapper: Directions For All Your Transportation',
+    installs: 10839665,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69',
+    appId: 'com.citymapper.app.release',
+    url: 'https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Cloud Tile Launcher / Watchface (Wear OS)',
+    installs: 1172172,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/g8Y8_IFh7Q7nqfWKWVbbZ5RtRIQipb7isCK2_uPU25BJwlCQKXoNcl132C77fgaosUc',
+    appId: 'dyna.logix.bookmarkbubbles',
+    url: 'https://play.google.com/store/apps/details?id=dyna.logix.bookmarkbubbles&hl=en&gl=us'
+  },
+  {
+    title: '∞ Infinity Loop ®',
+    installs: 38641139,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/cItT00njnCT5ACG5xP_A7FYMP1Yb1lySBSzADufudaqVUautqBGFSVjNDLzCNRs9jA',
+    appId: 'com.balysv.loop',
+    url: 'https://play.google.com/store/apps/details?id=com.balysv.loop&hl=en&gl=us'
+  },
+  {
+    title: 'Photo Gallery for Wear OS (Android Wear)',
+    installs: 598096,
+    genre: 'VIDEO_PLAYERS',
+    icon: 'https://lh3.googleusercontent.com/EXbmQs5gbtPC6uVt-jcTmYYo4v7pPItaAQ2miyfhbvOXqEWW1vIPSv3SXmJEITatYxo',
+    appId: 'com.appfour.wearphotos',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearphotos&hl=en&gl=us'
+  },
+  {
+    title: 'Swift Watch Face & Clock Widget',
+    installs: 481451,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/qEkvCkpdRWZS42YiobIZd6M4JWTaGfZO5x48masMSNHae9if4uvuWA4rg0GyGUazv8s',
+    appId: 'fr.thema.wear.watch.swift',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.swift&hl=en&gl=us'
+  },
+  {
+    title: 'Tide Table Chart',
+    installs: 7310,
+    genre: 'TRAVEL_AND_LOCAL',
+    icon: 'https://lh3.googleusercontent.com/eo5Fn8isvrtfmtk6Onkjx5VRZ4FBTETgieb8zt4qi7aCI1eoQ5IEp7zXFF9oHrQhJOY',
+    appId: 'com.appmosaic.tidechart',
+    url: 'https://play.google.com/store/apps/details?id=com.appmosaic.tidechart&hl=en&gl=us'
+  },
+  {
+    title: 'Watch Face - Minimal & Elegant for Android Wear OS',
+    installs: 169328,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/sHqM2XSXn9QoWqjMmG412WCVLp-Ka2bJGRwd5_8G1sg9RHR63_aZmLoQ8w28HtbuFqUb',
+    appId: 'com.stmp.minimalface',
+    url: 'https://play.google.com/store/apps/details?id=com.stmp.minimalface&hl=en&gl=us'
+  },
+  {
+    title: 'Bible Offline App Free + Audio, KJV, Daily Verse',
+    installs: 22728368,
+    genre: 'BOOKS_AND_REFERENCE',
+    icon: 'https://lh3.googleusercontent.com/Sfv5VZrdExkgIfHs0cFYSlKMoqmL-MzEFH7McYIi9ydmAqVT6BAZSn6Gz7s6zF2bsg',
+    appId: 'com.bestweatherfor.bibleoffline_pt_ra',
+    url: 'https://play.google.com/store/apps/details?id=com.bestweatherfor.bibleoffline_pt_ra&hl=en&gl=us'
+  },
+  {
+    title: 'Soccer Scores - FotMob',
+    installs: 17147275,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/6L1u_v2JGG4Rpkh6UuHD8m5xNDMddxUTp6lcO86fgTzJ-SC8Fphgz7CkLZklnS8Dfjs',
+    appId: 'com.mobilefootie.wc2010',
+    url: 'https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010&hl=en&gl=us'
+  },
+  {
+    title: 'HebDate Hebrew Calendar',
+    installs: 1033050,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/jvIr28xTw8RXLAxHDafuYXN-yWtXdhKceLft2K9J1ooy7gi5DpMmaoNkqu5E3al3SAQ',
+    appId: 'com.lionscribe.hebdate',
+    url: 'https://play.google.com/store/apps/details?id=com.lionscribe.hebdate&hl=en&gl=us'
+  },
+  {
+    title: 'Hole19 Golf GPS for Smartwatch',
+    installs: 9325,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/LgcHxNzSBzkhYKJzyntPJowlt3QbUsdfISArEno1XvaeBZ8DSQ7zBFZst5ML-7NlPL0',
+    appId: 'com.hole19golf.wear',
+    url: 'https://play.google.com/store/apps/details?id=com.hole19golf.wear&hl=en&gl=us'
+  },
+  {
+    title: 'Camera Remote: Wear OS, Galaxy Watch, Gear S3 App',
+    installs: 439752,
+    genre: 'PHOTOGRAPHY',
+    icon: 'https://lh3.googleusercontent.com/b_ChynSMWb84hmD9N7EKT_G6U7Hb21HkppeUDnznt7NDzdVnNvv1CWwnSvh6N9O1D6I',
+    appId: 'com.kemasdimas.wristcamera',
+    url: 'https://play.google.com/store/apps/details?id=com.kemasdimas.wristcamera&hl=en&gl=us'
+  },
+  {
+    title: 'myTuner Radio Pro',
+    installs: 29976,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/AgVz1vsJD5cRR_S3qxSJkdmmKnzneXO9L6kCS6NfMc3XxKGS-rgx_iS-Pm8EGit5HRY',
+    appId: 'com.appgeneration.itunerpro',
+    url: 'https://play.google.com/store/apps/details?id=com.appgeneration.itunerpro&hl=en&gl=us'
+  },
+  {
+    title: 'Launcher for Wear OS (Android Wear)',
+    installs: 142013,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/N-QEkohUPfU1739TPA1G7_vBTqEvoOADsgTUUWq17sZb8lVKmLWbaFV69skYZLtr8jZS',
+    appId: 'com.appfour.wearlauncher',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearlauncher&hl=en&gl=us'
+  },
+  {
+    title: 'Mail client for Wear OS watches',
+    installs: 428945,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Dda3rM2m07wJh8Nu1hnsg_VVnWPm9FrRkkIRgZBYoVzGYAFxwMJzizA5r9qqNrfSFw',
+    appId: 'com.appfour.wearmail',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearmail&hl=en&gl=us'
+  },
+  {
+    title: 'Web Browser for Wear OS (Android Wear)',
+    installs: 773873,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/j2cFCXRYkvTWX6Gfr74468A1jes-Qv47YRSW7axJtNCajW6ZzaKueoEBAIciAAf2-w',
+    appId: 'com.appfour.wearbrowser',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearbrowser&hl=en&gl=us'
+  },
+  {
+    title: 'YAMAP - Social Trekking GPS App -',
+    installs: 1153797,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/JzSUpxFPwN18h-OKmQ5Z0UNiiVgYKVeWt_83JZ3BtFF8Oc68qbim8iftm2m75Wm4tgw',
+    appId: 'jp.co.yamap',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.yamap&hl=en&gl=us'
+  },
+  {
+    title: 'Offline Map Navigation - Live GPS, Locate, Explore',
+    installs: 3031959,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/OqjXYpeehElGFSy2DTkAxuzGrR8Qev5MbPIkFelpo58guwxJq5efL3dqxZ7UYJE5W63F',
+    appId: 'com.virtualmaze.offlinemapnavigationtracker',
+    url: 'https://play.google.com/store/apps/details?id=com.virtualmaze.offlinemapnavigationtracker&hl=en&gl=us'
+  },
+  {
+    title: 'Keyboard for Wear OS (Android Wear)',
+    installs: 183457,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/JdP5TFVHYqygWOBMtZOrDrauSfElNkZuWyULytrugbkVLIl2kO9H2Q8Riwu5DMt8xJU',
+    appId: 'com.appfour.wearkeyboard',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearkeyboard&hl=en&gl=us'
+  },
+  {
+    title: 'Math games: arithmetic, times tables, mental math',
+    installs: 1791077,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Q_xrPGe55Yi5KVaRGN22Ghw7dR7MYPx9Hh5iYNRVoDsDLnocVmZCsBxeI-cui4A60MNN',
+    appId: 'com.astepanov.mobile.mindmathtricks',
+    url: 'https://play.google.com/store/apps/details?id=com.astepanov.mobile.mindmathtricks&hl=en&gl=us'
+  },
+  {
+    title: 'Easy Voice Recorder',
+    installs: 46099641,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/dWhFDwsXEsL4nhB3jsvejCsnE7JBqOBLkYOh22wP8fwEx5sOAWyEpb5wr2b9smBocas',
+    appId: 'com.coffeebeanventures.easyvoicerecorder',
+    url: 'https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en&gl=us'
+  },
+  {
+    title: 'Cronosurf Wave Pro watch',
+    installs: 8487,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/7GeIA4EZygNRYbycyfDTSsU8L9vFZiC274-HiUWpByVzPL19ee7uG5tqk98rCZ0xg7wW',
+    appId: 'com.fruit4droid.cronosurf.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.fruit4droid.cronosurf.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Instruments for Wear OS (Android Wear)',
+    installs: 64076,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/VwV708zIqxYhvlzlJ4msvYAowOmE5X6spy_SPTmLcmblU2e-nU3uNieClHi1EFWxgpA',
+    appId: 'com.appfour.wearinstruments',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearinstruments&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Parked Car - Automatically Locate Car',
+    installs: 1188385,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/nkYboouZW9Qvsb2sXMYdT0iFN9Uhqm11EztbMUnbL3t51fsP-bZJAjEjzZj_MfkIYcvd',
+    appId: 'com.ofirmiron.findmycarandroidwear',
+    url: 'https://play.google.com/store/apps/details?id=com.ofirmiron.findmycarandroidwear&hl=en&gl=us'
+  },
+  {
+    title: 'Halloween Watch Face',
+    installs: 2608,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/hfkrzHlVxbRUVivD7PyJkGJI1HGnU4ps3wFHmR3HkNhq6zmn2Kt8XukVJWoHb68OuYg',
+    appId: 'fr.thema.wear.watch.halloween',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.halloween&hl=en&gl=us'
+  },
+  {
+    title: 'Soccer Scores and Sports Livescore - SofaScore',
+    installs: 23048880,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/OL82yQ6dyqXw8kbjtQxmtbW51YCGoe_TI-4YTSeQaTO8cUvn3hTok8-JDtGhYAKP6IQY',
+    appId: 'com.sofascore.results',
+    url: 'https://play.google.com/store/apps/details?id=com.sofascore.results&hl=en&gl=us'
+  },
+  {
+    title: 'Heart Rate Plus - Pulse & Heart Rate Monitor',
+    installs: 3149622,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/rfvA6N2Ox8677wAfyHccS1RGoATYsQMWM5hAmQlB6Bum6ms3NHKLPHwRBzJcvyOkW10',
+    appId: 'com.dungelin.heartrate',
+    url: 'https://play.google.com/store/apps/details?id=com.dungelin.heartrate&hl=en&gl=us'
+  },
+  {
+    title: 'Wear Camera for Wear OS (Android Wear)',
+    installs: 13908,
+    genre: 'PHOTOGRAPHY',
+    icon: 'https://lh3.googleusercontent.com/9uXpgB-sumBQ5VN29WwyqnP5KXi4AB7GUtNZO75VwpXKF2uttm0lXzmkRWyfCnEzgq2T',
+    appId: 'com.ua.makeev.wearcamera',
+    url: 'https://play.google.com/store/apps/details?id=com.ua.makeev.wearcamera&hl=en&gl=us'
+  },
+  {
+    title: 'Video Gallery for Wear OS (Android Wear)',
+    installs: 193215,
+    genre: 'VIDEO_PLAYERS',
+    icon: 'https://lh3.googleusercontent.com/oP4lcvj2cHlT9V4L_sgQpEQxAYMdUFnF0z9sT1LRYqoCRA7zr7Ye1Xis4wlxNfPOWaBR',
+    appId: 'com.appfour.wearvideos',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearvideos&hl=en&gl=us'
+  },
+  {
+    title: 'Emerald Chronometer',
+    installs: 88,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/WSrUTgp4KHuT_dFvwe339E5rMcWq0qTjpnIvkyhVnvMhqTU29x5nZh8HOyhmqo5ubQ',
+    appId: 'com.emeraldsequoia.chronometer.chronometer_pro',
+    url: 'https://play.google.com/store/apps/details?id=com.emeraldsequoia.chronometer.chronometer_pro&hl=en&gl=us'
+  },
+  {
+    title: 'Compass for Wear OS (Android Wear)',
+    installs: 36398,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/kgvlzdXrrrzgcwvQO_9cvtzr6JpxbOq036EER0AuqySpF6rV7dzJLTLdsZqbmSS4Tg',
+    appId: 'com.appfour.wearcompass',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearcompass&hl=en&gl=us'
+  },
+  {
+    title: 'Feel The Wear - Notifications TTS',
+    installs: 234761,
+    genre: 'TOOLS',
+    icon: 'https://play-lh.googleusercontent.com/t1rYOpoogMfTzth2zdpCGEgUiyQyJ2l2zoEqmkx7eKryDd8qPbKPNkuLjrl4iPjrY2o',
+    appId: 'sk.martinflorek.wear.feelthewear',
+    url: 'https://play.google.com/store/apps/details?id=sk.martinflorek.wear.feelthewear&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Watch face - Minimal pixel style watch face',
+    installs: 106063,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/FNsNnJiyuO78Vqeh5zeYCep8Bsb7jRRXlVcALuGfguf3yTnwnKaLj_f4FZMM5Qhv6YU',
+    appId: 'com.corvettecole.pixelwatchface',
+    url: 'https://play.google.com/store/apps/details?id=com.corvettecole.pixelwatchface&hl=en&gl=us'
+  },
+  {
+    title: 'Wear Audio Recorder',
+    installs: 726423,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/lqUofYsFkfFa2_4ruR0JAGwHaXe2mTIB15tjRr60nVGCn8D41tbeiLmKA719n_bnmhEn',
+    appId: 'com.rimidalv.dictaphone',
+    url: 'https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone&hl=en&gl=us'
+  },
+  {
+    title: 'Evander Watch Face',
+    installs: 17334,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/rbJaR9G9YRGd-eUP2CmaDKFu43ZmozeGVon5s2apI9mYHFFvP0FDhiyU0VVJhJF9LrI',
+    appId: 'watch.richface.androidwear.evander',
+    url: 'https://play.google.com/store/apps/details?id=watch.richface.androidwear.evander&hl=en&gl=us'
+  },
+  {
+    title: 'My Location: GPS Maps, Share & Save Locations',
+    installs: 9395472,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/GEF40VtYYC8vNKcKzDvB1XLhvrgBKcAfw00mlnmkUy88N5xqSE1tU-YKCZyDS5yyvQ',
+    appId: 'com.location.test',
+    url: 'https://play.google.com/store/apps/details?id=com.location.test&hl=en&gl=us'
+  },
+  {
+    title: 'GOLF NAVI PRO',
+    installs: 2591,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/olO2c_JJu3sIPl3pB8R_ajmrIoHekXDveCyZF4_-xpjQnaomDrxZvSw3k5pk-33LKw_m',
+    appId: 'com.phigolf.golfnavipro',
+    url: 'https://play.google.com/store/apps/details?id=com.phigolf.golfnavipro&hl=en&gl=us'
+  },
+  {
+    title: 'WavesTracker - Surf Track App',
+    installs: 4346,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/Zyp1Jm95Eu1pfQ7HNUdcp6AeRnvo1DKKuhwqyAf8CZMxBSyIgS4ahQQbO_uM_FUoLB8',
+    appId: 'com.wavestracker.app',
+    url: 'https://play.google.com/store/apps/details?id=com.wavestracker.app&hl=en&gl=us'
+  },
+  {
+    title: 'COL Reminder',
+    installs: 542879,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/LhiRo_21l1d3TU0r451s5GsGzO8nhoG5O-3B4AL4skb8AmeHkQJYCpBkovPdl9MDl_g',
+    appId: 'com.colapps.reminder',
+    url: 'https://play.google.com/store/apps/details?id=com.colapps.reminder&hl=en&gl=us'
+  },
+  {
+    title: 'Compax Watch Face',
+    installs: 6506,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/qxeOCZiGxLtI33yG4Z9zv6AhsOmlMUnSMqQG4-cE9NK9n2TQu2NKMe-z5WslkrAJYBE',
+    appId: 'fr.thema.wear.watch.compax',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.compax&hl=en&gl=us'
+  },
+  {
+    title: 'Galaxy Glow HD Watch Face Widget & Live Wallpaper',
+    installs: 363214,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/bIEU6b_I6-j30vofTlJXcoHYHTOc9Zr1b_TEHDw-_XapP9Xbiu4TVT2pPHMFI9gGPV8',
+    appId: 'com.denite.watchface.galaxyglow',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.galaxyglow&hl=en&gl=us'
+  },
+  {
+    title: 'Shopping List - SoftList',
+    installs: 1267417,
+    genre: 'SHOPPING',
+    icon: 'https://lh3.googleusercontent.com/MxX6dfWcO_2ywqbGOV4S7X2gNcbc0Bi1-2l-xDT6pRrGjJvbJfpVpQ2JlPt1vzwjez0',
+    appId: 'br.com.ridsoftware.shoppinglist',
+    url: 'https://play.google.com/store/apps/details?id=br.com.ridsoftware.shoppinglist&hl=en&gl=us'
+  },
+  {
+    title: 'TerraTime Pro World Clock',
+    installs: 83731,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/hhVlIynaegeAkBpiVLVZhuCaeghXE0uYX2N96IiYxQ8QQo1bG06jSs073_JX_oyFPsw',
+    appId: 'com.daylightclock.android.license',
+    url: 'https://play.google.com/store/apps/details?id=com.daylightclock.android.license&hl=en&gl=us'
+  },
+  {
+    title: 'Cyber Watch Face',
+    installs: 84712,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/bdKtq3p9wpWQzWwp3hb0YzvZUI1PRCDwEjUjySvC2H1-6HARuNzzfn-Eo6YGuGlk_m4',
+    appId: 'watch.richface.androidwear.cyber',
+    url: 'https://play.google.com/store/apps/details?id=watch.richface.androidwear.cyber&hl=en&gl=us'
+  },
+  {
+    title: 'Krona Sunlight Watchface',
+    installs: 20797,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/vu-SU7vRDxmZzXefXSEFjeHSOiU3no6QMZs4lA8z9X85hu9qb8rGdSFihRA9UoGnJw',
+    appId: 'net.marscity.sunlight',
+    url: 'https://play.google.com/store/apps/details?id=net.marscity.sunlight&hl=en&gl=us'
+  },
+  {
+    title: 'Multi Calculator',
+    installs: 1425856,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/b5NRmuohsMka5eO_csR4AyM5Aluc0NzsYegFJEU040ONmw77_ie8spIIULVzoDyN95A',
+    appId: 'com.jee.calc',
+    url: 'https://play.google.com/store/apps/details?id=com.jee.calc&hl=en&gl=us'
+  },
+  {
+    title: 'Manager Watch Face',
+    installs: 282722,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/MZsHDyoFFKtkSHbt6aq1GHX_aq3fJRkQ5ULMzgbjKGmLyMkf05Ns-nVTWHHyh9v1NhU9',
+    appId: 'com.rawleeks.manager',
+    url: 'https://play.google.com/store/apps/details?id=com.rawleeks.manager&hl=en&gl=us'
+  },
+  {
+    title: 'File Manager Pro for TV Wear Cloud USB OTG Cast',
+    installs: 64641,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/OVzbC0du4dvBN_zz404aLcgMIvW_YWNMXSrlZ_LzkX-TLflGAI2OBn_mzxgEzttaX5L3',
+    appId: 'dev.dworks.apps.anexplorer.pro',
+    url: 'https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Wear Stand-up Alert +Watchface complication bubble',
+    installs: 6042,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/mM8q6v3e8FWWHgLUN9vhJKsESumcqadgWC5ahDaNTPYMBUzgF239YoJGGPftl__Qxw',
+    appId: 'dyna.logix.wear.inactivity.tracker.stand.up.alert',
+    url: 'https://play.google.com/store/apps/details?id=dyna.logix.wear.inactivity.tracker.stand.up.alert&hl=en&gl=us'
+  },
+  {
+    title: 'GACW - 2FA TOTP Auth Client for Wear',
+    installs: 2808,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/vIf2IHJtUz1qSLcKia3JQcpIeOCRj8qaA_hqRMbhB8exD6mSHpAJMHDqQjLjuQ6R2neM',
+    appId: 'info.gryb.gacw',
+    url: 'https://play.google.com/store/apps/details?id=info.gryb.gacw&hl=en&gl=us'
+  },
+  {
+    title: 'Notification Icons Watch Face Complications',
+    installs: 1546,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/4qxLKSZ_DQeZo19s5WhXXpmHAsrKvLZBwsHf6V85vTj3AF-4ohmH7d3gaMfMWjGNPw',
+    appId: 'dynalogix.bubblecloud.themepack11',
+    url: 'https://play.google.com/store/apps/details?id=dynalogix.bubblecloud.themepack11&hl=en&gl=us'
+  },
+  {
+    title: 'Find my phone',
+    installs: 2284668,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/OWc02oWyPVwps_jjKZWkc3MoCWhRVCnQ9vHiaNuNMkapAETKwdVjyPvcfKzOAOTWFGQ',
+    appId: 'com.ua.makeev.antitheft',
+    url: 'https://play.google.com/store/apps/details?id=com.ua.makeev.antitheft&hl=en&gl=us'
+  },
+  {
+    title: 'BeSoccer - Soccer Live Score',
+    installs: 28995603,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/7Xl3vh-lLAa0RgPaflSDmHLRQrMbOW4cVpW6di_RSXAbtZRR1SbVBj6yWHEoljMccVc',
+    appId: 'com.resultadosfutbol.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.resultadosfutbol.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'UV Index Now 🌞 Forecast & Sun Tracker - UVI Mate',
+    installs: 145451,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/lOSptST2pyksHbg0mYfBo1-boGcsR_GebIuyRsPfYPv64OZD8lDgThONG4KYRrxKCUM',
+    appId: 'au.com.aershov.uvmate',
+    url: 'https://play.google.com/store/apps/details?id=au.com.aershov.uvmate&hl=en&gl=us'
+  },
+  {
+    title: 'Hub Watch Face',
+    installs: 51683,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/EnqGs9hjNrv3qQPjt3nTZuCN4NsDJCIJlrXOyi6-aPrxrXomqSMZGhereUNn-beWgvW8',
+    appId: 'ch.sooon.hub',
+    url: 'https://play.google.com/store/apps/details?id=ch.sooon.hub&hl=en&gl=us'
+  },
+  {
+    title: 'TreadR - Treadmill HIIT Smart Cardio Coach',
+    installs: 19101,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/p6dUtgoE4ZIbFhWdg9zlo00GjJyr-Hogrl3DEPcWr-a5YG7fDgH-XcHUzKMIATFBnQ',
+    appId: 'com.denite.runwithtreadr',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.runwithtreadr&hl=en&gl=us'
+  },
+  {
+    title: 'Venom Watch Face & Clock Widget',
+    installs: 285122,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/qfil2Ob7QJf7f_Z3PsiKjdZKQDFYs5ApAFBJ5lIeBzebfCqWNr5IINOH3JGtXr1wuA',
+    appId: 'fr.thema.wear.watch.venom',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.venom&hl=en&gl=us'
+  },
+  {
+    title: 'Float It ᴾᴿᴱᴹᴵᵁᴹ',
+    installs: 67295,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/FvUNLpchmt5LRXLQZ-PdxsKIiYBVwG0A4mMmzsVv54uarm2PqEvsemnwBdFR5wkoQqE',
+    appId: 'net.geekstools.floatshort.PRO',
+    url: 'https://play.google.com/store/apps/details?id=net.geekstools.floatshort.PRO&hl=en&gl=us'
+  },
+  {
+    title: 'Ultimate Watch 2 watch face',
+    installs: 22283,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/djsk9z5l5LMyuafGx3O1YIocV1qMPO280ClwqBPokrqWN9X4_AG1FWjxtVf736sDJQo',
+    appId: 'net.stefano.stefanoface2',
+    url: 'https://play.google.com/store/apps/details?id=net.stefano.stefanoface2&hl=en&gl=us'
+  },
+  {
+    title: 'App in the Air - Personal travel assistant',
+    installs: 474236,
+    genre: 'TRAVEL_AND_LOCAL',
+    icon: 'https://lh3.googleusercontent.com/vM57XIrRfbK6e8YtNcN1KsrCnak_FgrE7urERu13xy2EJvv6WzzCkFmRlLm2cBErLA',
+    appId: 'com.aita',
+    url: 'https://play.google.com/store/apps/details?id=com.aita&hl=en&gl=us'
+  },
+  {
+    title: 'Texpert SMS',
+    installs: 2896,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/vi0CePR-baiYHgyDIjEqDltmpzxtBa2XV_iXwtLcnJ8BkWU8sysObfCCZruT1VdBsNc',
+    appId: 'com.nick.mowen.texpert',
+    url: 'https://play.google.com/store/apps/details?id=com.nick.mowen.texpert&hl=en&gl=us'
+  },
+  {
+    title: 'NOAA Weather & Tides',
+    installs: 910412,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/48eZ1oeqC4rV8eB-mybbNJXrCzEob5PV7V_6ojfkq9e5YSVqgySytS_Q0D1C2p9zlWY',
+    appId: 'pandamonium.noaaweather',
+    url: 'https://play.google.com/store/apps/details?id=pandamonium.noaaweather&hl=en&gl=us'
+  },
+  {
+    title: 'Dictionary : Word Definitions & Examples - Erudite',
+    installs: 1813222,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Zy4hIAkDr-jysfo-baQWd3GVbQOGdvdP_n1tQYEtHQ7uM6bstjh-FgkCEbwl2KDrx5A',
+    appId: 'com.erudite.ecdict',
+    url: 'https://play.google.com/store/apps/details?id=com.erudite.ecdict&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Cloud Premium Key',
+    installs: 3955,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/R9d_ZZS5RWCvi_9mgTGuqSfCpnc3exhcq1_ORYyRr2OKQkoitNYZJpcMqqphNeJwj0M',
+    appId: 'dyna.logix.bookmarkbubbles.key',
+    url: 'https://play.google.com/store/apps/details?id=dyna.logix.bookmarkbubbles.key&hl=en&gl=us'
+  },
+  {
+    title: 'Black Metal HD Watch Face Widget & Live Wallpaper',
+    installs: 692798,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/Tbvfsvl6BhbZN7cl7Kyp7otH01w8xxIdpTSmyqpIz-CspYrBJmQAqUnQ54ofmwbC6041',
+    appId: 'com.denite.watchface.blackmetal',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.blackmetal&hl=en&gl=us'
+  },
+  {
+    title: 'Leo Geomatch with Wear OS',
+    installs: 1297,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/IHo4EhhyktveFSOQrGL5pN7nE3M1H14i5Rq-qKRT8r99ON7fOvUDpFO6mAEqVakUOw',
+    appId: 'com.Csky.Leo_Geomatch',
+    url: 'https://play.google.com/store/apps/details?id=com.Csky.Leo_Geomatch&hl=en&gl=us'
+  },
+  {
+    title: 'Altimeter for Wear OS (Android Wear)',
+    installs: 27573,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/T8nUGxz3cNelBcJiawVUD07WghsWi6oqQUES3zrNuApvgoE4se4hR_UjbU_I2CCe_BA',
+    appId: 'com.appfour.wearaltimeter',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearaltimeter&hl=en&gl=us'
+  },
+  {
+    title: 'Moon Calendar Watch',
+    installs: 4012,
+    genre: 'TRAVEL_AND_LOCAL',
+    icon: 'https://lh3.googleusercontent.com/usrmSHBqHTUIVx1ikMtDOefl1cq27yiWwx1_-0URPGqmVqALDUuXrF8MiooBVn8ZNvE',
+    appId: 'com.appmosaic.moonwatch',
+    url: 'https://play.google.com/store/apps/details?id=com.appmosaic.moonwatch&hl=en&gl=us'
+  },
+  {
+    title: 'Master Watch Face & Clock Widget',
+    installs: 325330,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/pVytB7ttA23wglknRgDIbdwTkZajrWEAjGrXT_Grviyez3KgH5NDgi6p8ySIQTwAD4o',
+    appId: 'fr.thema.wear.watch.master',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.master&hl=en&gl=us'
+  },
+  {
+    title: 'Primary Watch Face',
+    installs: 215372,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/J2K-5ocOr_dk77VofDfJjnwczs3u-Lg10DjcYjqYhX83IjzOoHBIxquP3A2S74fSrg',
+    appId: 'com.rawleeks.primarypremium',
+    url: 'https://play.google.com/store/apps/details?id=com.rawleeks.primarypremium&hl=en&gl=us'
+  },
+  {
+    title: 'ParKing Premium: Find my car - Automatic',
+    installs: 5288,
+    genre: 'MAPS_AND_NAVIGATION',
+    icon: 'https://lh3.googleusercontent.com/zkpJkJMoAsdq95ILD5LFNhKvz01eTfPUG4iHeVO1_-Wma_WyQR9BGKU4rY_j7e1JAA',
+    appId: 'il.talent.parking.premium',
+    url: 'https://play.google.com/store/apps/details?id=il.talent.parking.premium&hl=en&gl=us'
+  },
+  {
+    title: 'Wear App Manager',
+    installs: 27980,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/p-QP34hANbeNOYw6zN4_9VOI4g1Ds7QcceP7QjFdjF7EiHDT2oZB8hM3qkvgC_6p2xc',
+    appId: 'com.wearappmanager',
+    url: 'https://play.google.com/store/apps/details?id=com.wearappmanager&hl=en&gl=us'
+  },
+  {
+    title: 'Willow - Photo Watch face',
+    installs: 432842,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/5ru8gMFa074JhT6_UEnKj_aWkzDZXk1nLPCZYnvydzxLjA2ZtsiKRuj_EF52thA9BnX5',
+    appId: 'com.ammarptn.willow.digital.watch.face',
+    url: 'https://play.google.com/store/apps/details?id=com.ammarptn.willow.digital.watch.face&hl=en&gl=us'
+  },
+  {
+    title: 'Watchface Builder For Wear OS (Android Wear)',
+    installs: 124194,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/P7htgceF7dNy33_MKxgdrT-6MwseZqi8TNAjrEZYJsKRSzlLS0Ff1xUypChjC_GoJg',
+    appId: 'wearablesoftware.wearwatchfacebuilder',
+    url: 'https://play.google.com/store/apps/details?id=wearablesoftware.wearwatchfacebuilder&hl=en&gl=us'
+  },
+  {
+    title: 'Wrist Radio',
+    installs: 861,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/zGJhpGiiMLnOnlPnolzpU0z5s3uAp2mSeCbx0y-DsY4v6FUKwiyXTN9SvbxxeYdRU64',
+    appId: 'com.drewapps.android.wearable.wristradio',
+    url: 'https://play.google.com/store/apps/details?id=com.drewapps.android.wearable.wristradio&hl=en&gl=us'
+  },
+  {
+    title: 'Destroy Watch Face',
+    installs: 85984,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/jM0H1vmA2IC5Qr3osV6CMkrx9kH9PlQRmeEQUGlHkvxzkM2Nb9Pml-U0zW55UxLw',
+    appId: 'fr.thema.wear.watch.destroy',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.destroy&hl=en&gl=us'
+  },
+  {
+    title: 'Weather XL PRO',
+    installs: 22821724,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/4tGGMzzRxZ9zJrs3dE2uf94ZIeu0KXEe9OMMlfW5IaTYxNguhqZ8pMW4UDQgMSwwM1c',
+    appId: 'com.exovoid.weather.app',
+    url: 'https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en&gl=us'
+  },
+  {
+    title: 'Watch Face - Halloween Spooky',
+    installs: 17853,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/gI6_ALAoFJ8G-RHXkYMuFq7gEWDpkg9hUnfgCcdiYR9rA2mfK6T0_vHfafUUAMVvJ5c',
+    appId: 'com.smartartstudios.halloweensfree.interactive.watchface',
+    url: 'https://play.google.com/store/apps/details?id=com.smartartstudios.halloweensfree.interactive.watchface&hl=en&gl=us'
+  },
+  {
+    title: 'Skull Wear Watch Face',
+    installs: 23900,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/1d0kg9K8nmRe4HVs8rHXnUWUQ3pY25653HJGpoaFW9PFWlCsqR3MW8ssp5YbM_brhIw',
+    appId: 'fr.thema.wear.watch.skull',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.skull&hl=en&gl=us'
+  },
+  {
+    title: 'Calculator',
+    installs: 6031523,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/FpQXb3fjRebih0ZMiuXK4NuWARD4zyG-5un8UYDoM0ha7IBOE9iqBtZYbxpV2kKB6w',
+    appId: 'com.android2.calculator3',
+    url: 'https://play.google.com/store/apps/details?id=com.android2.calculator3&hl=en&gl=us'
+  },
+  {
+    title: 'Stopwatch for Wear OS (Android Wear)',
+    installs: 69832,
+    genre: 'SPORTS',
+    icon: 'https://lh3.googleusercontent.com/zBOVW0wHJiPJI4PfWUrjXar0ZLOX67dVDJJlqSEM5xLOKRoSNjp8FILqzRKGjYQ39nk',
+    appId: 'com.appfour.wearstopwatch',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearstopwatch&hl=en&gl=us'
+  },
+  {
+    title: 'Documents for Wear OS (Android Wear)',
+    installs: 198388,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/UWrp9T_GEYk2f0L_tVByn-v-laHXtb8w_YP7uy_BLcka6P4RyY1wPPUsoLvFo7yZEdk',
+    appId: 'com.appfour.weardocuments',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.weardocuments&hl=en&gl=us'
+  },
+  {
+    title: 'WearMedia-Music player, Webradio - also for Wear',
+    installs: 467319,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/FYFKb-HctwrFl08GLOJRa0qAEug5R_Sw-TRjD1YFVP_vpYIavPhSGCb51ieNYfln2gQ',
+    appId: 'qubin.de.wearmedia',
+    url: 'https://play.google.com/store/apps/details?id=qubin.de.wearmedia&hl=en&gl=us'
+  },
+  {
+    title: 'Weather Black Premium Watch Face',
+    installs: 22040,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/Qt7vmpuWinUI4FHRuxKvXn2qDGjs0A0sGlsjfgYuXKUg6h4kjeQqg3-qkfxJancoSA',
+    appId: 'ch.sooon.weatherblack',
+    url: 'https://play.google.com/store/apps/details?id=ch.sooon.weatherblack&hl=en&gl=us'
+  },
+  {
+    title: 'Compass Level & GPS',
+    installs: 3746866,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/xxkOIPHQN5vSshxlhQLxGDHmK4x5FRmgJJA4q7rlim_ItqPI6XRwg9jLlIC0maqhh7c',
+    appId: 'com.jee.level',
+    url: 'https://play.google.com/store/apps/details?id=com.jee.level&hl=en&gl=us'
+  },
+  {
+    title: 'File Manager Android TV Cast Root Cloud Explorer',
+    installs: 376893,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/d53HSSWkk8SMVkWjjp18bqz1Iy4SEoER4xRhb2k514-ACMUPLVfo6pO8OYJGbLoCg70',
+    appId: 'dev.dworks.apps.anexplorer',
+    url: 'https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer&hl=en&gl=us'
+  },
+  {
+    title: 'Keyboard Designer: Create and design keyboards',
+    installs: 31662,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/vJA6oXYqFgrff6h4z7ocSDn9wEmIx9JgV_V8ykmXApyydiXRNMcAoaBBRz72zU2Xx6I',
+    appId: 'de.humbergsoftware.keyboarddesigner',
+    url: 'https://play.google.com/store/apps/details?id=de.humbergsoftware.keyboarddesigner&hl=en&gl=us'
+  },
+  {
+    title: 'Weather for Wear OS (Android Wear)',
+    installs: 93154,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/xECMnwl9updsyVRYPHRlLMLHcs60g7dpWyXmWzGzEj3n0vgVD23vjet1WGR8xme7SA',
+    appId: 'com.appfour.wearweather',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearweather&hl=en&gl=us'
+  },
+  {
+    title: 'Slideshow Photo Watch Face (Wear OS)',
+    installs: 14730,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/1ka40y2HqSLFUu1eTwtlUSrsOcS9Ox0zmhqwDePkyVkqMcpK2Lu5m9bxrcCL8iLylCo',
+    appId: 'de.Bit_Bite.SlideshowWatchface',
+    url: 'https://play.google.com/store/apps/details?id=de.Bit_Bite.SlideshowWatchface&hl=en&gl=us'
+  },
+  {
+    title: 'Runmore 5K Trainer (with Wear) - Easy Running',
+    installs: 55905,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/5xS6XKM08R9hS4nmhs3VdXWLfmlZ8R5MUp0oNoluXe757dDpDneewwswXCX4aAiulQ',
+    appId: 'com.runmore.fivektrainer',
+    url: 'https://play.google.com/store/apps/details?id=com.runmore.fivektrainer&hl=en&gl=us'
+  },
+  {
+    title: 'Duality Watch Face & Clock Widget',
+    installs: 87071,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/MxoYhwiNjffPBnEtFRJAR_IhnLxCaEgGplWnsVvjv8iSEi_sk-PNRgL4kVGFLj8Uamg',
+    appId: 'fr.thema.wear.watch.duality',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.duality&hl=en&gl=us'
+  },
+  {
+    title: 'NavMusic - Wear OS Offline Music Media Nav Music',
+    installs: 16061,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Av_29q66z24DwPgK9NWPQ8xGODyxnm22ZAdmCVvaE1EiTYrJ98tzFpAVIMJmrTdXsiuE',
+    appId: 'com.turndapage.navmusic',
+    url: 'https://play.google.com/store/apps/details?id=com.turndapage.navmusic&hl=en&gl=us'
+  },
+  {
+    title: 'SKGear - secret voice recording',
+    installs: 89,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/nzqDmtg15CFOGx0ecA8SmDKLiO94EFFq-oDclGeipwczuMg3m_vjGUEKKbzD3PhqFQ',
+    appId: 'swamp.software.skg_ear',
+    url: 'https://play.google.com/store/apps/details?id=swamp.software.skg_ear&hl=en&gl=us'
+  },
+  {
+    title: 'HuskyDEV Atlas Watch Face',
+    installs: 73791,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/W72Y4ycrGJwsJhNtZOCi7LwtuIOGcjNTliH53EHnhuAq-vP6-chGB72HxDrPc9rEnbJG',
+    appId: 'huskydev.android.watchface.atlas',
+    url: 'https://play.google.com/store/apps/details?id=huskydev.android.watchface.atlas&hl=en&gl=us'
+  },
+  {
+    title: 'Medical Terminology Dictionary:Search&Vocabulary',
+    installs: 2636184,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/AMeQcC71pm8XIg6545FEfFZbDP3It74uueUP5b2pHfRVbcf7HoMLwTH6-nUOlNKFaQ',
+    appId: 'com.medicalgroupsoft.medical.directorymedtermsmultilang.free',
+    url: 'https://play.google.com/store/apps/details?id=com.medicalgroupsoft.medical.directorymedtermsmultilang.free&hl=en&gl=us'
+  },
+  {
+    title: 'Wi-Fi Manager for Wear OS (Android Wear)',
+    installs: 232014,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/oifx8FVoxo-dsAY8yxAqBCgwJ2kjjki5Isu1NT3j-ZK88aQwlUBwPd2GMegollgqNg',
+    appId: 'com.appfour.wearwifi',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearwifi&hl=en&gl=us'
+  },
+  {
+    title: 'Pilot One Watch Face',
+    installs: 59061,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/OEV_pzzGWO09Xz6zuAhyr1z7aAJQUL1uNrDJ20KPHsJCH_llMeXY36-7rYlmLEKW4f4',
+    appId: 'ch.sooon.pilot',
+    url: 'https://play.google.com/store/apps/details?id=ch.sooon.pilot&hl=en&gl=us'
+  },
+  {
+    title: 'Minicon watchface by Tiburon',
+    installs: 14,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/kLmJVfwKS4roZRwKdwGXuonUdss0dg7cmkwhrjLq2th1VKNDNBIOMnRKxFAj8PCaIzw',
+    appId: 'dd.watchdesigner.minicong',
+    url: 'https://play.google.com/store/apps/details?id=dd.watchdesigner.minicong&hl=en&gl=us'
+  },
+  {
+    title: 'Feisar Watch Face',
+    installs: 258951,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/_7TQinVItNKOn3NeVuZxVcmS1BIjnVl2C5xlAz8BaSxQ5t3EJ8iLS_9oB8jiFlWdmD8',
+    appId: 'fr.thema.wear.watch.feisar',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.feisar&hl=en&gl=us'
+  },
+  {
+    title: 'Wear Speaker for Wear OS (Android Wear)',
+    installs: 248057,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/Z5yhBQBJTSJVe5veJgaK-9p29hXm7Kv8LKF2oN0hDnsToj4wTcQbirR94XVpH4Lt5a5d',
+    appId: 'wearableloudspeaker.com.wearableloudspeaker',
+    url: 'https://play.google.com/store/apps/details?id=wearableloudspeaker.com.wearableloudspeaker&hl=en&gl=us'
+  },
+  {
+    title: 'Weather Maven for Wear OS',
+    installs: 1192,
+    genre: 'WEATHER',
+    icon: 'https://lh3.googleusercontent.com/Y3UkKx-szFU3U5T3Mh-UNeNvBcyXL_8S6W7TBM7lH_m9Pn_CnSUGiL3YdLEyElVojdA',
+    appId: 'com.onestudio.henry.weathermavenforwearos',
+    url: 'https://play.google.com/store/apps/details?id=com.onestudio.henry.weathermavenforwearos&hl=en&gl=us'
+  },
+  {
+    title: 'Chrono Dual Watch Face & Clock Live Wallpaper',
+    installs: 3109,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/VBxhEQjfAd3gjQzR233oDzBZDFoVVvZjXEdmHAhgtl4Hmb7Gvy4KiDJ3NOohsS2c7A',
+    appId: 'com.smartartstudios.chrono.interactive.watchface',
+    url: 'https://play.google.com/store/apps/details?id=com.smartartstudios.chrono.interactive.watchface&hl=en&gl=us'
+  },
+  {
+    title: 'Splinter Watch Face & Clock Live Wallpaper',
+    installs: 3631,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/yeyTTvKmd6dLFDNj3MjW7DBqracKoUbRSsq2DL5rvFKsB6m65qJbX0i2Z3I9izf9oMU',
+    appId: 'com.smartartstudios.splinter.interactive.watchface',
+    url: 'https://play.google.com/store/apps/details?id=com.smartartstudios.splinter.interactive.watchface&hl=en&gl=us'
+  },
+  {
+    title: 'Material Shadow HD WatchFace Widget Live Wallpaper',
+    installs: 17472,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/P_qaO7ot1D6dFSu2bMLfhQPz719fr2_6-H0q_lJaKwMOEhcmbqIAvfxsxb2J5vuYRw',
+    appId: 'com.denite.watchface.materialshadow',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.materialshadow&hl=en&gl=us'
+  },
+  {
+    title: 'Metallic Mesh HD WatchFace Widget & Live Wallpaper',
+    installs: 20816,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/XKgvZrN1lv8XXFcPqLyujGMxsBYfmmT0OWyefvJwchlaKvNyRHd5j2YAe-jiMNbV2qsP',
+    appId: 'com.denite.watchface.metallicmesh',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.metallicmesh&hl=en&gl=us'
+  },
+  {
+    title: 'Ultra Watch Face',
+    installs: 470348,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/pDTd8fZxP1H3hDfpVzwxSUjJgsSD8iAMT_t3PRGW4dOCyprJRlTac89-Vv46AqVmEGg',
+    appId: 'com.watch.richface.ultra',
+    url: 'https://play.google.com/store/apps/details?id=com.watch.richface.ultra&hl=en&gl=us'
+  },
+  {
+    title: 'Black Glass HD Watch Face Widget & Live Wallpaper',
+    installs: 4386,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/i3KI6wY_gidpXRP6OkQf8m-6b8SkhFAQDPST3qPo93rTbkMRtJFUZzd7vxuHS023VA',
+    appId: 'com.denite.watchface.blackglass',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.blackglass&hl=en&gl=us'
+  },
+  {
+    title: 'Neon Lights HD Watch Face Widget & Live Wallpaper',
+    installs: 37068,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/ORg6yJxf-WsBxNvshQ67TXPO8IW_gTdhlypry8Cw1TkX-JkLCbn9Nb02MsqmODEC93M',
+    appId: 'com.denite.watchface.neonlights',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.neonlights&hl=en&gl=us'
+  },
+  {
+    title: 'Roboxic HD WatchFace Widget Live Wallpaper',
+    installs: 938,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/cjqTDpgBHUgxHowVmqI06BLQSn01nsEHnbh51TyTPiM90u_DVYHQIs7uDPrpIi8r9PA',
+    appId: 'com.denite.watchface.roboxic',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.roboxic&hl=en&gl=us'
+  },
+  {
+    title: 'Broadlink RM Plugin Lite',
+    installs: 73174,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/5E0hyA9QcwYcsdiy7_TqRF_ZQaWk9JYnitdmQ_RfeBaMv6rC-AiUI0hgZ8wy2MRQG3YD',
+    appId: 'us.originally.rm_trial',
+    url: 'https://play.google.com/store/apps/details?id=us.originally.rm_trial&hl=en&gl=us'
+  },
+  {
+    title: 'Loop Watch Face',
+    installs: 15086,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/gJkymTAVMRnNEbZ46WgTz0tm9FDI4Dpd3DWoncR6OHRD0ciXDH0Ck_QHukj4sCiZrPc',
+    appId: 'ch.sooon.loop',
+    url: 'https://play.google.com/store/apps/details?id=ch.sooon.loop&hl=en&gl=us'
+  },
+  {
+    title: 'Calendar for Wear OS (Android Wear)',
+    installs: 215393,
+    genre: 'PRODUCTIVITY',
+    icon: 'https://lh3.googleusercontent.com/kM185PZtI6KhDCGkHqZZfAcKMbcKsbF8WuRnczsQoqJzYwEDjyelBJY8nNo1-MSH2Xg',
+    appId: 'com.appfour.wearcalendar',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearcalendar&hl=en&gl=us'
+  },
+  {
+    title: 'Fit Companion',
+    installs: 6473,
+    genre: 'HEALTH_AND_FITNESS',
+    icon: 'https://lh3.googleusercontent.com/zgGlZLy1yAyWKG_BmEdnnXQn18B5peYeipjEwsVfWxErgc687DKolJ0byT3hzjOo9cM',
+    appId: 'net.stefano.fitbrowser',
+    url: 'https://play.google.com/store/apps/details?id=net.stefano.fitbrowser&hl=en&gl=us'
+  },
+  {
+    title: 'Morphing Watch Face',
+    installs: 17802,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/ymgzH0pyTsS8YaMhvj2siilJ_Xq1lA2FVIt1KFbtWXrcPYO_DlsUB4uVa0udGDRDqf0',
+    appId: 'fr.thema.wear.watch.morphing',
+    url: 'https://play.google.com/store/apps/details?id=fr.thema.wear.watch.morphing&hl=en&gl=us'
+  },
+  {
+    title: 'Comic Pow HD Watch Face Widget & Live Wallpaper',
+    installs: 22051,
+    genre: 'PERSONALIZATION',
+    icon: 'https://lh3.googleusercontent.com/EYUsHor55WXFQAKcfSvZMTC4_RP-rsshT3EW79CsLibrkqxKBthJY2x2PJ04TSEyVA',
+    appId: 'com.denite.watchface.comicpow',
+    url: 'https://play.google.com/store/apps/details?id=com.denite.watchface.comicpow&hl=en&gl=us'
+  },
+  {
+    title: 'Dolce Gusto Timer',
+    installs: 1683,
+    genre: 'TOOLS',
+    icon: 'https://lh3.googleusercontent.com/HoQBMZIhjP2MhpWLNqD1s2qcwkqO-IuBgP2dWiwjUxksET6sSeNk5IMdiXvVlVtNb3Dk',
+    appId: 'com.dolcegusto.activity',
+    url: 'https://play.google.com/store/apps/details?id=com.dolcegusto.activity&hl=en&gl=us'
+  }
+]

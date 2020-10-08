@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Fishdom',
+    installs: 173101676,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/pDNHkjuGqHfy7MYCbWaOY-xQ313IByZy_E4lhHrYRaINsPl14afoCHjL1wo-nG_HpRY',
+    appId: 'com.playrix.fishdomdd.gplay',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay&hl=en&gl=us'
+  },
+  {
+    title: 'Toon Blast',
+    installs: 69781416,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU',
+    appId: 'net.peakgames.toonblast',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Dragons!',
+    installs: 33632470,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/VLSpb0n8MfeN-A3pbenzhb4bJjHoL3nhkV9PUbDXccGZ21TypCz4LYfDS7Soa6RrjGBM',
+    appId: 'com.gramgames.mergedragons',
+    url: 'https://play.google.com/store/apps/details?id=com.gramgames.mergedragons&hl=en&gl=us'
+  },
+  {
+    title: 'Lily’s Garden',
+    installs: 22223938,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/1UOZFVJKIvBpFdKD8PzjEBgu2tNED_Z6zmDs3mGaoRfrCaKVyDLtDEG0uQW_rBWf49M',
+    appId: 'dk.tactile.lilysgarden',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=en&gl=us'
+  },
+  {
+    title: 'Empires & Puzzles: Epic Match 3',
+    installs: 48670742,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iY7Xt4dJvRlElVyvqdjP2XpKNPTThzeZUWe0Rw1NRaQJAWKMY3TQSZMge2E1kmCJNbg',
+    appId: 'com.smallgiantgames.empires',
+    url: 'https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=en&gl=us'
+  },
+  {
+    title: 'Matchington Mansion',
+    installs: 80669222,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3ZEmq-x7qYcMONLA_KbWXv_OqDzg40dI4SFkBWfbL1HdztUjRi2j3T4ACBQ_YZh6uBQy',
+    appId: 'com.matchington.mansion',
+    url: 'https://play.google.com/store/apps/details?id=com.matchington.mansion&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Blast',
+    installs: 83003519,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/uzIGk-ZqUpbSdTErg6fr4wagWHmj_ul9Bw7ZtNqZvOqnM6xgdXnqsl8GKg2u9U0Y',
+    appId: 'net.peakgames.amy',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.amy&hl=en&gl=us'
+  },
+  {
+    title: 'Clockmaker',
+    installs: 16327936,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/akvp0cVVkVrGVCUk1SbaGv6r4DfaskhT87ilcDDIZM4S_U6YoYx7ZGFQssHP8JiPRZg',
+    appId: 'com.belkatechnologies.clockmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.belkatechnologies.clockmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Witch 3 Saga',
+    installs: 79440906,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/BKnqdjEBmdShb30ikoExkv0x2zlUoer0iHB6i5IYvM54FhcEoUOoYiqFRzSm-uyjO10',
+    appId: 'com.king.bubblewitch3',
+    url: 'https://play.google.com/store/apps/details?id=com.king.bubblewitch3&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Jam™ Match 3 Games | Connect 3 or More',
+    installs: 57010869,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iD9MK5Pi0_xid1QgN4vaDXbPEOpkqdTGLlFkRh47I3Wn5Eo0id1Gvyl6o7PhTSKg_QY7',
+    appId: 'air.com.sgn.cookiejam.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Magic!',
+    installs: 7051459,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/I8HUb4lClqT8mTKREJBo0dtkcePW752Txr__hQvTneQlCJCVfpSbyBR-MgpWc19E5A',
+    appId: 'com.gramgames.mergemagic',
+    url: 'https://play.google.com/store/apps/details?id=com.gramgames.mergemagic&hl=en&gl=us'
+  },
+  {
+    title: 'EverMerge',
+    installs: 3320149,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DqBt71ij5WPf5y-x8bINtDwAHy8OBB7cmO9lxJrZ4f_b9i-HyM327wT9uS6vnQxNHk0',
+    appId: 'com.bigfishgames.mergetalesgoog',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.mergetalesgoog&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds Dream Blast - Toon Bird Bubble Puzzle',
+    installs: 18164402,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/YsfRYep_dOCFXJIYDU2Utngx0ts6pK8-AnRHsZFfN1DZ6B3oFMk2awYHfdNuSyqZslA',
+    appId: 'com.rovio.dream',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.dream&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Emoji Blitz',
+    installs: 14665442,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3hLw03MXfkBHkoDtt43pOcq_u1p-SsPyyL6tBb22Q3rk3Ocj2unEpRfNRFbPN0KzHA',
+    appId: 'com.disney.emojimatch_goo',
+    url: 'https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&hl=en&gl=us'
+  },
+  {
+    title: 'Harry Potter: Puzzles & Spells',
+    installs: 4156270,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/hJSHGvEzTTGlyKfKtsFUqh2vhzUhhUpws1Pff963NFrwNTVP-9XPiLMaJaHkTiGqLvA',
+    appId: 'com.zynga.pottermatch',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.pottermatch&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Jelly Saga',
+    installs: 114426021,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Xb9cwDMkfLCwMmjyft5GLRR276LkqdvekNMy7oaVpwqZs6P1mnPeisOSZhdDBm-dLA',
+    appId: 'com.king.candycrushjellysaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter: Panda Pop!',
+    installs: 59576854,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/4R8mFqU3LGFlKyP_1AmcZxNhz-38xEKw0FOdyElUPJtg9toTKnO4ofLP8FQEIKVdFQg',
+    appId: 'com.sgn.pandapop.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Sweet Escapes: Design a Bakery with Puzzle Games',
+    installs: 9194953,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/0pjMosxqifL-9tcgsZoM6m6cF0p7K5cL-qw4D8qCrkLG-249ipBVJJRtzJDT1opkGUzu',
+    appId: 'com.redemptiongames.sugar',
+    url: 'https://play.google.com/store/apps/details?id=com.redemptiongames.sugar&hl=en&gl=us'
+  },
+  {
+    title: 'The Wizard of Oz Magic Match 3 Puzzles & Games',
+    installs: 8024607,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/gaSHQXliSh9oqA3DhHYh3QNz-0czgBTadZbGZuwiA0YkgXNQo2lJDXySL7sQU5X2fQ',
+    appId: 'com.zynga.ozmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.ozmatch&hl=en&gl=us'
+  },
+  {
+    title: 'Two Dots',
+    installs: 38481106,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/bkZcOtXMXm61rHekkPBbcfHAWSCwZEqZa4NNy4jcml8s_yZDvC9cM-9ZDAGuU6qc2_JS',
+    appId: 'com.weplaydots.twodotsandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Gummy Drop! Match to restore and build cities',
+    installs: 23696394,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/uHasaEmG5RlHIQ9JL_FGav3NA9RAJ20laZYsmN2-M6us1ZGcWnGQ8H-7IxxjvrT6AQ',
+    appId: 'com.bigfishgames.gummydropgoogle',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.gummydropgoogle&hl=en&gl=us'
+  },
+  {
+    title: 'Kitten Match',
+    installs: 7296122,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/1-YKC4pJBhf34w3MVj6lSqyFaNvYC6rqJhRBfZoCvcMqXb930Je4OyelNs0f8J36ow',
+    appId: 'com.skymoons.kittenmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.skymoons.kittenmatch&hl=en&gl=us'
+  },
+  {
+    title: 'Bubbles Empire Champions',
+    installs: 4942612,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/wMh-DjGwiPNyN2zFZ41Yuuj-K_FGdAE3vFTuMtt994d5Q9DoYFpB12kgnMuc4UTCffQ',
+    appId: 'champions.empire.bubble',
+    url: 'https://play.google.com/store/apps/details?id=champions.empire.bubble&hl=en&gl=us'
+  },
+  {
+    title: 'Charm King',
+    installs: 14723437,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/fMh92SNCMG12CC8wfPZd0FCgOdDJAN6-6DJLgMMRI_o9bZ8Tvq-j7W1Qe9pdHM-kiA',
+    appId: 'net.playq.charmking',
+    url: 'https://play.google.com/store/apps/details?id=net.playq.charmking&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Jam Blast™ New Match 3 Game | Swap Candy',
+    installs: 8873242,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/r3gYYbEoOYyrf1WivTsXOZQmWD5yykPGC3y6iLYHGnTZUyDTWOmElDp1P9EQiXiCAA',
+    appId: 'air.com.sgn.cookiejamblast.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.cookiejamblast.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Manor Cafe',
+    installs: 17234212,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/rziux8zoFEBzmldvxZqLGj4AY7ghfVuBnaVpHS7aQZGBynDC6y7j2Des0mJJzh8dyXcu',
+    appId: 'com.gamegos.mobile.manorcafe',
+    url: 'https://play.google.com/store/apps/details?id=com.gamegos.mobile.manorcafe&hl=en&gl=us'
+  },
+  {
+    title: 'Small Town Murders: Match 3 Crime Mystery Stories',
+    installs: 1363661,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/SRy5zm_91PWRRuN15IgvfyhbgreiIseks3fZJREyHVQZokOkaiJxUFUr-sWRt-1C5OJV',
+    appId: 'com.rovio.smalltownmurders',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.smalltownmurders&hl=en&gl=us'
+  },
+  {
+    title: 'Genies & Gems - Jewel & Gem Matching Adventure',
+    installs: 17317161,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/mYl3mSokRavzM9cWQMV2g0WQ2knb3a7lcmV00HRcESa9IG_OCTrZVquNVrJaocxxXFo',
+    appId: 'com.sgn.geniesandgems.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.sgn.geniesandgems.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Treasure Quest',
+    installs: 10489690,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/bgoYliiFj4FP3TFp6c-GuDzSxUb7oG_eufcBHrAbmvWbxOWQgzj8xOxa9N3GvuaX_kSd',
+    appId: 'com.vizorapps.mahjong',
+    url: 'https://play.google.com/store/apps/details?id=com.vizorapps.mahjong&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzle & Dragons',
+    installs: 7999001,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/G3-WVby5Tm1XBNUtklrMROIWMxQJvDWQgUyI90JcOQQfTh19yOuFf7wouxcHXah5jOE',
+    appId: 'jp.gungho.padEN',
+    url: 'https://play.google.com/store/apps/details?id=jp.gungho.padEN&hl=en&gl=us'
+  },
+  {
+    title: 'Match 3D - Matching Puzzle Game',
+    installs: 13500521,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/gKvWG54PGeYxQaTdMcfkjCoPggYqx_uOoagYy-v8wzdH7JRLIfITQAKkX85uCcC-0XrA',
+    appId: 'com.loop.match3d',
+    url: 'https://play.google.com/store/apps/details?id=com.loop.match3d&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Pop Origin! Puzzle Game',
+    installs: 3371751,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/92pfIKhxtsYXUtXJPh3swk-Unm1X-VL7rx0-rGBtxwhV34pq1G9Y2vB59__3XLsqvQ',
+    appId: 'com.puzzle1studio.go.bubblepoporiginpuzzlegame',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Blast: Pop & Relax',
+    installs: 1666925,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/caJ_cUIG-4atGwmJ2y7cd3HrckC141BRG0UrHJXBjlT-AyqQpFGb-7iieE3uqVO0mA',
+    appId: 'com.rovio.projectcake',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.projectcake&hl=en&gl=us'
+  },
+  {
+    title: 'Traffic Puzzle',
+    installs: 1666129,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/QDHeZ0SNHKUtgCRBYEkaFnDGviNZCddjKD4bPJ_ap4pHAwSGxqAcoM-LJJdWyFLVPjc',
+    appId: 'com.picadilla.beepbeepvroom',
+    url: 'https://play.google.com/store/apps/details?id=com.picadilla.beepbeepvroom&hl=en&gl=us'
+  },
+  {
+    title: '5 Differences Online',
+    installs: 3356573,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/CnBxWSRLGsI3N-egSQohJ-89HbQ1gexeQWlXpa_GHU-4F2jgDLw_PwsVOYTuv6YNpAQ',
+    appId: 'org.smapps.find',
+    url: 'https://play.google.com/store/apps/details?id=org.smapps.find&hl=en&gl=us'
+  },
+  {
+    title: 'Sweet Blast: Cookie Land',
+    installs: 541633,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/jT1SsgnD-NVSmkdg0scGLAAII3TPJBKzZOj9bxfp7ZzQRrCyJJSesICYZkbs6W8kJTzl',
+    appId: 'com.puzzle1studio.go.sweetblast',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle1studio.go.sweetblast&hl=en&gl=us'
+  },
+  {
+    title: 'Cradle of Empires Match-3 Game',
+    installs: 5636568,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/XgVlZ3xr7RKI4XIPj9Exc1IGFnVxAjtWl9Tcz8vpillwhQp1jX3Z_zJuZWiucgfFbz4',
+    appId: 'com.awem.cradleofempires.andr',
+    url: 'https://play.google.com/store/apps/details?id=com.awem.cradleofempires.andr&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds Match 3',
+    installs: 9001849,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/vop3LhqiTrGe_bYAoq5dKRToA04nrP6KfbHh3qvRn2Att_upZLb172e4iX8IyiFgPA',
+    appId: 'com.rovio.abmatch3',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.abmatch3&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels of Rome: Match gems to restore the city',
+    installs: 1348964,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/59ghIUztHNMnupQO3aXSQP1nENp2y2JijXJ_H_f1CAtCDKe6LZLRUHryj5VaEAd1nTb3',
+    appId: 'com.g5e.romepg.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.romepg.android&hl=en&gl=us'
+  },
+  {
+    title: "Family Guy- Another Freakin' Mobile Game",
+    installs: 10217971,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/RccFXozruI1lf8NNSWrkX-2dKqmsw2Xdc7gfak2GJ7aJiccA9oWRh7Rru9Xr6erip5M',
+    appId: 'air.com.sgn.familyguy.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Gardens',
+    installs: 587908,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/YOXfEhX03f_OzhVOvY-kSRsz1wDLcpNTW8u2g6814ssfQL8eBN0zTATKnCMy_lQx3Y8m',
+    appId: 'com.futureplay.mergematch',
+    url: 'https://play.google.com/store/apps/details?id=com.futureplay.mergematch&hl=en&gl=us'
+  },
+  {
+    title: 'Gems of War - Match 3 RPG',
+    installs: 2335526,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/tleBZZJ7xqoh3uVx7uYqQGq1Ldp-L9uUR2omzD5ZAPO-V3K6P6pQa6GwGhdMhg2cbQ',
+    appId: 'air.com.and.games505.gemsofwar',
+    url: 'https://play.google.com/store/apps/details?id=air.com.and.games505.gemsofwar&hl=en&gl=us'
+  },
+  {
+    title: 'Panda Cube Smash',
+    installs: 1974024,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/GnEbc42JAz8MGYiXXuAn1dCBhgaLYl3ByqqQRs3h6t4s641AJW3yCGuPKyNFC0vApFYo',
+    appId: 'com.panda.unity.blastsaga',
+    url: 'https://play.google.com/store/apps/details?id=com.panda.unity.blastsaga&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds Blast',
+    installs: 14376594,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/aqE_iTNaCQpmwDSL9ww-Tcdl43pB7_QtM_C0etaRsPbRrDYaKHqeuFOecolDHvOrFA',
+    appId: 'com.rovio.blast',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.blast&hl=en&gl=us'
+  },
+  {
+    title: 'Design Island: 3D Home Makeover',
+    installs: 3839449,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/dM4FLN9_JDCT9883-MxGg146_e1dNXwsgMTgrtqkPfn0Jo_LoSxE2o0OzztrA3rd_Q',
+    appId: 'com.puzzle.designisland',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle.designisland&hl=en&gl=us'
+  },
+  {
+    title: 'LINE: Disney Tsum Tsum',
+    installs: 22259424,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/hA9htombGLMk3VbxSOYDgnm5dKj2mI-oUb_I-pcMHtIqRFqr0ZPLsNq7YBjp5HKrFw',
+    appId: 'com.linecorp.LGTMTMG',
+    url: 'https://play.google.com/store/apps/details?id=com.linecorp.LGTMTMG&hl=en&gl=us'
+  },
+  {
+    title: 'Park of Monster',
+    installs: 2712806,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/bF7qdQl4n6aFdzDWY7cQeivRm4knORRg_Jo64nIYMz3Zve7Qdr4_PU2LXsvQgR5kTA',
+    appId: 'com.appcpi.monsterworld',
+    url: 'https://play.google.com/store/apps/details?id=com.appcpi.monsterworld&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels Magic: Mystery Match3',
+    installs: 2354384,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iDidjYsGQRUybYqGaonal9o9ktCNPSX7ieDhrcNU9m_n8bBA-59XNLt-nWJ9Mzb6qIM',
+    appId: 'com.bitmango.go.jewelsmagicmysterymatch3',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.jewelsmagicmysterymatch3&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Pop! Puzzle Game Legend',
+    installs: 7512224,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ODdfHxr1kNNaZkGGdQOT4VeDLSTdktFC8tLUZDg1bs8859iWYV288vfTPFYk-cpcgYE',
+    appId: 'com.bitmango.go.bubblepop',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.bubblepop&hl=en&gl=us'
+  },
+  {
+    title: 'Gallery: Coloring Book by Number & Home Decor Game',
+    installs: 10690256,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/zv1N27M8ivZ8fSFd7BSgaJj5Xoe8QzewQ_I_dUTgcKYzq7iic8heladO9Hnxs_wB-yo',
+    appId: 'com.beresnevgames.gallerycoloringbook',
+    url: 'https://play.google.com/store/apps/details?id=com.beresnevgames.gallerycoloringbook&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Frozen Free Fall - Play Frozen Puzzle Games',
+    installs: 70178548,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ptzu1YTczE9Vd9e67Ce4KK51kgG2cJLBQw3UVPLnhZSd7OFoAneDTP-D9u8eXcMKabbF',
+    appId: 'com.disney.frozensaga_goo',
+    url: 'https://play.google.com/store/apps/details?id=com.disney.frozensaga_goo&hl=en&gl=us'
+  },
+  {
+    title: 'Mundus: Impossible Universe',
+    installs: 1005722,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/NGQEwek36KeNxZDrh6rff0Knbmkq_3AwUrusdgoZSecoyrRv96NU17CuPd3lZSCyAAY',
+    appId: 'com.rumbic.mundus',
+    url: 'https://play.google.com/store/apps/details?id=com.rumbic.mundus&hl=en&gl=us'
+  },
+  {
+    title: 'Merge World Above: Dragon games',
+    installs: 1241993,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/WUy-i2eEzLowWcrFpeXuA44SD699zBPzNkviGr3jgceN4j2sgnRN-rjejOg_MBEA_q2H',
+    appId: 'com.my.world.above',
+    url: 'https://play.google.com/store/apps/details?id=com.my.world.above&hl=en&gl=us'
+  },
+  {
+    title: 'Delicious B&B: Match 3 game & Interactive story',
+    installs: 1631544,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/m24W5-qPpfM7bszKV-MVrMxGL8wKboRAuOsgHWwHENvys3yt8_FFFRnFHeJAt7lQXu0',
+    appId: 'com.gamehouse.deliciousmatch3',
+    url: 'https://play.google.com/store/apps/details?id=com.gamehouse.deliciousmatch3&hl=en&gl=us'
+  },
+  {
+    title: 'Dr. Mario World',
+    installs: 7066358,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/oncf9US4mkno25-4lHCsu0yUFUlboQ9oYRe5ejkUCIBMxsu4aa7OGBrqfnKPbwi2BCE',
+    appId: 'com.nintendo.zama',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zama&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Journey: A Tile Match Adventure Quest',
+    installs: 5362509,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/CH2VWv85GWR3N3Odf75Hn-hh-Pzbg-lyg_CXNBjtbuCDJVJPayKg2WcEo4ebCx93vTI',
+    appId: 'com.g5e.mahjong.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.mahjong.android&hl=en&gl=us'
+  },
+  {
+    title: 'Bejeweled Blitz',
+    installs: 17959060,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/0iLhqzdIWoFKQJEzxmgodjYdAU4attgNfjXXBmernJjxXSEm2EpUS6vifBYqw5LMirIx',
+    appId: 'com.ea.BejeweledBlitz_na',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.BejeweledBlitz_na&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Frozen Adventures: Customize the Kingdom',
+    installs: 15529600,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Xq0KZLaSTk1_XKCaaSn7aMymFhs0BCZBGux82o4aVs-u1-IDHlsPfFK3Iy2ZzDoYsl_p',
+    appId: 'com.jamcity.blackforest_goo',
+    url: 'https://play.google.com/store/apps/details?id=com.jamcity.blackforest_goo&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket World 3D - Assemble models unique puzzle',
+    installs: 31225696,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/4aQZnzHCVLQax8SEclr_gIRHIFFHHpY5cfj-eNGxmx-9u9xmhUyl4t_gE8wXeAefEg',
+    appId: 'com.puzzle.miniworld',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle.miniworld&hl=en&gl=us'
+  },
+  {
+    title: 'NYTimes - Crossword',
+    installs: 1535623,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/rqUimThNUkzbHCSrEPS1xij48rsbZPm7JRqRagejXtpxYyDDUr5KXvx2Cd5dU8qUmEE',
+    appId: 'com.nytimes.crossword',
+    url: 'https://play.google.com/store/apps/details?id=com.nytimes.crossword&hl=en&gl=us'
+  },
+  {
+    title: 'Brick Out - Shoot the ball',
+    installs: 1026943,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/_nA2KH0Whco-2cL1zQwjbGDVWTpLgDD6Ly_bAbL4VbczS1rr6PnlXCDHSGDAOmhV3oU',
+    appId: 'com.puzzle1studio.go.brickoutshoottheball',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle1studio.go.brickoutshoottheball&hl=en&gl=us'
+  },
+  {
+    title: 'Tropicats: Match 3 Games on a Tropical Island',
+    installs: 3277503,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/EL5-xK3KLbjgT36SiHKjECG7SL7RlMomiHO2ykqxhzclTTyKHIXMA0-PnshzElEHUpA',
+    appId: 'net.wooga.tropicats_tropical_cats_puzzle_paradise',
+    url: 'https://play.google.com/store/apps/details?id=net.wooga.tropicats_tropical_cats_puzzle_paradise&hl=en&gl=us'
+  },
+  {
+    title: 'Storyngton Hall: Match 3 Games. Three in a row',
+    installs: 786928,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/fi7G8BurzFhofKRHqwyR81m3xh8ZF2U4icJIlp6OSA-08U83vLiTQalmO_N_rc0srqE',
+    appId: 'games.bit.storyngtonhall',
+    url: 'https://play.google.com/store/apps/details?id=games.bit.storyngtonhall&hl=en&gl=us'
+  },
+  {
+    title: 'Emperor of Mahjong: Match tiles & restore a city',
+    installs: 319577,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/9iqow-CY4VF-vkJN504SrrHEj9XqlwL5zDuSA-ln4R6FJmbTOOWQX8By4NyNQ68VCyA',
+    appId: 'com.g5e.jewelsofmahjong.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.jewelsofmahjong.android&hl=en&gl=us'
+  },
+  {
+    title: 'Wonder Merge - Magic Merging and Collecting Games',
+    installs: 45566,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/1yFwOc3n-RLkZCLqIANTVJNq5jCP3PnQNcrMYyksfdTEVgAgAtFTQu0yrROXbbjavI4',
+    appId: 'com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels of the Wild West: Match gems & restore town',
+    installs: 300941,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/2Ipf4uBZmMa1ytbApdzGsmFoWnDYjeAHmQWn7Wf1dLBEtExBSlo2PmxLKXt16YP4dHQ',
+    appId: 'com.g5e.jewelsofthewildwestmatch3.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.jewelsofthewildwestmatch3.android&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Mansion - Mystery Game',
+    installs: 224237,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Xlnr0LrV72Pu2rySNeC2eavREkelR6KC-l40VW4IPSwcPxv-IllLbicsAjDRUJIU2N8',
+    appId: 'com.everywear.game5',
+    url: 'https://play.google.com/store/apps/details?id=com.everywear.game5&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon & Elfs',
+    installs: 105216,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/jdmZbeeg9vL2RwFz21_0MmYWlng6HX9Mh9vzTmCprozUY6fntaj3gwa5M6ZtDHwzcek',
+    appId: 'com.morechili.mergeelf',
+    url: 'https://play.google.com/store/apps/details?id=com.morechili.mergeelf&hl=en&gl=us'
+  },
+  {
+    title: 'Simon’s Cat - Pop Time',
+    installs: 2556713,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/TdfakEdZ5Lr3LdrIosvdZ-6b1vHLXhJEbU2mrj9jBZ4062MrvsC5ONubpltrvjVrxQ',
+    appId: 'com.strawdogstudios.simonscatpoptime',
+    url: 'https://play.google.com/store/apps/details?id=com.strawdogstudios.simonscatpoptime&hl=en&gl=us'
+  },
+  {
+    title: 'Flip This House: Decoration & Home Design Game',
+    installs: 932883,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/IqwZYkO7FjhGhL44W-j2WwAfrGFLO8f4EQCQ4Zz41JJIn0LjHEEtwLWgp3xiyGuMow',
+    appId: 'flipthishouse.house.flipping.home.design.game',
+    url: 'https://play.google.com/store/apps/details?id=flipthishouse.house.flipping.home.design.game&hl=en&gl=us'
+  },
+  {
+    title: 'Ice Crush 2020 -A Jewels Puzzle Matching Adventure',
+    installs: 6046596,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/NumA3gl2laQknnHIYbsGZ1_qTm8DPi92PGY_g67iD8FJ8KaS4H0Cyakk0zAbNK3kwg',
+    appId: 'com.kudo.icecrush',
+    url: 'https://play.google.com/store/apps/details?id=com.kudo.icecrush&hl=en&gl=us'
+  },
+  {
+    title: '神魔之塔 - Tower of Saviors',
+    installs: 14372875,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/RywN5V0WIuXTGc7MIcdjSH7GzgjojUabX_gAjeSj1fQHL7ituYN9SrdVRMvK69fF6zw',
+    appId: 'com.madhead.tos.zh',
+    url: 'https://play.google.com/store/apps/details?id=com.madhead.tos.zh&hl=en&gl=us'
+  },
+  {
+    title: 'Lemmings - Puzzle Adventure',
+    installs: 5872680,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3nRtMPLWQFQ1U_GTer1OIdqcRjJcJcEMBg5CMTYgPyaB7z2LvN9m6Uy0M89i2V9DH9A',
+    appId: 'com.sadpuppy.lemmings',
+    url: 'https://play.google.com/store/apps/details?id=com.sadpuppy.lemmings&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter: Snoopy POP! - Bubble Pop Game',
+    installs: 5586718,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/J97yUiR5P90p_xOloH43Tk7vgzUzGIQDX-Nebfyh9umOOh33LJS1chmHzYyIduzT7hE',
+    appId: 'com.jamcity.snoopypop',
+    url: 'https://play.google.com/store/apps/details?id=com.jamcity.snoopypop&hl=en&gl=us'
+  },
+  {
+    title: 'Dragons: Titan Uprising',
+    installs: 4277484,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/2RzXxSWvsjYzHxNkspCk6AijH8IEKZTzLY_cbx8m3yEKSg5BAm_5QVHPfyfmaMIRDQ',
+    appId: 'com.ludia.dragon3',
+    url: 'https://play.google.com/store/apps/details?id=com.ludia.dragon3&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Smash: Book of Life - Free Match 3 Games.',
+    installs: 15523573,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/jTgOI6lS1WyLu-2jJnqzSfcs7844QVjCZB06bipSIfTAGkvWORRIgZ7Q1fd7XrOa3-70',
+    appId: 'air.com.sgn.bookoflife.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.bookoflife.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Cross-Stitch World',
+    installs: 2394163,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/KNwZtDKL8zQzf4Gv6DhPBYLgDCKO4pexuQjhCx1CTW6PQA85h3mvQkAA2SBJ9WYvHT8',
+    appId: 'com.inertiasoftware.crossstitchworld',
+    url: 'https://play.google.com/store/apps/details?id=com.inertiasoftware.crossstitchworld&hl=en&gl=us'
+  },
+  {
+    title: 'Bejeweled Stars – Free Match 3',
+    installs: 4447498,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/W7nvXkqtEvjieSKEjpKbNCmqTdZCAobrZ1y6PoMMrszP-RwslKVjSLCyuayjUgN_Kw',
+    appId: 'com.ea.gp.bejeweledskies',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.gp.bejeweledskies&hl=en&gl=us'
+  },
+  {
+    title: 'Prize Fiesta',
+    installs: 1526700,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iv82li8EG3YPcERKlJgIJn6rXBM1C5fACyf8zmUCxJYRA0WGhRNks6jnpYc7vJcJ0Hs',
+    appId: 'com.lagoonsoft.pf',
+    url: 'https://play.google.com/store/apps/details?id=com.lagoonsoft.pf&hl=en&gl=us'
+  },
+  {
+    title: 'Picture Cross - Nonogram & Picross Logic Puzzles',
+    installs: 3752892,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/FSToWZes_E8pOjp-InIH2gbnsO0hG82jDvKNWnZ2ZIclsbXSv74BnT57_kqARb2MlQ',
+    appId: 'com.appynation.wbpc',
+    url: 'https://play.google.com/store/apps/details?id=com.appynation.wbpc&hl=en&gl=us'
+  },
+  {
+    title: 'Happy Differences - Find them all',
+    installs: 141317,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/C1OXw2OWaYrh0IMHglK-ojvMRUkHbjhb3mqKbAti-8vWND2wfUViddqwqgJmW-RFYVE',
+    appId: 'com.eidoloncorp.happydiff',
+    url: 'https://play.google.com/store/apps/details?id=com.eidoloncorp.happydiff&hl=en&gl=us'
+  },
+  {
+    title: 'Simon’s Cat Crunch Time - Puzzle Adventure!',
+    installs: 4635219,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/qjqI1dpifana2JywRrx_bMSzqCfspLY5CaNQsKYe4S9qIFPLgQ0Bi2JDzikBJpz7mQ',
+    appId: 'com.strawdogstudios.simonscatcrunchtime',
+    url: 'https://play.google.com/store/apps/details?id=com.strawdogstudios.simonscatcrunchtime&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Cats Pop',
+    installs: 3084495,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/XjSyabJopG7nbVs_eHnXdSZGGY1QWZ7Rd2hx3ckMdZMcJgU8pEoPC4w3aYhoHVZTk9E',
+    appId: 'dk.tactile.cookiecatspop',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.cookiecatspop&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Jigsaw Puzzles',
+    installs: 38308011,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/x6uXf3VHuscAWFcEPZt_-a9PLbHFelj46KBkyyYmWZwzZNvYzVenDbzxmYly3oiXofo',
+    appId: 'com.bandagames.mpuzzle.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.bandagames.mpuzzle.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Fancy Blast: Puzzle in Fairy Tales',
+    installs: 1293331,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/wpgxd_kIYIueKh2A4uDBs5R011Ra-SGGP3KZZ6vCU_VZC6ulkUU53h_fcYPcARjim8A',
+    appId: 'com.fenomen.redhoodf2p',
+    url: 'https://play.google.com/store/apps/details?id=com.fenomen.redhoodf2p&hl=en&gl=us'
+  },
+  {
+    title: 'Find Differences Online',
+    installs: 311764,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/IHlB16mLYTaab9i7jWv4eetCjZE0aJBnMJDes8aHMfdPIMgxsmlSfWPSBpC5WT04w-4T',
+    appId: 'com.picturepuzzle.differencesonline',
+    url: 'https://play.google.com/store/apps/details?id=com.picturepuzzle.differencesonline&hl=en&gl=us'
+  },
+  {
+    title: 'Wood Block Puzzle - Free Classic Block Puzzle Game',
+    installs: 24998349,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iZz2_nnS-NGUWwP8_FqEBCl7o2U0PF3AYgyQMMKM1_jNCgb3SZn0g3nmuZnsDz1Ew-U',
+    appId: 'puzzle.blockpuzzle.cube.relax',
+    url: 'https://play.google.com/store/apps/details?id=puzzle.blockpuzzle.cube.relax&hl=en&gl=us'
+  },
+  {
+    title: 'Crash Fever',
+    installs: 1454922,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/tdZdExKs32vkkk36CDR0gXEKvNo385sPAoUS8uFFieuHamS4eCvkkKrRLPIVkZ4tZg',
+    appId: 'com.wonderplanet.CrashFever',
+    url: 'https://play.google.com/store/apps/details?id=com.wonderplanet.CrashFever&hl=en&gl=us'
+  },
+  {
+    title: 'Family Hotel: Renovation & love story match-3 game',
+    installs: 11940971,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3oiBad2n4Dg0bsFSQQRlwAGJ1dctRowAZo2qwztrUPIqv2CwKixJxWnP_e-lSX0QU7s',
+    appId: 'com.playflock.family.hotel.story.home.mansion.puzzle.garden.decoration',
+    url: 'https://play.google.com/store/apps/details?id=com.playflock.family.hotel.story.home.mansion.puzzle.garden.decoration&hl=en&gl=us'
+  },
+  {
+    title: 'Nonogram - Jigsaw Puzzle Game',
+    installs: 431004,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/vcQ4Nxyyj43rNJsDwbhzoE0f7QUDi4JVVlo923ePvZXzrhk1leDznV38hCGstVQvAwMF',
+    appId: 'com.yunbu.nonogram.puzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.yunbu.nonogram.puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'MonsterBusters: Match 3 Puzzle',
+    installs: 10791110,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/BffNJ_zTQEg6ahzzMf8j2eI7JgEmhUd8x9qCM4bJy6Xq9zpGkBbrm2YzUX_MyaTpHjs',
+    appId: 'com.purplekiwii.mb',
+    url: 'https://play.google.com/store/apps/details?id=com.purplekiwii.mb&hl=en&gl=us'
+  },
+  {
+    title: 'Marble Woka Woka from the jungle to the marble sea',
+    installs: 17315434,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5BJFIbSantyHTrIr2Vl9EgFS-kt6Gas364XI7KH8brI6cDHoAQu8w7Rzxd-TExM_fg',
+    appId: 'com.TwoDesperados.WokaWoka',
+    url: 'https://play.google.com/store/apps/details?id=com.TwoDesperados.WokaWoka&hl=en&gl=us'
+  },
+  {
+    title: 'Juice Jam - Puzzle Game & Free Match 3 Games',
+    installs: 22902529,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DSDfSZuYQMERXki_slFsHLSQtR2JSAcT--mslEFvnWipPQJi6Xyn0MWsyflsnbkbOLk',
+    appId: 'air.com.sgn.juicejam.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp&hl=en&gl=us'
+  },
+  {
+    title: 'My Home Design - Luxury Interiors',
+    installs: 1778792,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/E1DupKLPEDo8HVTxuwq32uli7o9qNhPuzSuuPdl_KAtDba6WKSSxnp4Jop_uKCdZqwk',
+    appId: 'com.cookapps.ff.luxuryinteriors',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.ff.luxuryinteriors&hl=en&gl=us'
+  },
+  {
+    title: 'Crazy Kitchen: Match 3 Puzzles',
+    installs: 15665676,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/yaQsNO3R3oWZWk0_GNDDRKG_eafeMnGQIg3E673LRNjx6MWIZ9Ne_ba4PGY2e5bmWsA',
+    appId: 'com.zindagigames.test',
+    url: 'https://play.google.com/store/apps/details?id=com.zindagigames.test&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzle Page - Crossword, Sudoku, Picross and more',
+    installs: 2550488,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/F2GVWAnyNujZBXA3bl4DBnvn6R1NcY7vuksWGWBUiqgP118dg8IbsgLn_alB_tZ24D8',
+    appId: 'com.appynation.puzzlepage',
+    url: 'https://play.google.com/store/apps/details?id=com.appynation.puzzlepage&hl=en&gl=us'
+  },
+  {
+    title: 'Crafty Candy Blast',
+    installs: 943911,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/wNcL7XMmH5cg3txvBPf8OFu9P7VOlQInGwDG7Fp9qFa2G85lrO_5mm2WIoLE_x7C8K8',
+    appId: 'com.outplayentertainment.craftycandyblast',
+    url: 'https://play.google.com/store/apps/details?id=com.outplayentertainment.craftycandyblast&hl=en&gl=us'
+  },
+  {
+    title: 'Aggretsuko : the short timer strikes back',
+    installs: 424856,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/izNiX604RlidBd8XDBoLMTtoSx3r2e7H44KSPkzvOFUBWO__PFQfOq6RJDS5Zr8emdc',
+    appId: 'com.hive.aggretsuko',
+    url: 'https://play.google.com/store/apps/details?id=com.hive.aggretsuko&hl=en&gl=us'
+  },
+  {
+    title: 'Dig This!',
+    installs: 52831499,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/hUYjS802yU_hMm_07ZaltjVfS09dhRjmf05yVnl4eIneGS1o9Juz-VAYC0WtA5jnhrV0',
+    appId: 'se.raketspel.digaround',
+    url: 'https://play.google.com/store/apps/details?id=se.raketspel.digaround&hl=en&gl=us'
+  },
+  {
+    title: 'Family Zoo: The Story',
+    installs: 12605699,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/2SShPjeBXHQP0y6FERAqVRcWzifGGoDqdVdTJEx2tm0zCpDrS9yfHDDsfpMPHMtFpaY',
+    appId: 'com.plarium.zoo',
+    url: 'https://play.google.com/store/apps/details?id=com.plarium.zoo&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Cloud',
+    installs: 1208979,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/AsHei0WGGU0mAGBEKcu6xMM7qdcxUxj-DbN3UT5uKyD3XRu1jomFmPZfCEHq9ze7rXQ',
+    appId: 'com.valasmedia.bubblecloudplanet',
+    url: 'https://play.google.com/store/apps/details?id=com.valasmedia.bubblecloudplanet&hl=en&gl=us'
+  },
+  {
+    title: 'Riddleside: Fading Legacy - Detective match 3 game',
+    installs: 90004,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/WyYU4GpxcoYicTKS1xBp4yPkWno18pgrZ0V-6mu0nNsNba2DTICrZSD1_9rnp2iQ_Q',
+    appId: 'com.mytona.riddleside',
+    url: 'https://play.google.com/store/apps/details?id=com.mytona.riddleside&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels of Egypt: Match Game',
+    installs: 137182,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DrsnnOGlZU68kp348rgCAY6i3orXxDzuUv5RbWIgzSn0gUU0f4eIAo8sPICnnwT-2181',
+    appId: 'com.g5e.jewelsofegypt.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.jewelsofegypt.android&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels Classic - Jewel Crush Legend',
+    installs: 29074771,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ll7vz2tZI4BFgtNzL-3GCygq0FAJ5AmWX533Xi8_mqxLg_zXZtcPn5uN7cOsPxKfMZy8',
+    appId: 'com.dysugar.jewels.prince',
+    url: 'https://play.google.com/store/apps/details?id=com.dysugar.jewels.prince&hl=en&gl=us'
+  },
+  {
+    title: 'Home Design : My Lottery Dream Home',
+    installs: 1912287,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/soA7TEkMPWb7CcRH6K90BoPOTtuczNkLjr9sNcJwcx1Dk0YQbXWFQPnw3DJjPb1u4jVX',
+    appId: 'com.cookapps.mylotterydreamhome',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.mylotterydreamhome&hl=en&gl=us'
+  },
+  {
+    title: 'Tropic Trouble Match 3 Builder',
+    installs: 2095538,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/RNlGfWjnMuefOk0gEKq06xqfOQudp48zJ9jzqUKrj9MupnD3w0jQBzXQ6zL6H-C3yrQ',
+    appId: 'air.com.qublix.tropictrouble',
+    url: 'https://play.google.com/store/apps/details?id=air.com.qublix.tropictrouble&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Bomb: Blast & Match Toy Cubes Puzzle Game',
+    installs: 3228004,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/i-r8NnJNjpTBJFX11uzaOKcKdir155IxxBl264U4YjQFwCD68TG6ONf28-Qg8N0C0A',
+    appId: 'com.toybomb.blast.cubecrush.free',
+    url: 'https://play.google.com/store/apps/details?id=com.toybomb.blast.cubecrush.free&hl=en&gl=us'
+  },
+  {
+    title: 'Flow Free',
+    installs: 194145272,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/cKgJRbFkjVAm6XkkSILGleGkT317BLLD8erTsrI1vo240a991MGJzbMryBKFG7Zw7tU',
+    appId: 'com.bigduckgames.flow',
+    url: 'https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en&gl=us'
+  },
+  {
+    title: 'Meow Match: Cats Matching 3 Puzzle & Ball Blast',
+    installs: 3212941,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/uTi5HtBGd6LKDh9n5lADJYK1ghpIxpS2RKM-mZbCAe1Ka4AMPLu9Twu4hgs1i4eB0GY',
+    appId: 'com.ember.meowmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.ember.meowmatch&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Island 2 - Pop Shooter & Puzzle Game',
+    installs: 4859984,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/mclAPp6NiiMWJ2tU8iuiixhZIky5UEpvaSC6Bm5Mi4MxEcAqWn7hv3VH9B2wQ2UN7IE',
+    appId: 'net.wooga.bubbleisland2',
+    url: 'https://play.google.com/store/apps/details?id=net.wooga.bubbleisland2&hl=en&gl=us'
+  },
+  {
+    title: 'Jellipop Match-Decorate your dream island！',
+    installs: 22752578,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/TMdzht7mlO7B0zbgaN7H8PYmYEPs0DiEmGOveNBbf_Wu0XD6VmvYeGmsWhGnOBB0fg',
+    appId: 'com.jellyblast.cmcm',
+    url: 'https://play.google.com/store/apps/details?id=com.jellyblast.cmcm&hl=en&gl=us'
+  },
+  {
+    title: 'Cascade: Jewel Matching Adventure',
+    installs: 4347144,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/AxhkcTzefj-VYGOluRpTwDpxQPw3GCM44mdTZL2llSvAHyPRF_wz5QNs6333AVUdJg',
+    appId: 'com.bigfishgames.cascadef2p.google',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.cascadef2p.google&hl=en&gl=us'
+  },
+  {
+    title: 'Pokémon Café Mix',
+    installs: 2750400,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/pnVwrlWIUp_wvGx6yymhKNQbDBSGCHeGOPDd7RGDoK1a3sNECP6k9uD1HYoen7gXbTA',
+    appId: 'jp.pokemon.pokemoncafemix',
+    url: 'https://play.google.com/store/apps/details?id=jp.pokemon.pokemoncafemix&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Charming - 2020 Free Match 3 Games',
+    installs: 7799282,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DJHrUcjGVwfpmKBBJe7ZQK-anKIKL8LtyzC2ZwPBN1-rO7cvQ-N0P83pD8FaNn8eqFk',
+    appId: 'com.gameone.candycruiseswap.free',
+    url: 'https://play.google.com/store/apps/details?id=com.gameone.candycruiseswap.free&hl=en&gl=us'
+  },
+  {
+    title: 'Bee Brilliant',
+    installs: 5761603,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/k3p-xH8XxxxlhN0WD7NBsWRqVxFCYdYqS_bVvxheNtW4t46J1VLv9_uhRZGWfc7VMA',
+    appId: 'dk.tactile.beebrilliant',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.beebrilliant&hl=en&gl=us'
+  },
+  {
+    title: 'Bunny Pop',
+    installs: 13452642,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/HRVcM-mqwwEOOwuQL8dRH044YahY2C1W1XKJnXxVDbe9xdqICUr3ucG8UDVsZMiTsNg',
+    appId: 'com.bitmango.go.bunnypopbubble',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.bunnypopbubble&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Smash Mania',
+    installs: 5871144,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/FzD3-t5N81uvviwlpRZaKtPwbJWgw_IHoYOI2udYnX4HMLy4fVgfI-hMJD7eS4rfukfe',
+    appId: 'com.candysmashmania.sweetcrush.free',
+    url: 'https://play.google.com/store/apps/details?id=com.candysmashmania.sweetcrush.free&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Getaway Blast',
+    installs: 2129988,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/93WRRd7P8zHptiWp6Gi4-scQOx5EPZ5YemBH31Afmy10lInPMHLNXZu7gczEGQTtIVE',
+    appId: 'com.gameloft.anmp.disney.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.anmp.disney.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'Travel Blast: Puzzle Adventure',
+    installs: 1437052,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/nIZGnCLmMaE-PvoPCtSml1P6Nds8u6Nc9hu-4RMqRg6q8qHQCgnfBK0gVKtcsiuWLjw',
+    appId: 'rocks.mpgames.travelblast',
+    url: 'https://play.google.com/store/apps/details?id=rocks.mpgames.travelblast&hl=en&gl=us'
+  },
+  {
+    title: 'Bunny Pop Blast',
+    installs: 651003,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/C3380SUR03idsvcJqBQT0oanZHMmuWAWkIZj7m5h8xN0zYtXJuLsaEC1bfiI470ubAE',
+    appId: 'com.bitmango.go.bunnypoprescuepuzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.bunnypoprescuepuzzle&hl=en&gl=us'
+  },
+  {
+    title: 'My Home Design - Modern City',
+    installs: 11449508,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5RAvbt55IRcyG4mQJIdwgjAGbiHBF56OY7t72-ozqyBwRKnBbNx2bQVlsMYCgTfxog',
+    appId: 'com.cookapps.ff.moderncity',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en&gl=us'
+  },
+  {
+    title: 'Home Design : Hawaii Life',
+    installs: 9169999,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/_XzKbbGz7rWghjWxYkxsPLyfOBch_XUn-92Zzs0_BJbikf3KWcbd4XFZhj89SlLDh3TT',
+    appId: 'com.cookapps.hawaiilife',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.hawaiilife&hl=en&gl=us'
+  },
+  {
+    title: 'Home Design : My Dream Garden',
+    installs: 1127616,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/yw2246NqwMSLPqGZ1ILDQi9L8l_XXNtxbnCWdNOooYa6ml8nqMlKAe-mvpiGH4GjQSQe',
+    appId: 'com.cookapps.my.dream.garden.home.design.mydreamgarden',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.my.dream.garden.home.design.mydreamgarden&hl=en&gl=us'
+  },
+  {
+    title: 'Mystery Match – Puzzle Adventure Match 3',
+    installs: 2819731,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/MuiOIA2qc6IYakOZ2kN-fJLZTC6ozjSvae5K9T7YwEgJSwMqsC0wuR6e3ygR5lstIQ',
+    appId: 'com.outplayentertainment.mysterymatch',
+    url: 'https://play.google.com/store/apps/details?id=com.outplayentertainment.mysterymatch&hl=en&gl=us'
+  },
+  {
+    title: 'AlphaBetty Saga',
+    installs: 21217584,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/PgQfGBFJq6yMiEsvpJROSPg2arAblh7o9R_R9rKmhhriv7whsy3ZRIBkImGxNnD-S_CD',
+    appId: 'com.king.alphabettysaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.alphabettysaga&hl=en&gl=us'
+  },
+  {
+    title: 'Crazy Cake Swap: Matching Game',
+    installs: 4052248,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/NaPOaqKMy9Nx-xBgmI0I8OYhiOnMrTDjLp6qZogAhycnbdpK_cAffjkf2GoAhnhFby_0',
+    appId: 'com.zindagigames.ccs',
+    url: 'https://play.google.com/store/apps/details?id=com.zindagigames.ccs&hl=en&gl=us'
+  },
+  {
+    title: 'Human: Fall Flat',
+    installs: 275071,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Q-qyX8SiDY5Y5UHGWKzSzfW7P-SGCecBMOwEuBpfPFgrTFPFinaVhmFucxxXok_-tMY',
+    appId: 'com.and.games505.humanfallflat',
+    url: 'https://play.google.com/store/apps/details?id=com.and.games505.humanfallflat&hl=en&gl=us'
+  },
+  {
+    title: 'Colorfy: Adult Coloring Book - Free Style Color',
+    installs: 49124413,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ZnDTKhvuehrhf-g9OZd29cQ2YZ8QSN9qYItJMNzhdaQ_wAwspj88cGbOSPIfK3gu1w',
+    appId: 'com.fungamesforfree.colorfy',
+    url: 'https://play.google.com/store/apps/details?id=com.fungamesforfree.colorfy&hl=en&gl=us'
+  },
+  {
+    title: 'Crazy Dino Park',
+    installs: 10301305,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/kXFxaRATUgVTzHoKiKcEaA67LXzqj-OQPcxNG9NgR1h1862X7_WjoW-yxKblX1GbkcyJ',
+    appId: 'pl.idreams.Dino',
+    url: 'https://play.google.com/store/apps/details?id=pl.idreams.Dino&hl=en&gl=us'
+  },
+  {
+    title: "Hell's Kitchen: Match & Design",
+    installs: 1788102,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/LJoWZHdGb759rD20oCBAUA6Zh7vcoRDv4fSHHv4IYCJ38c_pZPgfUXHy_-YMz96FdWE',
+    appId: 'com.qiiwi.hellskitchen',
+    url: 'https://play.google.com/store/apps/details?id=com.qiiwi.hellskitchen&hl=en&gl=us'
+  },
+  {
+    title: 'Farm Bubbles Bubble Shooter Pop',
+    installs: 8402753,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/GbLcxGnViH033xwDHfjFQAoJI-bdnOJ1Q1Pzp05SRJO0UO_UxpF5ssbsX69STq4RJIs',
+    appId: 'com.narcade.farm_bubbles_bubble_shooter',
+    url: 'https://play.google.com/store/apps/details?id=com.narcade.farm_bubbles_bubble_shooter&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Art: Color by Number',
+    installs: 90467555,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ssub7uQCShz5cW93lP9hl6FtIH9GZKdulzwBcrneMjZvxYgvXWQZeRuqkjYLTSnlP2I',
+    appId: 'com.europosit.pixelcoloring',
+    url: 'https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Castle™ - Classical Match 3 Puzzles',
+    installs: 5335449,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/QiSLi-3Xp6ewnEWdcGw4KFuIv5StchaU6VnohVyIsW9slfAiF8ktCh4WC3lJprjjlgk',
+    appId: 'com.resestudio.jewelcastle.jewelslegend',
+    url: 'https://play.google.com/store/apps/details?id=com.resestudio.jewelcastle.jewelslegend&hl=en&gl=us'
+  },
+  {
+    title: 'Slingo Adventure Bingo & Slots',
+    installs: 2858367,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/gvb2TzKWzkCl_uhcCFFAdsO5twut1r-o9bpoU8O1kKv48FqljZsRThmwgAzu9e4o6EtA',
+    appId: 'com.gamehouse.slingo',
+    url: 'https://play.google.com/store/apps/details?id=com.gamehouse.slingo&hl=en&gl=us'
+  },
+  {
+    title: 'Sand Balls - Puzzle Game',
+    installs: 200317736,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/U0hk5TisL-gYTm2anJElHtaNrJ52NdJnEjPjyygRnAXERW_tv2yo-wAVUM3sVIguf4CC',
+    appId: 'com.water.balls',
+    url: 'https://play.google.com/store/apps/details?id=com.water.balls&hl=en&gl=us'
+  },
+  {
+    title: 'Hawaii Match-3 Mania Home Design & Matching Puzzle',
+    installs: 133283,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/TL2iQ2X-1ya-rWK6QoJ89TLX3ywzXOlQxNAuQDNqdlnIg6DKY3IAbPG5Z7SfPlN7iiXt',
+    appId: 'com.g5e.hawaiipg.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.hawaiipg.android&hl=en&gl=us'
+  },
+  {
+    title: 'Sweet Home Story',
+    installs: 905636,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/KqHH5PYa1s-PpBoVScqxJ6THZUznN6lUAuWsLZ5I55lKTDLi1sR-MRa3X7OP_w-mu9_W',
+    appId: 'com.home.design.garden.hw',
+    url: 'https://play.google.com/store/apps/details?id=com.home.design.garden.hw&hl=en&gl=us'
+  },
+  {
+    title: 'Hexagonal Block Puzzle',
+    installs: 91,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/p6mYGshR4iLz7SzBgBASrljHzkb3LFBroObIUNUowssbNUWSZZ7A8m-v27-oXMEG-K4',
+    appId: 'com.NanoTekGlobal.HexagonalBlockPuzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.NanoTekGlobal.HexagonalBlockPuzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Gummy Candy Blast - Free Match 3 Puzzle Game',
+    installs: 3427840,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/0WwhIhflq_uqW9-I1ob580MyE9cMSSDnwq0e2AprzwW4TcmFGfz9m9f4eUda9xZvGZ8',
+    appId: 'com.gummy.candy.android',
+    url: 'https://play.google.com/store/apps/details?id=com.gummy.candy.android&hl=en&gl=us'
+  },
+  {
+    title: 'X2 Blocks - Merge Puzzle 2048',
+    installs: 2859359,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/vhuKknxm7QHqUHNRcLjgLgpYDeuEhUv2uyE3Pah7ikdZOMd0Wy-UeQ4ISC7MiFMaQ9c',
+    appId: 'com.inspiredsquare.blocks',
+    url: 'https://play.google.com/store/apps/details?id=com.inspiredsquare.blocks&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Party: Pop and Blast Blocks in a Match 3 Story',
+    installs: 1154249,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ED9sNrFGUlMtN68GwDbrwTT03DO0kpzY_5Fl2s-mAdJ8NdsYVkOdSpo50e2o0VVRk4SA',
+    appId: 'com.cookapps.toyparty',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.toyparty&hl=en&gl=us'
+  },
+  {
+    title: 'Christmas Sweeper 3',
+    installs: 1875257,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3kWZb4Uhb9RDTe0pEcJ45Gu1oKavsU0JGLLikZoW9ElYX8uyhRy4YlqsR1gHPw6w93Pn',
+    appId: 'air.com.smileygamer.christmassweeper3',
+    url: 'https://play.google.com/store/apps/details?id=air.com.smileygamer.christmassweeper3&hl=en&gl=us'
+  },
+  {
+    title: 'Exciting puzzles',
+    installs: 2005,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/52KAs-hUZee--iS2zBvwdKbsTlh2vtFJrKB69a2cx6tjpwLWoJQ3l1HKtTO_wr1jXBM',
+    appId: 'com.exepuzzle.exicisez',
+    url: 'https://play.google.com/store/apps/details?id=com.exepuzzle.exicisez&hl=en&gl=us'
+  },
+  {
+    title: 'Brick Breaker: Legend Balls',
+    installs: 906393,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/QJr808kbFbsYQR6OxMFc2fDv89VJSItFZqLsDSbBrur-lib7OwmKJsx_u0hJfSPODXk',
+    appId: 'com.puzzle1studio.go.brickbreakerlegendballs',
+    url: 'https://play.google.com/store/apps/details?id=com.puzzle1studio.go.brickbreakerlegendballs&hl=en&gl=us'
+  },
+  {
+    title: 'Emerald adventures',
+    installs: 1478,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5kiJe1Egjf6tSvISrwRlS-Fk-sTJrPw8pgCHfq6dwG88OQ1FQ7_ROq65iS_xVFDNDA',
+    appId: 'com.emerlad.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.emerlad.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'Park Town: Match 3 Game with a story!',
+    installs: 1163526,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/lzoH0KosIBEX-7nQ2GkyQMlhxLiOiJJ6G0XWWG6XyL3MbPbsxjkBnOYJzi7F1Askb00K',
+    appId: 'com.rbx.m3.android',
+    url: 'https://play.google.com/store/apps/details?id=com.rbx.m3.android&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Blast: Sugar Splash',
+    installs: 1395553,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/6vtJelGtB6G4ComcT2PUuvYjBCWD5XmoMSmhSNNSBjnxDvJo-aksuo1J3HqbCsV6Eg',
+    appId: 'com.cookapps.beagles.ng003',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.beagles.ng003&hl=en&gl=us'
+  },
+  {
+    title: 'Crafty Candy – Match 3 Adventure',
+    installs: 4327718,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/421dRPjLvDt7b18gExHADfPfFe_ezqi9onzmHC2QYHVHsznFkSN-OSU0euNCHPbvvYA',
+    appId: 'com.outplayentertainment.candywitch',
+    url: 'https://play.google.com/store/apps/details?id=com.outplayentertainment.candywitch&hl=en&gl=us'
+  },
+  {
+    title: 'Restaurant Renovation',
+    installs: 4417895,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/SgF9viUlrhxlVBPLUEkNYY0DDfuWmEfqrhsC50_mxbd6f-66_kujT-1vLhJ-jzcbJA',
+    appId: 'com.zymobile.restaurant',
+    url: 'https://play.google.com/store/apps/details?id=com.zymobile.restaurant&hl=en&gl=us'
+  },
+  {
+    title: 'My Home Design - Hotel Renovation',
+    installs: 98974,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/imwxn8eKG4szSJAylWNbfjyGg1ycV8chKyklJ_CuyjzzIkuYh4WodjLcw3ND2aHQAWI',
+    appId: 'com.cookapps.ff.hotelrenovation',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.ff.hotelrenovation&hl=en&gl=us'
+  },
+  {
+    title: 'Lollipop : Link & Match',
+    installs: 1344605,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/_kP6m1UnW37Sw5Cau8fAE01oUfbwWXYjxBRfyChEUn5nGRHxR9W8D5rmCUlc6_yklg',
+    appId: 'com.bitmango.go.lollipoplinkmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.lollipoplinkmatch&hl=en&gl=us'
+  },
+  {
+    title: 'Jungle Gem Blast: Match 3 Jewel Crush Puzzles',
+    installs: 1362149,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/b0OMFCLXYQYqPJOTkII6Rjm2tbGjweKeI14n1uE07crOkVU8qYsifqU3zK2lJXdNpS8',
+    appId: 'com.cookapps.playgrounds.ff.jewelblast',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.playgrounds.ff.jewelblast&hl=en&gl=us'
+  },
+  {
+    title: 'Jelly Juice',
+    installs: 680258,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/kpPyQUfrBW4Jvaznzlzbhf_lozduxztrnGgVwq6WA9pJEQqygPTc8wrUwwdsov-Ixv6l',
+    appId: 'it.redbitgames.jellyjuice',
+    url: 'https://play.google.com/store/apps/details?id=it.redbitgames.jellyjuice&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Busters: Hexa Blast',
+    installs: 3714738,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DjP3W1_HZ2wADZ2QKAKVcRPLJSZy0Z4MN74Kbo7-1byNGkMzoJUJB2pNETCEvYfNFA',
+    appId: 'com.purplekiwii.mbhexa',
+    url: 'https://play.google.com/store/apps/details?id=com.purplekiwii.mbhexa&hl=en&gl=us'
+  },
+  {
+    title: 'Jigsaw Puzzle: Create Pictures with Wood Pieces',
+    installs: 4058930,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5kX6sTRi7O0tp_yAbSoVxoVjiKNL0LgoIr58deNEBtUYPYG9sPS3l6Oe_VHt6eGcHOZJ',
+    appId: 'com.criticalhitsoftware.jigsawpuzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.criticalhitsoftware.jigsawpuzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Pull Him Out',
+    installs: 26858170,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/AfphGqP_b_N4edx0KrYRJMnn5qDM-z_ThkjlJvrL3-Uw9ErmtrUtCbu9RtaoN14L3FI',
+    appId: 'com.stx.pullhimout',
+    url: 'https://play.google.com/store/apps/details?id=com.stx.pullhimout&hl=en&gl=us'
+  },
+  {
+    title: 'Dreamland Story: Toon Match 3 Games, Blast Puzzle',
+    installs: 613064,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/ux2wdwf0-Zh6l0cPTMTGSFVbmNIX4g44LYgGINVcgpJjr3d6jQAq4p6hn3XyrZpoNMcX',
+    appId: 'air.com.remivision.DreamlandStory',
+    url: 'https://play.google.com/store/apps/details?id=air.com.remivision.DreamlandStory&hl=en&gl=us'
+  },
+  {
+    title: 'Forest Rescue: Bubble Pop',
+    installs: 1223085,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/g-JcUWJqkJ02xzMfMou7OcBCowL9iVrS46NefrH5460eoU0oBtGLuJB-qc_1OKbwHdc',
+    appId: 'air.com.qublix.bubblerescue',
+    url: 'https://play.google.com/store/apps/details?id=air.com.qublix.bubblerescue&hl=en&gl=us'
+  },
+  {
+    title: 'Strongblade',
+    installs: 1207680,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/e-TQr-EJ1igq_TAzosxvrWGsKKb3Vf0mmiyFVQPZWsg2nBupm1HNcU-6TM0rP_3hvFo',
+    appId: 'com.dekovir.StrongBlade',
+    url: 'https://play.google.com/store/apps/details?id=com.dekovir.StrongBlade&hl=en&gl=us'
+  },
+  {
+    title: 'Drop The Number : Merge Game',
+    installs: 13572766,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/bvQYlrZSMYKqSCI_RHDjFwRAKJsSatDm7wgbAFB_Y9eYOYL0UkhyHzp8mfJSGpt-3sw',
+    appId: 'com.superbox.aos.fire2048',
+    url: 'https://play.google.com/store/apps/details?id=com.superbox.aos.fire2048&hl=en&gl=us'
+  },
+  {
+    title: 'Home Design : Amazing Interiors',
+    installs: 2084176,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/U58sigUDTV5FG0nApVl9AmJ6pgJWYYwftultgHFsEdi43-au-LZQSqBtud7vj61i8jU',
+    appId: 'com.cookapps.amazinginterior',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.amazinginterior&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble CoCo : Bubble Shooter',
+    installs: 4374146,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/1f773xI8h6ixQbrM9Wl8tFUIb3-ZCMr1QiCjZg1zrhNcVpjs-LN7tnKfHJ5qfYdZrSs',
+    appId: 'com.cookapps.bubblecoco',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.bubblecoco&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter ™',
+    installs: 39170889,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Z-p6APFfHB9BouWipMS2QNzgU7l_ukqHWHgzSr_L6vV1_icWj5cTb4TWKnE7fZ91kc0',
+    appId: 'bubbleshooter.android',
+    url: 'https://play.google.com/store/apps/details?id=bubbleshooter.android&hl=en&gl=us'
+  },
+  {
+    title: 'Bee Brilliant Blast',
+    installs: 1058172,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Y6jXqkMjkHgmqJLdVT3oJ5GqYR9XcfXzX-0RAlT3Kr9WeYqTHrQMPNBNiLDkRx6mx1DA',
+    appId: 'dk.tactile.beebrilliantblast',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.beebrilliantblast&hl=en&gl=us'
+  },
+  {
+    title: 'Lost Jewels - Match 3 Puzzle',
+    installs: 2983808,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/AT3RR8RQoymNMpIyVatn4G0fU2BT_qewn5NtfHTkuxz79gkNNtedfGBFmLi2aizyzVk',
+    appId: 'net.peakgames.lostjewels',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.lostjewels&hl=en&gl=us'
+  },
+  {
+    title: 'Space Decor : Dream Home Design',
+    installs: 868116,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/qa6KwXLpG6EFsQjPLRR1aMawWcwpmMDSndXHtn7kLuyKUBfhH2B6PmxHXzN6uFv3nYQ',
+    appId: 'com.zymobile.dream.home',
+    url: 'https://play.google.com/store/apps/details?id=com.zymobile.dream.home&hl=en&gl=us'
+  },
+  {
+    title: 'Pokémon Shuffle Mobile',
+    installs: 11490407,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/WfXtTL5vh_ewrYB1QLgrVqKjTa78Oji9SQ96alz6yIXeEynvq835_A8qmzPj--2bTZo',
+    appId: 'jp.pokemon.poketoru',
+    url: 'https://play.google.com/store/apps/details?id=jp.pokemon.poketoru&hl=en&gl=us'
+  },
+  {
+    title: 'Maleficent Free Fall',
+    installs: 11599163,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5ypL0Fjl0ETA9JCQOXy_S8Jmp8azaEDhvYVboUoIddOylh0qEtQFWoVzGvdiG0K-4Qpe',
+    appId: 'com.disney.maleficent_goo',
+    url: 'https://play.google.com/store/apps/details?id=com.disney.maleficent_goo&hl=en&gl=us'
+  },
+  {
+    title: 'Sinful Puzzle: dates inferno',
+    installs: 683421,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/2lxDvN3WE_4rqQF2VY1lFZSbdwdhnRZvI5D0ut-1nEKdTP0UgTIu8W0Zf92UZjjK7S4',
+    appId: 'com.inferno.sinful.puzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.inferno.sinful.puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Jigsaw Puzzles Epic',
+    installs: 12968202,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/-Qb2u9InIcCiH4obms_Np4tCgCVG0WWwQml6qNK70X4tT3Iabj5ggcXH3jhLchj2UEvr',
+    appId: 'com.kristanix.android.jigsawpuzzleepic',
+    url: 'https://play.google.com/store/apps/details?id=com.kristanix.android.jigsawpuzzleepic&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Cubes Pop 2020',
+    installs: 1688692,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/n0ueCMVORBkaBb5drHgPVHEGAGoQ_FA5L1D_MG-7q3fuilrooFYnitf1w3OSouqFSLA',
+    appId: 'com.toy.cubes.blast.toy.crush.free',
+    url: 'https://play.google.com/store/apps/details?id=com.toy.cubes.blast.toy.crush.free&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Blast : Temple',
+    installs: 4237471,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/d9Vb2hxebSyBFSG5vuqOqsS4jiU0e_9vD_yb-cJ3XM322HaZsGNyLx-JdkndpA8Wti4',
+    appId: 'com.superbox.aos.jewelblast',
+    url: 'https://play.google.com/store/apps/details?id=com.superbox.aos.jewelblast&hl=en&gl=us'
+  },
+  {
+    title: 'Resort Hotel: Bay Story',
+    installs: 4222303,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/RkEUxAli5Ow4LIOErpV7dOP7W37lPBtZ1ZkW49nnDanPnwPYCdwrNvFUinTmvNQSbQ',
+    appId: 'com.whaleapp.resorthotel',
+    url: 'https://play.google.com/store/apps/details?id=com.whaleapp.resorthotel&hl=en&gl=us'
+  },
+  {
+    title: 'Tasty Tale: puzzle cooking game',
+    installs: 5914342,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/fd4DzRHMHytDgxlfSVRlIi0DOQfeWp3bebEDjwR50mgdKh9P43nERcia44E837chSijd',
+    appId: 'air.com.sublinet.tastytale',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sublinet.tastytale&hl=en&gl=us'
+  },
+  {
+    title: 'DreamWorks Trolls Pop: Bubble Shooter & Collection',
+    installs: 427703,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/0tc4UAX6Ca-xHn7j053k2C-iTcqvJKmYH2gB-oa4-tAgRJYmDaNvDrCeikidUAG8w6o',
+    appId: 'com.huuuge.puzzle.bubbleshooter',
+    url: 'https://play.google.com/store/apps/details?id=com.huuuge.puzzle.bubbleshooter&hl=en&gl=us'
+  },
+  {
+    title: 'Block! Triangle puzzle: Tangram',
+    installs: 15716449,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/4LUlbb9Cm8eipvsbVrXMAdqYcarQtz7_ZvWuSDjunoz-0z3tAhvNg1iV2wx1IB3tLA',
+    appId: 'com.bitmango.go.blocktrianglepuzzletangram',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.blocktrianglepuzzletangram&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzle Circles',
+    installs: 249,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/NxZ68UKX_c3EFut4VFKTlvMNAi0N7XPx4bPLLxYrlG1i5ziC-C18ibvlhNCq5mi6RbQ',
+    appId: 'com.seaside.puzzlecircles',
+    url: 'https://play.google.com/store/apps/details?id=com.seaside.puzzlecircles&hl=en&gl=us'
+  },
+  {
+    title: 'Cat Force - Free Puzzle Game',
+    installs: 500089,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/fbrandcgD-ipG8ueA0JAjiLZify9UKxvsDggw1D8oSaCVDZEf9whJiXhobAthJiNYMQ',
+    appId: 'com.jellybtn.catforce',
+    url: 'https://play.google.com/store/apps/details?id=com.jellybtn.catforce&hl=en&gl=us'
+  },
+  {
+    title: 'SNOOPY Puzzle Journey',
+    installs: 224380,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/cKRp5qIP9UqcHEkHpyhFrFe8XMV4R4Df4qZ9JP2RNPdNt4T48x3c2zu6Y09Ylm-vP5k',
+    appId: 'jp.co.capcom.android.snworld',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.capcom.android.snworld&hl=en&gl=us'
+  },
+  {
+    title: 'Lollipop: Sweet Taste Match 3',
+    installs: 7516938,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/K1e11daZ3J6QSQHr8dVZaaRAPRcZJnoK5UFd2uWXaS8n5cPvZOJRGCRtfkwQDS1ClOk',
+    appId: 'com.bitmango.go.lollipopmatch3',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.lollipopmatch3&hl=en&gl=us'
+  },
+  {
+    title: 'Raspberry Jam',
+    installs: 1273486,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/VqTg5k47Q5rdvJWouSJovT4p_Nmb5EsFXepRF1RmpKIlUb-fU3j8hIQFdxMm0-UENA',
+    appId: 'com.tapclap.jam',
+    url: 'https://play.google.com/store/apps/details?id=com.tapclap.jam&hl=en&gl=us'
+  },
+  {
+    title: 'PUZZLE STAR BT21',
+    installs: 4731609,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/2YKNDcB5QRXA_srzQ2OoHZsYvDkYYanbgLH4pt9zfYhRWOwHTw-kCZ-JSpt19Af4Kw',
+    appId: 'com.linefriends.lfbt21',
+    url: 'https://play.google.com/store/apps/details?id=com.linefriends.lfbt21&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Hunter Lost Temple',
+    installs: 9530145,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/_V5zsuTmlVGvhkzcfy9Gkd0iA5w9DPFBB8ovisQ_mn2lLzRf_qJoUu820yfuPpursQ',
+    appId: 'com.superbox.aos.jewelhunter',
+    url: 'https://play.google.com/store/apps/details?id=com.superbox.aos.jewelhunter&hl=en&gl=us'
+  },
+  {
+    title: 'Pirates & Pearls: Match, build & design',
+    installs: 1195344,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/kXfHyMkHQKd221B86T3B27GhBg3cqHbdduU-v6fJhViNEoEmvc-NF7CUgJGqSf1wCMk',
+    appId: 'com.g5e.match3pg.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.match3pg.android&hl=en&gl=us'
+  },
+  {
+    title: 'Nonogram - Picture cross puzzle',
+    installs: 1184118,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/C0NZhMvOUGZVKM8aYQNMLKXVoknMvUC5ZX5DCYAleYFBl73yQIuGdutCuqVwmk0blsI',
+    appId: 'nonogram.logicpuzzles.picturecross.pixel',
+    url: 'https://play.google.com/store/apps/details?id=nonogram.logicpuzzles.picturecross.pixel&hl=en&gl=us'
+  },
+  {
+    title: 'Line Puzzle: Pipe Art',
+    installs: 7551201,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/JPkNNU55hIrgFMfeRywlRBmLHeihoGB2b2GjC3BeF96awODB0PQfQ7xnW8Ne8y66',
+    appId: 'com.bitmango.go.linepuzzlepipeart',
+    url: 'https://play.google.com/store/apps/details?id=com.bitmango.go.linepuzzlepipeart&hl=en&gl=us'
+  },
+  {
+    title: 'Slugterra: Slug it Out 2',
+    installs: 21317177,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Cvv8aP65uGvzysWfr2ojr-SrhzG4cBgCLdHtW994dPEI9vxwXKpczYQAlXJolGVuhQ',
+    appId: 'com.dhxmedia.slugitout2',
+    url: 'https://play.google.com/store/apps/details?id=com.dhxmedia.slugitout2&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Cats Blast',
+    installs: 1198936,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/q0_8gAkkpsffzP-psJh3Tj9ydcmLVMDozNlMzePiVRVO625eeZ5iWRQ6Goisi1IzC16o',
+    appId: 'dk.tactile.cookiecatsblast',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.cookiecatsblast&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Valley - Match 3 Puzzle',
+    installs: 7068058,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/pHj22ldE7NHLNqp01RC0gXsFQ-anZvL1HX7SVohfEfMKJNYKzsN06qhvUlWi8bzDc98',
+    appId: 'com.orangeapps.candyvalley',
+    url: 'https://play.google.com/store/apps/details?id=com.orangeapps.candyvalley&hl=en&gl=us'
+  },
+  {
+    title: 'Sweet Road: Cookie Rescue Free Match 3 Puzzle Game',
+    installs: 1778598,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/hwrNPwfiUa3AEtieFmvdgr2xxPUuWyngcXxqsC9qpFWmKWQBxPxGCd2nSfvG9FZZtE3e',
+    appId: 'com.cookapps.sr',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.sr&hl=en&gl=us'
+  },
+  {
+    title: 'Just Jigsaws',
+    installs: 964777,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/vCaeAZvzFZX_VADcL5JKoDCAcQdymZbQ2NSw720U8w0rIslJmP7zcWeKJQ6nZ1kqaIWo',
+    appId: 'com.inertiasoftware.justjigsaws',
+    url: 'https://play.google.com/store/apps/details?id=com.inertiasoftware.justjigsaws&hl=en&gl=us'
+  },
+  {
+    title: 'Match Town Makeover: Your town is your puzzle',
+    installs: 421817,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/VFJbkE50r69K7yRoG0zrpm9duLGbBy-3a7vJ4vISGMCAvo2tVKRBMvD-SJpXHdlJXUA',
+    appId: 'com.g5e.matchtownmakeover.android',
+    url: 'https://play.google.com/store/apps/details?id=com.g5e.matchtownmakeover.android&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter Pop-Blast Bubble Star',
+    installs: 2404667,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/OkwW9rd8FG9UYvMl-93UVjxI_qAJcYnpy2hf9RNQuSUuDKW9Wb47vo7S8aPQaY7b1W0',
+    appId: 'com.bubble.shooter.pop.shooting.free',
+    url: 'https://play.google.com/store/apps/details?id=com.bubble.shooter.pop.shooting.free&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Wonders - Elf Gardens',
+    installs: 45282,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/wg2-q1kw1NFPJ7h5SVl58O7gD8WgWNLBRVULbLrvikpw966fEJHJksmNylxV9VzkbQ',
+    appId: 'com.merge.wonders.mergedragons.match',
+    url: 'https://play.google.com/store/apps/details?id=com.merge.wonders.mergedragons.match&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Village',
+    installs: 3973053,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/5_QTl3IGq-giScw3kK86GgIP920p4RLksQBmHaJFY75IiNTFCYLxK0FJ20LEc5XvwRvV',
+    appId: 'com.onecwireless.mahjongvillage.google.free',
+    url: 'https://play.google.com/store/apps/details?id=com.onecwireless.mahjongvillage.google.free&hl=en&gl=us'
+  },
+  {
+    title: 'Disco Ducks',
+    installs: 2432103,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/AZ3MCll_n80gIw08_ZVgtAAlWXVpOgwsxxSGtrRgmPvhVDvu_JynxmpDbQl4x6C72Rg',
+    appId: 'dk.tactile.discoducks',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.discoducks&hl=en&gl=us'
+  },
+  {
+    title: 'My Home Design Story : Episode Choices',
+    installs: 4615482,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/er1rgMMOlo1TUfvfBW9IiDM1GimRxQimbuQESwLThhK9kreJaqDcHyTfh6Wp12Hk-H0',
+    appId: 'com.cookapps.homedesignny',
+    url: 'https://play.google.com/store/apps/details?id=com.cookapps.homedesignny&hl=en&gl=us'
+  },
+  {
+    title: 'Traveling Blast',
+    installs: 460525,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/elPIboLMdyu5tls8FG5YtLTOvN_LZM_n0QoqbeN8MpbFd9vZNi1kETzqijPR-yyy6s2e',
+    appId: 'com.whaleapp.travelingblast',
+    url: 'https://play.google.com/store/apps/details?id=com.whaleapp.travelingblast&hl=en&gl=us'
+  },
+  {
+    title: 'Charms of the Witch: Magic Mystery Match 3 Games',
+    installs: 1349371,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iEC1RtCU-ho0dV9G5XQMRjWG8uW8pJgP4x6Xu0E31I59eIoEQ5OeB7d92acFCsebPUY',
+    appId: 'com.nevogames.iwitch',
+    url: 'https://play.google.com/store/apps/details?id=com.nevogames.iwitch&hl=en&gl=us'
+  },
+  {
+    title: 'Find Out - Find Something & Hidden Objects',
+    installs: 22544636,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/agYxhnGGYjo0898VyRzAGGxA2_vKIjR3jjlsL5TDiZEGPRow6QznbUfhqkJHAWOysSc',
+    appId: 'com.find.out.hidden.objects',
+    url: 'https://play.google.com/store/apps/details?id=com.find.out.hidden.objects&hl=en&gl=us'
+  }
+]

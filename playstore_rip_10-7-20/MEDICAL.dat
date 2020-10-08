@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'epocrates',
+    installs: 3298118,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/LCpnf_F5uHqeRhdeJFmahEcKntQCElGB4Kg5ye1RSvk59tzhjZVjFSLoTBe0zA-ldA',
+    appId: 'com.epocrates',
+    url: 'https://play.google.com/store/apps/details?id=com.epocrates&hl=en&gl=us'
+  },
+  {
+    title: 'Ocular Motility Disorders, 4',
+    installs: 4,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/nsjxMEYJKGhK-4PwKSIw9_UsB5b7eW4CpHoOAEM15gf9qg1nx8VWz8tjaom4oj4uBt8',
+    appId: 'com.medhand.wdmomd4x1',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.wdmomd4x1&hl=en&gl=us'
+  },
+  {
+    title: 'Sanford Guide:Antimicrobial Rx',
+    installs: 342978,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/PX9xJs3y0iO85C65O7C9d8Q-rNOnPNXNGszCza1HYroRlOH0TF0Zd5PB-eYJvLAkMg',
+    appId: 'com.sanfordguide.amt',
+    url: 'https://play.google.com/store/apps/details?id=com.sanfordguide.amt&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket Guide to POCUS: Point-of-Care Ultrasound',
+    installs: 7,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/KEwBSzzl6Sg22UTTbggzFdIKrSw_N9GQ4-7F2a0nuAEOsJ6E2xGvWLTDx0qp3sPf9g',
+    appId: 'com.usatineMediaLLC.pocus',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.pocus&hl=en&gl=us'
+  },
+  {
+    title: "Davis's Drug Guide for Nurses",
+    installs: 123527,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/nDcZnndjgzTytK5BP3hDBhSIFQGvSaPkUAe1lEbWHZjkf9H_Ol8LnJFup02fN4_PpQg',
+    appId: 'com.usbmis.reader.dadg',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.reader.dadg&hl=en&gl=us'
+  },
+  {
+    title: 'Migraine Buddy - The Migraine and Headache Tracker',
+    installs: 1945871,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/f525R-NK4WlGLrG8dwsoKxveXG7ujTyzRYqLxy9LlqwWIAIFLEuLvyPScVsq8fhK0H8',
+    appId: 'com.healint.migraineapp',
+    url: 'https://play.google.com/store/apps/details?id=com.healint.migraineapp&hl=en&gl=us'
+  },
+  {
+    title: 'Monash Uni Low FODMAP Diet',
+    installs: 214464,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Shy2heecajkKJviLLrwJKpFzqL44E4EiJKqYHt0pKMv57aRwqgfUZ3bndrAKhoqkIlfm',
+    appId: 'com.monashuniversity.fodmap',
+    url: 'https://play.google.com/store/apps/details?id=com.monashuniversity.fodmap&hl=en&gl=us'
+  },
+  {
+    title: 'Youper - Anxiety & Depression',
+    installs: 1224409,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/bNlGEHPS3h7o3CDaQJhiGlzbOQl0Dk5vSF5nPDFteUKgbord_oBQDcgvdqqBa1lK-7c',
+    appId: 'br.com.youper',
+    url: 'https://play.google.com/store/apps/details?id=br.com.youper&hl=en&gl=us'
+  },
+  {
+    title: 'ASCCP Management Guidelines',
+    installs: 3572,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/mk-Z4XqNYCSnUcYlxlrOEf-4vYiYlS-M3knHmIrbfSF20IFo6sm72MSLfavBnp0mGG3_',
+    appId: 'org.asccp.app2019',
+    url: 'https://play.google.com/store/apps/details?id=org.asccp.app2019&hl=en&gl=us'
+  },
+  {
+    title: "Davis's Drug Guide",
+    installs: 74642,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/gqWcHd1Grah1qX75PcBj5V0Yt-MnNKGlXe23qI_GfcvT_d1Q_odTStUx5do2mK2INw',
+    appId: 'com.unbound.android.cqddl',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.cqddl&hl=en&gl=us'
+  },
+  {
+    title: 'EMT Pocket Prep',
+    installs: 98022,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/a9o5uiuYVe9W94BMqCEHfzoxGrYv6SAtWJ7Lk_tjN-I0Bx-5I8y9H4jUilO7os94vYU',
+    appId: 'com.pocketprep.emt',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.emt&hl=en&gl=us'
+  },
+  {
+    title: 'Sanvello for Anxiety, Depression & Stress',
+    installs: 1399387,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/zdkBgIAx4BA6e9zwIuzQjLu59fF40UahyekuNISeTCQPMuJMjbweFB13meGeSZechbPh',
+    appId: 'com.pacificalabs.pacifica',
+    url: 'https://play.google.com/store/apps/details?id=com.pacificalabs.pacifica&hl=en&gl=us'
+  },
+  {
+    title: 'Human Anatomy Atlas 2021: Complete 3D Human Body',
+    installs: 231705,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/LTahS1pFeZjFXwzs7OLiCsJ0kQi0N-jxyixOgmVWKkRtLq6frHeDRon7RRA1vwsygVM',
+    appId: 'com.visiblebody.atlas',
+    url: 'https://play.google.com/store/apps/details?id=com.visiblebody.atlas&hl=en&gl=us'
+  },
+  {
+    title: 'FP Notebook',
+    installs: 87647,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/UJyVbmq_z-A3oqgizjRe4c9UsGudgYhnKpsiGWu4frE_DXF1hYqJ35aR5hhZ5YLDgyR-',
+    appId: 'com.usbmis.troposphere.fpnb',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.troposphere.fpnb&hl=en&gl=us'
+  },
+  {
+    title: 'Complete Anatomy ‘21 - 3D Human Body Atlas',
+    installs: 259775,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/1FpzL-08eg1O8h09D_gWHs9eGTsR2Z_T4vKsEHcswxFetYh9013tKtfwKRPk7k15Wnk',
+    appId: 'com.a3d4medical.completeanatomy',
+    url: 'https://play.google.com/store/apps/details?id=com.a3d4medical.completeanatomy&hl=en&gl=us'
+  },
+  {
+    title: 'Vargo Anesthesia Mega App',
+    installs: 4233,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/9_imxJKrjrr51jAj1BSoUfwVkNiGEDFi44gqED2DsyeLrVYPwyR-62o5GJWamCBuEtGN',
+    appId: 'com.vargoanesthesia.masterapp',
+    url: 'https://play.google.com/store/apps/details?id=com.vargoanesthesia.masterapp&hl=en&gl=us'
+  },
+  {
+    title: 'Tarascon Pharmacopoeia',
+    installs: 37443,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/SsisLFschVWsorIq3NoE4EMT4EQeyC91nSU9mkCqC-BKGknU4QCqsixtai7IJni5Pec',
+    appId: 'com.usbmis.reader.trsc',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.reader.trsc&hl=en&gl=us'
+  },
+  {
+    title: 'mySugr - Diabetes App & Blood Sugar Tracker',
+    installs: 2388721,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/D-tsyzAeR5m-P_HBwlgdLvCLIiGfL7Yq4DVU7PWhQUc75LFd4GzZSZougW17Qhu92fc',
+    appId: 'com.mysugr.android.companion',
+    url: 'https://play.google.com/store/apps/details?id=com.mysugr.android.companion&hl=en&gl=us'
+  },
+  {
+    title: 'Johns Hopkins Guides ABX...',
+    installs: 26604,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/tnviTQK9wcLBqRQNywyRUAH8DLGkt3LixTJ54NWgwpCbqfYHKeYoy2VuL4Pxq1LSggG3',
+    appId: 'com.unbound.android.ubjhl',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubjhl&hl=en&gl=us'
+  },
+  {
+    title: 'EMRA Antibiotic Guide',
+    installs: 9259,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/AO5YXFYd4yp2_UlQqZlDFYT3GAppQMzOw_SAl1sOMLr0SV6Hg7-ymXMzz0a3EmWfuQ',
+    appId: 'com.emra.AntibioticGuide',
+    url: 'https://play.google.com/store/apps/details?id=com.emra.AntibioticGuide&hl=en&gl=us'
+  },
+  {
+    title: "Hurst's The Heart, 14th Edition",
+    installs: 4,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/YAhEcaaqDo00vn_y0hnTgrO31UId_0NoAscRO-bpxj9-pN51NodVWR5qTYU3-l8uO9w',
+    appId: 'com.usatineMediaLLC.hurstsHeart14e',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.hurstsHeart14e&hl=en&gl=us'
+  },
+  {
+    title: 'Diabetes:M - Management & Blood Sugar Tracker App',
+    installs: 625868,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/aMkPFTtGHdW550VQYpD0Q0_X2eNPApCgpTo1Z5rEpHN0aJyc8u8HOpBK5un7l-1-f4E',
+    appId: 'com.mydiabetes',
+    url: 'https://play.google.com/store/apps/details?id=com.mydiabetes&hl=en&gl=us'
+  },
+  {
+    title: 'Anatomy Learning - 3D Anatomy Atlas',
+    installs: 6047333,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/E9hYKcZrSHELCtmmhN5FkY2TMt4vJb0NlHks0qgvWHQ2LWPAdytXoXevSwn8AHDpsg',
+    appId: 'com.AnatomyLearning.Anatomy3DViewer3',
+    url: 'https://play.google.com/store/apps/details?id=com.AnatomyLearning.Anatomy3DViewer3&hl=en&gl=us'
+  },
+  {
+    title: 'HiGrade: THC Testing & Cannabis Growing Assistant',
+    installs: 139459,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/zT_eWnsdKtKuk3Oe8u0C-k9l9dors_BUbAaYnsZI6k3z-Kb_zlA2bbGKtsk1R6ypPD6H',
+    appId: 'com.phonegap.higrade',
+    url: 'https://play.google.com/store/apps/details?id=com.phonegap.higrade&hl=en&gl=us'
+  },
+  {
+    title: 'NCE Pocket Prep',
+    installs: 6979,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/xsHoVzlPc7wUOscUq7PjnfW8JnueZ2nn0XaJiOuRt8ZWj5CsR41OapB5Hk-TF9NY4rtB',
+    appId: 'com.pocketprep.nce',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nce&hl=en&gl=us'
+  },
+  {
+    title: '5-Minute Clinical Consult',
+    installs: 27752,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/kOA5EVkPQ00oDKC16-YPaGq-gTTMkjSVUMeT-AwxszKRaYsiWggoU36trP2FFOIZOg',
+    appId: 'com.unbound.android.cq59l',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.cq59l&hl=en&gl=us'
+  },
+  {
+    title: 'GlassesOff',
+    installs: 235711,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/fdsAtprf5whi_NzJgoffrQRQN4MaJrfkNOR9CFGLjyCLtVi5FvUoODv7XPbRf8XQTZHW',
+    appId: 'com.glassesoff.android',
+    url: 'https://play.google.com/store/apps/details?id=com.glassesoff.android&hl=en&gl=us'
+  },
+  {
+    title: 'Paramedic Pocket Prep',
+    installs: 33020,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/mDZsxHMqGt_HYE5S9D_fQIehqs6070gCtneKezje6xlKDrNRiBrp456CwxWHX6Fb_g',
+    appId: 'com.pocketprep.paramedic',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.paramedic&hl=en&gl=us'
+  },
+  {
+    title: 'Official NBSTSA CST Exam Prep',
+    installs: 24315,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/185ZebjW8XWLERYl4Xlu4Mkn6oBmVobVTRqx8Fz1ZV6fpFV-5eB_vrRrO6mOIgbXbxI',
+    appId: 'com.pocketprep.nbstsa',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nbstsa&hl=en&gl=us'
+  },
+  {
+    title: 'Critical - Medical Guide',
+    installs: 922,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/r5cEc5Ub55jEWkOFx6Mu9w3BlaJ7PUztRFoxTtPRTw-37dkmLCCdwALv8-APBbgr2LY',
+    appId: 'com.iotait.criticalx',
+    url: 'https://play.google.com/store/apps/details?id=com.iotait.criticalx&hl=en&gl=us'
+  },
+  {
+    title: 'Petralex Hearing Aid App',
+    installs: 702867,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/sofD2foSRv7E06VvHHam4FKkZv1M-6kR_sGQBL5BNXxxFn8fPllc2pR72tdpwlIzwQ',
+    appId: 'com.it4you.petralex',
+    url: 'https://play.google.com/store/apps/details?id=com.it4you.petralex&hl=en&gl=us'
+  },
+  {
+    title: 'Your Doctors - 24/7 Online Doctors Chat',
+    installs: 81304,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/A1ThF3zdqvzPJHgmsCRnS-F1Y-SFBiXkqBWaReXxw_y7oIteaLsBS_8dO6XLtGa_1tJY',
+    appId: 'com.ydo.smartapp',
+    url: 'https://play.google.com/store/apps/details?id=com.ydo.smartapp&hl=en&gl=us'
+  },
+  {
+    title: 'HESI A2 Pocket Prep',
+    installs: 67604,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/EJ4gHxCAqqh-etQanUPR65JHocHuykZOvIwyZYkWG-TmjFNtz4JK2N5n1bRBkEh4Mg',
+    appId: 'com.pocketprep.hesi',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.hesi&hl=en&gl=us'
+  },
+  {
+    title: 'Nerva: IBS hypnotherapy relief from gut symptoms',
+    installs: 2574,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/6mCLV7p5BcwF7I3ezj3MMDNcsyfEBpxp4zQ-pkKo5xiW3fpYG8-rIfRpPWeJ_mKgNtQ',
+    appId: 'com.mindsethealth.ibs',
+    url: 'https://play.google.com/store/apps/details?id=com.mindsethealth.ibs&hl=en&gl=us'
+  },
+  {
+    title: 'Full Code - Emergency Medicine Simulation',
+    installs: 135013,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/2bnoSpj5-pzpNB3NK6VKr3vs5yBUoIjRPPN9bKmT3dW0t6ikjHXuxq40q18kMXL1o-i4',
+    appId: 'com.minerva_medical.minerva',
+    url: 'https://play.google.com/store/apps/details?id=com.minerva_medical.minerva&hl=en&gl=us'
+  },
+  {
+    title: 'Saunders Comprehensive Review NCLEX-PN Examination',
+    installs: 46454,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/hEy3fEt2vqJmV-INqLPLAoGp2r_BQKyv3mOozN5KUXL7D-I7B3G8fWw4rvFwW7M56fow',
+    appId: 'com.medpresso.testzapp.crnclex_pn',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.testzapp.crnclex_pn&hl=en&gl=us'
+  },
+  {
+    title: 'EMT PASS- NEW',
+    installs: 470,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/2hUnvyQ1ta-FSrCJi86oGaKFbPeL98xeM9lAP533uFhybr7vC4jar-O5HEx8owG9E5o',
+    appId: 'com.limmercreative.passengine.emt',
+    url: 'https://play.google.com/store/apps/details?id=com.limmercreative.passengine.emt&hl=en&gl=us'
+  },
+  {
+    title: 'Moodpath - Depression & Anxiety Test',
+    installs: 1418669,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/eBFHYQ8Ri1K8OUaQm41tyXVZyb2EJ5U0cMzWCFhv8wt65AEk3Yoqum_WuXDFpBKOqXk',
+    appId: 'de.moodpath.android',
+    url: 'https://play.google.com/store/apps/details?id=de.moodpath.android&hl=en&gl=us'
+  },
+  {
+    title: 'Language Therapy: Aphasia',
+    installs: 2506,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/nPXGRV6MXH-vlGp32lUiNQQdcR6XrHRRxHnro68QaN3MCiZdx8mIlKfs0-_UkcfzNz5x',
+    appId: 'com.tactustherapy.languagetherapy',
+    url: 'https://play.google.com/store/apps/details?id=com.tactustherapy.languagetherapy&hl=en&gl=us'
+  },
+  {
+    title: 'Glucose Buddy Diabetes Tracker',
+    installs: 489634,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/YP-NzzU7kFVfIzmgWE_6lkYIopQ6-OZPnbSaJe-nAyfqLSw6ViIyMZQbO9zAE5r86yi-',
+    appId: 'com.skyhealth.glucosebuddyfree',
+    url: 'https://play.google.com/store/apps/details?id=com.skyhealth.glucosebuddyfree&hl=en&gl=us'
+  },
+  {
+    title: 'Anatomy 3D Atlas',
+    installs: 1544582,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/5ixmriVEWqmWDm2xl6PmLdbVjvtHu7RiMq4vLMMVmFAdpVttFFXf39lLWQoNOj6Pxg',
+    appId: 'com.catfishanimationstudio.MuscularSystemLite',
+    url: 'https://play.google.com/store/apps/details?id=com.catfishanimationstudio.MuscularSystemLite&hl=en&gl=us'
+  },
+  {
+    title: 'Paramedic Protocol Provider',
+    installs: 20841,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/ZlF1RFwCRQ_I71ASDz4_iyd3ykOLIlFG2fx-MqLbyfGjly-bYj0vijPlU8KKw4gOHiA',
+    appId: 'com.acidremap.paramedicprotocolprovider',
+    url: 'https://play.google.com/store/apps/details?id=com.acidremap.paramedicprotocolprovider&hl=en&gl=us'
+  },
+  {
+    title: 'Soap Notes PRO',
+    installs: 64,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/CTK7WVEJVr95tWE6RnbQPT9rIIo7Sy3AHUkDSBmvqLqN6GOTvv0rFnRor8rnZm6Lzw',
+    appId: 'com.soapnotescorp.soapnotespro',
+    url: 'https://play.google.com/store/apps/details?id=com.soapnotescorp.soapnotespro&hl=en&gl=us'
+  },
+  {
+    title: 'Saunders Comprehensive Review for NCLEX RN',
+    installs: 37815,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/XaIwUQfIemB7DUYy5YcAXI1rdECoBr1PAJ8VH6Jzmoxnq5M_5dY3h7ni75TijOG5jw',
+    appId: 'com.medpresso.testzapp.crnclex_rn',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.testzapp.crnclex_rn&hl=en&gl=us'
+  },
+  {
+    title: 'Christella VoiceUp - Feminize your voice',
+    installs: 25217,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/97b63cv4946teNXtrB3_2XejDqTVxaPufbwonu4DgVWyhvzaYTF4enomdKP-JQFPmQ',
+    appId: 'co.speechtools.christellamtf',
+    url: 'https://play.google.com/store/apps/details?id=co.speechtools.christellamtf&hl=en&gl=us'
+  },
+  {
+    title: 'PMHNP-BC Pocket Prep',
+    installs: 5048,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/6iU2Y_ime0PEaeScd4ksu4nLI8y_0rb0cw_Ka1kd2ySZgDj_GscpSev6N7MEdckgKLKR',
+    appId: 'com.pocketprep.pmhnpbc',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.pmhnpbc&hl=en&gl=us'
+  },
+  {
+    title: 'NURSING.com | NCLEX, Nursing School',
+    installs: 95234,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/G3tZVGqqg6mDQFpC5MxErOHvWlg3u9nukQcNFlkx9cjkmxVrv09wTXQzKzRX_hYf6Qhp',
+    appId: 'com.nrsng.academygo',
+    url: 'https://play.google.com/store/apps/details?id=com.nrsng.academygo&hl=en&gl=us'
+  },
+  {
+    title: 'HearMax Super Hearing Aid Amplifier',
+    installs: 106997,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/kBdvyvfUMlveJHaTbSoyab4RuN5hON0XUlC1xG1fq-hNCusdrRpJvjNerOX42BN0iQ',
+    appId: 'com.ronasoftstudios.hearmax',
+    url: 'https://play.google.com/store/apps/details?id=com.ronasoftstudios.hearmax&hl=en&gl=us'
+  },
+  {
+    title: 'InSimu Patient - Diagnose Virtual Clinical Cases',
+    installs: 94335,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/bOPfK1TX_ug2iR6aKTOVzP_I8v1I2y-IbmS_lZAvzz1U0YdAmC9r_iLwCJtxIPnW-Ow',
+    appId: 'com.insimu.patientapp',
+    url: 'https://play.google.com/store/apps/details?id=com.insimu.patientapp&hl=en&gl=us'
+  },
+  {
+    title: "Harrison's Principles of Internal Medicine, 20/E",
+    installs: 61,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/IW3JeXnjPFAhGRblmPEJKjI7VkyjKnrSH_Q6LyECZfm38z_Z9Dr4lHcgWy_xecIXbg',
+    appId: 'com.mcGrawHill.harrisons20',
+    url: 'https://play.google.com/store/apps/details?id=com.mcGrawHill.harrisons20&hl=en&gl=us'
+  },
+  {
+    title: 'VeinSeek',
+    installs: 12322,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/KTgtFH6PkcywxM2ioT6ag3QwAf43hpPqHeica3zparr4a-H3JJB7MQJiR45MyAh5Cvg',
+    appId: 'com.vs.veinseek',
+    url: 'https://play.google.com/store/apps/details?id=com.vs.veinseek&hl=en&gl=us'
+  },
+  {
+    title: 'LIPPINCOTT Q&A REVIEW FOR NCLEX-RN®',
+    installs: 27348,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/0_RVadBUmemOarR4EUU1QceBLva9E_wqFNNY1fsP0hpRrmHtyN0GH7-QJ96Y8TSZnUo',
+    appId: 'com.medpresso.testzapp.nclex_rn',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.testzapp.nclex_rn&hl=en&gl=us'
+  },
+  {
+    title: 'Lexicomp',
+    installs: 487895,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/E93YYQ1_6m0t1g2_xuTxp140r1ruQNk0azyT4bOoog90Y1Tlwie3U71Yf2zG3SdKRg',
+    appId: 'com.lexi.android',
+    url: 'https://play.google.com/store/apps/details?id=com.lexi.android&hl=en&gl=us'
+  },
+  {
+    title: 'abeoCoder',
+    installs: 12215,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/duRM2Cg6u9c8yHYY6JxOFpujgLEZpCMswLHo-ELx9GCcRjiIhrzYeCO4xwl8BxvP4Ic',
+    appId: 'com.cellavant.abeocoder',
+    url: 'https://play.google.com/store/apps/details?id=com.cellavant.abeocoder&hl=en&gl=us'
+  },
+  {
+    title: 'e-Anatomy',
+    installs: 448599,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/LMClNw3VQgzijEol686iyT9cUPoFY2A15sQEnlIy5X0m5R0xUwOj9vvuolelKMvo-g',
+    appId: 'net.imaios.eanatomy',
+    url: 'https://play.google.com/store/apps/details?id=net.imaios.eanatomy&hl=en&gl=us'
+  },
+  {
+    title: 'BLOCKJOCKS',
+    installs: 2400,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/U8Tfu3gJwi4ApU0VueohU8uXkl3rn6p-eefZEPIPBpZES3zHnk9OntbIebHVDS_YEi0H',
+    appId: 'tv.vhx.blockjocksapp',
+    url: 'https://play.google.com/store/apps/details?id=tv.vhx.blockjocksapp&hl=en&gl=us'
+  },
+  {
+    title: 'Diabetes & Diet Tracker',
+    installs: 7218,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/9EXPE7wCzMCabiu0OwMQeQef1YdQgEbqK0e8No6FKMewCkj48a3v2SPoW5yr5oNy_Jk',
+    appId: 'com.fourtechnologies.mynetdiary.diabetes',
+    url: 'https://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.diabetes&hl=en&gl=us'
+  },
+  {
+    title: "Mosby's Drug Reference for Health Professions",
+    installs: 174368,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/5T3EGnGm6Cj77EOu8BoBq_qGooe8DyL_HtE7PyxaBXs8syWm7_840oTpQDELRF4oow',
+    appId: 'com.mobisystems.msdict.embedded.wireless.elsevier.drhp',
+    url: 'https://play.google.com/store/apps/details?id=com.mobisystems.msdict.embedded.wireless.elsevier.drhp&hl=en&gl=us'
+  },
+  {
+    title: 'Fall Alert – My Medic Watch',
+    installs: 4772,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/fXUPe-NoW4mXP-YuK2lSiH_Pm8yp7fMi04WrBaKBP4sZ31PFzFL3GjVJAB-Ed0E5fck',
+    appId: 'com.mymedicwatch.prod',
+    url: 'https://play.google.com/store/apps/details?id=com.mymedicwatch.prod&hl=en&gl=us'
+  },
+  {
+    title: 'A Manual of Acupuncture',
+    installs: 22890,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/WZjKFqqPDIWesYyNGneSdmmDiu997BCgue-ZhGPsfbg4w83KCzIXE4IW6oh5o8VFRw',
+    appId: 'com.cards',
+    url: 'https://play.google.com/store/apps/details?id=com.cards&hl=en&gl=us'
+  },
+  {
+    title: 'Lippincott Nursing Advisor',
+    installs: 92789,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/U0jRVYFF11v8GHpFcyMMSOVg8ZEM1780kEP3ZErtcn6rMZLR7hJNC4K4EbNvkjuP0Q',
+    appId: 'com.lww.lna.mobile.android',
+    url: 'https://play.google.com/store/apps/details?id=com.lww.lna.mobile.android&hl=en&gl=us'
+  },
+  {
+    title: 'NPTE-PTA Pocket Prep',
+    installs: 12313,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/g0bRSd8Xzc3n46JMQhpTl6pbr_GQCPydvrj5frFbJXyPb0UHTwAsDPXSaoTzrOyNEEI',
+    appId: 'com.pocketprep.nptepta',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nptepta&hl=en&gl=us'
+  },
+  {
+    title: 'Registered Dietitian Pocket Prep',
+    installs: 12923,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/U8p6wplBuq71SATVG_1jLKrdChNvOPokpQOm32dc4ijp2q0RA5BZ1sZ2PbXA7k763Ro',
+    appId: 'com.pocketprep.rd',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.rd&hl=en&gl=us'
+  },
+  {
+    title: 'Muscle Premium - Human Anatomy, Kinesiology, Bones',
+    installs: 23962,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/QeCD0oSaaAF6EGGGhGZ5Oy3skf79AWcg2VSb-x-SQ6gXrdwesx0GzdwOIIrfbIVdqu4',
+    appId: 'com.visiblebody.musclepremium',
+    url: 'https://play.google.com/store/apps/details?id=com.visiblebody.musclepremium&hl=en&gl=us'
+  },
+  {
+    title: 'AnatomyMapp',
+    installs: 306,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/q_1y5vDahgY9cal5oUM1w4FrQjEfw7JKeLbUK3USZ0GGJyX9m113-uA3aVzwp091iAY',
+    appId: 'com.booksofdiscovery.anatomymapper',
+    url: 'https://play.google.com/store/apps/details?id=com.booksofdiscovery.anatomymapper&hl=en&gl=us'
+  },
+  {
+    title: "Hale’s Medications & Mothers' Milk",
+    installs: 3986,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/dujKCcXJ0eMuiHUeINF2AyeARQq3-YViIQ8NzPk8HN0Lj_kIf5XfMTHvwRZGqriLkNg',
+    appId: 'com.hltcorp.medsmilk',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.medsmilk&hl=en&gl=us'
+  },
+  {
+    title: 'Davis’s Drug Guide for Nurses 17 Ed.',
+    installs: 11367,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/D5DjquqekOnp20kH3Ild0KFTZPmiE-IypfFcxhjPmSteCRp5xxaPNHV0cN-jw29wx3k',
+    appId: 'com.medpresso.Lonestar.drugguide',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.drugguide&hl=en&gl=us'
+  },
+  {
+    title: 'IBM Micromedex Drug Info',
+    installs: 21228,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/4N8KHqN7ENCfP7qirHQURHN9XkOeLM4U8KrcMnO-95Yg0YgUc08BIYhJJmu69tkUJg',
+    appId: 'com.truven.druginfonative.paid',
+    url: 'https://play.google.com/store/apps/details?id=com.truven.druginfonative.paid&hl=en&gl=us'
+  },
+  {
+    title: 'My Crisalix',
+    installs: 7701,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/ZQYxAcYyXaPRmz5N8T0Jn6NPZnM6HrRmPNiop8e01C_EfbgrhItDybqF4NQIsEXs1w',
+    appId: 'com.crisalix.My',
+    url: 'https://play.google.com/store/apps/details?id=com.crisalix.My&hl=en&gl=us'
+  },
+  {
+    title: 'Preventicus Heartbeats. ECG alike medical test.',
+    installs: 23457,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/5qqP1hjrMLy2dtaZdn9oUQ_s8umjB825h44HxxVSOv6yVOg2ObIVsvFKuvFTPmMb7Q',
+    appId: 'com.preventicus.heartbeats_international',
+    url: 'https://play.google.com/store/apps/details?id=com.preventicus.heartbeats_international&hl=en&gl=us'
+  },
+  {
+    title: 'EMT Review Plus',
+    installs: 17715,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/Wq9qFBFtnZu21CfsRqbQVJSN8WHQKYk5xRwdG689YHb_8x_yEpZiZwl0lekstBSFAHI',
+    appId: 'com.accella.emtreview',
+    url: 'https://play.google.com/store/apps/details?id=com.accella.emtreview&hl=en&gl=us'
+  },
+  {
+    title: 'EMRA MobilEM',
+    installs: 1286,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/MlB9sqmsx7OO5k2OLWOk0huXk1GzAhhqDpoHi8P2M8cWudhT2-pmcFT5Y-ojja9Iaw',
+    appId: 'com.emra.mobilem',
+    url: 'https://play.google.com/store/apps/details?id=com.emra.mobilem&hl=en&gl=us'
+  },
+  {
+    title: 'Pedi STAT',
+    installs: 23918,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/YIlhB_leQ4-WlaFs7Jdz5q7S2qFL0tCr83IzTo_uKNKtQ-e7WVQhXR7235JvXgdOJJ0',
+    appId: 'com.qxmd.pedistat',
+    url: 'https://play.google.com/store/apps/details?id=com.qxmd.pedistat&hl=en&gl=us'
+  },
+  {
+    title: 'OTA Pocket Prep',
+    installs: 5347,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/3HfZ1XP26PGDoOB6AXKwIKP1GG6_kS1rnIWWdG_9WTFg3XYltznhkI2BaTXfDiaH4g',
+    appId: 'com.pocketprep.cota',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.cota&hl=en&gl=us'
+  },
+  {
+    title: 'Nursing Drug Handbook',
+    installs: 236494,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/kWKs6IZ3hSeZ6osRQ3RRtk40UiOPGEm_2_TZMsiy5g1iTg69IfTccZYCLfmeT8YjZA',
+    appId: 'com.wolterskluwerhealth.lww.ndh',
+    url: 'https://play.google.com/store/apps/details?id=com.wolterskluwerhealth.lww.ndh&hl=en&gl=us'
+  },
+  {
+    title: 'Journal Club: Medicine',
+    installs: 16803,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/wXxmjr2gWKKqMY4bfDID6KfYVTaCcf72_2PXby205okVqzsu_Vh51umnSS_Gmp-BVZyi',
+    appId: 'org.wikijournalclub',
+    url: 'https://play.google.com/store/apps/details?id=org.wikijournalclub&hl=en&gl=us'
+  },
+  {
+    title: 'Anatomy & Physiology',
+    installs: 9369,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/2kfFlNrTOmQorzlt6M_GoESElMt6G3ZDVawn7marS0HX2OT66ahQXby5zq0bGRvrWQ',
+    appId: 'com.argosy.vb.anatomyandphysiology',
+    url: 'https://play.google.com/store/apps/details?id=com.argosy.vb.anatomyandphysiology&hl=en&gl=us'
+  },
+  {
+    title: 'Free Hypnosis',
+    installs: 484404,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/BFmi1GsBronQ-yH4wM7-jsCWzTwNiUMrAA5x7vQziibfz9GMWptvF3ynZbek9nqstmM',
+    appId: 'com.Hypnosis',
+    url: 'https://play.google.com/store/apps/details?id=com.Hypnosis&hl=en&gl=us'
+  },
+  {
+    title: 'Official NBSTSA CSFA Exam Prep',
+    installs: 3035,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/RUgGxW6QG0N9OCjorPUGZ1Upsxp8on7M8aIrpMAypvgbu1GGPFgAvCBrEFcYq71D5_A',
+    appId: 'com.pocketprep.nbstsacsfa',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nbstsacsfa&hl=en&gl=us'
+  },
+  {
+    title: 'ACLS Pretest',
+    installs: 42611,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/x_SB4kYSAb5IS5pWpAZW9617f8zeFEacoZfEwBmAuc_hCSvtXKPYIWv3tz9NMU3gXYA',
+    appId: 'com.aclsmedicaltraining.pretest',
+    url: 'https://play.google.com/store/apps/details?id=com.aclsmedicaltraining.pretest&hl=en&gl=us'
+  },
+  {
+    title: 'Medical ID - In Case of Emergency (ICE)',
+    installs: 38456,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/dfV5BGz4zBV_FG37ptW1AHT_DXnwgWA8RWN7ieIrzsYEgi9Lsxd5o5LzGHMXFdnDIo0',
+    appId: 'app.medicalid',
+    url: 'https://play.google.com/store/apps/details?id=app.medicalid&hl=en&gl=us'
+  },
+  {
+    title: 'Advanced Language Therapy: Aphasia',
+    installs: 294,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/HPYHcnI5NJjgb7eLX6nj2B_Tf2tr_LAxhLaDPu4LUU0opkE-Q63S97XdGMeEa2UMnsc',
+    appId: 'com.tactustherapy.advancedlanguagetherapy',
+    url: 'https://play.google.com/store/apps/details?id=com.tactustherapy.advancedlanguagetherapy&hl=en&gl=us'
+  },
+  {
+    title: 'GG OCD Anxiety & Depression',
+    installs: 19939,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/YHJGUJzN6RW9CQ_93noqAfIGeMkCSAk1_UYGbOBfyVlocX2s3lso-cI1-KnSqwiPIGqL',
+    appId: 'air.com.samuramu.gg.oc',
+    url: 'https://play.google.com/store/apps/details?id=air.com.samuramu.gg.oc&hl=en&gl=us'
+  },
+  {
+    title: 'Pranic Healing® Mobile',
+    installs: 2101,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/K1qE8baOa5cTMAan-aOc5h-jrEXQJ9nha5D35bIIb0_mHxdVh6RnRuTKCLfQf0BbaA',
+    appId: 'com.pranic.android',
+    url: 'https://play.google.com/store/apps/details?id=com.pranic.android&hl=en&gl=us'
+  },
+  {
+    title: 'PCCN Pocket Prep',
+    installs: 5575,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/9qEn6FAOdIEEhSQ1DyWLsnYH7sE1UpAD1SV7U38xREin7ZuLRAZFixUP4imqO0LTHFI',
+    appId: 'com.pocketprep.pccn',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.pccn&hl=en&gl=us'
+  },
+  {
+    title: 'Super Hearing Sound Magnifier',
+    installs: 15913,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/7HKkg0xCQpxnOJtu9ocMM50YaIYWSeyeInAbEv-PdduJqVdab1bPeGdtCcQMhDitz88',
+    appId: 'com.ronasoftstudios.soundmagnifier',
+    url: 'https://play.google.com/store/apps/details?id=com.ronasoftstudios.soundmagnifier&hl=en&gl=us'
+  },
+  {
+    title: 'SAUNDERS Q&A REVIEW FOR NCLEX-RN® EXAMINATION ',
+    installs: 95336,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/hYHtklxLcjP9cCU0NCAJx-1gbrNg0-l9HnZfRd7sYNGTvktDOpgBQxBIlN7IIuX_nlF4',
+    appId: 'com.medpresso.testzapp.qanclex_rn',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.testzapp.qanclex_rn&hl=en&gl=us'
+  },
+  {
+    title: 'Visual Acupuncture 3D',
+    installs: 89082,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/eSVFtvVbVHgNeDC7mJWvll7zmniCwu5wsYH6kOYPd701c3ZOHNs7x0Q3QshjxMknVxn2',
+    appId: 'com.graphicvizion.visualacupuncturefr',
+    url: 'https://play.google.com/store/apps/details?id=com.graphicvizion.visualacupuncturefr&hl=en&gl=us'
+  },
+  {
+    title: 'SnoreGym : Reduce Your Snoring',
+    installs: 40240,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/iMSkl9aAdAOwzCXiHYDoHa87DWSZj_Bnv_zlm0GqmVSbHcEROkwnf16nabrjdCEHUZFq',
+    appId: 'com.snorelab.snoregym',
+    url: 'https://play.google.com/store/apps/details?id=com.snorelab.snoregym&hl=en&gl=us'
+  },
+  {
+    title: 'Apraxia Therapy: Aphasia',
+    installs: 1437,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Tm5u0Y8IfB9uXFK7VSLmkGMeC240meRf412FmATCApdsxbJedZqBw2y03F3sfQZq6BcB',
+    appId: 'com.tactustherapy.apraxiatherapy',
+    url: 'https://play.google.com/store/apps/details?id=com.tactustherapy.apraxiatherapy&hl=en&gl=us'
+  },
+  {
+    title: 'ASRA Coags',
+    installs: 8722,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/D06hChtr8aupXjCK-u0Y6X7iuDYBQ9edq-XMmHpvP1CTA3AvkDwqpdHO8PvrLVdXs9v4',
+    appId: 'com.asra.asracoags',
+    url: 'https://play.google.com/store/apps/details?id=com.asra.asracoags&hl=en&gl=us'
+  },
+  {
+    title: 'QuitNow! Quit smoking',
+    installs: 3525572,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/DHtrq5MZQ6aYGbmUSB8WNiOv-Oz9R4TyMCnzzYSjIqT3earlej7eq5DUudnN0bhSOeg',
+    appId: 'com.EAGINsoftware.dejaloYa',
+    url: 'https://play.google.com/store/apps/details?id=com.EAGINsoftware.dejaloYa&hl=en&gl=us'
+  },
+  {
+    title: 'PTA Content Master',
+    installs: 5341,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/BoOs2Ao5O3FM9ethQ9GnKT83Dxfzw9NKlCJzurlQc97y5h2E_mAIYswIJ20kq2EFRQ',
+    appId: 'com.contentmaster.PTACMaster',
+    url: 'https://play.google.com/store/apps/details?id=com.contentmaster.PTACMaster&hl=en&gl=us'
+  },
+  {
+    title: 'Cardiac diagnosis (heart rate, arrhythmia)',
+    installs: 3309,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/6au5YNfBcp_6vTLzHl0PasKW6jpLhk9Fpd3yPltZaDgwKDYvKQUo1UK0jNrdO1vjm-g',
+    appId: 'com.sdk.cardiac_diagnosis',
+    url: 'https://play.google.com/store/apps/details?id=com.sdk.cardiac_diagnosis&hl=en&gl=us'
+  },
+  {
+    title: 'Curable: Back Pain, Migraine & Chronic Pain Relief',
+    installs: 50888,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/2Qwouo7r4GGk-eRNxJD33bXFVd1OGc_pfKxCMLcQra5WvbL9G_n34THjcE4pNZaK4wqR',
+    appId: 'com.curablehealth.clara',
+    url: 'https://play.google.com/store/apps/details?id=com.curablehealth.clara&hl=en&gl=us'
+  },
+  {
+    title: 'Human Anatomy Atlas',
+    installs: 37601,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/vP3s4OxIvWG77CXsXBo5SqayIjymohlcYrG14DE2hvYPMYhQGLaHkL1ZI6zLDciaR9Ca',
+    appId: 'com.argosy.vbandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.argosy.vbandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Muscle Trigger Point Anatomy',
+    installs: 73655,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/dX8bDLm4Aq0vF131uvjJO83EghJ9fIPIEfgLdcXwUXF7iZnpxkR53uy94H9FHocJRQ',
+    appId: 'com.real.bodywork.muscle.trigger.points',
+    url: 'https://play.google.com/store/apps/details?id=com.real.bodywork.muscle.trigger.points&hl=en&gl=us'
+  },
+  {
+    title: 'NHA CPT Pocket Prep',
+    installs: 9612,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/QBJ3KuE_bS82N93eci27N2mRzoXpbhW-rSaqEprgScaPpPy6wlFdiXcRn7GZBxacH2d5',
+    appId: 'com.pocketprep.phlebotomy',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.phlebotomy&hl=en&gl=us'
+  },
+  {
+    title: 'Dosecast - Pill Reminder & Medication Tracker App',
+    installs: 176425,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/Uilmspo-GHGJ5Az9XfSAgIbnXO5el4fDXwRuvsA5tf2uQE9ok2BiIP8ZKWrX7KAwG44',
+    appId: 'com.montunosoftware.dosecast',
+    url: 'https://play.google.com/store/apps/details?id=com.montunosoftware.dosecast&hl=en&gl=us'
+  },
+  {
+    title: 'Johns Hopkins Internal Medicine Board Review, 5/E',
+    installs: 16,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Eb1mz6UQ24yyF4k0R3txywAiL3C-Wf1OHyPmkyao6DE0XC0k7PSU_lwdLQTYCWT8bto',
+    appId: 'com.usatineMediaLLC.johnsHopkinsInternalMed5e',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.johnsHopkinsInternalMed5e&hl=en&gl=us'
+  },
+  {
+    title: 'Glycemic Index Load in food net carbs diet tracker',
+    installs: 653369,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/p_9NfO7wO97By29eSnA7Nkpa2LLfcduBpsPjBbEtgP2t1PcieI-J64d5iVxYmHy8-II',
+    appId: 'com.creamsoft.mygi',
+    url: 'https://play.google.com/store/apps/details?id=com.creamsoft.mygi&hl=en&gl=us'
+  },
+  {
+    title: "Barnhill's Dermatopathology Challenge",
+    installs: 6,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/qxMXDHGQkyVpMrrfE0prksrSJvJy9yh1Ry8MP-ycXVq_XZvFGpfugLLPFlgNwe0Tam8',
+    appId: 'com.usatineMediaLLC.dermChallenge',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.dermChallenge&hl=en&gl=us'
+  },
+  {
+    title: 'BP Journal - Blood Pressure Diary',
+    installs: 209276,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/mn5U5C1ojN0EDaYUX2rUw6BRFvQ3247EThnDM7J95U7OI4m_2u3-qA-wQrGDcJfbeRuG',
+    appId: 'com.portalgroove.bpjournal',
+    url: 'https://play.google.com/store/apps/details?id=com.portalgroove.bpjournal&hl=en&gl=us'
+  },
+  {
+    title: 'myBioness',
+    installs: 687,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/o5PrQ9O883IGmzZpaQbv15zjggWz-3LMKWe-TSyEJCnLBTv-A1U7WmhBkQIf0jSfdfXE',
+    appId: 'com.bioness.mapp',
+    url: 'https://play.google.com/store/apps/details?id=com.bioness.mapp&hl=en&gl=us'
+  },
+  {
+    title: 'Blood Pressure Log - MyDiary',
+    installs: 1232026,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/AyLm-_TpO1GOAmi5AKQnILsCXvh1cacumnumYW6WMzOgQT956K_SX3uPEcrGe4E6oDQ',
+    appId: 'com.zlamanit.blood.pressure',
+    url: 'https://play.google.com/store/apps/details?id=com.zlamanit.blood.pressure&hl=en&gl=us'
+  },
+  {
+    title: 'Geriatrics At Your Fingertips',
+    installs: 13889,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/CV6fWW4On2lPhLeeGTeKqMDUuDJejcjdNmc4S5c62PL8Q7mDDnfMg9uay_40UK9OBw',
+    appId: 'com.usbmis.reader.gayf14',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.reader.gayf14&hl=en&gl=us'
+  },
+  {
+    title: 'Diagnosaurus DDx',
+    installs: 42409,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/K7GgTYPVAA_wEExVXZ1FQgSI8EFQrq6jw5MXnvQ-pGP7SZ7GTGXteOrnQYI2d8QLpI4w',
+    appId: 'com.unbound.android.cqdzl',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.cqdzl&hl=en&gl=us'
+  },
+  {
+    title: 'Physiology & Pathology',
+    installs: 1121,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/fkNLgwrBGBR13kLPKz4it0CEvI7WFhfdUhEZMYwMTunXSHOZa5Tr2VRr0fejv4ptBw',
+    appId: 'com.visiblebody.physiologyandpathology',
+    url: 'https://play.google.com/store/apps/details?id=com.visiblebody.physiologyandpathology&hl=en&gl=us'
+  },
+  {
+    title: '5 Minute Orthopaedic Consult - Rapid Consultation',
+    installs: 1836,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/v8sTLs4Z3Y1Bjt32AuiJHgJZXnqCIPwiFvIZIhlYzjlqFVFZ6pFeWVf-D2BFRehEcjE',
+    appId: 'com.medpresso.Lonestar.fmortho',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.fmortho&hl=en&gl=us'
+  },
+  {
+    title: '5-Minute Sports Medicine',
+    installs: 66,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/toGTDvHCvUBB-Kwj36ffOb0cGoTJFAkWnmFYa0ObTl45fxB-DmyxcDtRx0qg_4jm3Ig4',
+    appId: 'com.unbound.android.cq5s',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.cq5s&hl=en&gl=us'
+  },
+  {
+    title: '5 Minute Veterinary Consult: Canine & Feline App',
+    installs: 8386,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/3OiIyypR3Oc21DRFbuRJClq08R9_kabSG_5QDWkZsfYmxeNiJHyiYbnD13v-G0Jw1nM',
+    appId: 'com.medpresso.Lonestar.fmvetcf',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.fmvetcf&hl=en&gl=us'
+  },
+  {
+    title: "Nurse's Drug Handbook",
+    installs: 397798,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/cBT1AilVm_TL5ny7N43gzQ32QCDw2LSbcmeHccCqACKBBSbXAa-UxcS8QxcBFyLyKqE7',
+    appId: 'com.usbmis.troposphere.nursedhb2',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.troposphere.nursedhb2&hl=en&gl=us'
+  },
+  {
+    title: 'NLN PAX Pocket Prep',
+    installs: 7944,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/GCpJJDkbnvYw652zFzdlirapNe1uwkitw12uv2o7ecdemadWhxitNYNhheAf3MsgYzU',
+    appId: 'com.pocketprep.nlnpax',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nlnpax&hl=en&gl=us'
+  },
+  {
+    title: 'Drugs.com Medication Guide',
+    installs: 2373225,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/hPbxJhnceggrITJpS-iqh-UDVqPWgWKIsQGBPL9AFnjSfKi9jm_VpOIvijhbupeO5A',
+    appId: 'com.drugscom.app',
+    url: 'https://play.google.com/store/apps/details?id=com.drugscom.app&hl=en&gl=us'
+  },
+  {
+    title: 'Minor Emergencies, 3e',
+    installs: 45,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/o5LCsugklIteD5n2nShFvtZIYE1WURTSOgG_92uxD7jYEBN6raiPmFE_VIAlALPZKVH_',
+    appId: 'com.usatineMediaLLC.minorEmergenciesGoogle',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.minorEmergenciesGoogle&hl=en&gl=us'
+  },
+  {
+    title: 'InfantRisk Center HCP',
+    installs: 2959,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/mNc34ugtm3sx6n7zPfaY0HwgbPaUVJaY6yq2HXyZvtO648RoHuAqkMOOXj_NnEBe4tsW',
+    appId: 'con.irc.hcp2',
+    url: 'https://play.google.com/store/apps/details?id=con.irc.hcp2&hl=en&gl=us'
+  },
+  {
+    title: 'PsychNotes: Clinical Pocket Guide',
+    installs: 3708,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/imajrGOtD3V4yYIp915et1QW1nzsMvk-Wl9PVLagvfqsXZkUotCu2U_2Nfw88j-rnA',
+    appId: 'com.medpresso.Lonestar.psychnotes',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.psychnotes&hl=en&gl=us'
+  },
+  {
+    title: 'OBGYN and Infertility',
+    installs: 14847,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/09d8Ibfko8q57ntWs8urDCiaP5fZ4mCR5--15MEZUTC79B-esHFRgno-6mX7fGwp-KI',
+    appId: 'com.unbound.android.ubob',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubob&hl=en&gl=us'
+  },
+  {
+    title: 'Anatomyka - 3D Human Anatomy Atlas',
+    installs: 270744,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/1liKmmY__8gWSeW-_2fo50k9JaurCMXyT2CQyh-Moi_LkUmrNgzaX6nKJG-HcpJMG88g',
+    appId: 'com.anatomyka.android',
+    url: 'https://play.google.com/store/apps/details?id=com.anatomyka.android&hl=en&gl=us'
+  },
+  {
+    title: 'GG Confidence & Self Esteem',
+    installs: 66142,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/qfO8TdKcbmvj-OmeZadqCkZB7Vow0jAWDKZX42UdU2NJ6v_bUl9imnQeBmh6ytWS3Ul9',
+    appId: 'air.com.samuramu.gg.se',
+    url: 'https://play.google.com/store/apps/details?id=air.com.samuramu.gg.se&hl=en&gl=us'
+  },
+  {
+    title: 'Freya • Surge Timer',
+    installs: 13024,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/NmM_laQvzlkeYBfjLv0XIXy1JepEIMqz4_B7jsvhFFqnrq7P9C9Vyx_W3lhcldhhJj12',
+    appId: 'com.thepositivebirthcompany.freyasurgetimer',
+    url: 'https://play.google.com/store/apps/details?id=com.thepositivebirthcompany.freyasurgetimer&hl=en&gl=us'
+  },
+  {
+    title: 'Vetcalculators',
+    installs: 548,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/t7LNUJyzJ0cE1YjbN9MPF4aixNP2akud3II71sEylLxOhMEQ2t8wIGSpFgVXt41TDZU',
+    appId: 'com.vetcalculators.android',
+    url: 'https://play.google.com/store/apps/details?id=com.vetcalculators.android&hl=en&gl=us'
+  },
+  {
+    title: 'CNA Test Genie',
+    installs: 978,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/5CtE5WW_wqCNPzkuLVZVGPcQTLulGFFOQYJWMvvw4Vccb2PTHOYY1RA3LqZkBhIWiw',
+    appId: 'dto.ee.cna.genie',
+    url: 'https://play.google.com/store/apps/details?id=dto.ee.cna.genie&hl=en&gl=us'
+  },
+  {
+    title: 'Voice Analyst',
+    installs: 2645,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Cbla04z1eCxoVvKnTUzD8u3i9PMU8Ik0OKYnIBYWRG2qP_TlRxa_p2G1ofsUMvTUM-s',
+    appId: 'co.speechtools.voiceanalyst',
+    url: 'https://play.google.com/store/apps/details?id=co.speechtools.voiceanalyst&hl=en&gl=us'
+  },
+  {
+    title: 'RN Pocket Guide',
+    installs: 10819,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Qn6CeXMpUi3bcLhkmy7ThmLDcUueyubmvmhaqR4yvOua8TEwtLZZ0LhcRbckmjR4vPs',
+    appId: 'com.medpresso.Lonestar.rndxint',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.rndxint&hl=en&gl=us'
+  },
+  {
+    title: 'Teach Me Anatomy',
+    installs: 948211,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/7m5CgSU4Cmm6ujzKsFg4V65vNyIPSrzzjKN3AI5zAFnQFofXgnG6c6O09MHBCKPwwQum',
+    appId: 'com.atomengineapps.teachmeanatomy',
+    url: 'https://play.google.com/store/apps/details?id=com.atomengineapps.teachmeanatomy&hl=en&gl=us'
+  },
+  {
+    title: 'HearMax (Pro): Super Hearing Aid & Sound Amplifier',
+    installs: 502,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Dn_0jkIYBFQv8XYtrpuTiqJGIzOuFZ6vWS-bkMT6u9sI_h-hTRlO9YSABmVmZZG6Wxk',
+    appId: 'com.ronasoftstudios.earmaxfxpro',
+    url: 'https://play.google.com/store/apps/details?id=com.ronasoftstudios.earmaxfxpro&hl=en&gl=us'
+  },
+  {
+    title: 'iRadTech',
+    installs: 1013,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/XV844df7mxUXTCoMhH_wt1R7AnDvW_z6QwehVCwZA64Vcs4hpHIr1QJlZ_7It3CmyVhj',
+    appId: 'com.xrayusa.iradtech',
+    url: 'https://play.google.com/store/apps/details?id=com.xrayusa.iradtech&hl=en&gl=us'
+  },
+  {
+    title: 'GlassesOn  |  Lenses & Pupils',
+    installs: 58244,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Dx98T8Ii2mDL5zqjwX0UTQv0HlGuPuoiT39AOuWplvayYEmhUL7Y0O_y6n7qthL3Eos6',
+    appId: 'com.sixoversix.copyglass',
+    url: 'https://play.google.com/store/apps/details?id=com.sixoversix.copyglass&hl=en&gl=us'
+  },
+  {
+    title: 'Lippincott Nursing Procedures with step-by-step...',
+    installs: 26653,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/zk1WsBSuHY33lsXBe66VwJnOFr9dkaGeCEYUwXAb5KogJ73pX09r76D5b58MGM2RZBw',
+    appId: 'com.medpresso.Lonestar.nurproc',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.nurproc&hl=en&gl=us'
+  },
+  {
+    title: 'Paramedic Review Plus™',
+    installs: 4639,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/Bdz3r5uC_sUFDjvmJT9MvdC_dPWYGg-zNm8SmedJrf8eM9oRSN7sSGuLw_Jx3YD7zGI',
+    appId: 'com.accella.paramedicreview',
+    url: 'https://play.google.com/store/apps/details?id=com.accella.paramedicreview&hl=en&gl=us'
+  },
+  {
+    title: 'BedTyme',
+    installs: 108,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/QLKeDQFZyP6qqEg9rY1_yFJ4tq4tI6e4akmkKRxpZlgUXTM63bgD8EZT71SmYNobpp8',
+    appId: 'com.bedtyme.bedtyme',
+    url: 'https://play.google.com/store/apps/details?id=com.bedtyme.bedtyme&hl=en&gl=us'
+  },
+  {
+    title: 'DSM-5 Differential Diagnosis',
+    installs: 56185,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/yLR_568btSjVmiM5UCO6TopAiFehZTV56xQhJuPnhrcPBDMm1JzJvfaS0uT7zvSzZRU',
+    appId: 'com.unbound.android.ubds',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubds&hl=en&gl=us'
+  },
+  {
+    title: 'The Clinical Problem Solvers',
+    installs: 1522,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/pZAnL9Efzuto7R_AMsXPq1X7aD876_Or6H3OOnCCLBqUSTkEsJL0Oc3XY4WfYswaeQ',
+    appId: 'com.clinicalproblemsolving.cps',
+    url: 'https://play.google.com/store/apps/details?id=com.clinicalproblemsolving.cps&hl=en&gl=us'
+  },
+  {
+    title: 'AnSo Anaesthesia Sonoanatomy',
+    installs: 6206,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/abFVCTqJfOTUNTXZvX5VyA4wQJJfvtzIG3-xAElSz_TcwRB2zQayysFvD3yDKsDoros',
+    appId: 'com.nekologic.anso',
+    url: 'https://play.google.com/store/apps/details?id=com.nekologic.anso&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket ICU',
+    installs: 46624,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/yS63umgGrkmMu0Q7goT_OAtbLmUamfMQI5AJqzhDq0W-aqCnKCWDIvVpBANehLwJMWHX',
+    appId: 'com.unbound.android.ubpkl',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubpkl&hl=en&gl=us'
+  },
+  {
+    title: 'Seizure Alert – My Medic Watch',
+    installs: 3331,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/coxESQRdSvEh1FIlqc8E4la3Jc3_lLFniGfdum31h4QCEu-Y_7brWviDUUGBxBy-c__i',
+    appId: 'com.mymedicwatch.seizure.prod',
+    url: 'https://play.google.com/store/apps/details?id=com.mymedicwatch.seizure.prod&hl=en&gl=us'
+  },
+  {
+    title: 'Recognise Foot',
+    installs: 4095,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/JweL44vXo39zrCAPufvNAnDqF3X-OfhSnobXjChkkVrLrp98LGoG0eQRWWzfGaoVIA',
+    appId: 'au.com.appliquette.recognise.foot',
+    url: 'https://play.google.com/store/apps/details?id=au.com.appliquette.recognise.foot&hl=en&gl=us'
+  },
+  {
+    title: 'CURRENT Diagnosis & Treatment Psychiatry',
+    installs: 3022,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/emwKuPD0MWW_1WWScsPgoNnmHO449LJjAYy5a1YyR3wokrNpPfESc73UhiNqZasY3sw',
+    appId: 'com.medpresso.Lonestar.currdxtxpsych',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.currdxtxpsych&hl=en&gl=us'
+  },
+  {
+    title: 'MoodSpace - Stress, anxiety, & low mood self-help',
+    installs: 289963,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/xbJ-gFgpmcgfefI0tlmWpyGnAkDT1dzLoaip5ZckHmia01PPydu4mu0JLdcXNhpPozw',
+    appId: 'boundless.moodgym',
+    url: 'https://play.google.com/store/apps/details?id=boundless.moodgym&hl=en&gl=us'
+  },
+  {
+    title: 'My Calendar - Period Tracker',
+    installs: 11362257,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/AkQvLT3_J_u7wu5uc9wrSf68s9bPWWrlEq-7dJf8Lc2yxrEsMHQRq_o8slLoCcR5kQ',
+    appId: 'com.lbrc.PeriodCalendar',
+    url: 'https://play.google.com/store/apps/details?id=com.lbrc.PeriodCalendar&hl=en&gl=us'
+  },
+  {
+    title: "Harrison's Manual of Medicine 20th Edition",
+    installs: 18,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/gZmLigUhEj5V4BmdRv1BRrAN8uQLWcUBE_QO89TkmSMKY34oV7zKT3DEDBpPYK0N3YE',
+    appId: 'com.usatineMediaLLC.harrisonsManual20',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.harrisonsManual20&hl=en&gl=us'
+  },
+  {
+    title: 'PASS CCRN! Critical Care Resisted Nurse Exam',
+    installs: 555,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/EauCtAjmKlyPXdLLU8OPONPqFB0XMvJbRGrO1WrGdDw9uXbivewokM-U8fZmkG5MPjE',
+    appId: 'com.medpresso.testzapp.passccrn',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.testzapp.passccrn&hl=en&gl=us'
+  },
+  {
+    title: 'Histology Complete- SecondLook',
+    installs: 139,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/BvDlQOI1ODG0uZs_S-z1ySLELb9hfzkafZaB7wlohHAfHJXuRI4JCoEWo3fJyg-25jR-',
+    appId: 'edu.umich.histology',
+    url: 'https://play.google.com/store/apps/details?id=edu.umich.histology&hl=en&gl=us'
+  },
+  {
+    title: 'Sota Omoigui’s Anesthesia Drugs Handbook – 4th Ed',
+    installs: 70,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/JnO0D91ZH_5bA6vTgfAcKc4OJhMD_RXWqghmsrTWMxa-qrRbZ5gsHTIicNcYjfSyAhw',
+    appId: 'com.drughandbook',
+    url: 'https://play.google.com/store/apps/details?id=com.drughandbook&hl=en&gl=us'
+  },
+  {
+    title: 'NCLEX-RN Practice Test Genie: Nursing Test Bank',
+    installs: 1539,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/JPDTIXUTr_4-Hsw38hlMe-424fUni5j36Bxw26zB7G98v7DDiTw5eoulvTwSNsLVqYo',
+    appId: 'dto.ee.nclex.genie',
+    url: 'https://play.google.com/store/apps/details?id=dto.ee.nclex.genie&hl=en&gl=us'
+  },
+  {
+    title: 'PuppyFat - Dog Breeding Software',
+    installs: 2195,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/6qfVW8d4wOmxMphNSxP-G1YwH0DHuss_JWKAmgD-GTJN-LJztKZR0-9ggx4BZZMtc1M',
+    appId: 'com.iHatch_Apps.PuppyFat',
+    url: 'https://play.google.com/store/apps/details?id=com.iHatch_Apps.PuppyFat&hl=en&gl=us'
+  },
+  {
+    title: 'PT Content Master',
+    installs: 2461,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/uSkOjesWy9JyTUDknuvpBYHWIWsLrzPCNVb8P_4V5g3OIzCrCRVD-SC0uINbJhrUnLg',
+    appId: 'com.contentmaster.PTCMaster',
+    url: 'https://play.google.com/store/apps/details?id=com.contentmaster.PTCMaster&hl=en&gl=us'
+  },
+  {
+    title: 'Calcium Pro',
+    installs: 9339,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/O6WJQK6e6GjdiTrJa-dKrLAA1fWDA_f8WifhmLHhq0ryoU9o3ana291gQ5lvjPb2rHw',
+    appId: 'com.haneke.parathyroid',
+    url: 'https://play.google.com/store/apps/details?id=com.haneke.parathyroid&hl=en&gl=us'
+  },
+  {
+    title: 'TCM Clinic Aid',
+    installs: 8858,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/_L6w4-gcVmeOzCBQSKuhM3a3PcGNt8Gihg9JVu-CUBDOc-p4X9IxkUovcUkoMMsKkfE',
+    appId: 'com.cyberandsons.tcmaid',
+    url: 'https://play.google.com/store/apps/details?id=com.cyberandsons.tcmaid&hl=en&gl=us'
+  },
+  {
+    title: 'Harriet Lane Handbook',
+    installs: 22855,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/FRHID6Vnk9RgcHSGnapg5sC90kiX4txkvZJSO4Lx08F1y_PTGaq23Rth1H7bviht2w',
+    appId: 'com.unbound.android.cqhlil',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.cqhlil&hl=en&gl=us'
+  },
+  {
+    title: 'Oxford Handbook Gen Practice 4',
+    installs: 220,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/v1uiq5cMKEKrDsuiBknwKI9Z1og_PSbvqxNxWhXP51hb16L5AHm5j-Q9rKbqJ2DYcw',
+    appId: 'com.medhand.OHGP4',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.OHGP4&hl=en&gl=us'
+  },
+  {
+    title: 'Code Blue Pro',
+    installs: 1719,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/XxBjlr83u4H1iHnSC7dJ1aQ6Jo3kjN08hh09WgCtEsB8xqyrjrECDULdVuTHBCDxeA',
+    appId: 'com.lastdojodev.codebluepro',
+    url: 'https://play.google.com/store/apps/details?id=com.lastdojodev.codebluepro&hl=en&gl=us'
+  },
+  {
+    title: 'Super Hearing Sound Magnifier',
+    installs: 1842,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/HTxretxyGLPHnHDPPI5C0LVifGbsB80P4jXurV29xsBrjvOFpAQbAgSAF9J5Sy0KQW0',
+    appId: 'com.microphone.soundmagnifier',
+    url: 'https://play.google.com/store/apps/details?id=com.microphone.soundmagnifier&hl=en&gl=us'
+  },
+  {
+    title: 'HandbooK of Laboratory and Diagnostic Tests',
+    installs: 16141,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Gq8Bsx10lZwQ7a8vMV3xksac3n0jHjGf3ULmBTZKct0kiLIIf4emEwsSMqzY9omRCjU',
+    appId: 'com.medpresso.Lonestar.rndxtests',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.rndxtests&hl=en&gl=us'
+  },
+  {
+    title: 'Clinical Anesthesia Procedures',
+    installs: 93,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/zHQ8h6-m3J8IwlqJp9nYdngV5jOfxTweKxlFAnQ1v1Cs73M0Z405MgWX2hkDICujQwtW',
+    appId: 'com.unbound.android.ubca',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubca&hl=en&gl=us'
+  },
+  {
+    title: 'MommyMeds',
+    installs: 11702,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/iEQEuDR3ejdhyAGK-FgUWXqhLgWcbDa_0zsH2NTJLQ9OZKkdusoPJD82ypvAzHd8XmM',
+    appId: 'com.infantrisk.mommymeds.paid',
+    url: 'https://play.google.com/store/apps/details?id=com.infantrisk.mommymeds.paid&hl=en&gl=us'
+  },
+  {
+    title: 'iGeriatrics',
+    installs: 8910,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Kh0o0MgwLnjTFhs0L2CYaLs3RNdZJHlm7-VdpRWs6tpDbSyQdt95RhzB9Cf69Syg8w',
+    appId: 'com.usbmis.reader.dwtf1',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.reader.dwtf1&hl=en&gl=us'
+  },
+  {
+    title: 'Harriet Lane Handbook Pediatric Drug Formulary App',
+    installs: 21151,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/XS1p2_koR74kME7FxHpzBKtxewvuTaJ89xN7WnOPOZZjBM-i8W8TFQgAJsYqy1thK9s',
+    appId: 'com.medpresso.Lonestar.harrietln',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.harrietln&hl=en&gl=us'
+  },
+  {
+    title: 'ABC Dermatology for Nurses and Medical Students',
+    installs: 2697,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/XjBa7Zxnqke3a8U13UGiluNR0hJVLZ3hwmtUw8ZF7bonAlVoK8HG7zAXt9pD9HQDSYs',
+    appId: 'com.medpresso.Lonestar.abcderma',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.abcderma&hl=en&gl=us'
+  },
+  {
+    title: 'Whitebook Medicina: CID-10, Prescrições e Bulário',
+    installs: 734627,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/IMLinBFhdkjsurGfNlAGaz1W5QM44db7pvm-K1DiuXjwqWYvHeMXXhxMscR6bb2vKnqR',
+    appId: 'com.medprescricao',
+    url: 'https://play.google.com/store/apps/details?id=com.medprescricao&hl=en&gl=us'
+  },
+  {
+    title: 'Oxford Handbook Exp&Wil M 2e',
+    installs: 8,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/zp7ys1GgnKPXpIGxZ6Lo8ercKPMfvknHUoQHHHL_Jh1TBBIkycxdGY6bukQIV3_XgBs',
+    appId: 'com.medhand.OHEWM2',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.OHEWM2&hl=en&gl=us'
+  },
+  {
+    title: 'Skeleton | 3D Anatomy',
+    installs: 799830,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/o2dZOsqBNJqWpPraXRXV0DnbKx-R-N815AIDmXBUMEQFqvgqsyhcXmed2MT8h3AjkTgu',
+    appId: 'com.catfishanimationstudio.SkeletalSystemPreview',
+    url: 'https://play.google.com/store/apps/details?id=com.catfishanimationstudio.SkeletalSystemPreview&hl=en&gl=us'
+  },
+  {
+    title: 'Takster',
+    installs: 700,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/x1sFz2QHgbZxN-LYsIShP8BYwiLvUf3fyxCOBMA9Aid4vDvkU29wn-s-6fIC-XXzYVmi',
+    appId: 'no.medisinpluss.takster',
+    url: 'https://play.google.com/store/apps/details?id=no.medisinpluss.takster&hl=en&gl=us'
+  },
+  {
+    title: 'Nurse Anesthesia Pocket Guide',
+    installs: 3458,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/LsRgXyBcR19o3u7pHM6F3CGEua91WyvvxoPpP6zmyyjOOYe6mP2hHAetwnYrgSe8qWI',
+    appId: 'com.medpresso.Lonestar.nurane',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.nurane&hl=en&gl=us'
+  },
+  {
+    title: 'SonicCloud Hearing Test for Personalizing Sound',
+    installs: 32372,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/C62szX6gL6z7itx0ZoRPOwI5xgbbDknDTyfxU4BfOQtk26QZ4MJmPSHSorvoVOq_VfPy',
+    appId: 'com.sonitum.soniccloud',
+    url: 'https://play.google.com/store/apps/details?id=com.sonitum.soniccloud&hl=en&gl=us'
+  },
+  {
+    title: 'Physical Examination & History Taking 8e',
+    installs: 23,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/I7u6oYKCG1O0uVcQEX38oZGIkoutCKL2OPJ8LdQPgVWrFL7pQcDK4WtFza7a1xNI3DQ',
+    appId: 'com.medhand.wkpeht8x1',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.wkpeht8x1&hl=en&gl=us'
+  },
+  {
+    title: 'Nursing Central',
+    installs: 39226,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/TuRDq2v55JLbSsTHy1x498e5aU-yrsQzLDRcXWVLy265gs06pOC7LzE7iovNmzzbKg',
+    appId: 'com.unbound.android.ubnc2l',
+    url: 'https://play.google.com/store/apps/details?id=com.unbound.android.ubnc2l&hl=en&gl=us'
+  },
+  {
+    title: "Lichtman's Atlas of Hematology",
+    installs: 20,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/q4v0NYn0HBnfnAI0L-eXRemBkx1GUdY6lJGL2npu2Z487Jf3lckA5j6BVgn_o9ELdaw',
+    appId: 'com.usatineMediaLLC.atlasHematology',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.atlasHematology&hl=en&gl=us'
+  },
+  {
+    title: "Bakerman's ABC's Lab Data - Trusted for 30 Years!",
+    installs: 434,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/5rOThzbgtsKbpMjf5wFFpebZKkCEl4oTIG8-ZVuAbsTP71BH3PVb-uTeUw459PlTF0Y',
+    appId: 'com.medpresso.Lonestar.abclabdata',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.abclabdata&hl=en&gl=us'
+  },
+  {
+    title: 'AEMT Review',
+    installs: 1669,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/Z0TotUGKhbjiV8jWpwrrLlRYRj_mRl0JErdamcnZLj9t6ceotfGMj4FS_Y_bB2Vc2avf',
+    appId: 'com.limmercreative.srtengine.aemt',
+    url: 'https://play.google.com/store/apps/details?id=com.limmercreative.srtengine.aemt&hl=en&gl=us'
+  },
+  {
+    title: 'Oxford Handbook CliniEx&P S',
+    installs: 65,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/PypKCLCujOxQ020YQ40dTyB7qG6WU-b6S2nFSspaS0YzQPCG1j-iwNlLXVMd-4YBwrY',
+    appId: 'com.medhand.OHCEPS2',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.OHCEPS2&hl=en&gl=us'
+  },
+  {
+    title: 'GG Relationship Doubt & Obsessions (ROCD)',
+    installs: 24440,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/AcaabPEzqbpBo1m1Ju6igElg7_gSljtjC8TkD8AELWPv3lLI4blLHQn_63UGGe_ydLQ',
+    appId: 'air.com.samuramu.gg.ocd',
+    url: 'https://play.google.com/store/apps/details?id=air.com.samuramu.gg.ocd&hl=en&gl=us'
+  },
+  {
+    title: 'IBM Micromedex IV Comp.',
+    installs: 50290,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/ngEAi5Ek6f9W-64vpxAK0b_J3fES3FfKpe5a8Ha_rboDSndx7fVzf-xkEwAMB0pFr4U',
+    appId: 'com.thomson.compatibility',
+    url: 'https://play.google.com/store/apps/details?id=com.thomson.compatibility&hl=en&gl=us'
+  },
+  {
+    title: 'Recognise Knee',
+    installs: 1605,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/LPNmqlwM2i0MeQ7u9D6An-8kDRQY7DA1SP_ZL0O-Pkz33JlCg65jQT__zW6BC1JuyU4',
+    appId: 'au.com.appliquette.recognise.knee',
+    url: 'https://play.google.com/store/apps/details?id=au.com.appliquette.recognise.knee&hl=en&gl=us'
+  },
+  {
+    title: 'Speech Assistant AAC',
+    installs: 380552,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/xo2bcl5vL7a9KmeZ3alc6G2AgKDzTbKhD41zbaaf6ggUgxL-lYCMYAspVPRvxXWPL-Fj',
+    appId: 'nl.asoft.speechassistant',
+    url: 'https://play.google.com/store/apps/details?id=nl.asoft.speechassistant&hl=en&gl=us'
+  },
+  {
+    title: "McGraw-Hill's 2020/21 Top 300 Pharmacy Drug Cards",
+    installs: 5,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/HiJNBU9LNT0PFcxDo7yPNpj8FvAy-93V6wXYHKeEe1DVn74w0zqT49AQ_kr0Cqmt7BYu',
+    appId: 'com.usatineMediaLLC.pharmDrugCards2020',
+    url: 'https://play.google.com/store/apps/details?id=com.usatineMediaLLC.pharmDrugCards2020&hl=en&gl=us'
+  },
+  {
+    title: 'PPCNP-BC Pocket Prep',
+    installs: 203,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Whp95rhVO539vrATtOQDeIkgwX8c_t9-J7o270tZbx_h0zaWBK8MX_eOPl72NdTMD8A',
+    appId: 'com.pocketprep.ppcnp',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.ppcnp&hl=en&gl=us'
+  },
+  {
+    title: 'VIDAL Mobile',
+    installs: 788002,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/vbaR2nhHyQLvInl81Nj6mArO-q3CaLU9uR3j_b9sfGodwXFRv8d9-o3RVg1OpukR_l2e',
+    appId: 'com.mobicrea.vidal',
+    url: 'https://play.google.com/store/apps/details?id=com.mobicrea.vidal&hl=en&gl=us'
+  },
+  {
+    title: 'Cara Care: FODMAP, IBD, IBS Tracker, Poop Tracker',
+    installs: 155602,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/BWFP9dMpd824ny3Geis2vAZTtCCbBTKleSsbtJUgHQ1vXue3IkH267qPSPd-_Jin6GE',
+    appId: 'com.gohidoc.cara',
+    url: 'https://play.google.com/store/apps/details?id=com.gohidoc.cara&hl=en&gl=us'
+  },
+  {
+    title: 'Medical Surgical RN Companion',
+    installs: 40432,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/ri11pteh_Q-Qy-9QRTqwTbrBDCDjV6Uof3BgaK-DhdPjkrkh6FUYjOKPATAm2BBueg',
+    appId: 'com.medpresso.Lonestar.medsrg',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.medsrg&hl=en&gl=us'
+  },
+  {
+    title: 'Clinical Pattern Recognition: Knee Pain',
+    installs: 48,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/AdXwhXnv8-VLJwLrNBaZuoxuZ_yG0DhpH-5dP_EiXmpDp3QdbH9zN6po5fQvVjnr5LM',
+    appId: 'com.cpr.knee',
+    url: 'https://play.google.com/store/apps/details?id=com.cpr.knee&hl=en&gl=us'
+  },
+  {
+    title: 'Clinical Pattern Recognition: Shoulder Pain',
+    installs: 77,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/wPIHuYm6HxTcwgfIUhY3cyTTppmzeyKT-I0k__XUGyvbvP9SkvJPJQyo4A5QNHkdDg',
+    appId: 'com.cpr.shoulder',
+    url: 'https://play.google.com/store/apps/details?id=com.cpr.shoulder&hl=en&gl=us'
+  },
+  {
+    title: 'Saunders Nursing Drug Handbook 2021',
+    installs: 36514,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/jaFeoVxOC-3i9R-yX735h4XoySNegD4YwLbF8xorMofjrNvUg27afxuM7_PbZymvwA',
+    appId: 'com.medpresso.Lonestar.saundersdx',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.saundersdx&hl=en&gl=us'
+  },
+  {
+    title: 'Pain Tracker & Diary',
+    installs: 2289,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/yUgxlD1Qqn5AZ7uqWGILfyq5thW9H2ciZdWcfa2BpMlvBLvD4jC2jYata5d-D1B6hw',
+    appId: 'com.nanolume.nanolumeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.nanolume.nanolumeapp&hl=en&gl=us'
+  },
+  {
+    title: 'CURRENT Practice Guidelines in Primary Care',
+    installs: 3907,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/r6fjyT1W2WKO3_2g26TdS0ReSTvg9cXsk3jUwVaMgCazDS3POs2o4b7jaIYGGnKtvW59',
+    appId: 'com.medpresso.Lonestar.pcguide',
+    url: 'https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.pcguide&hl=en&gl=us'
+  },
+  {
+    title: 'EMS ACLS Guide',
+    installs: 18675,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/rj2mDudNTs9bta7jBYESEB1pnI9sLh1gel39uX0JxM86Xxz4bqZN-i50FdrWRPH5BDjs',
+    appId: 'com.informedpublishing.EMSALS',
+    url: 'https://play.google.com/store/apps/details?id=com.informedpublishing.EMSALS&hl=en&gl=us'
+  },
+  {
+    title: "Physicians' Cancer Chemotherapy Drug Manual",
+    installs: 6992,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/kNfWBoA0CK3jZvoIR8CVuGLkYjxZYyqUoxX5WHgBrsOCFUPbEXpUSB4xxukbN6UDS38',
+    appId: 'com.atmoapps.pcch',
+    url: 'https://play.google.com/store/apps/details?id=com.atmoapps.pcch&hl=en&gl=us'
+  },
+  {
+    title: 'MyATLS',
+    installs: 149084,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/hO3xpqac-Q5-oJQfE4j6NKRaom77v_B-oKNTNTGeg34Wq-AoSsS9PuWvPz7deHDeQocX',
+    appId: 'com.echo.myatls',
+    url: 'https://play.google.com/store/apps/details?id=com.echo.myatls&hl=en&gl=us'
+  },
+  {
+    title: 'Super Hearing Sound Magnifier Recorder',
+    installs: 4757,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/cBNhL-USim4yuPDMhmQLvEpG3ASfrn-ppBORVfoXbri6eB2Tmlhr2NBNvrKdTeC8_LA',
+    appId: 'com.ronasoftstudios.magnifier',
+    url: 'https://play.google.com/store/apps/details?id=com.ronasoftstudios.magnifier&hl=en&gl=us'
+  },
+  {
+    title: 'Pain Relief Hypnosis - Chronic Pain Management',
+    installs: 42130,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/ZItqJwP6b3N_TYawHwY6YYVXrFc0oUZrg8QYeAJR59orFEo3V-cDd4mpwZmXigUsFg',
+    appId: 'com.surfcityapps.painrelief',
+    url: 'https://play.google.com/store/apps/details?id=com.surfcityapps.painrelief&hl=en&gl=us'
+  },
+  {
+    title: 'Guide to Clinical Midwifery',
+    installs: 138,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/rb4ecUMqPGTFuPWozfngTrJD2YR3TP8e_sv750nO_KnRAn0TsARAJcTBEeYSrgWR1KQ',
+    appId: 'com.atmoapps.mida',
+    url: 'https://play.google.com/store/apps/details?id=com.atmoapps.mida&hl=en&gl=us'
+  },
+  {
+    title: 'Multi-Profile Medical Records',
+    installs: 7958,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/Ftc5qeXG6pCnVGjWDmq-2UdUnAMtAFUY1xJQnTSWGukDSuFsRZj-xiF4bfewHIOmKQ',
+    appId: 'inc.techxonia.medicalrecords',
+    url: 'https://play.google.com/store/apps/details?id=inc.techxonia.medicalrecords&hl=en&gl=us'
+  },
+  {
+    title: 'MPR',
+    installs: 149407,
+    genre: 'MEDICAL',
+    icon: 'https://play-lh.googleusercontent.com/xYHTWMMEE7aapY7chOzIUOt_WpudsQ5-Ak74u3YkD1Ojl5oJnuijtTbOTiRAa6yBCQ',
+    appId: 'com.usbmis.reader.mpr',
+    url: 'https://play.google.com/store/apps/details?id=com.usbmis.reader.mpr&hl=en&gl=us'
+  },
+  {
+    title: 'vet-Anatomy',
+    installs: 227193,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/MZ4pgs62-XsSZNiHmf0usWYm8eRRA5RuuDUtjAa3f8alonOVfjZD3MWUTqj_n4EDliU',
+    appId: 'net.imaios.vetanatomy',
+    url: 'https://play.google.com/store/apps/details?id=net.imaios.vetanatomy&hl=en&gl=us'
+  },
+  {
+    title: 'Symptom Tracker & Medicine, Health Symptoms Diary',
+    installs: 22989,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/nMWFLcTX2ozORl0a2ck--8_8Gl_Mz1syuKbJtZOiBr1USrsSoYnboHblaFDr8FEr_Q5b',
+    appId: 'com.careclinicsoftware.careclinic',
+    url: 'https://play.google.com/store/apps/details?id=com.careclinicsoftware.careclinic&hl=en&gl=us'
+  },
+  {
+    title: 'Oxford Handbook Med Dermatol 2',
+    installs: 17,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/EZnYIXKoynLEMp4K0h8P5FQ0FNaTKeJ97N7rBej16Gyh5MV9Etz-3qQvwr5B-KAuSJ1j',
+    appId: 'com.medhand.ohmd2x1',
+    url: 'https://play.google.com/store/apps/details?id=com.medhand.ohmd2x1&hl=en&gl=us'
+  },
+  {
+    title: 'ADA CDT 2020 Dental Procedure Coding',
+    installs: 3477,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/XucwlOx9KIP6jUDnV3LdMl7xrt4W28_13wGLIvawxWjpxc-UzQzrOHkICR7E5ZS85_4',
+    appId: 'com.hltcorp.cdtcodes2020',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.cdtcodes2020&hl=en&gl=us'
+  },
+  {
+    title: 'SurgTalk - Animated Videos for Patient Education',
+    installs: 54,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/HMqiD-6swnTJvLgf5NkVD7ebMgExuSci3KwtlszU3ra9fQa4u7G1vfPldAnLYPL55Ak',
+    appId: 'com.surgtalk',
+    url: 'https://play.google.com/store/apps/details?id=com.surgtalk&hl=en&gl=us'
+  },
+  {
+    title: 'OT Pocket Prep',
+    installs: 7201,
+    genre: 'MEDICAL',
+    icon: 'https://lh3.googleusercontent.com/_cT45x2qq8yK-Z6It9ufAvkkrNfR8SJHCZvyNRCZrjbKlUiQkff-wkRxdE_nKlAj1cU',
+    appId: 'com.pocketprep.nbcototr',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.nbcototr&hl=en&gl=us'
+  }
+]

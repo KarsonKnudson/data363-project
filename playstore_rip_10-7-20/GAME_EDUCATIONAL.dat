@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Toca Life World: Build stories & create your world',
+    installs: 25756677,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/_dVO-An27H7KuedNfw3rC1nHdBiOK6fE9t39kVkrgcjb2F3OkkPY_-sNBDNorbzN-g',
+    appId: 'com.tocaboca.tocalifeworld',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=us'
+  },
+  {
+    title: 'Animal Jam',
+    installs: 10827469,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/W5kepAALK1sS_EJ8AZjtjcKcQS9eZEO8d2k8GSy4ZXCKjg5c2eXYaZSSJv0Dw0fV9g',
+    appId: 'com.WildWorks.AnimalJamPlayWild',
+    url: 'https://play.google.com/store/apps/details?id=com.WildWorks.AnimalJamPlayWild&hl=en&gl=us'
+  },
+  {
+    title: 'Kiddopia - Preschool Learning Games',
+    installs: 1300934,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/oO2lxYfd0bwP4A4Gb_AquayzLZB0MSzE2lyDuSLvVY0DSMi_fNfDQgwWyQ_q5356dPY',
+    appId: 'com.paperboatapps.google.kiddopia',
+    url: 'https://play.google.com/store/apps/details?id=com.paperboatapps.google.kiddopia&hl=en&gl=us'
+  },
+  {
+    title: 'World of Peppa Pig – Kids Learning Games & Videos',
+    installs: 6345546,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/dfSF42FtVltes3yVxsnb8fj9MUHJqo517pvHWx0BXhirj1PGJDUqcAsXepvzoYWn1g',
+    appId: 'com.peppapig.worldofpeppapig_g',
+    url: 'https://play.google.com/store/apps/details?id=com.peppapig.worldofpeppapig_g&hl=en&gl=us'
+  },
+  {
+    title: 'LEGO® DUPLO® WORLD',
+    installs: 8720577,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/D1979OOAJ3bgYZdJQ1DqueIPpmWXeRGDJAkQ_Q3oP26xNE3Ilql7W5FHIR_pLIqIdyBK',
+    appId: 'com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'ABCya! Games',
+    installs: 1747158,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/firzLCh3H4tm9pvkZRECZm11qsEgzCK_Qi9TvZMcncaGppEZ5946eP5tBFpIAqU8FKVQ',
+    appId: 'com.abcya.android.games',
+    url: 'https://play.google.com/store/apps/details?id=com.abcya.android.games&hl=en&gl=us'
+  },
+  {
+    title: 'IK: Preschool learning & educational kindergarten',
+    installs: 195925,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/OojoFgjQ12Q8oXYLcBUETlee2w8468T2Xj4Xa5J3m-g9-oPYlR5uoTi0wnPKFGuivA',
+    appId: 'com.intellectokids.academy',
+    url: 'https://play.google.com/store/apps/details?id=com.intellectokids.academy&hl=en&gl=us'
+  },
+  {
+    title: 'codeSpark Academy: At Home Kids Coding',
+    installs: 1085940,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/9j6LA1vF7KsdE05a8jcZBzek_aVqwvFEmkykpXnyKkdp6sptaqDx3cN2nkIXO6CX0O0',
+    appId: 'org.codespark.thefoos',
+    url: 'https://play.google.com/store/apps/details?id=org.codespark.thefoos&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Coloring World',
+    installs: 5663209,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/TeqOe_ekuilWUowt3NqhpApIhcgg695TlES4YC7cSCx-7JFZjaM1vzHiv37cDdWU2hs',
+    appId: 'com.storytoys.disney.pixar.coloring.princess.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.disney.pixar.coloring.princess.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'LeapFrog Academy™ Educational Games & Activities',
+    installs: 617233,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/3IvBaeERLDXtv-TqGfLZKbR-KNX93BR3rRRH9iP97w0B6gRyl4rsOO5IYLJiHoxshKU',
+    appId: 'com.leapfrog.academy',
+    url: 'https://play.google.com/store/apps/details?id=com.leapfrog.academy&hl=en&gl=us'
+  },
+  {
+    title: 'Budge World - Kids Games & Fun',
+    installs: 5775550,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/G3rVPY9EF_P0wiA2EFhflOFhh-33oIBYKY6Y2UhNwn8niM_VvCDjJHq62GCXOpRJUA',
+    appId: 'com.budgestudios.googleplay.BudgeWorld',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BudgeWorld&hl=en&gl=us'
+  },
+  {
+    title: 'Teach Your Monster to Read: Phonics & Reading Game',
+    installs: 696502,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/y98GqvvJ6hlXT-BkMaP6xHMd2vhnec9fUVzpaZg-QKigoXNpkEZvNdNrUlIrOW4DMEJ1',
+    appId: 'com.teachyourmonstertoread.tmapp',
+    url: 'https://play.google.com/store/apps/details?id=com.teachyourmonstertoread.tmapp&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Games for 2 and 3 Year Olds',
+    installs: 2625159,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/USdlTTSrOW24_1dgLAhaPiPVWCJ5L6lJbhe-ciqZWeSAkFW1R_GaRqSAlpmqfhWuNg',
+    appId: 'com.baby.toddler.games',
+    url: 'https://play.google.com/store/apps/details?id=com.baby.toddler.games&hl=en&gl=us'
+  },
+  {
+    title: 'KidloLand- Nursery Rhymes, Kids Games, Baby Songs',
+    installs: 5016177,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/LkIQ3A1_5L2U0zcme_s7-yLFvgkJjTrYJbqqYOhMFssme54Hf2BooHIr6oZs_mrvWwo',
+    appId: 'com.internetdesignzone.nurseryrhymes',
+    url: 'https://play.google.com/store/apps/details?id=com.internetdesignzone.nurseryrhymes&hl=en&gl=us'
+  },
+  {
+    title: 'Crayola Create & Play: Coloring & Learning Games',
+    installs: 691300,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/sPMdBtxtoDfc_53J3P0QM79ANqq4hLTOMsYGq0VeJrku41NzFcbzHPbErLYX5MNd_04',
+    appId: 'com.crayolallc.crayola_create_and_play',
+    url: 'https://play.google.com/store/apps/details?id=com.crayolallc.crayola_create_and_play&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler games for 2-5 year olds',
+    installs: 7202373,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/kcdne_rC5NJxVuwtyimC7bIQDFoCyinJO3mC_YOCJhVij6kXb5czy_d2GIt8BZCFN6mp',
+    appId: 'com.bimiboo.playandlearn',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.playandlearn&hl=en&gl=us'
+  },
+  {
+    title: 'JumpStart Academy Kindergarten',
+    installs: 265240,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/YkLS0162hoOvXKh-IuzkcaSUKwK8pMvEss04JWHUwpZyVdKOBO8_xPyL-njof1FgT9g',
+    appId: 'com.KnowledgeAdventure.JSAcademyKG',
+    url: 'https://play.google.com/store/apps/details?id=com.KnowledgeAdventure.JSAcademyKG&hl=en&gl=us'
+  },
+  {
+    title: 'Canticos Bilingual Preschool',
+    installs: 10621,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/RkNH8xqn7PFSDxcz4xyeUsIDWXEqJ5OpWZzRxb69ZwsNcK3aC29lXlWcsD42X8O9UY8',
+    appId: 'com.canticosworld.canticos',
+    url: 'https://play.google.com/store/apps/details?id=com.canticosworld.canticos&hl=en&gl=us'
+  },
+  {
+    title: 'Zebrainy: learning games for kids and toddlers 2-7',
+    installs: 1248973,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/VWRaueAmFA_LkNtQBT6wjMzVFvEB_tNMliqrNPdaBevIY1KOfFOe4XOPeOG9cjKrcNM',
+    appId: 'com.zebrainy.skazbuka',
+    url: 'https://play.google.com/store/apps/details?id=com.zebrainy.skazbuka&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Boo',
+    installs: 116792,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/1C7kB_QMeTCRTe9PhNE8gQ2RG3whVLgJOZCtasHv2GPYkKVmYaZ3bWpu-Gxbat7e2DNY',
+    appId: 'com.tocaboca.tocaboo',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocaboo&hl=en&gl=us'
+  },
+  {
+    title: 'My Very Hungry Caterpillar',
+    installs: 2438080,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/xXTH26Ck3U-RhNUOy2old821ZB4Ujk_pGf0ukIEC7lSeEGM120Pmmvdtgjkfrv6bvTQ',
+    appId: 'com.storytoys.myveryhungrycaterpillar.free.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.myveryhungrycaterpillar.free.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Games for 2,3,4 year old toddlers',
+    installs: 5838558,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/DFALgJhhC7QYfJ1fCFWnO1lHQ6d6op9vu71uD4PSYoO4QrYyOUIVni9CWQBlFlVsEQ',
+    appId: 'com.happytools.learning.kids.games',
+    url: 'https://play.google.com/store/apps/details?id=com.happytools.learning.kids.games&hl=en&gl=us'
+  },
+  {
+    title: 'Preschool and Kindergarten Learning Games',
+    installs: 3119356,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/JTBeckz9JYwVoRKFvMVz-Ga_Rv0i91SZwzafzSuDscao-cFPcA9L7fZ7tS88B7fe9iA',
+    appId: 'com.kevinbradford.games.preschoolgames',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.preschoolgames&hl=en&gl=us'
+  },
+  {
+    title: "Cooking Mama: Let's cook!",
+    installs: 58852751,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/51LDykvVt4B1EOfov5NmwGlHLbJ7kMd56kT7hcJb_-fUmgolJi8yJ4_mpaV8cijxSYw',
+    appId: 'jp.co.ofcr.cm00',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.ofcr.cm00&hl=en&gl=us'
+  },
+  {
+    title: 'Kidomi',
+    installs: 65646,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/9kjyQfALp1_NQnQDEsL8R3_I7eCS0BS99fT-cj8xHYzwNaTi1xI5cqtVe_qCIIG-5wkI',
+    appId: 'com.fingerprintplay.kidomi',
+    url: 'https://play.google.com/store/apps/details?id=com.fingerprintplay.kidomi&hl=en&gl=us'
+  },
+  {
+    title: 'JumpStart Academy Preschool',
+    installs: 260551,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/4aDIDNZFFECOdC0vF3h4YBb0rGjxts2DVKtCVX9TBnOgQVAkusf4wsO_PwxqTd4fZ3Y7',
+    appId: 'com.KnowledgeAdventure.JSAcademyPS',
+    url: 'https://play.google.com/store/apps/details?id=com.KnowledgeAdventure.JSAcademyPS&hl=en&gl=us'
+  },
+  {
+    title: 'Keiki - ABC Letters Puzzle Games for Kids & Babies',
+    installs: 13708,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/IuPKhUOEYK1TEZWpckNKGUvjEzZk8HgOQwpVn3EwMhIwBuMIDUDJ-7jdKdTOhlrJcmWu',
+    appId: 'gen.tech.keiki.world.learning',
+    url: 'https://play.google.com/store/apps/details?id=gen.tech.keiki.world.learning&hl=en&gl=us'
+  },
+  {
+    title: 'Dinosaur games for kids and toddlers 2 4 years old',
+    installs: 1410697,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/hNSq-_RDvllKf7_ru_Npd1g9fdJ3UpREnn_hqJ9HPlf4qXo4cV8b50NqNvXSx6yUkg28',
+    appId: 'com.amayasoft.dinosaur.games.little.kids.toddlers',
+    url: 'https://play.google.com/store/apps/details?id=com.amayasoft.dinosaur.games.little.kids.toddlers&hl=en&gl=us'
+  },
+  {
+    title: 'Central Hospital Stories',
+    installs: 15049004,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/t3zk6LT_s-G5CX05YedcQQ0GFdabmMHDEu0g8kyndmgHAgk_ZyPT62Ws4bjmZhYlaw',
+    appId: 'com.playtoddlers.centralhospitalstories.free',
+    url: 'https://play.google.com/store/apps/details?id=com.playtoddlers.centralhospitalstories.free&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Panda World',
+    installs: 31490331,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/zfJcqLloqlgmTw3zMqD20nEg0kCNv7HfWBknsRsDvRnjjVi4FAew2S0mrJg5BI-lb9g',
+    appId: 'com.sinyee.babybus.world',
+    url: 'https://play.google.com/store/apps/details?id=com.sinyee.babybus.world&hl=en&gl=us'
+  },
+  {
+    title: 'Vacation Hotel Stories',
+    installs: 7623276,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ZPogPSgHJNZCU26oQsZRaT1fRkFKDCRheQMhD0R041qyCKqh8eB-zUNO7v0GmY3RMQ',
+    appId: 'com.playtoddlers.vacationhotelstories.free',
+    url: 'https://play.google.com/store/apps/details?id=com.playtoddlers.vacationhotelstories.free&hl=en&gl=us'
+  },
+  {
+    title: 'Urban City Stories',
+    installs: 6913369,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/5TezyRzA3IdhfsLm4Id5av12jOK8ukdYdROrORbcXS63k471oXT2O3LJrlThF-M4vak',
+    appId: 'com.playtoddlers.urbancitystories.free',
+    url: 'https://play.google.com/store/apps/details?id=com.playtoddlers.urbancitystories.free&hl=en&gl=us'
+  },
+  {
+    title: 'Truck games for kids - build a house, car wash',
+    installs: 72426271,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/FR3P0M93TSJiX4DWh_u4TZlLTko94cRzZ82ltubU6qMLKxz7Iy3vV9iqZW8j50zhH4YT',
+    appId: 'com.gokids.transportbuilding',
+    url: 'https://play.google.com/store/apps/details?id=com.gokids.transportbuilding&hl=en&gl=us'
+  },
+  {
+    title: 'Pepi Hospital',
+    installs: 22492974,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/X9sMRg_fPEBGx_fGLQx8ErvjjjJIPa8MJCY_5ROTC0DlqqgxtjVt_W7-48LJisQ7J65S',
+    appId: 'com.PepiPlay.PepiHospital',
+    url: 'https://play.google.com/store/apps/details?id=com.PepiPlay.PepiHospital&hl=en&gl=us'
+  },
+  {
+    title: 'Drawing for Kids Learning Games for Toddlers age 3',
+    installs: 9001881,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Eo0YjEH9swNkR9zO0bgwIbRkrlH66i5Kt9qlo17mmOhgvMe9WS40SmUWTY3AbY0t9IM',
+    appId: 'com.binibambini.MiniLite',
+    url: 'https://play.google.com/store/apps/details?id=com.binibambini.MiniLite&hl=en&gl=us'
+  },
+  {
+    title: 'Hidden Pictures Puzzle Play - Family Spot-it Fun!',
+    installs: 47390,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/F2rw-TIDSsWiyhSop-V4-sB3ywz9JNyo7mNhHOuWhEfOEopo9GR6mxxmaej_IatvBXI',
+    appId: 'com.highlights.hiddenpicturespuzzles.web',
+    url: 'https://play.google.com/store/apps/details?id=com.highlights.hiddenpicturespuzzles.web&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Hospital',
+    installs: 91126,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/S9l3TpxE70D5P1GYSrq1RsaBilWIa0Aeet2DpUIaMwafKgZTudF53gYyRTWg8tKnkUc8',
+    appId: 'mytown.hospital',
+    url: 'https://play.google.com/store/apps/details?id=mytown.hospital&hl=en&gl=us'
+  },
+  {
+    title: 'Preschool games for little kids',
+    installs: 2587187,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/xP_oBEEarEHIHQfdCNT5666KWzALp72ptjvSXZz3z1veNcghwKDYG6K4bREwxOJ1rg',
+    appId: 'com.bimiboo.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Mystery House',
+    installs: 47072,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/mRmHRLzfNNl_IXzHnI-q3xNOrq0rcNJJ9awpaKQibBwQ7RMub6zI8_D89_y99R1QI5cR',
+    appId: 'com.tocaboca.tocamysteryhouse',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocamysteryhouse&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Kids Club House',
+    installs: 1256,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/pvE0orHFSXmcuqnlFFtUxCvKJr-me1uJiqr9jS-2AQGVJTlJ294pRxczmskSCGad5x8',
+    appId: 'mycity.ymca',
+    url: 'https://play.google.com/store/apps/details?id=mycity.ymca&hl=en&gl=us'
+  },
+  {
+    title: 'LetterSchool - Learn to Write ABC Games for Kids',
+    installs: 3880735,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Hqh-BRV3kw1H0URAWhLqtwBcEi_SaK3BEZ2sGyuAOF-6L4W1UE-nxeEb3fAtLkFBv88',
+    appId: 'com.letterschool.lite',
+    url: 'https://play.google.com/store/apps/details?id=com.letterschool.lite&hl=en&gl=us'
+  },
+  {
+    title: 'Baby games for 2 to 4 year olds',
+    installs: 3033502,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/-bYkzyIrCSiizdWcEGKvjpphqmmL1b8OHOXxsGRCVXvPakhg1dGlea0p3aeu7KAFB94',
+    appId: 'com.bimiboo.birthday',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.birthday&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Lab: Plants',
+    installs: 77365,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/XhNbgX5ppM-nVkahXbznABtY_0aWU_cKyyU_DUzXJuvEQ5DsGk5LMmth5hjb6yYwApI',
+    appId: 'com.tocaboca.tocalabplants',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocalabplants&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring book for kids',
+    installs: 2096046,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/E6mWBVUIuIVuZm3EtI9YlyOtj1T-CXDiHih-YJ4NPnEW4EHbSdJjmHPc_op_YnDkdA',
+    appId: 'com.bimiboo.coloring',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.coloring&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Puzzles for Kids - Baby Learning Games App',
+    installs: 52155,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/MuPPHUZyp-lzzxIO4bA3xVqGcWDbv06QeJwIe0ZK_0SIXSsKGXb4qfCErQHaGLHYNg',
+    appId: 'com.pzl1.toddler.puzzles',
+    url: 'https://play.google.com/store/apps/details?id=com.pzl1.toddler.puzzles&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Games for 2, 3 year old kids - Ads Free',
+    installs: 415514,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/kHF4pv7OiN6LzmBn8GVVTUhwSX3w-fIUEVebFJCPe_IOKnsA6EW0prPIHVcfThi4CIk',
+    appId: 'com.bebi.family.baby.games.mg2',
+    url: 'https://play.google.com/store/apps/details?id=com.bebi.family.baby.games.mg2&hl=en&gl=us'
+  },
+  {
+    title: 'Meow Meow Star Acres',
+    installs: 3495395,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/d3BA_S7zZD3VtniVVvBZWEUg3YGQWKwkTiBJq6gMANRfxJ61VoVnA48OPSiqFx0_7A8',
+    appId: 'jp.colopl.nyankous',
+    url: 'https://play.google.com/store/apps/details?id=jp.colopl.nyankous&hl=en&gl=us'
+  },
+  {
+    title: 'Sesame Street Alphabet Kitchen',
+    installs: 5640999,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/g57_X69yLymvUSM5woexC2MbYq6RdvnwjmmDRleSwMW0cF8O47uB6g7NBmkdjVSS5hQT',
+    appId: 'com.sesameworkshop.alphabetkitchen.play',
+    url: 'https://play.google.com/store/apps/details?id=com.sesameworkshop.alphabetkitchen.play&hl=en&gl=us'
+  },
+  {
+    title: 'Learning games for toddlers age 3',
+    installs: 3489774,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/MclD8okfPAGGFxkZ0CSdvlXhTyJYOybqbqucAsMl7fZdo0qB7sDqbzajwzN_314z98SS',
+    appId: 'com.bimiboo.mysteries',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.mysteries&hl=en&gl=us'
+  },
+  {
+    title: 'Left vs Right: Brain Games for Brain Training',
+    installs: 7977589,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/nulPYDY9-MhkKaE0woslcW26EtVsh86jXh32S1iQlhF_20K5P-TNK0mhPHwI_8i-Bg',
+    appId: 'com.mochibits.google.leftvsright',
+    url: 'https://play.google.com/store/apps/details?id=com.mochibits.google.leftvsright&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Learning Games for 2-5 Year Olds',
+    installs: 411274,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/3rgCMVZEs7cJZ-ACny8e8AJk0uwjW0G-f6L4hWxwyfaISuR2Bc8ttzb8HLtD5hRomj8',
+    appId: 'com.preschoolacademy.toddlerpreschoollearning',
+    url: 'https://play.google.com/store/apps/details?id=com.preschoolacademy.toddlerpreschoollearning&hl=en&gl=us'
+  },
+  {
+    title: 'Kids puzzles',
+    installs: 965392,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/CDXOPKKxMNY71nMEKTkKnYOipw4kZm3bt5UM6HtqpYgcPJCHvj5JaZOLgTOyd0LLztE',
+    appId: 'com.bimiboo.coloringpuzzles',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.coloringpuzzles&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Airport',
+    installs: 56816,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/XXuFBiiVIlYrwByEBdM1IrTFlJyjPZ0wMrF06Ud-tFJqnzIzY_lZxm1FVgVKmZxZ0So',
+    appId: 'mytown.airport',
+    url: 'https://play.google.com/store/apps/details?id=mytown.airport&hl=en&gl=us'
+  },
+  {
+    title: 'Thomas & Friends: Adventures!',
+    installs: 3276044,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wjRYIhh13yhaP4R4QKhdMagxg2zzmSgNsxRZeg-9DN2C_y28MNcJuxZZAnLsxDL5oN8',
+    appId: 'com.mattel.thomasbigadventure',
+    url: 'https://play.google.com/store/apps/details?id=com.mattel.thomasbigadventure&hl=en&gl=us'
+  },
+  {
+    title: 'Car game for toddlers: kids cars racing games',
+    installs: 2732037,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wFxpxRgIta01_ErfAl7umSJnrWVHVrwTpXc-PGLGXES_Uts0QhcN72fovoTdCeFYwg',
+    appId: 'com.amayasoft.cars.kids.toddlers.garage.game',
+    url: 'https://play.google.com/store/apps/details?id=com.amayasoft.cars.kids.toddlers.garage.game&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Discovery Pretend Play',
+    installs: 7300303,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/07BMUVedaNu9LetZucsNYxJ6hvIJ1BT7_DzQHvRR9QZRYQE86-B92YUP14qm4hwiW8o',
+    appId: 'mytown.friendsclub',
+    url: 'https://play.google.com/store/apps/details?id=mytown.friendsclub&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Preschool Learning Games - 120 Toddler games',
+    installs: 5761390,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wVMXFX6aapQS0Rn8DavCR6rASi7dC3QoZdrAoUzJqobG_HZarTp4SPB0lu-BALy6wrU',
+    appId: 'com.kids.preschool.learning.games',
+    url: 'https://play.google.com/store/apps/details?id=com.kids.preschool.learning.games&hl=en&gl=us'
+  },
+  {
+    title: 'Coding Games For Kids - Learn To Code With Play',
+    installs: 170648,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/YrO5dPOW0H92J2U07UUhxI14S1Ej4tcI557K742f1ut3sSUtTWYUJWZu5QMlicumgQ',
+    appId: 'com.internetdesignzone.kidlolandcoding',
+    url: 'https://play.google.com/store/apps/details?id=com.internetdesignzone.kidlolandcoding&hl=en&gl=us'
+  },
+  {
+    title: 'Preschool Games For Kids - Homeschool Learning',
+    installs: 1356632,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/_DUsuIQp70NlVo1jY_-eDEVF3wo6jMMTcUp0tE0wYAg60KIsjgws-KMKxdrB_ngPvSQr',
+    appId: 'com.queleas.preschoolgamesforkids',
+    url: 'https://play.google.com/store/apps/details?id=com.queleas.preschoolgamesforkids&hl=en&gl=us'
+  },
+  {
+    title: 'Numberblocks: Hide and Seek',
+    installs: 20114,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/JdS_3cgohA_hk-u09RncFwfpQr68LqAQF36zcXJKZaFJpY8AcjSIJlav7frda--ISQ',
+    appId: 'uk.co.bluezoo.numberblocks.game1',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.bluezoo.numberblocks.game1&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Math 2: Fun Math Games. Kids Grade K-5',
+    installs: 514752,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/6rvFoHDGoLg9vr64LmNRBrC_sLjbOmo4uRTkWzD-r4gjaWOljNgrtnvOPFAxkkutyFP5',
+    appId: 'com.makkajai.monstermath2free',
+    url: 'https://play.google.com/store/apps/details?id=com.makkajai.monstermath2free&hl=en&gl=us'
+  },
+  {
+    title: 'Pepi Wonder World',
+    installs: 19144295,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/YoEgr9rvR2zQB5Q0MwH_YY8ZaiY48d1UlS4dEYLs7lvuG9XHIxqILAys_NK9vsfl71s',
+    appId: 'com.PepiPlay.KingsCastle',
+    url: 'https://play.google.com/store/apps/details?id=com.PepiPlay.KingsCastle&hl=en&gl=us'
+  },
+  {
+    title: 'Peppa Pig: Sports Day',
+    installs: 1209408,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/u7WaWMf3Glw8xrXnbYHEjEIkZiZyBOXK3MoxBNaiwWYAkpdy_NUZwBEjrPPZqxQkHw',
+    appId: 'com.peppapig.sportsday',
+    url: 'https://play.google.com/store/apps/details?id=com.peppapig.sportsday&hl=en&gl=us'
+  },
+  {
+    title: 'Shapes and Colors – Kids games for toddlers',
+    installs: 5120544,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/efkQkF5mG-oRnhxVKDX-bjkmNNevuWRu3VKER60RWlfV7c7TF9egQ1sNJxhkWOJz4PDi',
+    appId: 'com.bimiboo.colors',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.colors&hl=en&gl=us'
+  },
+  {
+    title: 'Zoolingo - Preschool Learning Games For Toddler',
+    installs: 680997,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ksAgbizfMAz8I-SbiZJm5Aq82pcCeJsmNkl3lOuzDAje1Io71Tmea7wasnfLr-HghBY',
+    appId: 'com.mafooly.preschoolzooanimals',
+    url: 'https://play.google.com/store/apps/details?id=com.mafooly.preschoolzooanimals&hl=en&gl=us'
+  },
+  {
+    title: 'First Grade Learning Games',
+    installs: 2179364,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/pen86dE4xlzEim0Tjkkasy09AYgliZ2s_y_KVI3oeD_DPkXmN2T_LrdzU7vV6l9ab8U',
+    appId: 'com.kevinbradford.games.firstgrade',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.firstgrade&hl=en&gl=us'
+  },
+  {
+    title: 'ABC – Phonics and Tracing from Dave and Ava',
+    installs: 1035004,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/JmeNRQTHI1LVgTz-07Z0vH19YDHzR3qTg7vMPMc-HZdMAZk3Q5_k7FX0sGFIo7gOiaM',
+    appId: 'com.daveandava.letters',
+    url: 'https://play.google.com/store/apps/details?id=com.daveandava.letters&hl=en&gl=us'
+  },
+  {
+    title: 'Second Grade Learning Games',
+    installs: 1132856,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/EYslJJoN6lm75uV78DxkD5CiNPcOmGbnueYELg-J4rWvdKtjD86sZwVJUP-rpLIF0lDj',
+    appId: 'com.kevinbradford.games.secondgradefree',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.secondgradefree&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring and drawing for kids',
+    installs: 1504381,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/W2EFsVjSVhpLniWgHUipvGwOMhkqyehzYqVI1pwwxAjH3uwPaLteIivi6wSvGIDbeg',
+    appId: 'com.bimiboo.drawing',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.drawing&hl=en&gl=us'
+  },
+  {
+    title: 'BRIO World - Railway',
+    installs: 83552,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/d9IASWem4tiOG-E471E4bCTdLwdGVuuGQUcd7fec3JBHzYb7tU9TqilnDwBuEiW9Bg',
+    appId: 'se.filimundus.briorailway',
+    url: 'https://play.google.com/store/apps/details?id=se.filimundus.briorailway&hl=en&gl=us'
+  },
+  {
+    title: 'PAW Patrol: Air & Sea',
+    installs: 286262,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/kMYVbmhXp8HarliRmySFsM2Ld5bb3tzXMO0MRBBSJ9LJ_fcqrG6aCITC7_9OCRcDKQ',
+    appId: 'net.pluginmedia.pawpatrolflyer',
+    url: 'https://play.google.com/store/apps/details?id=net.pluginmedia.pawpatrolflyer&hl=en&gl=us'
+  },
+  {
+    title: 'Pepi Super Stores',
+    installs: 19856384,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/mdeX0CxMI8lxyc1IXBC8tcHrirw6IyKPHOwAj0kwYk68E1TU_VFbfFW0kthMPdRnK0o',
+    appId: 'com.PepiPlay.PepiShopping',
+    url: 'https://play.google.com/store/apps/details?id=com.PepiPlay.PepiShopping&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Beach Picnic',
+    installs: 475525,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/XgQ469UlttjCweyciRSKxxEcEKFn_OJZUSFXAkxO8-qqFPVZhIOmgiA989JZb8KVSp4',
+    appId: 'mytown.beach',
+    url: 'https://play.google.com/store/apps/details?id=mytown.beach&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Blocks',
+    installs: 272709,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/uvVsNqkICrXRuamLMD_09Rcehwthn5H3_t_dF0zb0dnSDdU3braAwiTYO2p8JaOSJQ',
+    appId: 'com.tocaboca.blocks',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.blocks&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Newborn baby',
+    installs: 23595,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/rBM6kP6gv6WhzH-958E4mvk4Qzvcd-f7t9KUszoRCB35gdzNzwxV7NY5VkJQekCOhU0',
+    appId: 'mycity.newbornbaby',
+    url: 'https://play.google.com/store/apps/details?id=mycity.newbornbaby&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Cops and Robbers',
+    installs: 3502,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/VOlyMrQqSvAWWP28BWh-e69peBZmDafmWdaHsHE0IP8aav_-XbnHmESO0dzms9BnXg',
+    appId: 'mycity.police',
+    url: 'https://play.google.com/store/apps/details?id=mycity.police&hl=en&gl=us'
+  },
+  {
+    title: "Explore Daniel's Neighborhood",
+    installs: 93155,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/bzLjySt8Xq3Y1sW5IgxQJs9lMB3aOLvmHOXmX0fZVCWlulecSaKR2ao-mR5xOkFE_Pen',
+    appId: 'org.pbskids.dtigerexploreneighborhood',
+    url: 'https://play.google.com/store/apps/details?id=org.pbskids.dtigerexploreneighborhood&hl=en&gl=us'
+  },
+  {
+    title: 'Games for toddlers 2 years old',
+    installs: 1762489,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/OrWjefNWvUP7pGGGa2nmY3fhtOG4QK6Vm0_vMYHzMXabO44aI-PXJPsNqG7K-OlXIc0',
+    appId: 'com.bimiboo.puzzles',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.puzzles&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Animal Shelter 🐶',
+    installs: 10863,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/DsJ56cxPybhH23oFn7f0hlN_fL9gMbvWIZisRBDckESSWipq0zsYaMH954_gaS-Pf1z_',
+    appId: 'mycity.petstore',
+    url: 'https://play.google.com/store/apps/details?id=mycity.petstore&hl=en&gl=us'
+  },
+  {
+    title: 'Sunny School Stories',
+    installs: 6592559,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Q14MF5JvbIxIQKIrgaAwnmrsvunIC5vODAeEhMwg6iSmwQkjCbQT-35AWA6iZ6OAGwY',
+    appId: 'com.playtoddlers.sunnyschoolstories.free',
+    url: 'https://play.google.com/store/apps/details?id=com.playtoddlers.sunnyschoolstories.free&hl=en&gl=us'
+  },
+  {
+    title: 'Wild Kratts Rescue Run',
+    installs: 6208,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/DktLgVEHV5ip1LuwnPIaPIyyuFWUwq0VlajeVcGcILVF9m_XOxjxbecBxIYAYwZlpw',
+    appId: 'org.pbskids.wildkrattsrunner',
+    url: 'https://play.google.com/store/apps/details?id=org.pbskids.wildkrattsrunner&hl=en&gl=us'
+  },
+  {
+    title: 'TutoPLAY - Best Kids Games in 1 App',
+    installs: 5952980,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/B7WNo7e0YiMOV4R_ZlNFwYyRPFCkWge8rMIOmnCWAkXxpGOaegbw5h2Yb9uLmgy7H3s',
+    appId: 'com.tutoplay.app',
+    url: 'https://play.google.com/store/apps/details?id=com.tutoplay.app&hl=en&gl=us'
+  },
+  {
+    title: 'All-In-One Intellijoy App Pack Subscription',
+    installs: 1028244,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/Hu2GaTfn0XKb5NJPgTfUn2xx6rf3g-9kdBOycAMzZ_HMEdMvlBpcfCsHasihwTuX0HE',
+    appId: 'com.intellijoy.pack',
+    url: 'https://play.google.com/store/apps/details?id=com.intellijoy.pack&hl=en&gl=us'
+  },
+  {
+    title: 'My Town: Home Dollhouse: Kids Play Life house game',
+    installs: 30425713,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/0Hny028nT2rECJswrYOLqaAiNnE2tXrAGtQQieIw5-NrdoK3KtKYsd8taGK6SQE-92g',
+    appId: 'mytown.home',
+    url: 'https://play.google.com/store/apps/details?id=mytown.home&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : School',
+    installs: 574043,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/AFCOYxIILmxJzkF5LteVJ2FUhZPlWNqSMIGpnRt7MUJO27LR1sSxOi76eLxIGTwg7LA',
+    appId: 'mytown.school',
+    url: 'https://play.google.com/store/apps/details?id=mytown.school&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Pajama Party',
+    installs: 21872,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/O3kI4-DJEOuUi8pHS_UhxVx5z1TBppJPDGCXMC5fH-PuDB7ZFLb3oGPknsFWhv9dYw',
+    appId: 'mycity.pjparty',
+    url: 'https://play.google.com/store/apps/details?id=mycity.pjparty&hl=en&gl=us'
+  },
+  {
+    title: "My Town : Best Friends' House",
+    installs: 55152,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/XidkgQo3jBEa_DUIjHQLK5R42GA2jVjJWANyfv2sz8imq-_n9190gxZ3jSgbJmabo7s',
+    appId: 'mytown.friendshouse',
+    url: 'https://play.google.com/store/apps/details?id=mytown.friendshouse&hl=en&gl=us'
+  },
+  {
+    title: 'Peppa Pig: Holiday',
+    installs: 100861,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/7JxS5zI_v_kfZcsxhehlaVOZcf0hxF6YHPt8AGTRlkWLDYMgeOROP6CiFh446oHdfVc',
+    appId: 'com.peppapig.holiday',
+    url: 'https://play.google.com/store/apps/details?id=com.peppapig.holiday&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Haunted House',
+    installs: 307089,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wY3LLI8KnLMTIMEtQYDWFJYYhjL4_gHKKPfPDovlSoQ27QsC8-mDd88xDNgI_FYqhZxo',
+    appId: 'mytown.hauntedhouse',
+    url: 'https://play.google.com/store/apps/details?id=mytown.hauntedhouse&hl=en&gl=us'
+  },
+  {
+    title: 'Lightgliders',
+    installs: 5981,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ojdyUBJ0HP42SIqn_SPWWXHVLK2eH6BDPP-tCUpxXvaUShs_HONyTGBUQ_KuaoqJZ-g',
+    appId: 'com.lightgliders',
+    url: 'https://play.google.com/store/apps/details?id=com.lightgliders&hl=en&gl=us'
+  },
+  {
+    title: 'Construction Vehicles & Trucks - Games for Kids',
+    installs: 4538297,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/5qvAmohTdtM9xDF32-0oB8LXb4gGMBwNp31phblG9S2Ta9ePvRqaIVdvB3qp8kBwHsU',
+    appId: 'com.trochoi.constructionvehicles',
+    url: 'https://play.google.com/store/apps/details?id=com.trochoi.constructionvehicles&hl=en&gl=us'
+  },
+  {
+    title: 'Hidden Pictures Puzzle Town – Kids Learning Games',
+    installs: 56274,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/jzrqy_PicU7gX2Y3KRoiUliQK1tHEwsCdfg6pfBXwTsV2jmRAmcQcWgu3CLRDRWqvg',
+    appId: 'com.highlights.preschoolpuzzles',
+    url: 'https://play.google.com/store/apps/details?id=com.highlights.preschoolpuzzles&hl=en&gl=us'
+  },
+  {
+    title: "Daniel Tiger's Stop & Go Potty",
+    installs: 32109,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/r1sfp8SHdwWZtAGoS7KjhdWGbpFvoHG48lASCsu4bI-5GqPEtLWTtRnIIRveagB6ThY',
+    appId: 'air.org.pbskids.danieltigerpottyapp',
+    url: 'https://play.google.com/store/apps/details?id=air.org.pbskids.danieltigerpottyapp&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Story Realms',
+    installs: 160199,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/nfW3ToTN8tAP3ic-x4cIgErVmXMkF1UUEKjEjtZOK0LD13rMlz5L4zj3kanNbWCcGDs',
+    appId: 'com.kuatostudios.disneyprod',
+    url: 'https://play.google.com/store/apps/details?id=com.kuatostudios.disneyprod&hl=en&gl=us'
+  },
+  {
+    title: 'Pepi House',
+    installs: 19840260,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/H1x6alckcP0wGr058LgIT2501BMxCz3pVdnDimSp7r1y0hPaoF9AAM4ty3UiH5VcPeU',
+    appId: 'com.pepiplay.pepihome',
+    url: 'https://play.google.com/store/apps/details?id=com.pepiplay.pepihome&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Hotel',
+    installs: 62219,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/HcsU6-qR9YZSLHQDQjMdabMn5EYBG4Txv6umCLFnxvDfPMDN6nhk9CDmRCJLk1xT0g',
+    appId: 'mytown.hotel',
+    url: 'https://play.google.com/store/apps/details?id=mytown.hotel&hl=en&gl=us'
+  },
+  {
+    title: 'Funny Food educational games for kids toddlers',
+    installs: 17627408,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/8AUHBIdWJHJLpZxe3nLRk9hhUS-wlznsqCZbWRECties491WEuxjhNKgt6QzpTq7fP0',
+    appId: 'biz.arrowstar.funnyfood2',
+    url: 'https://play.google.com/store/apps/details?id=biz.arrowstar.funnyfood2&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Grandparents',
+    installs: 381676,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/DNSX5uOylcXvutLxt6-I11ILOMnByTJZLz3-A41HqZejIYHCD1vs_aCkAu8Gr8Fiz-8',
+    appId: 'mytown.grandparents',
+    url: 'https://play.google.com/store/apps/details?id=mytown.grandparents&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Wildlife Camping',
+    installs: 6323,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/iBB7pHGgNzysmcb6njmE7LnG-aZ5j2atPVrDxkM084YIapHWyLW3Sqcv9FO_F858Iks',
+    appId: 'mycity.campingvacation',
+    url: 'https://play.google.com/store/apps/details?id=mycity.campingvacation&hl=en&gl=us'
+  },
+  {
+    title: 'Peppa Pig: Theme Park',
+    installs: 2276322,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/h7oGsm_7ge21dOYlsu9qdPCIeSHw7m9igWMDVoXjQ8lI-40xt8T5lF0UhEbX6XOs15TV',
+    appId: 'com.peppapig.themepark',
+    url: 'https://play.google.com/store/apps/details?id=com.peppapig.themepark&hl=en&gl=us'
+  },
+  {
+    title: 'Elmo Loves 123s',
+    installs: 1728347,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/lmuFHKGsCb2IZQZJIa8UXyP9mErpcTVX6JZNcrrP3DnFfDo0bY64kknD3NKkcYAguRBR',
+    appId: 'com.sesameworkshop.elmoloves123s',
+    url: 'https://play.google.com/store/apps/details?id=com.sesameworkshop.elmoloves123s&hl=en&gl=us'
+  },
+  {
+    title: 'Pango Storytime: intuitive story app for kids',
+    installs: 2093887,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wswHWfOp1y0JqatQww5wxGlphd9v20LR892q2ebASFx0wvz14qi0jCOHThfBfnoQ4eKS',
+    appId: 'com.StudioPango.StoryTime',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioPango.StoryTime&hl=en&gl=us'
+  },
+  {
+    title: 'Octonauts and the Whale Shark',
+    installs: 1054136,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/pR6T4OJYhWIEJkhjmECCjxbt_1u1bOOZgWEHRudwhxPc8viLEVAfVxr0R_sQ7IziAk72',
+    appId: 'com.TapTapTales.Octonauts',
+    url: 'https://play.google.com/store/apps/details?id=com.TapTapTales.Octonauts&hl=en&gl=us'
+  },
+  {
+    title: 'Supermarket Cashier Simulator - Money Math Game',
+    installs: 1485855,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/-4z6D2fJmsM8_QO2l6B2uTXB9ZOPaddidFH6wmDhn-aUBSNgnrkEAw8jXMbMPgjfJIvE',
+    appId: 'com.creaturecorp.supermarketcashier.android',
+    url: 'https://play.google.com/store/apps/details?id=com.creaturecorp.supermarketcashier.android&hl=en&gl=us'
+  },
+  {
+    title: 'AutiSpark: Games for Kids with Autism',
+    installs: 14696,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/z-7y0-ecdWRcrCoXKfXnQuuLr1S_3QI_UJGQs_qu7pBylpxGpxZYdtNam4e5cntdS7pH',
+    appId: 'com.iz.autispark.kids.autism.games.special.needs.educational.learning.therapy.social.skills.speech',
+    url: 'https://play.google.com/store/apps/details?id=com.iz.autispark.kids.autism.games.special.needs.educational.learning.therapy.social.skills.speech&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Jail House',
+    installs: 9603,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/zV-lhsW0CNNcCuYF4vHEijyDiLByx41cYMC5W-z0ps3erf-yFEh_vm8cyoNftq8EQw',
+    appId: 'mycity.jailbreak',
+    url: 'https://play.google.com/store/apps/details?id=mycity.jailbreak&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Grandparents Home',
+    installs: 9647,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/t8oK02f4sp7pFmG_TYCjiAUxZccIK9D0in1ixRTlqLgFAGSbok3kDruuiFtLHfbzldg',
+    appId: 'mycity.grandparents',
+    url: 'https://play.google.com/store/apps/details?id=mycity.grandparents&hl=en&gl=us'
+  },
+  {
+    title: 'Learning numbers for kids',
+    installs: 1374688,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/dG4MBgV4hsrmgKETa7wyiZ5BcqoxNW_W7ZSAv7rFLsWPn6cpvSYukLizrbIc7MerzjxH',
+    appId: 'com.bimiboo.numbers',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.numbers&hl=en&gl=us'
+  },
+  {
+    title: 'Learn to Read with Tommy Turtle',
+    installs: 155220,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/2uaY6Eo_lnkaGxHMbtuPp47aRFx05ZUOIg9Fvo1tsmHtqIzUR5Dax0f0z5qAUCOA_ms',
+    appId: 'com.intellijoy.android.reading',
+    url: 'https://play.google.com/store/apps/details?id=com.intellijoy.android.reading&hl=en&gl=us'
+  },
+  {
+    title: 'Elmo Calls by Sesame Street',
+    installs: 5272525,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wB5d_SYtXniP9zoOmqVYqp7TajcGnAdrLHkTeHOOElh3oJTer6F4hwR6kC57H9dSf48',
+    appId: 'com.sesame.apps.elmocalls.android',
+    url: 'https://play.google.com/store/apps/details?id=com.sesame.apps.elmocalls.android&hl=en&gl=us'
+  },
+  {
+    title: 'Car games for toddlers',
+    installs: 1124159,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/HbNkcTn2zb2rVJk0eooGGlHGuFH9kflDMnGmsEfZ9kgICvtcLNclVL__ZOvXOmOPdGI',
+    appId: 'com.bimiboo.runner',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.runner&hl=en&gl=us'
+  },
+  {
+    title: 'Write It! Japanese',
+    installs: 960103,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/8gaXTq2w-9OM2rzyq1gRkG9L2MR9NAoCLs9HQuzIgnk3NWeV6hQEuPG15-qch2fI6YA',
+    appId: 'com.jernung.writeit.jpn',
+    url: 'https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=us'
+  },
+  {
+    title: 'Dr. Panda Restaurant 2',
+    installs: 190076,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/h0aW-5jtZobhtMdugNgelWALyq60kvwvvtziWj4hkYLKzCrg7pentn18YC1U8TRyAw',
+    appId: 'com.tribeplay.pandarestaurant2',
+    url: 'https://play.google.com/store/apps/details?id=com.tribeplay.pandarestaurant2&hl=en&gl=us'
+  },
+  {
+    title: 'Chic Baby 2 - Dress up & baby care games for kids',
+    installs: 351872,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/KpOgFM1GmarE-d-nhrVQHDHUkr7iflOx_FBZtQrljh89qHeIH5-lDUZG8lnJSmSM9A',
+    appId: 'com.pazugames.chicbaby2',
+    url: 'https://play.google.com/store/apps/details?id=com.pazugames.chicbaby2&hl=en&gl=us'
+  },
+  {
+    title: 'Makeup Girls - Makeup & Dress-up games for kids',
+    installs: 4132256,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/pwHDnYVbhTGXfxuRJjbYfddIqDf5mPT58q54l22VvA38qRD0GnYcW8i-ceJmT12zjOE',
+    appId: 'co.touchapps.makeup_girls.lite',
+    url: 'https://play.google.com/store/apps/details?id=co.touchapps.makeup_girls.lite&hl=en&gl=us'
+  },
+  {
+    title: 'Bimi Boo Kids Learning Academy',
+    installs: 7019,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/eRApOb-0RB9eiEuTgHl735U9BoqPdoed3x8mhvU6Yg5kWiQ6RKSzbvfOIoeBRAxEbg',
+    appId: 'com.bimiboo.learning.games',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.learning.games&hl=en&gl=us'
+  },
+  {
+    title: 'Third Grade Learning Games',
+    installs: 1330618,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/0rNSnBf4NPu2MdpxW8rPSx1tzg1sPhcZF_VILsa19n_Gtgi3he1grL8jchUgRPV08GA',
+    appId: 'com.kevinbradford.games.thirdgrade',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.thirdgrade&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Mansion',
+    installs: 14820,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Yv8Og7Ubn1qNLIUaxsnrsErkYM2xmMzM6i52JzguK-0N8iJAAjxjnqx2byWC_6KNXM4',
+    appId: 'mycity.mansion',
+    url: 'https://play.google.com/store/apps/details?id=mycity.mansion&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Babysitter',
+    installs: 15168,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/J0wroDcZMQgfN-cAgR7m_tpPLee5tMtZ54Lbnq7avdoct2ejdw-YKic0l6o2-fBLUDw',
+    appId: 'mycity.babysitter',
+    url: 'https://play.google.com/store/apps/details?id=mycity.babysitter&hl=en&gl=us'
+  },
+  {
+    title: 'Peppa Pig: Party Time',
+    installs: 72940,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/mFyTRpGOC2CpkzT4UB-cuCF6f0Sc1M_A9tYP4sMbB5jCiI2J4nORYpHFG040YGB71Xe7',
+    appId: 'com.peppapig.partytime',
+    url: 'https://play.google.com/store/apps/details?id=com.peppapig.partytime&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Preschool Educational Baby Games for Kids',
+    installs: 30652,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/CcYdaehbxy5VEZgT1KMUZ9IfI4cs6ejvAvXZSUiiCL0UAU9XLmSQiG7iS52d3_Y-W66o',
+    appId: 'com.cubicfrog.toddlers.kindergarten.school',
+    url: 'https://play.google.com/store/apps/details?id=com.cubicfrog.toddlers.kindergarten.school&hl=en&gl=us'
+  },
+  {
+    title: 'Kids piano',
+    installs: 3127480,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/l1kBW-N93mYQFMoUR6wi09NnRGd5CKEnEu4bam2cb7srunCz85iUuBHjKWfWWyn6Gf8',
+    appId: 'com.bimiboo.tunes',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.tunes&hl=en&gl=us'
+  },
+  {
+    title: 'Funny Dinosaurs Kids Puzzles, full game.',
+    installs: 21206,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/QeQnrI6beV4XRJtdDZNSZUMIripKHc0BYepvDImIdiY_rXxS1eE0Wsoa0S7q_ub4KE8',
+    appId: 'net.cleverbit.DinoPuzzlesFull',
+    url: 'https://play.google.com/store/apps/details?id=net.cleverbit.DinoPuzzlesFull&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Wedding',
+    installs: 40638,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/hDRbiF6DtH6Eg7ZgcefO9aatZAUcVmeXqIpxURMDsX16oqXcy4p-ExGzu3JSNFTFmQ',
+    appId: 'mytown.wedding',
+    url: 'https://play.google.com/store/apps/details?id=mytown.wedding&hl=en&gl=us'
+  },
+  {
+    title: 'Dinosaur Park - Jurassic Dig Games for kids',
+    installs: 996067,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/_6RlihicDyjIxZ57pvfX2kBbVmOGs7zcRdPPKTFfmwqpeXj4z2ZefQGKoX7OXh40km4',
+    appId: 'com.imayi.dinosaurparkfree',
+    url: 'https://play.google.com/store/apps/details?id=com.imayi.dinosaurparkfree&hl=en&gl=us'
+  },
+  {
+    title: 'Fifth Grade Learning Games',
+    installs: 719050,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/aJlTY94bE4E2cLVAE4xV32ms9YhizxuXHxuNuzMX0KFN8hq15tJQlBUANVEGB4MkK25t',
+    appId: 'com.kevinbradford.games.fifthgrade',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.fifthgrade&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Boat adventures',
+    installs: 12020,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/PPNiRELYh-S9FapCgujHhk-BisKhIPwfoNveRWBpDupOuI8thhPvXifc7uT7HZgCzEQB',
+    appId: 'mycity.seaport',
+    url: 'https://play.google.com/store/apps/details?id=mycity.seaport&hl=en&gl=us'
+  },
+  {
+    title: 'Fourth Grade Learning Games',
+    installs: 941185,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/KIV5jBJ6uaEF1hXV2ZL2gDEnrH4GGc3NSnJtwNoYRN2hGOt_xiHJ51acFvlE0e47RRc',
+    appId: 'com.kevinbradford.games.fourthgrade',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.fourthgrade&hl=en&gl=us'
+  },
+  {
+    title: 'Supermarket: Shopping Games for Kids',
+    installs: 35393073,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/39CNvfvV40bO1E3pkY9H9aEYVNmpo-hNC5Io7Omyq3CDuHyBpFjlsNZ5p79GXUsstj2S',
+    appId: 'com.kidgame.supermarket',
+    url: 'https://play.google.com/store/apps/details?id=com.kidgame.supermarket&hl=en&gl=us'
+  },
+  {
+    title: 'Stack the States® 2',
+    installs: 15436,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/LzXjqgLHfCVsAMljC9Xq_hYx5xUUw8M-DhB84WLNmvlHq8JqPDdN0SPREaiYcGpMOMo',
+    appId: 'com.freecloud.StackTheStates2',
+    url: 'https://play.google.com/store/apps/details?id=com.freecloud.StackTheStates2&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Home',
+    installs: 29134,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/tRSPYALDljqZmeMlHeLf_z_RTF-LUvC922qOwAXS013LJvEPLHUUizg7_d_q8A5goEQ8',
+    appId: 'mycity.home',
+    url: 'https://play.google.com/store/apps/details?id=mycity.home&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Pets',
+    installs: 30648,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Xp24fTxQLZqw7yB7Ve7BOCs3eryyzyQy4LF61DgdXxLWvK2JHYE3w3P8TrEiXj_pLUg',
+    appId: 'mytown.pets',
+    url: 'https://play.google.com/store/apps/details?id=mytown.pets&hl=en&gl=us'
+  },
+  {
+    title: 'Balloon Pop : Toddler Games for preschool kids',
+    installs: 131360,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/_rMSU70bk0M0Prnz3olVf5G34RThcRrpQ1zD4SSzfPCYdTkKEzVYW0o3E4D-awV3yw',
+    appId: 'ge.bebi.balloon.pop.game',
+    url: 'https://play.google.com/store/apps/details?id=ge.bebi.balloon.pop.game&hl=en&gl=us'
+  },
+  {
+    title: 'Money Race Finance and Investing Game',
+    installs: 348948,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/QKS-c8Tmw9x9LZW5qZm7Avo8x5Ify_KsZagu6PKB9HQkSPrb7GJiJdjLeeoUYHqiFMM',
+    appId: 'com.moneyracestudios.moneyrace2',
+    url: 'https://play.google.com/store/apps/details?id=com.moneyracestudios.moneyrace2&hl=en&gl=us'
+  },
+  {
+    title: 'Labo Brick Train Game For Kids : Build & Play',
+    installs: 3735210,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/zzOcig3hc9qrABcTXJ7DzEHkDJY1YowHiFUylfwUPG3uq1A_kiywFp_3CzeDqXyahg',
+    appId: 'com.laboladoapp.labo_brick_train_5y_free',
+    url: 'https://play.google.com/store/apps/details?id=com.laboladoapp.labo_brick_train_5y_free&hl=en&gl=us'
+  },
+  {
+    title: 'Baby flash cards for toddlers',
+    installs: 692334,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/a8wwktYaFZk-ImjgymoM1pBJGvm6Rcr6yP5clRXpsNarS7ZZRDmG-sm0sx_Pd70Mv75S',
+    appId: 'com.bimiboo.firstwords',
+    url: 'https://play.google.com/store/apps/details?id=com.bimiboo.firstwords&hl=en&gl=us'
+  },
+  {
+    title: 'Ingles Facil',
+    installs: 129023,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/OY9gc0hSOFCcsQHN-IY5pfYTVTrbdlR2oN26GGgqNxSOHtQF_Gz2nUoOxVRciSRVeg',
+    appId: 'com.vieraacademy.inglesfacil',
+    url: 'https://play.google.com/store/apps/details?id=com.vieraacademy.inglesfacil&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Games for Kids - Drawing & Color Book',
+    installs: 3444177,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/N_taoIUFJy3nolloBHWfv6EN-Br9zLbSdAjSNptib_a0KRnlmJUd-DxEYAduXHgvNw',
+    appId: 'com.iz.coloring.games.kids.drawing.book.color.by.number',
+    url: 'https://play.google.com/store/apps/details?id=com.iz.coloring.games.kids.drawing.book.color.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Mother Goose Club: Nursery Rhymes & Learning Games',
+    installs: 255368,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/dLhDFvN_FA9rI-lT9Z-SxYJJBydKPKbUj88D_85PEZIJedkd2SuSb1cmGYhgpd_aKw8',
+    appId: 'com.storytoys.mothergooseclub.free.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.mothergooseclub.free.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'My Airport Town: Kids City Airplane Games for Free',
+    installs: 3136078,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/y8n6_Z32a0uupjxHh1pzOofnEhR6CVFz7svla_nYukaLuolXsXfwEZrnRt1pDpyjUB4',
+    appId: 'com.iz.pretend.play.my.monster.town.airport.games.kids',
+    url: 'https://play.google.com/store/apps/details?id=com.iz.pretend.play.my.monster.town.airport.games.kids&hl=en&gl=us'
+  },
+  {
+    title: 'Dr. Panda Restaurant 3',
+    installs: 6923437,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/F7bzg0eTQKknpJGkWRLjtI5fHd-F27kNMiyyhjtRxXiPp58JPtU9ujOujoCMyU8yxA',
+    appId: 'com.drpanda.restaurant3',
+    url: 'https://play.google.com/store/apps/details?id=com.drpanda.restaurant3&hl=en&gl=us'
+  },
+  {
+    title: 'Dinosaur Garbage Truck - Games for kids',
+    installs: 1227611,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/wFOo6-ATpnuW8upKm735w4-i3N_eIEh1JQKQGSSFqdPOKuhyqXtStlSL6HN_HTXmcIY',
+    appId: 'com.imayi.dinogarbage',
+    url: 'https://play.google.com/store/apps/details?id=com.imayi.dinogarbage&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Fire station Rescue',
+    installs: 43018,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/AesGog-SADCJGdbXz-gJ6fvBvn3K7VrlWHyIaMrMAO2IMZmMmAkcIRtt1MfhqnGLn7x7',
+    appId: 'mytown.firestation',
+    url: 'https://play.google.com/store/apps/details?id=mytown.firestation&hl=en&gl=us'
+  },
+  {
+    title: "My City : My Friend's House",
+    installs: 11925,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/oO15-WuiX9heR16zTxWc8orxwiN-n_47bJNhkG2Z9uvCMypTe50XgBbzOmTzsoJz2-s',
+    appId: 'mycity.friendshouse',
+    url: 'https://play.google.com/store/apps/details?id=mycity.friendshouse&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring & Learn',
+    installs: 51553433,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/p7PG8fih_pKYrhUGUbflyihK8LmTqil066RhPNjOTt-TRr9YAYwvAK8OGEob76kEbWY',
+    appId: 'com.orange.coloring.learn.kids',
+    url: 'https://play.google.com/store/apps/details?id=com.orange.coloring.learn.kids&hl=en&gl=us'
+  },
+  {
+    title: "Tinybop Explorer's Pass",
+    installs: 133527,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/m5kdA_mrCdWaBA7N8R67ejsEFL02KKztvHJvg_ClYw_0QoPwTRBT4T9HaKecbgOmrks',
+    appId: 'com.tinybop.keyapp',
+    url: 'https://play.google.com/store/apps/details?id=com.tinybop.keyapp&hl=en&gl=us'
+  },
+  {
+    title: 'Barnyard Games For Kids Free',
+    installs: 1657128,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/VVR4ltWeNNilp-52zHoNvY1onESTTdc9PnftKEXAVgAst-baTTHHttBCriu_Y4G50g',
+    appId: 'com.kevinbradford.games.barnyardgamesfree',
+    url: 'https://play.google.com/store/apps/details?id=com.kevinbradford.games.barnyardgamesfree&hl=en&gl=us'
+  },
+  {
+    title: 'Morse Mania: Learn Morse Code',
+    installs: 353681,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/jtfbQ3eY_UewdSHxbCbFNBCV7tPKjjEH8CqJKJLiEARlXgpDNsvP5WV_jrLUapPKXA',
+    appId: 'net.countrymania.morse',
+    url: 'https://play.google.com/store/apps/details?id=net.countrymania.morse&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Delight Cafe- Tasty Chef Restaurant Games',
+    installs: 375684,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/h-ACe4tkTx-P9i_3thjcbqgsSJz2Djv-RxUqBpkQ4Q8Dl2fMSpWPSHDTIqkuS6Up4z1w',
+    appId: 'com.ids.food.truck.street.kitchen.cooking.games',
+    url: 'https://play.google.com/store/apps/details?id=com.ids.food.truck.street.kitchen.cooking.games&hl=en&gl=us'
+  },
+  {
+    title: 'My Baby Unicorn - Virtual Pony Pet Care & Dress Up',
+    installs: 21623211,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/FKMkNxueqaycc8Me51J9vWHc2yktwl48j5qikLSZSfp18aFmjAvTGzx2FxP8Gcvvchs',
+    appId: 'com.tutotoons.app.mybabyunicorn.free',
+    url: 'https://play.google.com/store/apps/details?id=com.tutotoons.app.mybabyunicorn.free&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Drawing Academy🎓 Coloring Games for Kids',
+    installs: 2401683,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/MXp7e2g7c4a_O1EWQLMCUkgYfcRa3drLR9BVHluE0LHNyiB38_taEBbqpLJy2Laysw',
+    appId: 'com.binibambini.acad.drawing',
+    url: 'https://play.google.com/store/apps/details?id=com.binibambini.acad.drawing&hl=en&gl=us'
+  },
+  {
+    title: 'DragonBox Big Numbers',
+    installs: 11225,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/6xKBb2lS81WHYbJmg4UuEm447Yb26Ci_QP3uF843uLITiL8pmQFtBhFYvA6wwTGt0A',
+    appId: 'com.wewanttoknow.BigNumbers',
+    url: 'https://play.google.com/store/apps/details?id=com.wewanttoknow.BigNumbers&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Daycare',
+    installs: 190515,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/qbPyGkPdT-LZpMnm7-uTRPXJceZmTujvpHlKxWDDRPKm1c1fmD56-RpIL_TIFPULM68',
+    appId: 'mytown.daycare',
+    url: 'https://play.google.com/store/apps/details?id=mytown.daycare&hl=en&gl=us'
+  },
+  {
+    title: 'Highlights Shapes – Shape Sorting & Color Mixing',
+    installs: 126484,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/07LrShGAWa_V7FtFKbcdr9Oppu4B5lGBRI6W6zNAnqS7CuykwDNIN9_Wt0HMa4Gu_Q',
+    appId: 'com.highlights.apps.highlightsshapes',
+    url: 'https://play.google.com/store/apps/details?id=com.highlights.apps.highlightsshapes&hl=en&gl=us'
+  },
+  {
+    title: 'Read with Phonics -  Phonics Games',
+    installs: 108795,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/uEgkKNGu6rAYWud8feXCNCLXjwF6-93-YDHNPKjmcz9ESm-ZE2tnwDdkwVOyGDM7WrKe',
+    appId: 'uk.co.fonics',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.fonics&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Drawing Games for Girls 🎀 Apps for Toddlers!',
+    installs: 2574894,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/cyWzUPDY_B7xtAp-r6UtRJ2hRxnzul82EXUq6kmK0DCePn5VLlBzGxa1iQfrL2Nf0u0',
+    appId: 'com.binibambini.drawingforgirls',
+    url: 'https://play.google.com/store/apps/details?id=com.binibambini.drawingforgirls&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Police Station game for Kids',
+    installs: 23570434,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/hSlxcuNetJVca-vJceaaTm9WpErCi8QayzVesxz2Vwa334uVInzVjMxxdvkC82hyPyH0',
+    appId: 'mytown.police',
+    url: 'https://play.google.com/store/apps/details?id=mytown.police&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Train',
+    installs: 6630,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/7jT2yHmz5-TnjPEQMNvI7Vl_Gs7JosVBij8U_bGem-47kV4TYnNwskZmVO-7zka4oeg',
+    appId: 'com.tocaboca.tocatrain',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocatrain&hl=en&gl=us'
+  },
+  {
+    title: 'Daily Shopping Stories',
+    installs: 6856867,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/A_W_7jiHksAamvVLkkoNv3UgUQUtuT4xd6WXDL6EXhvOHjmCPbWsWv0ldA8jGiYHHA',
+    appId: 'com.playtoddlers.dailyshoppingstories.free',
+    url: 'https://play.google.com/store/apps/details?id=com.playtoddlers.dailyshoppingstories.free&hl=en&gl=us'
+  },
+  {
+    title: 'Animal Math Preschool Math Games for Kids Free App',
+    installs: 94283,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/PO7TF_zV05QilxOW3ZTu6ADkDohABZf0QSDw_y8OemWla7IxfvAmBI5bek_nwOqpnvI',
+    appId: 'com.eggrollgames.animalmathprekfree',
+    url: 'https://play.google.com/store/apps/details?id=com.eggrollgames.animalmathprekfree&hl=en&gl=us'
+  },
+  {
+    title: 'TriviaMaker - Quiz Creator, Game Show Trivia Maker',
+    installs: 34781,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/65xe9PH2aEZ-OL3TUBzAYNF1ZoEd_NqcBszc4jtT-uW6Y9kj7yJKayIHrJ6Vp5zkAQ',
+    appId: 'com.triviamaker',
+    url: 'https://play.google.com/store/apps/details?id=com.triviamaker&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Office',
+    installs: 16685,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/PZenTkzHzGDtGHpgI3L11ZiW2QDJK5AexVLkYuiBpfQEggl2e9xgQVOYQNXOKEaUVVs',
+    appId: 'mycity.office',
+    url: 'https://play.google.com/store/apps/details?id=mycity.office&hl=en&gl=us'
+  },
+  {
+    title: 'Wild Kratts World Adventure',
+    installs: 45903,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/73gRO3IQq_DpYZTwLiBAV0iAH7hrMxFgJcfbGjeXGGmZ6YuCgRLT9FlVymhYA_fHuQ',
+    appId: 'org.pbskids.wkwa',
+    url: 'https://play.google.com/store/apps/details?id=org.pbskids.wkwa&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Balloons pop',
+    installs: 3454774,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/0aaO8FF_8B3BctrL6w0Ev9ebX7uqZCEr2a0kDpyloyxd_2mRd4WNqxjEjIoFfpNkpw',
+    appId: 'com.appquiz.baby.ballons',
+    url: 'https://play.google.com/store/apps/details?id=com.appquiz.baby.ballons&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Wedding Party',
+    installs: 9020,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/dHMf3l2ToaXHUnv30pHX_ancV-e3W061xozFYK9IiJZ2ltELC5YwyCgaLql2SUUcpw',
+    appId: 'mycity.wedding',
+    url: 'https://play.google.com/store/apps/details?id=mycity.wedding&hl=en&gl=us'
+  },
+  {
+    title: 'Car games for kids ~ toddlers game for 3 year olds',
+    installs: 1264606,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/HRP0QYnuLU3kbuzmhs9goDTaLSBjQOvYLxVCqpQ_mz_BFrTblJtHMjTAipFDR05pW3rH',
+    appId: 'com.amayasoft.cars.kids.racing.toddlers.garage.game',
+    url: 'https://play.google.com/store/apps/details?id=com.amayasoft.cars.kids.racing.toddlers.garage.game&hl=en&gl=us'
+  },
+  {
+    title: "ASA's Sailing Challenge",
+    installs: 22141,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/5iHy0oEqcVwhzlzSP6SzuTF3aAbg717XlmN-KS_4Mhve0U2R6JvivQzdOvDODNl02Vo',
+    appId: 'com.ASA.SailingGamePaid',
+    url: 'https://play.google.com/store/apps/details?id=com.ASA.SailingGamePaid&hl=en&gl=us'
+  },
+  {
+    title: 'My City : High School',
+    installs: 12404,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/vRoT5pj21WPFJx8ia9bSdM-l7wpXoT1Fx-c8wNPuCstYHPrEL1On_TPi2MDSOweJMg',
+    appId: 'mycity.highschool',
+    url: 'https://play.google.com/store/apps/details?id=mycity.highschool&hl=en&gl=us'
+  },
+  {
+    title: 'Elmo Loves ABCs',
+    installs: 672234,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/F6-r7HMGBrlXU89g3sxrw_Foaha7VDCN2nBoxl7g7QgU6uZzHEFsNVNZxgf9vvt_VA',
+    appId: 'com.sesameworkshop.elabcs.play',
+    url: 'https://play.google.com/store/apps/details?id=com.sesameworkshop.elabcs.play&hl=en&gl=us'
+  },
+  {
+    title: 'TurtleDiary',
+    installs: 38112,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/zB6yAgD6aAgNLfPM_gKR9rUR7R15v1sxKSP46Su1YzJ-BbRR-oLoxawuLDWuaudCNws',
+    appId: 'com.turtlediary.www',
+    url: 'https://play.google.com/store/apps/details?id=com.turtlediary.www&hl=en&gl=us'
+  },
+  {
+    title: 'MentalUP - Learning Games & Brain Games',
+    installs: 4233477,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/VxvK1b7TTqVU__bX-63ITu3w4lMhlS17l_xo2qvO7LfPT6g4PVTRu-kySrpsjz9mfw',
+    appId: 'com.ayasis.mentalup',
+    url: 'https://play.google.com/store/apps/details?id=com.ayasis.mentalup&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Love Story',
+    installs: 10021,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/fOnl_iAxmEBvWabSPm0HdM5jEeFz8oBkPAhQcGP2YtU6AqhO6C96du-Dm6PmX5PTYAo',
+    appId: 'mycity.friends',
+    url: 'https://play.google.com/store/apps/details?id=mycity.friends&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Popstar',
+    installs: 9048,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/64JiFFfuluZ1HnZc9G_UBzGU-5oKErK5j1aM_Gc0IirmMNYCQO9tMu-qA0FO2R-B2z2J',
+    appId: 'mycity.popstar',
+    url: 'https://play.google.com/store/apps/details?id=mycity.popstar&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Japanese for Free with kawaiiNihongo',
+    installs: 1140613,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/iN7yiWkOvc5GM0Fz_0ipJWQNNXUpcUrJLMgtIPrPcIX8WNPJe_HujyWY8hLlbM7m2JY',
+    appId: 'de.mardukcorp.kawaiinihongo',
+    url: 'https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo&hl=en&gl=us'
+  },
+  {
+    title: 'Dinosaurs for kids : Archaeologist - Jurassic Life',
+    installs: 2182037,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://play-lh.googleusercontent.com/s1hYrjDNRSlS5sXQQzvXF_Vda47Ww6qJ_ixRflL7zRdrdIXmiLxXWBiFPcFe7FiCoJLT',
+    appId: 'com.magisterapp.jurassiclife',
+    url: 'https://play.google.com/store/apps/details?id=com.magisterapp.jurassiclife&hl=en&gl=us'
+  },
+  {
+    title: 'Blaze: Obstacle Course',
+    installs: 20925,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/5tvk10zyXCRsO4fKOnChtG8JRsziLFeGECbzql5hmmBOMgepf1ptp7cVINpNCFpTJzI',
+    appId: 'com.mtvn.blazeobstacle_google',
+    url: 'https://play.google.com/store/apps/details?id=com.mtvn.blazeobstacle_google&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Dentist visit',
+    installs: 17458,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/Be4_UW8hOQYdn7JuYj_RXPGOcghDe9BFWKqlfydBUwuK18Cd_s330gIPo_JtFDl7UHs',
+    appId: 'mycity.dentist',
+    url: 'https://play.google.com/store/apps/details?id=mycity.dentist&hl=en&gl=us'
+  },
+  {
+    title: 'Engaging Multiplication Tables - Times Tables Game',
+    installs: 6659,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/2hkWg3z3oXkPWe9q7I8NZyMR_zqbfSr7QhemQLWgpyY5NewOmW1fJQfaaezxAO-6Aso',
+    appId: 'net.speedymind.multiplication',
+    url: 'https://play.google.com/store/apps/details?id=net.speedymind.multiplication&hl=en&gl=us'
+  },
+  {
+    title: 'PAW Patrol Alphabet Learning',
+    installs: 2222,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/icVL7IYkph9TPS25VH8z-wFWShWiBvOqkL8MCGQ9XgzrWkNhkg-IcMkETiKk5BeyUTI',
+    appId: 'com.mtvn.pawpatrolalphabetlearning_google',
+    url: 'https://play.google.com/store/apps/details?id=com.mtvn.pawpatrolalphabetlearning_google&hl=en&gl=us'
+  },
+  {
+    title: 'DoBrain - Kids Learning App',
+    installs: 29651,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ZJm0-n1WNYhU7PURHTAt1sHh_pnAp80mRzpD734Awmx0T49WbtF431Wb4OkCufrLY4uX',
+    appId: 'com.dobrain.verified',
+    url: 'https://play.google.com/store/apps/details?id=com.dobrain.verified&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Ski Resort',
+    installs: 10411,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/LRUghaKscI_4MnhDesrXrCd1nj-x64f225vC-jAc0fCu2sFbZm7SuiAeXl63ZclVbA',
+    appId: 'mycity.skiresort',
+    url: 'https://play.google.com/store/apps/details?id=mycity.skiresort&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Puzzles, Funny Animals #2 (full game)',
+    installs: 20530,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ytCtkHGtyEPqeg-dxJ0uVI7SVcVt0rh_tW-FmBxiIpaqMoEiptZgNIDGyGNkrILU69xY',
+    appId: 'net.cleverbit.SafariPuzzlesFull',
+    url: 'https://play.google.com/store/apps/details?id=net.cleverbit.SafariPuzzlesFull&hl=en&gl=us'
+  },
+  {
+    title: 'Caillou Check Up - Doctor',
+    installs: 8875758,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/suxqmDfKaUs921OafRxK0tzAjbv2QLo0e_4cPnNOksyTXkO_rUbcWPwNOaqT4wncFCg',
+    appId: 'com.budgestudios.CaillouCheckUp',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.CaillouCheckUp&hl=en&gl=us'
+  },
+  {
+    title: 'Thinkrolls 2 - Logic Puzzles',
+    installs: 30090,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/SOeoHSB0317h5b0Br9EJk74I4EaloCeRo1W4XjxFy7Mjpf49g-Kp8tjTKexEWQ15LOc',
+    appId: 'com.avokiddo.games.thinkrolls2',
+    url: 'https://play.google.com/store/apps/details?id=com.avokiddo.games.thinkrolls2&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Book - Kids Paint',
+    installs: 4401314,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/1gL567U1hkHoOKyQHHdYKKnxY2x5vJG49xmKBCF7De_qHbTBmBiJ-ETQTAxbaMqfaw',
+    appId: 'com.sunny.coloring.book.kids.paint',
+    url: 'https://play.google.com/store/apps/details?id=com.sunny.coloring.book.kids.paint&hl=en&gl=us'
+  },
+  {
+    title: 'Lamsa: Stories, Games, and Activities for Children',
+    installs: 12041117,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/uhY9EwgUULttsQevzHwLTXw2ErSLhtx_FlZtjTxGBO375gAmBzUlOkL8VumveD4Ukp8',
+    appId: 'com.ertiqa.lamsa',
+    url: 'https://play.google.com/store/apps/details?id=com.ertiqa.lamsa&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Bank',
+    installs: 10200,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/y9D5NU8wKsh3J7oFHQF1ZdPBRSD1xM5numGesFcngqzTKcqdTj-pYxVWcksu6mASzA',
+    appId: 'mycity.bank',
+    url: 'https://play.google.com/store/apps/details?id=mycity.bank&hl=en&gl=us'
+  },
+  {
+    title: 'Tizi World: My Play Town, Dollhouse Games for Kids',
+    installs: 3189877,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/mhMHD3fCBGfzEokUKLk45cP3AB6C7hLeCHA0-qlSK0prmgrGU3Dwm4jYIJhGfERI3Q',
+    appId: 'com.iz.world.pretend.play.life.my.princess.games.town.city.house.wonder.doll',
+    url: 'https://play.google.com/store/apps/details?id=com.iz.world.pretend.play.life.my.princess.games.town.city.house.wonder.doll&hl=en&gl=us'
+  },
+  {
+    title: 'Numbers from Dave and Ava',
+    installs: 306625,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/z-VxKf3G9fJxlJblDgr23eOL-CAYzZz2dYGngUQH07z7BChKBExKbbF4QLWNHP7gL4Q',
+    appId: 'com.daveandava.numbers',
+    url: 'https://play.google.com/store/apps/details?id=com.daveandava.numbers&hl=en&gl=us'
+  },
+  {
+    title: 'My City : Orphan House',
+    installs: 9782,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/GFG0sF0YzRtnKkTsc6XSn2o0jHhkyXwRPXJgHMcjXdn8esHB88r-S-Pnq4cFfLnRYJcz',
+    appId: 'mycity.orphan',
+    url: 'https://play.google.com/store/apps/details?id=mycity.orphan&hl=en&gl=us'
+  },
+  {
+    title: 'My Town : Preschool Free',
+    installs: 1208511,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/ITvLH3AVE1PR9PIlRGA_I1q-jWkzh00vqr3j0eDOvfy6aXHpFZWt_3nh5iDFNo0m0FI',
+    appId: 'mytown.preschool.free',
+    url: 'https://play.google.com/store/apps/details?id=mytown.preschool.free&hl=en&gl=us'
+  },
+  {
+    title: 'ABC PreSchool Kids Tracing & Phonics Learning Game',
+    installs: 8070292,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/y3xFoUhDi54rKhRSW7CA4pzvGmKn_3nMCDNWIRGb2YOuibj87hu-C8tiXhar0-ZetMA',
+    appId: 'com.gamesforkids.preschoolworksheets.alphabets',
+    url: 'https://play.google.com/store/apps/details?id=com.gamesforkids.preschoolworksheets.alphabets&hl=en&gl=us'
+  },
+  {
+    title: 'TMNT: Half-Shell Heroes',
+    installs: 17964,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/KTSdl3k9dimXaHOt3PXrdNnoaC44BvO5FyKbRXlbYImkA2G24UAW3oj0x1Wkd8x8g1A',
+    appId: 'com.mtvn.tmntprecoolgoogle',
+    url: 'https://play.google.com/store/apps/details?id=com.mtvn.tmntprecoolgoogle&hl=en&gl=us'
+  },
+  {
+    title: 'ABC Cool Kid PreSchool Academy',
+    installs: 52,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/05dSUWOXPvDx3oo2R3yBWobc60nwx5NEzJlzSbyexFijA_v0qp-8mYdhIITYjSh2jic',
+    appId: 'com.helio.slf',
+    url: 'https://play.google.com/store/apps/details?id=com.helio.slf&hl=en&gl=us'
+  },
+  {
+    title: 'Do Not Disturb - A Game for Real Pranksters!',
+    installs: 16191337,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/bWR2kKrjQ4vT2TgYzMXNkfFcgP-UPqqf5SjTrKMmMjAcqI2aSYc1gVpVoGVPqZ5Mw7E',
+    appId: 'br.com.tapps.donotdisturb',
+    url: 'https://play.google.com/store/apps/details?id=br.com.tapps.donotdisturb&hl=en&gl=us'
+  },
+  {
+    title: 'Car City World: Little Kids Play Watch TV & Learn',
+    installs: 2218139,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/kGuIo-S058tNVvzBZCRgVe7xTao8LidW-b3JNLeMiJlpGGzjERfQV-sWK94XK_h5PTfg',
+    appId: 'com.minimango.games.carcityworld',
+    url: 'https://play.google.com/store/apps/details?id=com.minimango.games.carcityworld&hl=en&gl=us'
+  },
+  {
+    title: "Miffy's World – Bunny Adventures",
+    installs: 3098829,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/l5FzKvq_vlwIgja_dVJTfixx3nCiGb7GDedOtmQRtFh9Q53OcHFfVn-tzUAVNQ7EXL0',
+    appId: 'com.storytoys.miffy.free.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.miffy.free.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Math Games for Kids - Kids Math',
+    installs: 85702,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/O0ZxoE8e6-IreHFsUiPho1e9aTiiT3cJXW7bg4GjntC-nPjqW94cpIIWGlwkCaHTLykp',
+    appId: 'com.idz.kindergarten.math.kids.games',
+    url: 'https://play.google.com/store/apps/details?id=com.idz.kindergarten.math.kids.games&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Chef - cooking games for kids and toddlers',
+    installs: 48246,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/WCL_9O6P2QrCYn9aEE16c0QbIzukxMAYdWij3GU2ZD2-F4fsNKJcImyKg_n5wYyWy3I',
+    appId: 'com.pazugames.monsterchef',
+    url: 'https://play.google.com/store/apps/details?id=com.pazugames.monsterchef&hl=en&gl=us'
+  },
+  {
+    title: 'Math Balance : Learning Games For Kids Grade 1 - 5',
+    installs: 92405,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/nzfmUQjPvWHdUw2eD-34z_4dI58B0ixElFwBlDjR4BkX7Do4zPh9kwPUllFGQvLaGgU',
+    appId: 'com.makkajai.numbersense_compensation_free',
+    url: 'https://play.google.com/store/apps/details?id=com.makkajai.numbersense_compensation_free&hl=en&gl=us'
+  }
+]

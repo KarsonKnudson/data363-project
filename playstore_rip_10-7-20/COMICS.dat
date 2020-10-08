@@ -1,0 +1,962 @@
+[
+  {
+    title: 'WEBTOON',
+    installs: 71817813,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/N0IoatmNSedA1OwGmjZauoziClJnAR3gatt5G78PDAHmZU8ytvyVj7wp2SfDFM15N0w',
+    appId: 'com.naver.linewebtoon',
+    url: 'https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=en&gl=us'
+  },
+  {
+    title: 'Tappytoon Comics & Webtoons',
+    installs: 2197919,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/1uEi6nmVXhDdAieXYpWibI4esn7mA0cZDywo_Dqv1hwg17DN10VDr-nQKmPaEe39dgc',
+    appId: 'com.contentsfirst.tappytoon',
+    url: 'https://play.google.com/store/apps/details?id=com.contentsfirst.tappytoon&hl=en&gl=us'
+  },
+  {
+    title: 'Tapas – Comics and Novels',
+    installs: 2413357,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/vqxJTH2xSwjU4BzDyrxjR827HanqfnPsKW7Oz9NGlxnIxK8gI0wOSwUvCJvevHey8A',
+    appId: 'com.tapastic',
+    url: 'https://play.google.com/store/apps/details?id=com.tapastic&hl=en&gl=us'
+  },
+  {
+    title: 'Marvel Unlimited',
+    installs: 3887027,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/9SEsAvfWZhCCq-v5tIlYQBO-lEUqeQwqOA1vVbJ_HGgw9-evVMh5QYjv8goti_7aXD8',
+    appId: 'com.marvel.unlimited',
+    url: 'https://play.google.com/store/apps/details?id=com.marvel.unlimited&hl=en&gl=us'
+  },
+  {
+    title: 'WebComics',
+    installs: 6802156,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/zAnaLJWVcynWLiQdsdcaGOTjtPOOBlEm7YcW3Eu_cW7xknJ6dFExIYIvv-faD4gkt6U',
+    appId: 'com.webcomics.manga',
+    url: 'https://play.google.com/store/apps/details?id=com.webcomics.manga&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket Comics - Premium Webtoon',
+    installs: 128300,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/6e7rJP1lF0BRrYJypoBBODJcwJsdhw_tQ4862ey8ifF_TQoVWtC_DeYfVsBdhWfEeQ',
+    appId: 'io.comico',
+    url: 'https://play.google.com/store/apps/details?id=io.comico&hl=en&gl=us'
+  },
+  {
+    title: 'MangaToon-Good comics, Great stories',
+    installs: 19910524,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/T2YdtJJZ99-AQeqFpe747akm7FnSx0YLwut3HSTeT7fiQjE2QtM_W_O5oQ8Nnm3Sw-gt',
+    appId: 'mobi.mangatoon.comics.aphone',
+    url: 'https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone&hl=en&gl=us'
+  },
+  {
+    title: 'Lezhin Comics - Daily Releases',
+    installs: 6198382,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/jm6iUrDxxIPS6tq3EJLmRguHrJmkYe_gnmI83Itzpt5teODRQbgt4UsAkb_T_Enr2G14',
+    appId: 'com.lezhin.comics',
+    url: 'https://play.google.com/store/apps/details?id=com.lezhin.comics&hl=en&gl=us'
+  },
+  {
+    title: 'Shonen Jump Manga & Comics',
+    installs: 704449,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/-yn8XJPSP7idQdM4hn2uQfrV_my2lPQ38DhcjAGaqnFWu4mgaJxpOiCSvXk68uMU4jw',
+    appId: 'com.viz.wsj.android',
+    url: 'https://play.google.com/store/apps/details?id=com.viz.wsj.android&hl=en&gl=us'
+  },
+  {
+    title: 'Toomics - Read unlimited comics',
+    installs: 2911857,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/GhfkqS44NJgd5iJJPjxGQ4455SYgv7tUPD9iD5AWfZd9a5ILYZZTNIFgyUoxe-OAbH6f',
+    appId: 'com.toomics.global.google',
+    url: 'https://play.google.com/store/apps/details?id=com.toomics.global.google&hl=en&gl=us'
+  },
+  {
+    title: 'Marvel Comics',
+    installs: 9883235,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/4c9yf8wXioshzWLLqSeWTIc9qezI0eU0hRaps1-yih-xvoKIji0yXjBlVI45wo5YSMBV',
+    appId: 'com.marvel.comics',
+    url: 'https://play.google.com/store/apps/details?id=com.marvel.comics&hl=en&gl=us'
+  },
+  {
+    title: 'WeComics - Daily Webtoon',
+    installs: 3477568,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Lv7tKkdYemGyK8RUNFImz52Ad104QxkTTZN30jkhXLRdsB9kV2e46mdXv_YTNonfITo',
+    appId: 'com.tencent.wecomic',
+    url: 'https://play.google.com/store/apps/details?id=com.tencent.wecomic&hl=en&gl=us'
+  },
+  {
+    title: 'VIZ Manga – Direct from Japan',
+    installs: 454454,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Ggv9Q1t82En13VERPYQTg4AGlVSNGnbSgsBuSgYJozgdd0_mAKnrf_kePVmxcZUZvqc',
+    appId: 'com.vizmanga.android',
+    url: 'https://play.google.com/store/apps/details?id=com.vizmanga.android&hl=en&gl=us'
+  },
+  {
+    title: 'DC Comics',
+    installs: 3834108,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/miMmRj8r3FytixDaWn7BzGEutmcAxSt3ZoHRj6xdbkV_-U8004g0zEaATH0EOMlUg28',
+    appId: 'com.dccomics.comics',
+    url: 'https://play.google.com/store/apps/details?id=com.dccomics.comics&hl=en&gl=us'
+  },
+  {
+    title: 'CLZ Comics - Comic Database',
+    installs: 155311,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/4NcUsPK6B4eYtsyftpeecVQAfxDyTu7ZN7hEjhfzhr0s_529-MX00XxSfCoDzDl-hnY',
+    appId: 'com.collectorz.javamobile.android.comics',
+    url: 'https://play.google.com/store/apps/details?id=com.collectorz.javamobile.android.comics&hl=en&gl=us'
+  },
+  {
+    title: 'Comic Cat',
+    installs: 301898,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/WJGVgMNVaqgmZ0VGDLW8nW8uwMUkbOm1IuCaxA17AvwQA9GW6u_qTqthFHUUB1MMFYM',
+    appId: 'com.zhangyue.read.comiccat',
+    url: 'https://play.google.com/store/apps/details?id=com.zhangyue.read.comiccat&hl=en&gl=us'
+  },
+  {
+    title: 'Manga Geek - Free Manga Reader App',
+    installs: 2628929,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/60EwFllGRu7Fc09pedRVWPe2FO4vgfpWnalXE4Sjhjd_woTqRS5GddJbpdjqtEG47lE',
+    appId: 'net.manga.geek.mangamaster',
+    url: 'https://play.google.com/store/apps/details?id=net.manga.geek.mangamaster&hl=en&gl=us'
+  },
+  {
+    title: '미스터블루 – 최신 웹툰 소설 만화 무료 감상앱',
+    installs: 1675104,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Kj4DyphdPYb6JFjyq8l9fgt357iuLviS0Praq9WAzAxMtHlh8x25f4PJ8756HXGf_Q',
+    appId: 'com.mrblue.mrblue',
+    url: 'https://play.google.com/store/apps/details?id=com.mrblue.mrblue&hl=en&gl=us'
+  },
+  {
+    title: 'Dark Horse Comics',
+    installs: 1855944,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/sQVplgi1fHT9zezhvv0oXniXMaNstWnKojq-luuwzwZdcpgAUBg2fEm4sP8O3jGXTTVD',
+    appId: 'com.darkhorse.digital',
+    url: 'https://play.google.com/store/apps/details?id=com.darkhorse.digital&hl=en&gl=us'
+  },
+  {
+    title: 'Anime Worlds for VRChat',
+    installs: 20095,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/-_JajhteB8XkSnoneKDbTPckjnf_zDXnqtW0u6yAe7H9ZGcAtP9aseJCMyU-7ntdGA',
+    appId: 'com.anime.vrchat.worolds.online',
+    url: 'https://play.google.com/store/apps/details?id=com.anime.vrchat.worolds.online&hl=en&gl=us'
+  },
+  {
+    title: 'IDW Comics',
+    installs: 45323,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/oOtRjheljbobzzG5IGefXRLo5r3gxCJz_mb0X7eyn3VxamjU3NZQ1UbTQYgPkgz0d5m5',
+    appId: 'com.idw.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.idw.reader&hl=en&gl=us'
+  },
+  {
+    title: 'CDisplayEx Comic Reader',
+    installs: 14427,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/hzAMi37N6WS4Oo9kQh0P0EojmQKFgir3XC6xti1Enu7GlMLchBlx6Mw5yCcvTa1azA',
+    appId: 'com.progdigy.cdisplay',
+    url: 'https://play.google.com/store/apps/details?id=com.progdigy.cdisplay&hl=en&gl=us'
+  },
+  {
+    title: 'pixivコミック - みんなのマンガアプリ',
+    installs: 1804068,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/SCfIuOtioZffrJNYlJXbbJDrybhAtMdjQRG05lO7nSpqrzhwkVMLwRkM_KKXIf7UIw',
+    appId: 'jp.pxv.android.manga',
+    url: 'https://play.google.com/store/apps/details?id=jp.pxv.android.manga&hl=en&gl=us'
+  },
+  {
+    title: 'Pose Tool 3D',
+    installs: 33784,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/IbUyI3ZsBNqGMi1JU7bG8CWY_AdxmRlV2T5Gxw78DtF_OkHLh6Ww9AxRuF-5PTADvA',
+    appId: 'com.alienthink.posetool3d',
+    url: 'https://play.google.com/store/apps/details?id=com.alienthink.posetool3d&hl=en&gl=us'
+  },
+  {
+    title: 'Avatars World for VRChat',
+    installs: 32323,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/KIkBSj8gCpthk4j5LanvwqzabNDSamLP2SKGXUEAHoVNMPIfUFluqS5uUcopbsxcPZw',
+    appId: 'com.avatars.vr.chat.worlds.maps',
+    url: 'https://play.google.com/store/apps/details?id=com.avatars.vr.chat.worlds.maps&hl=en&gl=us'
+  },
+  {
+    title: '[Comics] The ruler of the land',
+    installs: 110485,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/nmSoTlO21C0bXsY_UYsJ4nEyVRdq-Yf1YS0z1dCl83dOl5N9lMxiP5lf-CWO4pj84Rc',
+    appId: 'kr.co.dwci.yulhyulgangho',
+    url: 'https://play.google.com/store/apps/details?id=kr.co.dwci.yulhyulgangho&hl=en&gl=us'
+  },
+  {
+    title: 'comico การ์ตูนและนิยายออนไลน์',
+    installs: 3549509,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/fUtGWtQy5FXM5NrOGarB1jr2ZQD09ccRoGh4DLWUYisb64LqlQUAhhH-Biyb5uy7qJY',
+    appId: 'com.toast.comico.th',
+    url: 'https://play.google.com/store/apps/details?id=com.toast.comico.th&hl=en&gl=us'
+  },
+  {
+    title: 'Handy Art Reference Tool',
+    installs: 42744,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/tmvzNOxQYGVVG2bcfzovPBhH6UY8LniqckUmYHFlLrg4JSBDxQ2iZKjoyV-ylaaQb_Y',
+    appId: 'com.beliefengine.handyapp',
+    url: 'https://play.google.com/store/apps/details?id=com.beliefengine.handyapp&hl=en&gl=us'
+  },
+  {
+    title: 'comico オリジナル漫画が毎日読めるマンガアプリ コミコ',
+    installs: 7780176,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/S2S4r7p_N04csJ_qQ2WPy5LXRIqhRhpFaZxhxeBc6dwwZIR19LPsveBPqEpoDjY2VQ',
+    appId: 'jp.comico',
+    url: 'https://play.google.com/store/apps/details?id=jp.comico&hl=en&gl=us'
+  },
+  {
+    title: 'Skins for Fnaf for Minecraft PE',
+    installs: 79053,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/e4r-PTTCHt6xGrBAeu6AO_UzEW9s0jdMjCyLeKYylUD6rIjt7SNBz9U9syldR9b6FoY',
+    appId: 'com.fnaf.skinsx2',
+    url: 'https://play.google.com/store/apps/details?id=com.fnaf.skinsx2&hl=en&gl=us'
+  },
+  {
+    title: '2000 AD Comics and Judge Dredd',
+    installs: 66359,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/kjjt8uL_5VivNHeGx-QYtsbiZFNvtP7J_1XPaZ5tXtN7msQ6b3Jbpfq7Hgfa6TKFWzI',
+    appId: 'com.rebellion.app2000ad',
+    url: 'https://play.google.com/store/apps/details?id=com.rebellion.app2000ad&hl=en&gl=us'
+  },
+  {
+    title: 'Draw Cartoons 2',
+    installs: 12446296,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/dh08wt8TAdSWG7-vts6loN1uNG4T_LBEbOx0FiOJKOfsDk-UDX8ZgB9rbMQHohyHvD8',
+    appId: 'com.zalivka.animation2',
+    url: 'https://play.google.com/store/apps/details?id=com.zalivka.animation2&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Truck Stunts on Impossible Track',
+    installs: 1556363,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/3MFAvmV89eRcgBFFhKGb5PD0DyNtIUCY7N2-JLtXB9982jflygLrV0VoGoL1IQqCgo0',
+    appId: 'com.play.fun.free.impossibletracks.sky.racer.monster.truck.impossibletracks',
+    url: 'https://play.google.com/store/apps/details?id=com.play.fun.free.impossibletracks.sky.racer.monster.truck.impossibletracks&hl=en&gl=us'
+  },
+  {
+    title: 'TMNT Comics',
+    installs: 331470,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/b5lFcypgvj2DCnpaATfDLmM4TwNpW24UA0PfewVYRs5UvIyuoCyKqavfYbkbKo5eXQ',
+    appId: 'com.idw.TMNTreader',
+    url: 'https://play.google.com/store/apps/details?id=com.idw.TMNTreader&hl=en&gl=us'
+  },
+  {
+    title: 'Archie Comics',
+    installs: 533172,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/9vs5AAR-Gjq-dOzcNSxImAM-gJjBLJwfdOC7uB2z9Y9swk1t56vU-H7K7UwPZ8uNuzo',
+    appId: 'com.iversecomics.archie.android',
+    url: 'https://play.google.com/store/apps/details?id=com.iversecomics.archie.android&hl=en&gl=us'
+  },
+  {
+    title: 'まんが”Ｒｅｎｔａ！”　人気の漫画・コミックをお得にレンタルできる　品揃え最大級の漫画アプリ　レンタ',
+    installs: 670407,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/h3eXbJgOy3qqiA3keznfeObxEKkYKuAENxfKy3yKL8dhv3hQWPcA7lyFlvyb0t02cw',
+    appId: 'app.game.rentaapps',
+    url: 'https://play.google.com/store/apps/details?id=app.game.rentaapps&hl=en&gl=us'
+  },
+  {
+    title: 'wutopia',
+    installs: 4738,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/QbDEC3YDvuR2l2N1Oy-xHRi_xUT8LH4p-h977Nu2oq4grMtFYD8aa40fAUW0bdECFAA',
+    appId: 'com.kuangsheng.wutopia',
+    url: 'https://play.google.com/store/apps/details?id=com.kuangsheng.wutopia&hl=en&gl=us'
+  },
+  {
+    title: 'WeComics TH: Webtoon',
+    installs: 2824175,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/O6d1nC5yNQ5fVnr3DDLaebbVnt3gc817igW42iwRReY2PfsGkyElIdJoh-79ERRewA',
+    appId: 'com.ookbee.ookbeecomics.android',
+    url: 'https://play.google.com/store/apps/details?id=com.ookbee.ookbeecomics.android&hl=en&gl=us'
+  },
+  {
+    title: 'US Prison Escape Mission :Jail Break Action Game',
+    installs: 4158918,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/4m7is-E9yCRRTyblmIcwU4CzzZ-ralcu1Hg7Gu-w4CN4qRMjvtbAjDX1MUMMDktOLoE',
+    appId: 'com.ls.Prison.Escape.Mission.Jail.Break',
+    url: 'https://play.google.com/store/apps/details?id=com.ls.Prison.Escape.Mission.Jail.Break&hl=en&gl=us'
+  },
+  {
+    title: 'ACK Comics',
+    installs: 175251,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/RUIdjsN1h23kPMEBs3HPX1mcbR4G_GoZe-c1m2R8thD7oDDgEouyNrO4frdlRP48_w',
+    appId: 'com.ns.ack',
+    url: 'https://play.google.com/store/apps/details?id=com.ns.ack&hl=en&gl=us'
+  },
+  {
+    title: 'comico 免費全彩漫畫',
+    installs: 3703329,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/xZ5bfg-XfyEmM1641bXduE27w44OmyWeVspg626wRYF0ejAgZAvsRKP4sECblfmnpg',
+    appId: 'tw.comico',
+    url: 'https://play.google.com/store/apps/details?id=tw.comico&hl=en&gl=us'
+  },
+  {
+    title: '투믹스 - 웹툰 (무료웹툰/인기만화)',
+    installs: 1650786,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/2ezIeCs_31bPIDGwMJEAO3GPMFdW-RQtvCWgutTq4EqK7LhK1ix5k7KqSRcYxJtrHEA',
+    appId: 'com.toomics.zzamtoon.google',
+    url: 'https://play.google.com/store/apps/details?id=com.toomics.zzamtoon.google&hl=en&gl=us'
+  },
+  {
+    title: '코미코',
+    installs: 767991,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/lzPsKN37jXq1K_EtCeAlEhhtn9HlYjfm8cDOBxUaVr7uaatdfR1DevD8F3AhTOXBXYM',
+    appId: 'com.wisdomhouse.justoon',
+    url: 'https://play.google.com/store/apps/details?id=com.wisdomhouse.justoon&hl=en&gl=us'
+  },
+  {
+    title: 'Ur Manga  - Comic and Novels',
+    installs: 1976662,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/8OkAw7n3nRZMsUHMw_xmvlvy9jxl2iK0UhgU5QmdvpOQDTi_tWSITALJCy95AksCSB4',
+    appId: 'com.qianxun.comic',
+    url: 'https://play.google.com/store/apps/details?id=com.qianxun.comic&hl=en&gl=us'
+  },
+  {
+    title: 'Manga Zero - Japanese cartoon and comic reader',
+    installs: 1480749,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/FoIpo4L6BzYDeH3zvBtDXGROOKEGgX0rNk06WINaT1YO5m_6NMkeX-PC259fMJ-TZw',
+    appId: 'jp.inc.nagisa.mangapf',
+    url: 'https://play.google.com/store/apps/details?id=jp.inc.nagisa.mangapf&hl=en&gl=us'
+  },
+  {
+    title: 'ComiCat (Comic Reader/Viewer)',
+    installs: 45815,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/huiSdC4BZliv0jn83yMD8x_l547wa8r1Na6WUI3iNAgjR_CJU7qnedk9hDuIZ0kLqME',
+    appId: 'meanlabs.comicat',
+    url: 'https://play.google.com/store/apps/details?id=meanlabs.comicat&hl=en&gl=us'
+  },
+  {
+    title: 'Manga Dogs - discuss manga online',
+    installs: 2922405,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/acfOylq97zsZxkQpQ_wj5vTFJCdioqp4X8EX7mP55ZPJEMcV1qloKOv6Ah9m2tckh44',
+    appId: 'com.dogs.nine',
+    url: 'https://play.google.com/store/apps/details?id=com.dogs.nine&hl=en&gl=us'
+  },
+  {
+    title: 'ComicBookRealm',
+    installs: 1068,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/5YWQ_gIAh5u8Djn9f6nzVLeCQu7GrpL7GD_tZOMEQyVR8-4fkM7nkTjlUON90G_-PA',
+    appId: 'com.comicbookrealmgp.cbr',
+    url: 'https://play.google.com/store/apps/details?id=com.comicbookrealmgp.cbr&hl=en&gl=us'
+  },
+  {
+    title: 'Transformers Comics',
+    installs: 151260,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/wVwXSJtBJ0dsDSugTYgPge3FRjbpSD50xcXPntfj-cCWqbNGA0Vmgehd-jUhYM0Q264',
+    appId: 'com.idw.transformers.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.idw.transformers.reader&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Master 2020 Food Fever & Restaurant Craze',
+    installs: 800327,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/umC-Q9G2tAjU0t1HMzp3Rv22RMuA5SpRK4Og8QeNPdsIUYBoHJ8BRF8sSlYWpuJZG6Y',
+    appId: 'com.cookingsaga.cookinggames.kitchencraze.cookingcraze.cookingfever',
+    url: 'https://play.google.com/store/apps/details?id=com.cookingsaga.cookinggames.kitchencraze.cookingcraze.cookingfever&hl=en&gl=us'
+  },
+  {
+    title: '火熱漫畫——海量熱門漫畫在線閱讀小說動漫每日更新',
+    installs: 405853,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/uUq-hsQMDhpiMkm2VanOuj2asPso9yVQQkmntBIVN-61RjCWYwzac7IywsVjUvBV3Wgz',
+    appId: 'com.dmw11.i18n.app',
+    url: 'https://play.google.com/store/apps/details?id=com.dmw11.i18n.app&hl=en&gl=us'
+  },
+  {
+    title: 'Pink House Maps',
+    installs: 140372,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/F_IfzMfySduXPzFNbb2JLiIg9nZHXtUpks73S0LfrcGxqo6tBsuM9Z1UFuNPPCtKzBk',
+    appId: 'com.pink.house.maps.princess.horse.girl',
+    url: 'https://play.google.com/store/apps/details?id=com.pink.house.maps.princess.horse.girl&hl=en&gl=us'
+  },
+  {
+    title: 'Graphite - Read new comics, manga, and webtoons',
+    installs: 93757,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/9rzsC5QeMA1DQh5fCZYbc9SeKLiAjxnRU_8WyfZ2ZUBIHKpPiaOxWyIi7BzfJ1o_IZU',
+    appId: 'com.graphite.graphitecomics',
+    url: 'https://play.google.com/store/apps/details?id=com.graphite.graphitecomics&hl=en&gl=us'
+  },
+  {
+    title: 'Simpsons Store',
+    installs: 38651,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/SRXYWotHb3DeWq5uTmBcFeeyN4LQkyTQWAo3R_V-waFcMvBxGE2xj4kmsImn-9U6bEk',
+    appId: 'com.iconology.simpsons',
+    url: 'https://play.google.com/store/apps/details?id=com.iconology.simpsons&hl=en&gl=us'
+  },
+  {
+    title: 'ComicScreen - ComicViewer',
+    installs: 2410487,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/E2THHoNj4NnAOjNIyz2lm03rkaQvpWln-OK3QH95UOxcjKurNk2XfNuvCDftGQEfV6yd',
+    appId: 'com.viewer.comicscreen',
+    url: 'https://play.google.com/store/apps/details?id=com.viewer.comicscreen&hl=en&gl=us'
+  },
+  {
+    title: 'Madefire Comics & Motion Books',
+    installs: 267618,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/4yG3LOeH84QzCd0_sGCcu5Fu_PHDUXGwFQEIEb0xPDSmukct8b47zL_84ZgCa2JwBQnU',
+    appId: 'com.madefire.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.madefire.reader&hl=en&gl=us'
+  },
+  {
+    title: 'GANMA!（ガンマ） - 恋愛漫画からバトル漫画まで！オリジナル連載マンガは最新話まで全話無料！',
+    installs: 4781685,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/JZpMQGRiZiK2mizzJ4HJzF7QKIKNOqFh0UX6cPrWAt5kU24A7HhCMkvEfP7DtLowqg',
+    appId: 'com.COMICSMART.GANMA',
+    url: 'https://play.google.com/store/apps/details?id=com.COMICSMART.GANMA&hl=en&gl=us'
+  },
+  {
+    title: 'ComicRack',
+    installs: 45512,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/LiqJXrVcFunj7Z5f6pyFoFB1Nl4mIwX-rpjGnNx9FdoD2zVhMigwqjQ-NNXQm6Qygkw',
+    appId: 'com.cyo.comicrack.viewer',
+    url: 'https://play.google.com/store/apps/details?id=com.cyo.comicrack.viewer&hl=en&gl=us'
+  },
+  {
+    title: 'WeRead',
+    installs: 640133,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/aTOoGFZfZLEJ7Vy9_yMn15N3f8MzltW2dORDFDi7__nsc00oL7DdR5piCnYqmHcSzaE',
+    appId: 'com.novelss.weread',
+    url: 'https://play.google.com/store/apps/details?id=com.novelss.weread&hl=en&gl=us'
+  },
+  {
+    title: 'NETCOMICS - Webtoon & Manga',
+    installs: 78039,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/k6Vo8JkD4fp1VCVDmlqZjKDqP2GnqZBM6OIOnBT664MOavOQ4NLOJfQg9fAe5vniikZo',
+    appId: 'com.netcomics.app',
+    url: 'https://play.google.com/store/apps/details?id=com.netcomics.app&hl=en&gl=us'
+  },
+  {
+    title: 'Manga U - Best Free Manga Reader App For You',
+    installs: 4627,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/dHYtZsa0eop_vLLVlL2V2n57nsrWcu57WGhfardFMBGOMOZGLv3z0FgG625N3Y048KCb',
+    appId: 'com.manga.mangareader.mangau',
+    url: 'https://play.google.com/store/apps/details?id=com.manga.mangareader.mangau&hl=en&gl=us'
+  },
+  {
+    title: 'Comic World',
+    installs: 405072,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/KqvwYPzX-zAIWVpJzH46gXsiTbbA7M4YaePVlUxRYvWOazWLI7nOd6tgAh_fRpVP6A',
+    appId: 'dmw.comicworld.app',
+    url: 'https://play.google.com/store/apps/details?id=dmw.comicworld.app&hl=en&gl=us'
+  },
+  {
+    title: 'Mr.Manga - Best Manga Reader',
+    installs: 85231,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/owOeh7fxf5tBBnASw3ZCAjje23e1BElJf5nWlXfmmby4wRK58LoojEfIFqc0cx-2nfM',
+    appId: 'net.manga.mr.mangareader',
+    url: 'https://play.google.com/store/apps/details?id=net.manga.mr.mangareader&hl=en&gl=us'
+  },
+  {
+    title: 'My Little Pony Comics',
+    installs: 396838,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Vz5OnHUWhP6pTib7Rd02O0OQgOOUVmBRish5t7MDvAe2B1RRjcg05h0v1mMVOhRH1GrZ',
+    appId: 'com.idw.mlp.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.idw.mlp.reader&hl=en&gl=us'
+  },
+  {
+    title: 'izneo - Read Comics, Manga, Webtoon',
+    installs: 931117,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/tMxVI3WBurj85jh-QKnwtUO9FXYvEvj6sJzGZNHsB8o7VZCnH_RKdxBwOwkqBfOFFHeQ',
+    appId: 'fr.airweb.izneo',
+    url: 'https://play.google.com/store/apps/details?id=fr.airweb.izneo&hl=en&gl=us'
+  },
+  {
+    title: 'Astonishing Comic Reader',
+    installs: 931309,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/FhOBpKuzfvJX8GmiWRm2xdLVuOy0qec9xD8qkbdo6OVOmBIhpYBwL9AFCiKLr2UxZQ',
+    appId: 'com.aerilys.acr.android',
+    url: 'https://play.google.com/store/apps/details?id=com.aerilys.acr.android&hl=en&gl=us'
+  },
+  {
+    title: 'WeManga - Manga Reader for Free',
+    installs: 16396,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/vQqnr9gjMDuBUMJDgFTa0lAdoRRpLQo5d1c4VdFnJJIoBO3ejKvNERo_wxcQzkX0WFI',
+    appId: 'com.wemanga.manga.mangareader',
+    url: 'https://play.google.com/store/apps/details?id=com.wemanga.manga.mangareader&hl=en&gl=us'
+  },
+  {
+    title: 'Macroverse: Next Gen Comics and Storytelling',
+    installs: 876,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/DUssbWFTpp5mbFAg_evOE6rzGdc7tFVhAuy8F2RX6TPhrNIgsrKEJF4icg5f52LV2g',
+    appId: 'com.m2action.deadtown',
+    url: 'https://play.google.com/store/apps/details?id=com.m2action.deadtown&hl=en&gl=us'
+  },
+  {
+    title: 'Challenger Viewer Donation',
+    installs: 1494,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/WH8ROMjVnf0D902R-xgizDMg2Vw3m61FqRQbPuHLYFaRex3M8E3D5BOpQWRHu8itmg',
+    appId: 'org.kill.geek.pro.bdviewer',
+    url: 'https://play.google.com/store/apps/details?id=org.kill.geek.pro.bdviewer&hl=en&gl=us'
+  },
+  {
+    title: 'Translated Manga : EN + AR + FR + ES',
+    installs: 315952,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/2S7ldSC9UyceFpy07elujYyfyNP1J7QM1LEm_A1wQgdl_NdeLpPNzMC9CkjNxZqwPg',
+    appId: 'com.dev.wolf.translatedmanga',
+    url: 'https://play.google.com/store/apps/details?id=com.dev.wolf.translatedmanga&hl=en&gl=us'
+  },
+  {
+    title: 'Tinyview - Bite-size Comics For Your Phone!',
+    installs: 76867,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Y2CHUoYfFR5Op5x4DJYRgE3eYE89VHVnFuB4WrnjqJNKapcox_vkiY473mBuZERAaVM',
+    appId: 'com.newput.tinyview',
+    url: 'https://play.google.com/store/apps/details?id=com.newput.tinyview&hl=en&gl=us'
+  },
+  {
+    title: 'Perfect Viewer Donation',
+    installs: 32859,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/AW62IUl6leHXqXRYHbVF4NleQglDHHs8qVVjaxXYMLS69tfPSgTBYsTWQDnjtpRM-c8',
+    appId: 'com.rookiestudio.perfectviewer.donate',
+    url: 'https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate&hl=en&gl=us'
+  },
+  {
+    title: 'SpotOn Grading Systems - Comic Book Edition',
+    installs: 2129,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/sYNS35nkVFVO6W9lrVAN0tHghMb-ahMRNx2btGisRe4daJWamzftMMBg994K_il77Q',
+    appId: 'com.spotongrading',
+    url: 'https://play.google.com/store/apps/details?id=com.spotongrading&hl=en&gl=us'
+  },
+  {
+    title: 'Comco - The Comic Collection App',
+    installs: 768,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/TdP7oKrk5-8jKH1J_xP9oQdftj3BUgq_imqgV6K_l_xp3D5_t6sojwlLNYkQsUZ5MJY',
+    appId: 'comcoapp.beckertonstudio.comiccollector.comiccollector',
+    url: 'https://play.google.com/store/apps/details?id=comcoapp.beckertonstudio.comiccollector.comiccollector&hl=en&gl=us'
+  },
+  {
+    title: '할리퀸만화 – 미스터블루가 엄선한 할리퀸웹툰, 무료만화',
+    installs: 46326,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/pwKL21vbrI7ZDbHdXNKvBu3-ltZvcSjw6cSfZ18dxlRnedl5CibUeYeUIdxNKpdB-jDy',
+    appId: 'com.mrblue.android.harlequin',
+    url: 'https://play.google.com/store/apps/details?id=com.mrblue.android.harlequin&hl=en&gl=us'
+  },
+  {
+    title: 'Card Maker for PKM',
+    installs: 1619969,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/wXxYjQAdnSmU4bCZiEvy8yZSeOaYuD09kRC8al8ljae-yvboTf3SyBqsMq3T1sLHbxpQ',
+    appId: 'co.pamobile.pokemon.cardmaker',
+    url: 'https://play.google.com/store/apps/details?id=co.pamobile.pokemon.cardmaker&hl=en&gl=us'
+  },
+  {
+    title: '漫客棧-二次元超快看漫畫',
+    installs: 17286,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Pb4x1iaA7mOwwL0BLPag4R__uvfhr5b_un83qyCWj3ze8_jlaI6frpGjAtb-r0E2A4c',
+    appId: 'com.mkzhan.google',
+    url: 'https://play.google.com/store/apps/details?id=com.mkzhan.google&hl=en&gl=us'
+  },
+  {
+    title: 'The Adventures of Tintin',
+    installs: 73925,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/3fGpGc26dy22hTeMsJyZsc42qabZMlSrLk2D5l1e6ifL2T-HCj8dbS2N3_8PWXmYXp0',
+    appId: 'be.moulinsart.tintinbooks',
+    url: 'https://play.google.com/store/apps/details?id=be.moulinsart.tintinbooks&hl=en&gl=us'
+  },
+  {
+    title: 'Topolino & Co',
+    installs: 67547,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/XbwWMJakGOzfCeZBbOw9gm_DCqwiUSgMkmgR61iiKcHado2CWpWvum8kMVBl6MmHfw',
+    appId: 'it.dshare.topolinoco.android',
+    url: 'https://play.google.com/store/apps/details?id=it.dshare.topolinoco.android&hl=en&gl=us'
+  },
+  {
+    title: 'ArtPose Female Edition',
+    installs: 11537,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/r93Corvv2c8R7FhUQFGXcYLelB6NlQLTr6VU7qoeH9-Q-MTyprR215C22wjbW3IYDQ',
+    appId: 'com.artware.ArtF',
+    url: 'https://play.google.com/store/apps/details?id=com.artware.ArtF&hl=en&gl=us'
+  },
+  {
+    title: 'Pango Comics',
+    installs: 2446,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/_1p_aWFSPi1uC5memWIa9ZaFkWZkIKtTg3GCwCcLm4j10xcwRjEq_OZKWJSAJR4L-Q',
+    appId: 'air.com.studiopango.pangocomics',
+    url: 'https://play.google.com/store/apps/details?id=air.com.studiopango.pangocomics&hl=en&gl=us'
+  },
+  {
+    title: 'Gurukula Comics Audiobooks StoryBooks',
+    installs: 7140,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/rO4EgxsNPfiL2-dk4g22g2uTQmMggTdA0FQDLc7x0TD4XrUxUzQ0uoPwRu-4pIQmzyY',
+    appId: 'gurukula.com.indiancultureonline',
+    url: 'https://play.google.com/store/apps/details?id=gurukula.com.indiancultureonline&hl=en&gl=us'
+  },
+  {
+    title: 'iLovecraft 2 Immersive Reading',
+    installs: 3658,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/8Ny5QkTf7vO72yZ1pS88Tenx0HIoebQklO0ZWIUZU5dy3D9JvjpS8BCoPx5MeuD8zA',
+    appId: 'com.iclassicscollection.ilovecraft2',
+    url: 'https://play.google.com/store/apps/details?id=com.iclassicscollection.ilovecraft2&hl=en&gl=us'
+  },
+  {
+    title: 'iPoe Collection Vol. 1 - Edgar Allan Poe',
+    installs: 6140,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/89XJGH8g-fV2XqmwZM6XSjAw1qYeaviAt0saEgf3cCfcRHKh4o64e2B6PkXcOVfJUsA',
+    appId: 'com.playcreatividad.ipoe',
+    url: 'https://play.google.com/store/apps/details?id=com.playcreatividad.ipoe&hl=en&gl=us'
+  },
+  {
+    title: 'Cyanide & Happiness',
+    installs: 177394,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/_TVzC82bfiO0Jf4WIpUrsnN0XySYYx6IwdZVhBbuN4L2FlQBB7y8q1m2luLoo2moJA',
+    appId: 'net.explosm.cnh',
+    url: 'https://play.google.com/store/apps/details?id=net.explosm.cnh&hl=en&gl=us'
+  },
+  {
+    title: 'Perfect Viewer Donation 3',
+    installs: 190,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/7XuKnAshk7H10HZpxPvkNfxoS439T9FQDRf7cuRgYzoqw9ECdnPfzaz1n2jdwdfAWVD_',
+    appId: 'com.rookiestudio.perfectviewer.donate3',
+    url: 'https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate3&hl=en&gl=us'
+  },
+  {
+    title: 'iLovecraft Collection Vol. 1 "Immersive Book"',
+    installs: 28985,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/vlCgNbj9ZPeWZWhtICP5JFzdnx_RFQe8ytVQEM1hJwXNrJCficxRIPv8K7F1R4VmQio',
+    appId: 'com.iclassicscollection.ilovecraft',
+    url: 'https://play.google.com/store/apps/details?id=com.iclassicscollection.ilovecraft&hl=en&gl=us'
+  },
+  {
+    title: 'ToryComics – Webtoon/Waiting for Free',
+    installs: 2062846,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/_O-Jc4wd2J4pzPKEp0TPEN8Z2jXEmtUxAm3Qkr8KUlqnknZWtrbI-kpkPG6Fmr3kZn0m',
+    appId: 'com.toryworks.torycomics',
+    url: 'https://play.google.com/store/apps/details?id=com.toryworks.torycomics&hl=en&gl=us'
+  },
+  {
+    title: '漫畫貓—海量小說漫畫熱門超全電子書在線閱讀',
+    installs: 489112,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/APPyBnfMjL9YYJDuxblPEKWj3VJCBD0pL7XXMuL_BXx0avei8Zcoya0g83FuTyW_6bEQ',
+    appId: 'dmw.mangacat.app',
+    url: 'https://play.google.com/store/apps/details?id=dmw.mangacat.app&hl=en&gl=us'
+  },
+  {
+    title: '漫画人国漫版 - 官方专为华人漫画打造',
+    installs: 808555,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/3PhNoOOpJrnFepxI7DVrvWsC8qSqJ4mWYgReh0BAvstELFcMsIebqme9utXQvvZnZTA',
+    appId: 'com.wxh.manhuaren',
+    url: 'https://play.google.com/store/apps/details?id=com.wxh.manhuaren&hl=en&gl=us'
+  },
+  {
+    title: 'Star Trek Comics',
+    installs: 19776,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/uebmNiQtlNWAUNsHV7iVwcj3mAV_O_40tgv3-gGlnoJrzsh_5EKRaXM4C-uHdfMGu4_O',
+    appId: 'com.idw.startrek.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.idw.startrek.reader&hl=en&gl=us'
+  },
+  {
+    title: 'Mis Comics MX',
+    installs: 14692,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/g37ygFDLRGaxMBtalkOMdOJVnjOhKAKRUvONW5ysf1QOpW6smRChZ-_oMiHM6483i6o',
+    appId: 'mx.com.miscomics.miscomicsmx',
+    url: 'https://play.google.com/store/apps/details?id=mx.com.miscomics.miscomicsmx&hl=en&gl=us'
+  },
+  {
+    title: 'How to draw anime & manga with tutorial - DrawShow',
+    installs: 6514892,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/cwpM7tQKA66aw8aIEnAOoTed-v9lsXwKCl3Znp5jWXddH3ROCLLbai8YTVA3cdYvjlMz',
+    appId: 'com.energysh.drawshow',
+    url: 'https://play.google.com/store/apps/details?id=com.energysh.drawshow&hl=en&gl=us'
+  },
+  {
+    title: 'Catana Comics Stickers',
+    installs: 30607,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/f6IQYDpZ8BzizJQW4D5GYRUWZaHAq5HB17BNmU9s37qtarjMRN2I1IWVmIBog6PPCiw',
+    appId: 'com.catanacomics.stickers',
+    url: 'https://play.google.com/store/apps/details?id=com.catanacomics.stickers&hl=en&gl=us'
+  },
+  {
+    title: 'Laugh Lounge Stand-Up Comedy',
+    installs: 6098,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/0yoWbJKnUHrmCZdX2pkuIXDX56zdyuDp9eDbVOYG4u-hjwFtSrL6RYPAnRAjYFJY0GXX',
+    appId: 'com.laughlounge.android',
+    url: 'https://play.google.com/store/apps/details?id=com.laughlounge.android&hl=en&gl=us'
+  },
+  {
+    title: 'Arar',
+    installs: 12999,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/avxAL0b2vCaR8mWZSX6W7nkKMCTE0Lk2QNCssPAyq079sVHHzFbK8MFJuZjOxFEc87Z2',
+    appId: 'noad.geulga',
+    url: 'https://play.google.com/store/apps/details?id=noad.geulga&hl=en&gl=us'
+  },
+  {
+    title: 'PREVIEWS Publications',
+    installs: 3739,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/z2WnJItyzTJ6NdcO-EFynCwb3CTj4LCjQsxvhQe0dGcLzfMarPBONAdKjJXTpFlp2RY',
+    appId: 'com.joomag.previews',
+    url: 'https://play.google.com/store/apps/details?id=com.joomag.previews&hl=en&gl=us'
+  },
+  {
+    title: 'BUBBLE Comics. Russian heroes.',
+    installs: 98579,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/zLZpH4l5eHQ4K8qWtcMW426YeorTvX6hbM12ZMrdznWWRYxWtLTWnV5QjjklgsHKsL8',
+    appId: 'digital.neuron.bubble',
+    url: 'https://play.google.com/store/apps/details?id=digital.neuron.bubble&hl=en&gl=us'
+  },
+  {
+    title: 'SoloReader',
+    installs: 7220,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/s98hqEBmkUPOamaqW61u4NIK4TDLEgIzmED572KMqXOIktQnxyHprupLsZ5y-jfeYw',
+    appId: 'com.calafalass.soloreader',
+    url: 'https://play.google.com/store/apps/details?id=com.calafalass.soloreader&hl=en&gl=us'
+  },
+  {
+    title: 'Funny Laughs LOL Pro! - Daily Pics, Memes, & Jokes',
+    installs: 1864,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/9HZykCbQGAeh03KYLuV9XPJBB9wnNB51sK6CM-Qn1aDlwaMqImm_yIsRub55JT_0GaCK',
+    appId: 'com.skollabs.funnypro',
+    url: 'https://play.google.com/store/apps/details?id=com.skollabs.funnypro&hl=en&gl=us'
+  },
+  {
+    title: 'Yi Kai Yai Yai Banana',
+    installs: 29,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/YwSiuJHdseHAr41wOLvEmFRIK5ccIbV4ebC6cbduhYWDRB2hy1-Bm4tCvhBzG8VdnWw',
+    appId: 'com.funtranslations.minion',
+    url: 'https://play.google.com/store/apps/details?id=com.funtranslations.minion&hl=en&gl=us'
+  },
+  {
+    title: 'Chat with Annabel',
+    installs: 1332718,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/gYBkq4zEDxmrB7ybf3M3FnKYIK8g-mfHEpu45981Itb65Z1UDUPambd8n6jRH3MnxKEA',
+    appId: 'com.edgewalk.annabel',
+    url: 'https://play.google.com/store/apps/details?id=com.edgewalk.annabel&hl=en&gl=us'
+  },
+  {
+    title: 'Memedroid Pro: Funny memes',
+    installs: 22071,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/ijWUdLG6BxYhhsyq2CcGheLbiqcDj-sahxZx05uFUhMINhYf5_golnqM4_pQT6hNpyve',
+    appId: 'com.novagecko.memedroidpro',
+    url: 'https://play.google.com/store/apps/details?id=com.novagecko.memedroidpro&hl=en&gl=us'
+  },
+  {
+    title: 'Comic Book Price Guide',
+    installs: 21825,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/vBh-_l4i9z2salcOtF2-FW8GUvwYdipOZE1pJV-b8JI2QvcBX8A6kFUR-lhT8P11MA',
+    appId: 'com.nav.cbpg',
+    url: 'https://play.google.com/store/apps/details?id=com.nav.cbpg&hl=en&gl=us'
+  },
+  {
+    title: 'Test Application - Daily Sub01',
+    installs: 482,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/0NsVHUz1wt9K4zx1fwXwTAw0h7sKpBM-y1MKE5M7O4DRbSqytolpa6SqbuxaV-IJQ9Si',
+    appId: 'com.test.dailysub01',
+    url: 'https://play.google.com/store/apps/details?id=com.test.dailysub01&hl=en&gl=us'
+  },
+  {
+    title: 'Comic Trim',
+    installs: 59031,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/JSh0d0Cx2Jqsfp3efTK7Ufi4U66PB6mi3OVOUVor8YpXi9e9S0sCPqNx_G9i8gFYVr1i',
+    appId: 'com.comic.trim',
+    url: 'https://play.google.com/store/apps/details?id=com.comic.trim&hl=en&gl=us'
+  },
+  {
+    title: 'Bom dia, Boa tarde, Boa Noite',
+    installs: 1077745,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/SzMLWsnFuEcxO6ZE6smx5fH8Armv9Win4c9enWSx3yYT3c0-Efn1SwIIueLmmoLNBH4',
+    appId: 'com.mobileboss.bomdiatardenoite',
+    url: 'https://play.google.com/store/apps/details?id=com.mobileboss.bomdiatardenoite&hl=en&gl=us'
+  },
+  {
+    title: 'F32m: Test_DF_02',
+    installs: 1,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/ATHfNjKjw6sRrRlIENUg8VhTu-02QOLwLCYERrxtPEJGiJ9Xvu-ye0DpW3mJ6VhjScE',
+    appId: 'com.test.f32mTestapp_02',
+    url: 'https://play.google.com/store/apps/details?id=com.test.f32mTestapp_02&hl=en&gl=us'
+  },
+  {
+    title: 'f39m: Test_DF_02',
+    installs: 1,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/M-FHjQ8Srz9xG6dsc3609X829k5Lo_j6QUjphy9cZaN7V-Kv9KCXoluxcqTBBVEEb24',
+    appId: 'com.test.f39mTestapp_02',
+    url: 'https://play.google.com/store/apps/details?id=com.test.f39mTestapp_02&hl=en&gl=us'
+  },
+  {
+    title: 'Mafalda',
+    installs: 31195,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/Y9rwjzYFySPDedZS0lSgCmECuR2NJABKt27zSqqqMzHhzEzxyZ-t8oVEVIrhYoz8aA',
+    appId: 'com.panareadigital.mafalda',
+    url: 'https://play.google.com/store/apps/details?id=com.panareadigital.mafalda&hl=en&gl=us'
+  },
+  {
+    title: 'Yoddish Translator',
+    installs: 65,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/ojbGCRDQg1bTwtj3ts7b2qBVDjNdXfKAUaesEE1DwYVkpq_iScZUJ7dhXh4YghPtILs',
+    appId: 'com.funtranslations.yoddish',
+    url: 'https://play.google.com/store/apps/details?id=com.funtranslations.yoddish&hl=en&gl=us'
+  },
+  {
+    title: 'comico - Đọc Truyện Tranh',
+    installs: 304072,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/qPu8BWhzNFNqXRAs3__duaW2Njva-vvNK28FyBjiPaJL7Zggjxw8Z9EFhikpf1-IMSY',
+    appId: 'com.toast.comico.vn',
+    url: 'https://play.google.com/store/apps/details?id=com.toast.comico.vn&hl=en&gl=us'
+  },
+  {
+    title: 'Magical Dreamers',
+    installs: 468,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/DVRXKrdM51IF2oDLWwsKFLwTi5G5QqSYQd4K8R7NOnW8mTJMT3STK2GqubnRkwaiEj4',
+    appId: 'tv.iam.magical2',
+    url: 'https://play.google.com/store/apps/details?id=tv.iam.magical2&hl=en&gl=us'
+  },
+  {
+    title: 'Fowl Language Stickers',
+    installs: 2656,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/rKaidEKLts2yaWB2N-FWpFiwGqsqjj2eyRki_NvGSlA6Q8g0ELz11d4r50GEFJ4JsQ',
+    appId: 'com.fowllanguagecomics.stickers.android',
+    url: 'https://play.google.com/store/apps/details?id=com.fowllanguagecomics.stickers.android&hl=en&gl=us'
+  },
+  {
+    title: 'IGI Sniper 2019: US Army Commando Mission',
+    installs: 5746831,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/6YcyN6hZ6vtmL1HYvI3I0cBPih5TnW2e9UYw3idd9jxhqkFrtw4bAi9Ichr3URwBpGs',
+    appId: 'com.gns.army.commando.counterattack.fps.snipergame',
+    url: 'https://play.google.com/store/apps/details?id=com.gns.army.commando.counterattack.fps.snipergame&hl=en&gl=us'
+  },
+  {
+    title: 'Comic Shopper 1',
+    installs: 5377,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/1Ss0w7ZjVdct33Et8AQGYaApu0av7Z98rJ0mGQbHHoGnRILGnanJgoFbqQeqP2KWABc',
+    appId: 'com.androidserenity.comicshopper1',
+    url: 'https://play.google.com/store/apps/details?id=com.androidserenity.comicshopper1&hl=en&gl=us'
+  },
+  {
+    title: 'Champak - Marathi',
+    installs: 48437,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/SXOsALZeDl7yUuaS9KQ2WOXQaewnLGBHEKLAOfBdpCxfD5417xTG6J2m-tXOhZWV4I4',
+    appId: 'com.magzter.champakmarathi',
+    url: 'https://play.google.com/store/apps/details?id=com.magzter.champakmarathi&hl=en&gl=us'
+  },
+  {
+    title: 'Test Application - Daily Sub03',
+    installs: 124,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/h-p4SRwR7KXUItP0y4z_ow6d0xxNaldaVME7nsCSPOMojxrXVSeiAyBsvHiByMDDLg0',
+    appId: 'com.test.dailysub03',
+    url: 'https://play.google.com/store/apps/details?id=com.test.dailysub03&hl=en&gl=us'
+  },
+  {
+    title: 'Fun Knock Knock Jokes for Kids',
+    installs: 66,
+    genre: 'COMICS',
+    icon: 'https://play-lh.googleusercontent.com/ArNs_v_bjLloXj-T5H_k-jNN5kXQacHXPcc8LJOhrboNQ2UDYSAkY5DTRKM0I5zHpLdv',
+    appId: 'com.orionsmason.knockknockjokes',
+    url: 'https://play.google.com/store/apps/details?id=com.orionsmason.knockknockjokes&hl=en&gl=us'
+  },
+  {
+    title: 'D37wdf: Test IAB V3 app',
+    installs: 25,
+    genre: 'COMICS',
+    icon: 'https://lh3.googleusercontent.com/InhD2SvBhtrrogLkD9_OCGgFwfYXMvkm-ScgKlnmwjlGCLzEDQVRs6hoRlAJrn-OJ2Lj',
+    appId: 'com.test.d37wsub04',
+    url: 'https://play.google.com/store/apps/details?id=com.test.d37wsub04&hl=en&gl=us'
+  }
+]

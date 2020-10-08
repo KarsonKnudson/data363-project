@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Coin Master',
+    installs: 132459478,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/gjQOsko6OzymKBM25DsmFqODiN2XQKbYf8TcjHhmYCScxyKd98ZiicrRg9Tycso0',
+    appId: 'com.moonactive.coinmaster',
+    url: 'https://play.google.com/store/apps/details?id=com.moonactive.coinmaster&hl=en&gl=us'
+  },
+  {
+    title: 'Genshin Impact',
+    installs: 7572431,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/So91qs_eRRralMxUzt_tkj4aBXvVSYqWiEJrzrk_LBd5071mSMv_gBKslyulIOrPsiQ',
+    appId: 'com.miHoYo.GenshinImpact',
+    url: 'https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Saga',
+    installs: 1088627494,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/MAek6K4YyT7uyOE8PhK2GEDQzbyB7X7clDBAYGBDCH498ptYZeAf-NVgLvzAWbuZUjw',
+    appId: 'com.king.candycrushsaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=us'
+  },
+  {
+    title: 'Roblox',
+    installs: 332752005,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/R5hLCLt947e0R9q0KZJeMQJu-zkeB601mKyJqYZIvb1sVz0xgplkH0etKIvZOmlRXDU',
+    appId: 'com.roblox.client',
+    url: 'https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=us'
+  },
+  {
+    title: 'Pokémon GO',
+    installs: 379660921,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/wPfLmWBJwsPdBhsFXc8X4QZOOvePWjoOBLFXXCwyegjRwYOuabmG5cynthlW0HDgy9s',
+    appId: 'com.nianticlabs.pokemongo',
+    url: 'https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=us'
+  },
+  {
+    title: 'Gardenscapes',
+    installs: 308200651,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/8bBPmLJuhHwPFsroQFUQFyVXQhhi2Ou5pqHydRGRfLQ-uYiswspVPka-KVMgoU6BIQ',
+    appId: 'com.playrix.gardenscapes',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=us'
+  },
+  {
+    title: 'Clash of Clans',
+    installs: 606698992,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/akv2Bdp7i5Vv-sl9FuP3_dhWpUO80zULf-Pkh6RFleomEp6pZorHuCNm3FbR9oAMunVK',
+    appId: 'com.supercell.clashofclans',
+    url: 'https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en&gl=us'
+  },
+  {
+    title: 'MARVEL Strike Force - Squad RPG',
+    installs: 21898174,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Ql3xzeRYVEqsOleQEltZSpK2bxo63VUn51iLllfdTk3BqSV7fkkrAbD4v_x0tdvTVSk',
+    appId: 'com.foxnextgames.m3',
+    url: 'https://play.google.com/store/apps/details?id=com.foxnextgames.m3&hl=en&gl=us'
+  },
+  {
+    title: 'Homescapes',
+    installs: 277878094,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/b8jKt4TuoJagGIHrQrmjpsi_WUl8ixiIPyOLHSul-7KqMzJvZzcH4AQgj9pV8I_j2BE',
+    appId: 'com.playrix.homescapes',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Blitz™️ - Bingo Games',
+    installs: 35661498,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/3WGa_qd85sQWVUUtmOCxQQctpOTLKLyK3PKP2f_9W0jsafTW1V4u82prJoe8x2LmUQ',
+    appId: 'air.com.buffalo_studios.newflashbingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo&hl=en&gl=us'
+  },
+  {
+    title: 'Lords Mobile: Kingdom Wars',
+    installs: 260468743,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/urEQL45acRXkcb-fNbiJR5LdXpZ1ZRKmGxAQDGxIUyj7eF9blUmBPAyavjqbyO3DzA',
+    appId: 'com.igg.android.lordsmobile',
+    url: 'https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile&hl=en&gl=us'
+  },
+  {
+    title: 'Fishdom',
+    installs: 173101676,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/pDNHkjuGqHfy7MYCbWaOY-xQ313IByZy_E4lhHrYRaINsPl14afoCHjL1wo-nG_HpRY',
+    appId: 'com.playrix.fishdomdd.gplay',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay&hl=en&gl=us'
+  },
+  {
+    title: 'Garena Free Fire: BOOYAH Day',
+    installs: 739045678,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/rCbeFPPnS2ERgh9Th1eol2J3CE8UFfCRbUIfOjnPqOodzEWOC7iLzxI0WO0Ej_vW5K4',
+    appId: 'com.dts.freefireth',
+    url: 'https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=us'
+  },
+  {
+    title: 'Jackpot Party Casino Games: Spin FREE Casino Slots',
+    installs: 21129646,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/VtMytpLw_TKibfWdPtgUS0BYAkl8FPi4Y3S-dTH-Rfsk-YJssSBq54v6JLvRdIJibw',
+    appId: 'com.williamsinteractive.jackpotparty',
+    url: 'https://play.google.com/store/apps/details?id=com.williamsinteractive.jackpotparty&hl=en&gl=us'
+  },
+  {
+    title: 'PUBG MOBILE - NEW ERA',
+    installs: 404506146,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/v3eebqErbothGULhj2mY1Xr6VYY1_p9owVXyoGwsGFRRCtOyGTrBgWBW8GXLojcf0LI',
+    appId: 'com.tencent.ig',
+    url: 'https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=us'
+  },
+  {
+    title: 'State of Survival: Survive the Zombie Apocalypse',
+    installs: 36079792,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/CSS6MRfaz5e06TuPWd6aud6udvvvsofguPuH0BnEvPwnhCXxkl1CAV0r4QI4f0cnfg',
+    appId: 'com.kingsgroup.sos',
+    url: 'https://play.google.com/store/apps/details?id=com.kingsgroup.sos&hl=en&gl=us'
+  },
+  {
+    title: 'Last Shelter: Survival',
+    installs: 34647784,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/DVGGdf1jXL0dQQzUCe_TvYhSysFdL_imCgZtAMdlY7eWjUAF1x4UzZtkX1KAXiXISQ',
+    appId: 'com.more.dayzsurvival.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.more.dayzsurvival.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Soda Saga',
+    installs: 393895814,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ALKC68_IBgVTC6pYpWSS-zQvimzhEE2o0DX0jwExfuOBF4sJZNZMe4PTQRmPzXpK32Q',
+    appId: 'com.king.candycrushsodasaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga&hl=en&gl=us'
+  },
+  {
+    title: 'Rise of Kingdoms: Lost Crusade',
+    installs: 41223288,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/OmRFgoSS-iZDwzkMpygYEjbBkpY-_fpE2CEiEgj2KG0yoj2DcP01fbGMutWEf8ip2tiv',
+    appId: 'com.lilithgame.roc.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&hl=en&gl=us'
+  },
+  {
+    title: 'RAID: Shadow Legends',
+    installs: 29007393,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg',
+    appId: 'com.plarium.raidlegends',
+    url: 'https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en&gl=us'
+  },
+  {
+    title: 'Slotomania™ Free Slots: Casino Slot Machine Games',
+    installs: 58066886,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/zbz44EyDvUkP3WZqH5MYLDnhVFqq40g1POH4eTlomUkaXew-GcKQ7eIPuREe8fdrwdA',
+    appId: 'air.com.playtika.slotomania',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playtika.slotomania&hl=en&gl=us'
+  },
+  {
+    title: 'King of Avalon: Dominion',
+    installs: 48617148,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/Euo43ZVAhviU80UQfmM22kK5yKh0BwZVEHCcpmEoboEAEqM7U_68-uvTF0mdURHSMzM',
+    appId: 'com.funplus.kingofavalon',
+    url: 'https://play.google.com/store/apps/details?id=com.funplus.kingofavalon&hl=en&gl=us'
+  },
+  {
+    title: 'Toon Blast',
+    installs: 69781416,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/x9oRbQI97H4tgr83GigLTcLHARlZBkQ4R9z3AHva-P8GeOGoqu4gCKk4MNDzEoRq_RU',
+    appId: 'net.peakgames.toonblast',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=us'
+  },
+  {
+    title: 'Star Trek™ Fleet Command',
+    installs: 6956580,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/u9ehC5_saiDb8OQHTlh1h4ARRPyPx3ajGrdjFS0x0vN2PvUePgG_S-8379mnjCF1CI4',
+    appId: 'com.scopely.startrek',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.startrek&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Dragons!',
+    installs: 33632470,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/VLSpb0n8MfeN-A3pbenzhb4bJjHoL3nhkV9PUbDXccGZ21TypCz4LYfDS7Soa6RrjGBM',
+    appId: 'com.gramgames.mergedragons',
+    url: 'https://play.google.com/store/apps/details?id=com.gramgames.mergedragons&hl=en&gl=us'
+  },
+  {
+    title: 'Lily’s Garden',
+    installs: 22223938,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/1UOZFVJKIvBpFdKD8PzjEBgu2tNED_Z6zmDs3mGaoRfrCaKVyDLtDEG0uQW_rBWf49M',
+    appId: 'dk.tactile.lilysgarden',
+    url: 'https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=en&gl=us'
+  },
+  {
+    title: 'DRAGON BALL Z DOKKAN BATTLE',
+    installs: 44327500,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/rv3zZBbemODNDZ8Fmpq_WC_A1aiRQvXsJOoN2Tg-OiqkahXmUW3123W01R29vqmfyIo',
+    appId: 'com.bandainamcogames.dbzdokkanww',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww&hl=en&gl=us'
+  },
+  {
+    title: 'Township',
+    installs: 254092933,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/9SxsGPsApOk9zE6UUfptjs7Zkwd9lZONaC4skx4YEBzi4K7qoGivVJZSwvqMDHol3PCq',
+    appId: 'com.playrix.township',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=us'
+  },
+  {
+    title: 'Cash Frenzy™ Casino – Free Slots Games',
+    installs: 11052531,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/U3vO7-RkBKu8qO8tq9x6oJUu5D6L-P3fEk6dDCb6aBocWoYKsCYka6N1BM6-pZzjL_k',
+    appId: 'slots.pcg.casino.games.free.android',
+    url: 'https://play.google.com/store/apps/details?id=slots.pcg.casino.games.free.android&hl=en&gl=us'
+  },
+  {
+    title: 'Golf Clash',
+    installs: 32497824,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/ausuNn7ruW01EjN9QtD75lBOqzIO0S2Fyz1LvowIDLu2KUH29OfhLQPge2h5JhOIWMA',
+    appId: 'com.playdemic.golf.android',
+    url: 'https://play.google.com/store/apps/details?id=com.playdemic.golf.android&hl=en&gl=us'
+  },
+  {
+    title: 'POP! Slots ™- Play Vegas Casino Slot Machines!',
+    installs: 20795106,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Ty1MXqZOb08TvVX-tK707cGJuitqxYouWttUnyjzl5-vb4N73mvBMd6Qpv8qYjhVAQ',
+    appId: 'com.playstudios.popslots',
+    url: 'https://play.google.com/store/apps/details?id=com.playstudios.popslots&hl=en&gl=us'
+  },
+  {
+    title: 'Cashman Casino: Vegas Slot Machines! 2M Free!',
+    installs: 10878218,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/ySbEnDVV2U0S2uD2wxFGXr7E4Bx8FHsRfLghM4f9goDaijFclSs6IgJA5ldgtmoVMjA',
+    appId: 'com.productmadness.cashmancasino',
+    url: 'https://play.google.com/store/apps/details?id=com.productmadness.cashmancasino&hl=en&gl=us'
+  },
+  {
+    title: 'Summoners War',
+    installs: 67598989,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/UbdpbnAWSOFU_35tULIOPLmV5ey0bq6NTL59Ko7nNfig8WqNPbO3xAHsoQA9Sk8-_V0',
+    appId: 'com.com2us.smon.normal.freefull.google.kr.android.common',
+    url: 'https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=en&gl=us'
+  },
+  {
+    title: 'Empires & Puzzles: Epic Match 3',
+    installs: 48670742,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iY7Xt4dJvRlElVyvqdjP2XpKNPTThzeZUWe0Rw1NRaQJAWKMY3TQSZMge2E1kmCJNbg',
+    appId: 'com.smallgiantgames.empires',
+    url: 'https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=en&gl=us'
+  },
+  {
+    title: 'Call of Duty®: Mobile',
+    installs: 139715755,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/6lEEhm2WZojAbZ1uqRJb-KEmT24xydDd5I0QjABtlNOeDr9NrNxztXe67AArHUFuqSI',
+    appId: 'com.activision.callofduty.shooter',
+    url: 'https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=us'
+  },
+  {
+    title: 'Marvel Contest of Champions',
+    installs: 118851927,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/m3wpBnAu-pLZuivwXogy3ozM5Gnni8ud-zaeRh42B5zQdPysBRmVTRyTDoPZYSnzcSc',
+    appId: 'com.kabam.marvelbattle',
+    url: 'https://play.google.com/store/apps/details?id=com.kabam.marvelbattle&hl=en&gl=us'
+  },
+  {
+    title: 'Huuuge Casino Slots - Best Slot Machines',
+    installs: 35044279,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/c1PEa8XHsxM58RHDteq6GkUoRu9p0A5epjkUbE_EbSeC83N6WeL7G9or0X8urp2EiA',
+    appId: 'com.huuuge.casino.slots',
+    url: 'https://play.google.com/store/apps/details?id=com.huuuge.casino.slots&hl=en&gl=us'
+  },
+  {
+    title: 'AFK Arena',
+    installs: 17901391,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aLqZ38FCV7T_04dAGAU3styoW4kkmTxvJhkOtQwz7ctVbg-VgkOwisDQKCu5uMNjxmM',
+    appId: 'com.lilithgame.hgame.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Mafia City',
+    installs: 76792626,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/CjbHrEbS64j-SZPQPCAGX9PL6x5IUNiEKsdJLftQNFmew7Dt6gV7gSWMzaC5dbN8L2U',
+    appId: 'com.yottagames.mafiawar',
+    url: 'https://play.google.com/store/apps/details?id=com.yottagames.mafiawar&hl=en&gl=us'
+  },
+  {
+    title: 'Vegas Slots - DoubleDown Casino',
+    installs: 25544475,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/3S5yMz-IjaNxKMzB9zbBA-palyQTnbXIHDV0ofp7p0bTJrVQob0mBfNMn0Mw9p5A8Q',
+    appId: 'com.ddi',
+    url: 'https://play.google.com/store/apps/details?id=com.ddi&hl=en&gl=us'
+  },
+  {
+    title: 'Matchington Mansion',
+    installs: 80669222,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3ZEmq-x7qYcMONLA_KbWXv_OqDzg40dI4SFkBWfbL1HdztUjRi2j3T4ACBQ_YZh6uBQy',
+    appId: 'com.matchington.mansion',
+    url: 'https://play.google.com/store/apps/details?id=com.matchington.mansion&hl=en&gl=us'
+  },
+  {
+    title: 'Solitaire TriPeaks: Play Free Solitaire Card Games',
+    installs: 18543987,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/1dxGnFl-xk2UbJtYQnyVowovnMqINbjTdJFFhWzOOk0mQTE28oRz3NT6XDhqJxoEog',
+    appId: 'com.gsn.android.tripeaks',
+    url: 'https://play.google.com/store/apps/details?id=com.gsn.android.tripeaks&hl=en&gl=us'
+  },
+  {
+    title: 'Yu-Gi-Oh! Duel Links',
+    installs: 49608409,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/uxJMfzKpu6FyMxy9Wumzn8nSMlyAz_cHOt57UNqeIHK67X-B2shJ2QGvk-oKJzLOc3s',
+    appId: 'jp.konami.duellinks',
+    url: 'https://play.google.com/store/apps/details?id=jp.konami.duellinks&hl=en&gl=us'
+  },
+  {
+    title: 'DoubleU Casino - Free Slots',
+    installs: 17604960,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/nBDM_QmKpas9wJGQPsptBZ9I5RzBPwjpASZ9eI3PUAobJM4LqJESEH-gIHDemrnqPd4',
+    appId: 'com.doubleugames.DoubleUCasino',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleugames.DoubleUCasino&hl=en&gl=us'
+  },
+  {
+    title: 'House of Fun™️: Free Slots & Casino Slots Machines',
+    installs: 30484514,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/174McIuOERCevfP06oXYkCGS0987IF7sbJ3c57rE-XaqTpPXioVEg0fSMVY49GBEHOt0',
+    appId: 'com.pacificinteractive.HouseOfFun',
+    url: 'https://play.google.com/store/apps/details?id=com.pacificinteractive.HouseOfFun&hl=en&gl=us'
+  },
+  {
+    title: 'Guns of Glory: Build an Epic Army for the Kingdom',
+    installs: 47401098,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/6mRbACKG3mORK5d6gpZGR6rKCg_lXfW7pE68qH4Tt_xOFI7J-eowUGVq5JB5WvzQDDE',
+    appId: 'com.diandian.gog',
+    url: 'https://play.google.com/store/apps/details?id=com.diandian.gog&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Blast',
+    installs: 83003519,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/uzIGk-ZqUpbSdTErg6fr4wagWHmj_ul9Bw7ZtNqZvOqnM6xgdXnqsl8GKg2u9U0Y',
+    appId: 'net.peakgames.amy',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.amy&hl=en&gl=us'
+  },
+  {
+    title: 'Lotsa Slots - Free Vegas Casino Slot Machines',
+    installs: 8594473,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/yvh1CDTJeML3X-DOqyMnr0KjY48YEgpggEtBzWPxojrMvIh0KkwcMvBJeSN3U5E5riM',
+    appId: 'com.diamondlife.slots.vegas.free',
+    url: 'https://play.google.com/store/apps/details?id=com.diamondlife.slots.vegas.free&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Thrones: Conquest ™ - Strategy Game',
+    installs: 18582785,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/_MznTommnOrXKavQ2A5MHA_9CuTMVn-SffyUq9lLpaOtgPHrD1ME7VzxPtd_65FxEQ',
+    appId: 'com.wb.goog.got.conquest',
+    url: 'https://play.google.com/store/apps/details?id=com.wb.goog.got.conquest&hl=en&gl=us'
+  },
+  {
+    title: 'World Series of Poker WSOP Free Texas Holdem Poker',
+    installs: 51651913,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/NsQWVg_SM9LN6YjbLixTvl8YavpZJP1hLEjPqt2YZzB_EdzCT8s4hkD_8zos1TINotwh',
+    appId: 'com.playtika.wsop.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.playtika.wsop.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Clash Royale',
+    installs: 379680130,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ',
+    appId: 'com.supercell.clashroyale',
+    url: 'https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=us'
+  },
+  {
+    title: 'Rise of Empires: Ice and Fire',
+    installs: 14135952,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/GjzMYh65fMwtCMLzcNpmjqb-rADUftfGpfkBI-rbAbrN0ncT5VEmff42E2AmHJuXPcU',
+    appId: 'com.im30.ROE.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.im30.ROE.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Star Wars™: Galaxy of Heroes',
+    installs: 50789503,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/zH_95Rqd41d8OCTb34-_zK8sCQ7btdS3hKN7tIPDKgILZ3n-FfBB51kJoMBW4oJDIyY',
+    appId: 'com.ea.game.starwarscapital_row',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row&hl=en&gl=us'
+  },
+  {
+    title: 'Hero Wars – Hero Fantasy Multiplayer Battles',
+    installs: 47797596,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yCfZ99P3rHwCHssMWdGOnZrJFK8k-XGiou4h8VemzwFCTvZkSOku9Gl9K9hmOeVXSrzk',
+    appId: 'com.nexters.herowars',
+    url: 'https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en&gl=us'
+  },
+  {
+    title: 'Klondike Adventures',
+    installs: 31934043,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/r41Af_3evvrtunmnTEcUv9I7Rk7Z3fqt8W-sZUGore_oQUjsan0DuA30feLLWjZBEOA',
+    appId: 'com.vizorapps.klondike',
+    url: 'https://play.google.com/store/apps/details?id=com.vizorapps.klondike&hl=en&gl=us'
+  },
+  {
+    title: 'Solitaire Grand Harvest - Free Tripeaks Solitaire',
+    installs: 17271093,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/tlbijw4uvMZyBIf4bT6xovUsfOxiVDrquBKdiCSKl2yN0AlxsIDcFRZDf_axXoq0SkUf',
+    appId: 'net.supertreat.solitaire',
+    url: 'https://play.google.com/store/apps/details?id=net.supertreat.solitaire&hl=en&gl=us'
+  },
+  {
+    title: 'War and Order',
+    installs: 19263944,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/zMHIH7m99q9gT6td1TJhLGF4I-oSjp6shUSj6ei0Myqth1JsCNFvJqbzVoVZbu65juo',
+    appId: 'com.camelgames.superking',
+    url: 'https://play.google.com/store/apps/details?id=com.camelgames.superking&hl=en&gl=us'
+  },
+  {
+    title: "Evony: The King's Return",
+    installs: 25567126,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/COHcAX5Uot8S2DgticjUQPxZGZV7-lyO0_hds7Dm7K4TWipKUbSbW144PafEDaVjZw',
+    appId: 'com.topgamesinc.evony',
+    url: 'https://play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=en&gl=us'
+  },
+  {
+    title: 'Design Home: Play + Save',
+    installs: 50052642,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/VS01XqTu-LBSNvt85tukkgGh4msW4JP18wN6geHQRDzs59nX_6Pb_trS2NvBExs33Es1',
+    appId: 'com.crowdstar.covetHome',
+    url: 'https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=en&gl=us'
+  },
+  {
+    title: 'Best Fiends - Free Puzzle Game',
+    installs: 50522511,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/CKXiJ6VuSGkzdRNfDvXejmQLS7dqLE3g0u34xkE-609eun6ENML9XT0EMbydIspwNdpI',
+    appId: 'com.Seriously.BestFiends',
+    url: 'https://play.google.com/store/apps/details?id=com.Seriously.BestFiends&hl=en&gl=us'
+  },
+  {
+    title: 'Among Us',
+    installs: 177915279,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/VHB9bVB8cTcnqwnu0nJqKYbiutRclnbGxTpwnayKB4vMxZj8pk1220Rg-6oQ68DwAkqO',
+    appId: 'com.innersloth.spacemafia',
+    url: 'https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=us'
+  },
+  {
+    title: 'Slots: Heart of Vegas™ – Free Casino Slots Games',
+    installs: 16627412,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/TREiIE8X0vzRq9xCOiKYXVyH6x1X3EpMgW_y0rj4IvNzJoWxRCF3IkHKZrVqBf5hy1M',
+    appId: 'com.productmadness.hovmobile',
+    url: 'https://play.google.com/store/apps/details?id=com.productmadness.hovmobile&hl=en&gl=us'
+  },
+  {
+    title: 'The Seven Deadly Sins: Grand Cross',
+    installs: 8868630,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/H6P94BqBQcopEw6BX3BIpPe8gD3jt1Pb_KYwhmcSmzETPX0SWpHqebbvEFzECnYFyjCr',
+    appId: 'com.netmarble.nanagb',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.nanagb&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Sultans',
+    installs: 25455772,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/SKieEU03mhu98ZZjuKo5xJT-pyW23JyXmZY6lLE-0K9BP1S714bzrRm70AcFcvqC2Hw',
+    appId: 'com.dc.hwsj',
+    url: 'https://play.google.com/store/apps/details?id=com.dc.hwsj&hl=en&gl=us'
+  },
+  {
+    title: 'YAHTZEE® With Buddies Dice Game',
+    installs: 12577724,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/m76W0Ze8yRKWR19cNkMXJSyvhhLDMt0hDj7enIWQkBy9LvLqmLM03oAs79n4frEtE_oV',
+    appId: 'com.scopely.yux',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.yux&hl=en&gl=us'
+  },
+  {
+    title: "June's Journey - Hidden Objects",
+    installs: 23235555,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/bXyrZF8UBUu4IQfvaRT1thdZWvWEkYDVSYYrVztOeKmJ24oWFWIc-u_b9851Hq50jHg',
+    appId: 'net.wooga.junes_journey_hidden_object_mystery_game',
+    url: 'https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=en&gl=us'
+  },
+  {
+    title: 'Caesars Casino: Free Slots Games',
+    installs: 23832458,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/2cD1L1FI7XlNK_RCD2hM2vCm1PKOoDNmNI6i6oZp4c__Em50cB5jlhgZ47rk_T1gE8A',
+    appId: 'com.playtika.caesarscasino',
+    url: 'https://play.google.com/store/apps/details?id=com.playtika.caesarscasino&hl=en&gl=us'
+  },
+  {
+    title: 'Lightning Link Casino: Free Vegas Slots! 10M Bonus',
+    installs: 4050337,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/SyKQDE2FQ88O4ck4XkTJEF8cJeyS4cwiKkUUSf1nAt4tfxpqg96YLbjD2NVdx4klI0c',
+    appId: 'com.productmadness.lightninglink',
+    url: 'https://play.google.com/store/apps/details?id=com.productmadness.lightninglink&hl=en&gl=us'
+  },
+  {
+    title: 'West Game',
+    installs: 8730452,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/dCqpdnWhC87DZ3i2fk3SSXW7_Ysr1cKhWHN0c2u2enC97ezafYVUBu0jvNpbg0aohfM',
+    appId: 'leyi.westgame',
+    url: 'https://play.google.com/store/apps/details?id=leyi.westgame&hl=en&gl=us'
+  },
+  {
+    title: 'DRAGON BALL LEGENDS',
+    installs: 19753717,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/Mz9jlW5SvGM0O8rCJ-QeS1Lobt0nC_UFIb8UzxAHOHPKiZ6vjhyM0jasFmRMZkmSCLzV',
+    appId: 'com.bandainamcoent.dblegends_ww',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&hl=en&gl=us'
+  },
+  {
+    title: 'Golf Rival',
+    installs: 10694982,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/g36nXyqtcwGUzoKWIfcVPwoay4s2Mio6VHRl2Qlv4PtciAV60KNsK0yjch7jgHadsA',
+    appId: 'com.sports.real.golf.rival.online',
+    url: 'https://play.google.com/store/apps/details?id=com.sports.real.golf.rival.online&hl=en&gl=us'
+  },
+  {
+    title: 'Wizard of Oz Free Slots Casino',
+    installs: 9738267,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/7ub4R3BeoeigzQT8LZwCFcUZmL0B47pJpNgbw32WRjgcuPsdgVMc4ECRo47HjPYNWQ',
+    appId: 'com.zynga.wizardofoz',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.wizardofoz&hl=en&gl=us'
+  },
+  {
+    title: 'Fire Emblem Heroes',
+    installs: 7674463,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/pjkVyMSFXrayhQlZEKPVuni-V3MHGnDlk_FrNzbI3aSjWj2jObr6of5xaZBBN3bkxN6N',
+    appId: 'com.nintendo.zaba',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zaba&hl=en&gl=us'
+  },
+  {
+    title: 'Billionaire Casino Slots - The Best Slot Machines',
+    installs: 16770792,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Vtserl82PHwa8qMjJ8uRUEdFzdnJjzi8gw6oo_SqJGSgC5Pot2b9CqtLggGnHo9pDJg',
+    appId: 'com.huuuge.casino.texas',
+    url: 'https://play.google.com/store/apps/details?id=com.huuuge.casino.texas&hl=en&gl=us'
+  },
+  {
+    title: 'Hit it Rich! Lucky Vegas Casino Slot Machine Game',
+    installs: 8372578,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Hkk-X-uUihF_BafOPNYiLbbBxTUJu2555psGP-TpLK5_O3dEIRbgRbKj-nFb0GsOuh4',
+    appId: 'com.zynga.hititrich',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.hititrich&hl=en&gl=us'
+  },
+  {
+    title: 'Harry Potter: Hogwarts Mystery',
+    installs: 43739738,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/6CUIN4FsUyLbRz0AqUmRQYctD0TqJE34osMPGzCN4a8-ZgA6j7kUbnPjKl-n-DwVdbk',
+    appId: 'com.tinyco.potter',
+    url: 'https://play.google.com/store/apps/details?id=com.tinyco.potter&hl=en&gl=us'
+  },
+  {
+    title: 'WWE Champions 2020',
+    installs: 39029106,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/r6k39U2FXRm_9_4HPoopPE6Okd4qaEUEX1MeEIDWRK7AH1foaltdBCONxxJrbi7iaoPm',
+    appId: 'com.scopely.whiplash',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.whiplash&hl=en&gl=us'
+  },
+  {
+    title: 'MLB Tap Sports Baseball 2020',
+    installs: 2455411,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/Yo9V6KsmDiI-TyMc_o3_v-URBtm5KdOfOoZel6hFcM8LE02-HN_JvESl7lFGJD6obYe3',
+    appId: 'com.glu.baseball20',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.baseball20&hl=en&gl=us'
+  },
+  {
+    title: 'Epic Seven',
+    installs: 5035748,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/qh_Kgftlf9UKgja5X9sB0HA_bfAQTjMjgkj3CBMaeqtIbX9e-Wve8NX5nmAu4wXmDq8',
+    appId: 'com.stove.epic7.google',
+    url: 'https://play.google.com/store/apps/details?id=com.stove.epic7.google&hl=en&gl=us'
+  },
+  {
+    title: 'Fishing Clash: Fish Catching Games',
+    installs: 49717760,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/wOPJYrDBOH341lPdj9i6i_IrnasbHrLGqsDbvHJHEOSdF5cCmvhHTmt579ZDboDcnro',
+    appId: 'com.tensquaregames.letsfish2',
+    url: 'https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=en&gl=us'
+  },
+  {
+    title: 'Board Kings™️ - Multiplayer Board Games',
+    installs: 28504260,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/swXeCkyBKZ2GTxy3wsSOmHgDIdY283TtjrvC9EbeCZkeUTkOK_J66A_-cEXYo1nDSJow',
+    appId: 'com.jellybtn.boardkings',
+    url: 'https://play.google.com/store/apps/details?id=com.jellybtn.boardkings&hl=en&gl=us'
+  },
+  {
+    title: 'War Robots Multiplayer Battles',
+    installs: 83977340,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/67AtnAZEKOR_bm1MAYaapEyMFsKyLQzPMoyg6dmk-x8GzfmhEhcvDWSsHJLP_bkMAPE',
+    appId: 'com.pixonic.wwr',
+    url: 'https://play.google.com/store/apps/details?id=com.pixonic.wwr&hl=en&gl=us'
+  },
+  {
+    title: '8 Ball Pool',
+    installs: 664096226,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/IksIM315GVSASC9YVZrv470XttljyPnS5z9eTxgCQs_OgtRKASyHDIYWha6N2F-qi9Q',
+    appId: 'com.miniclip.eightballpool',
+    url: 'https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=us'
+  },
+  {
+    title: 'Quick Hit Casino Games - Free Casino Slots Games',
+    installs: 11962213,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/KZ0_dI_tlfRaeUhxLB1zKa6UG5vWaAAoJOK9tzSsfI3KUrNJC9Nl7rqiqf93bZe1Sfc',
+    appId: 'com.ballytechnologies.quickhitslots',
+    url: 'https://play.google.com/store/apps/details?id=com.ballytechnologies.quickhitslots&hl=en&gl=us'
+  },
+  {
+    title: 'Final Fantasy XV: A New Empire',
+    installs: 41821413,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/G5cS8kqZnNdAdZEbxl7WZT1ZUD66fQYb-c-EyMprbTqtY9_ivrhJ53qGxKVhpP4oiw',
+    appId: 'com.epicactiononline.ffxv.ane',
+    url: 'https://play.google.com/store/apps/details?id=com.epicactiononline.ffxv.ane&hl=en&gl=us'
+  },
+  {
+    title: 'Clockmaker',
+    installs: 16327936,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/akvp0cVVkVrGVCUk1SbaGv6r4DfaskhT87ilcDDIZM4S_U6YoYx7ZGFQssHP8JiPRZg',
+    appId: 'com.belkatechnologies.clockmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.belkatechnologies.clockmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Big Fish Casino - Play Slots and Casino Games',
+    installs: 24809786,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/pRqug5OoW2NxhO4rJYBdRqEOqZKCMssZtaTsoh95gZ256tjFKJKLE_qv5Jqkf9KNHY8',
+    appId: 'com.selfawaregames.acecasino',
+    url: 'https://play.google.com/store/apps/details?id=com.selfawaregames.acecasino&hl=en&gl=us'
+  },
+  {
+    title: 'Arknights',
+    installs: 2672615,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/D4DUUFQDCsH9NIEa8hjMjQSWdtNhGX1Fd_jT-23ogAb5uMMqttqQDUJcUt4K_u8RYOQ',
+    appId: 'com.YoStarEN.Arknights',
+    url: 'https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds 2',
+    installs: 173488955,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/tT8hI9nhKusBlOKM8OWM64PnGsfXf7rC6AtzeTNDGkhicbfHbR7p96YXLw37FkgPz1I',
+    appId: 'com.rovio.baba',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=us'
+  },
+  {
+    title: 'Top War: Battle Game',
+    installs: 8592979,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/nYZO9INxVvQYJ13VjE18-b7oAfwAk88xAUJJRw8FkpOnz2U7TxAKyXtUNtdr0ZR9Ae7c',
+    appId: 'com.topwar.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.topwar.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Chapters: Interactive Stories',
+    installs: 15280685,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/4UiqnyRjGwtB0PvaHAO8KUWqQKDcI7_VKm1rStKjXLrvuiriuiDVcq9wnmm5WL0Wqyk',
+    appId: 'com.mars.avgchapters',
+    url: 'https://play.google.com/store/apps/details?id=com.mars.avgchapters&hl=en&gl=us'
+  },
+  {
+    title: 'Slots (Golden HoYeah) - Casino Slots',
+    installs: 13389052,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/rtOYjtNBYmdY6_NJNRLFOQtRaQyZr90jgvKG-4llGk3nGYo9JBLnYNHxTuilLrfBYw',
+    appId: 'com.igs.fafafa',
+    url: 'https://play.google.com/store/apps/details?id=com.igs.fafafa&hl=en&gl=us'
+  },
+  {
+    title: 'Choices: Stories You Play',
+    installs: 44305330,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/_AijnlMU18KvV1ZlGbIOujdRJf3paU_Hs0_pxjQSRgvrYn_Oh6385TmR_UFUBzsWKZjR',
+    appId: 'com.pixelberrystudios.choices',
+    url: 'https://play.google.com/store/apps/details?id=com.pixelberrystudios.choices&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Story – Free Bingo Games',
+    installs: 2840446,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ZCH-IEgo-op6yty-QJFs9dDpU3qVw7mFcX_zBzcxjpQIxmmXqiqpmZbXQzim6utWyQ',
+    appId: 'com.clipwiregames.bingostory',
+    url: 'https://play.google.com/store/apps/details?id=com.clipwiregames.bingostory&hl=en&gl=us'
+  },
+  {
+    title: 'CSR Racing 2 – Free Car Racing Game',
+    installs: 43450824,
+    genre: 'GAME_RACING',
+    icon: 'https://lh3.googleusercontent.com/pX9pAma-hHk37L26myDl6QrfNJAT1Id7MLa38q8Dz1Ws41IIIslCq9-3TGS195v_dRU',
+    appId: 'com.naturalmotion.customstreetracer2',
+    url: 'https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2&hl=en&gl=us'
+  },
+  {
+    title: 'Gold Fish Casino Slots - FREE Slot Machine Games',
+    installs: 9469866,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/pFwL-CadzBdZvAtKRMe0VRcCU2ecbaHUt0P53UOwfebxduXBWD5O_n7dSxhYhynf_eY',
+    appId: 'com.williamsinteractive.goldfish',
+    url: 'https://play.google.com/store/apps/details?id=com.williamsinteractive.goldfish&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Friends Saga',
+    installs: 50576036,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/u5MgF1to7pIw2dsdAE-Y0zzTOLP3ISya-lsDnX7_LyP89shwvCvmUZfS94SufDndQw',
+    appId: 'com.king.candycrush4',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrush4&hl=en&gl=us'
+  },
+  {
+    title: 'Farm Heroes Saga',
+    installs: 298781350,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/JJ5zXv997qZ0UNzq5TcetDU1cWRxmCisFIeYNlEpyBE2X9TQzVGRTDhqym-YhaGVL9bl',
+    appId: 'com.king.farmheroessaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.farmheroessaga&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Bash: Live Bingo Games & Free Slots By GSN',
+    installs: 29105342,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/XEGHW232UbF03eqVVB2_Yd9HgLHm5ugnU5p82S3IhaqbIN3IieHT76MNHSCabxduokM',
+    appId: 'air.com.bitrhymes.bingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.bitrhymes.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Age of Z Origins',
+    installs: 17914565,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/wivd244D4FPhKLn4MGx3GOLXCXxR7_fu4Vz9FD_n-6CalutI-8PfVB8wLGUiz3NkNX2T',
+    appId: 'com.camelgames.aoz',
+    url: 'https://play.google.com/store/apps/details?id=com.camelgames.aoz&hl=en&gl=us'
+  },
+  {
+    title: 'Clash of Kings : Newly Presented Knight System',
+    installs: 94789433,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/eEXREmvN_wnP6DIS_LqKEYq2mxicnUlIMpBE1jQSIziXA-oTTgMW-xV6dHxTk67eLEc',
+    appId: 'com.hcg.cok.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.hcg.cok.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Redecor - Home Design Game',
+    installs: 2662982,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/7Cd4jSyAy2ff_GCHeZ4io3w1fZ1qmkHkKuaI5N94Kb3upRT6JmNmSPsv1CDSmjTV9f0',
+    appId: 'fi.reworks.redecor',
+    url: 'https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en&gl=us'
+  },
+  {
+    title: 'Scatter Slots - Las Vegas Casino Game 777 Online',
+    installs: 12718294,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/zsF6RfukRMfxiSQp_Xc5UxG8fkF9QZIeRyDcjbG5MUhelTbjfu73T71Kn4a3plWnJg',
+    appId: 'com.murka.scatterslots',
+    url: 'https://play.google.com/store/apps/details?id=com.murka.scatterslots&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Heroes',
+    installs: 23692425,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/m1bGvQ1JMuiYAOMA37H92YOVE3TNU4d8duKLyastAUQq1MvL7yx0YVFKg_Tz32erkw',
+    appId: 'com.droidhang.ad',
+    url: 'https://play.google.com/store/apps/details?id=com.droidhang.ad&hl=en&gl=us'
+  },
+  {
+    title: 'Wordscapes',
+    installs: 43913676,
+    genre: 'GAME_WORD',
+    icon: 'https://lh3.googleusercontent.com/tf8zsw-KDgl_LBogFLJ31V6t-HJOPULRxgglTYDhrALJ63T4FDfOSPt3QJWGIpntyFM',
+    appId: 'com.peoplefun.wordcross',
+    url: 'https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Witch 3 Saga',
+    installs: 79440906,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/BKnqdjEBmdShb30ikoExkv0x2zlUoer0iHB6i5IYvM54FhcEoUOoYiqFRzSm-uyjO10',
+    appId: 'com.king.bubblewitch3',
+    url: 'https://play.google.com/store/apps/details?id=com.king.bubblewitch3&hl=en&gl=us'
+  },
+  {
+    title: '新三國志手機版-光榮特庫摩授權',
+    installs: 724427,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/NsjGQ1Z48yNM7TkM497zUb-1FgX_pUO9mIQCawrIfeHXFCww7-OdkqHp08Ym_zQtV0XU',
+    appId: 'com.bbgame.sgzapk.tw',
+    url: 'https://play.google.com/store/apps/details?id=com.bbgame.sgzapk.tw&hl=en&gl=us'
+  },
+  {
+    title: 'Jackpot Magic Slots™: Social Casino & Slot Games',
+    installs: 7476392,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Rg4TItB38aRIcmzHhaE0jTJKgAMpMHa9foNGJJk4ow7NZbiFFmcppgsrRZ5dvwidHy8',
+    appId: 'com.bigfishgames.jackpotcityslotsf2pgoogle',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.jackpotcityslotsf2pgoogle&hl=en&gl=us'
+  },
+  {
+    title: 'Brawl Stars',
+    installs: 187915688,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/MzUSkf9mJwbzCpxlFh6PF0b_baeEHm-S6qBUM3j4XQpY7EpV7UN1dtLA1aWS9bv0vg',
+    appId: 'com.supercell.brawlstars',
+    url: 'https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=us'
+  },
+  {
+    title: 'Zynga Poker – Free Texas Holdem Online Card Games',
+    installs: 79710531,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/JYfNHIlJVGCnAwZx1XexiunJMStcZYyBRe6ERMGec8W9YHmxeJdKxUHJ_qFvzxMU7Q',
+    appId: 'com.zynga.livepoker',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.livepoker&hl=en&gl=us'
+  },
+  {
+    title: 'Battle Warship: Naval Empire',
+    installs: 16060273,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/NLDbThSavn9IOXzlNF1qLpirTCPeDgc5JO1XQeZ4G6sYF-D3c2VlHshTvnw39IRkrg',
+    appId: 'com.special.warship',
+    url: 'https://play.google.com/store/apps/details?id=com.special.warship&hl=en&gl=us'
+  },
+  {
+    title: 'MLB 9 Innings 20',
+    installs: 11937877,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/Ppra7RQk1PxioPqmFxpdDqTolbWf3RVcNhoDw8xGtXWTiSq47aji6rj_lO3csb29oio',
+    appId: 'com.com2us.ninepb3d.normal.freefull.google.global.android.common',
+    url: 'https://play.google.com/store/apps/details?id=com.com2us.ninepb3d.normal.freefull.google.global.android.common&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Jam™ Match 3 Games | Connect 3 or More',
+    installs: 57010869,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/iD9MK5Pi0_xid1QgN4vaDXbPEOpkqdTGLlFkRh47I3Wn5Eo0id1Gvyl6o7PhTSKg_QY7',
+    appId: 'air.com.sgn.cookiejam.gp',
+    url: 'https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Fate/Grand Order (English)',
+    installs: 1966497,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/WRixOqWRZQHfCgFhqfWbjCh6myA4hO4bOPQ_KJJEKrB_G8KZvl0IvNEUmRuxnfx8Tbw',
+    appId: 'com.aniplex.fategrandorder.en',
+    url: 'https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Thrones Slots Casino - Slot Machine Games',
+    installs: 2300292,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/1P_oYYqTgyAEBViL0yve1-nbLYnnzqKKv7r5Kl9IGevmmNsKcBuFVGqN5gFyDi0lRbhn',
+    appId: 'com.zynga.gotslots',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.gotslots&hl=en&gl=us'
+  },
+  {
+    title: '星城Online',
+    installs: 1484607,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Wg7bpz2QBuB2XZyYsBkLT-yIvP8XXbOtX9wyIgg2QlRQXBXbcSJb_pZWALRA7W0L1w',
+    appId: 'game.xin.hd.g',
+    url: 'https://play.google.com/store/apps/details?id=game.xin.hd.g&hl=en&gl=us'
+  },
+  {
+    title: 'Merge Magic!',
+    installs: 7051459,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/I8HUb4lClqT8mTKREJBo0dtkcePW752Txr__hQvTneQlCJCVfpSbyBR-MgpWc19E5A',
+    appId: 'com.gramgames.mergemagic',
+    url: 'https://play.google.com/store/apps/details?id=com.gramgames.mergemagic&hl=en&gl=us'
+  },
+  {
+    title: 'EverMerge',
+    installs: 3320149,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/DqBt71ij5WPf5y-x8bINtDwAHy8OBB7cmO9lxJrZ4f_b9i-HyM327wT9uS6vnQxNHk0',
+    appId: 'com.bigfishgames.mergetalesgoog',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.mergetalesgoog&hl=en&gl=us'
+  },
+  {
+    title: 'myVEGAS Slots - Las Vegas Casino Slot Machines',
+    installs: 20574873,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/_HojYoc8yIPb1lO182uNMLoCqapEKmz8cSIH8WfQjsrE8wtFUYdWXenaZXed_e_2TjE',
+    appId: 'com.playstudios.myvegas',
+    url: 'https://play.google.com/store/apps/details?id=com.playstudios.myvegas&hl=en&gl=us'
+  },
+  {
+    title: 'Dragalia Lost',
+    installs: 2055642,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/6Q9KAz2oHcl3ispi8uD9shmU0hc4mKNetb6xBmq1th_1_cWCejMS2kEpWRmMM6hBWQ',
+    appId: 'com.nintendo.zaga',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zaga&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds Dream Blast - Toon Bird Bubble Puzzle',
+    installs: 18164402,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/YsfRYep_dOCFXJIYDU2Utngx0ts6pK8-AnRHsZFfN1DZ6B3oFMk2awYHfdNuSyqZslA',
+    appId: 'com.rovio.dream',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.dream&hl=en&gl=us'
+  },
+  {
+    title: 'my KONAMI Slots - Free Vegas Casino Slot Machines',
+    installs: 8114448,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/xfaVbPWDAErhG_ZpI0Y_TLsBXwCNAI61MW9YxD3XAAXgIina2yfxSytX_j650n4UPb4',
+    appId: 'com.playstudios.mykonami',
+    url: 'https://play.google.com/store/apps/details?id=com.playstudios.mykonami&hl=en&gl=us'
+  },
+  {
+    title: 'Madden NFL 21 Mobile Football',
+    installs: 2415318,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/BUHnQ8Xemt45-it5xT73dRvrXE6fKKYz4eFaf4SjUaprMZHtSmYfxs0P-B_1VxvXEQ',
+    appId: 'com.ea.gp.maddennfl21mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.gp.maddennfl21mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Diary®: Best Tasty Restaurant & Cafe Game',
+    installs: 15450870,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/S1GslJ1xYUeO5Mej1fp_nishAp-q8T539qcCrAx-7q9JvAAFvb09du0btPj1h9CkT_g',
+    appId: 'com.mytona.cookingdiary.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mytona.cookingdiary.android&hl=en&gl=us'
+  },
+  {
+    title: 'Covet Fashion - Dress Up Game',
+    installs: 41033311,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/-JEnJKG3nYK0Nl2q1GHx2YtmNnKNWv0RMApDRkeum3RdPk6_KUMofc_uwVbnRWerew',
+    appId: 'com.crowdstar.covetfashion',
+    url: 'https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion&hl=en&gl=us'
+  },
+  {
+    title: 'Jackpot Mania™ - Free Vegas Casino Slots',
+    installs: 5631005,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/YUCpufiB6Utbys1du17B24yCEIaPu69-rVovR9EaKXSbrwT3d1k_q6MjBXmvbbV0eHU',
+    appId: 'com.grandegames.slots.dafu.casino',
+    url: 'https://play.google.com/store/apps/details?id=com.grandegames.slots.dafu.casino&hl=en&gl=us'
+  },
+  {
+    title: 'Minecraft',
+    installs: 31908948,
+    genre: 'GAME_ARCADE',
+    icon: 'https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP',
+    appId: 'com.mojang.minecraftpe',
+    url: 'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en&gl=us'
+  },
+  {
+    title: 'Cash Tornado Slots - Vegas Casino Slots',
+    installs: 1536968,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/kweA_aAOfkbnSCkUyQavvn1M63auh-V4KTRJefUc0lIpjIDxjd5Pykzxqek0qn3w6lQ',
+    appId: 'com.topultragame.slotlasvega',
+    url: 'https://play.google.com/store/apps/details?id=com.topultragame.slotlasvega&hl=en&gl=us'
+  },
+  {
+    title: 'Black Desert Mobile',
+    installs: 9128085,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/T_LE3trRpm2KeLb1tvwJDxid2BCYpZx2MI2Fecq-y7r7OvJAOc8_BYARaOgT4kSFkrq2',
+    appId: 'com.pearlabyss.blackdesertm.gl',
+    url: 'https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm.gl&hl=en&gl=us'
+  },
+  {
+    title: 'Hay Day',
+    installs: 240929552,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/oXMNc6gaZK-bDdP8UfR4utJVcuLD-nzA6x0GSa4aowFW_zQ-8NfrkOJis09DUsoFEQ',
+    appId: 'com.supercell.hayday',
+    url: 'https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=en&gl=us'
+  },
+  {
+    title: 'Legend of the Phoenix',
+    installs: 1797804,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/CfjIBQ1EkZ8uagscClgqRvV4j7RYjhsu0d5zORRkdcbmyTWUs8GvtrJA633fXJVi1rg',
+    appId: 'com.duige.hzw.multilingual',
+    url: 'https://play.google.com/store/apps/details?id=com.duige.hzw.multilingual&hl=en&gl=us'
+  },
+  {
+    title: 'Pet Rescue Saga',
+    installs: 186577117,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/SGgBq-R-pdpVC2soG7aYSVJs0ZPg34b2YP9ryuxlxJMoWaq7Vd619Uv1sFNevOXqPmU',
+    appId: 'com.king.petrescuesaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.petrescuesaga&hl=en&gl=us'
+  },
+  {
+    title: 'Mobile Legends: Bang Bang',
+    installs: 343735882,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/iuTt8Y9wzC3YCWgMGp_JcswmXGyG_t6XHDyPDv6ZLlGZQbEbeuLmSbZGD2DHwUB3ZAvY',
+    appId: 'com.mobile.legends',
+    url: 'https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=us'
+  },
+  {
+    title: 'Army Men Strike - Military Strategy Simulator',
+    installs: 36700207,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/G3ddAyEkOP-VD0n_sF6e4ZqLA5bxAk1c_0Udk1a0VurfwgRKLCNKh3-t1zK6ifUl9-8',
+    appId: 'com.hts.ams',
+    url: 'https://play.google.com/store/apps/details?id=com.hts.ams&hl=en&gl=us'
+  },
+  {
+    title: 'Disney Emoji Blitz',
+    installs: 14665442,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/3hLw03MXfkBHkoDtt43pOcq_u1p-SsPyyL6tBb22Q3rk3Ocj2unEpRfNRFbPN0KzHA',
+    appId: 'com.disney.emojimatch_goo',
+    url: 'https://play.google.com/store/apps/details?id=com.disney.emojimatch_goo&hl=en&gl=us'
+  },
+  {
+    title: 'Harry Potter: Puzzles & Spells',
+    installs: 4156270,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/hJSHGvEzTTGlyKfKtsFUqh2vhzUhhUpws1Pff963NFrwNTVP-9XPiLMaJaHkTiGqLvA',
+    appId: 'com.zynga.pottermatch',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.pottermatch&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon City',
+    installs: 149780739,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/TazMSJlPXYyc7kP04J6xly3YlNGMlDu1f7UBv0zLwGa_BGCKS1nfnnuVCsKW_LQMWoE',
+    appId: 'es.socialpoint.DragonCity',
+    url: 'https://play.google.com/store/apps/details?id=es.socialpoint.DragonCity&hl=en&gl=us'
+  },
+  {
+    title: 'Club Vegas: Online Slot Machines with Bonus Games',
+    installs: 4745774,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/Z5_YWUDyFPeYh4M4z3SOhDbooYX9aryMNUzlIadPzVOdK2RQ3wH81bo4HQ5UBTI3TQ',
+    appId: 'com.bagelcode.slots1',
+    url: 'https://play.google.com/store/apps/details?id=com.bagelcode.slots1&hl=en&gl=us'
+  },
+  {
+    title: 'MONOPOLY Slots   Free Slot Machines & Casino Games',
+    installs: 4521686,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/bmqVqx2PsCo8K1Nq-TGI6v_-Xeb79tWFjs5t0b_vtOe0AVGHaaJscoERVLjb4iM2EA',
+    appId: 'com.scientificgames.monopolyslots',
+    url: 'https://play.google.com/store/apps/details?id=com.scientificgames.monopolyslots&hl=en&gl=us'
+  },
+  {
+    title: 'Family Island™ - Farm game adventure',
+    installs: 13188094,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Wd4OTgHSHMysoHplUn0BtMKjNT2IVOH2TdY8k7BdFDCfC1lL1qhDR3V9RqcaKtvloWc',
+    appId: 'com.MelsoftGames.FamilyIslandFarm',
+    url: 'https://play.google.com/store/apps/details?id=com.MelsoftGames.FamilyIslandFarm&hl=en&gl=us'
+  },
+  {
+    title: 'MARVEL Puzzle Quest: Join the Super Hero Battle!',
+    installs: 17026080,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/h2JcX6uU6FilF0ezkdI53MWZM4ueoeZKZr63NC5aCYBlTUJbu6iM4s4yrjuC-doEschr',
+    appId: 'com.d3p.mpq',
+    url: 'https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=en&gl=us'
+  },
+  {
+    title: 'Guardian Tales',
+    installs: 2883061,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/IEiEV6UZ7Wy3DzF4mReTGowQw0jGiXoAi0Oag701YlI4G6FhNDdRa4aySDs0mi6gggDc',
+    appId: 'com.kakaogames.gdts',
+    url: 'https://play.google.com/store/apps/details?id=com.kakaogames.gdts&hl=en&gl=us'
+  },
+  {
+    title: 'Grand Hotel Mania',
+    installs: 3584191,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/QTH-w1pM4BqFHQdJ2aodN1PIqX6qrDNphOWxPCeseLhGqLOIrfJN-ea2rblhy-UmEQU',
+    appId: 'com.deuscraft.TurboTeam',
+    url: 'https://play.google.com/store/apps/details?id=com.deuscraft.TurboTeam&hl=en&gl=us'
+  },
+  {
+    title: 'FFBE WAR OF THE VISIONS',
+    installs: 2099903,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/6OZHXorNcxWIvc1YBrgwibqW-lquENEKlTjuHQhVuz4DcCz0icTRQ1hBIdaFVB1QfQ',
+    appId: 'com.square_enix.android_googleplay.WOTVffbeww',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.WOTVffbeww&hl=en&gl=us'
+  },
+  {
+    title: 'MARVEL Future Fight',
+    installs: 91107950,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/AIUVISSoSgqUCctn2222QMiWmc5DzajKM2OsGOlcmn5lwpZqiwiO7STsPuLDyHrsdv4',
+    appId: 'com.netmarble.mherosgb',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.mherosgb&hl=en&gl=us'
+  },
+  {
+    title: 'FINAL FANTASY  BRAVE EXVIUS',
+    installs: 10734369,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/UGy3rAIltzVQb5n_yd0euA8EftzpbYAO7ZhFga4Y7U4aTLKtpcZx6vpkGoHfeXOZ',
+    appId: 'com.square_enix.android_googleplay.FFBEWW',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW&hl=en&gl=us'
+  },
+  {
+    title: 'LifeAfter',
+    installs: 16941170,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/weju3k4GoZeSnILLw4KbkXMUrh5g5xHoKHsmCT_u1bUJQroHSAk88R-xhC_9WBYh9ZeK',
+    appId: 'com.netease.mrzhna',
+    url: 'https://play.google.com/store/apps/details?id=com.netease.mrzhna&hl=en&gl=us'
+  },
+  {
+    title: 'Azur Lane',
+    installs: 2895124,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/Xvzm9AdC2rEpP_gcwoJWBD7BsDClyOhRZ5AmIyhZDKRRCB2k1hdovUqpLgEIcx5b1YY',
+    appId: 'com.YoStarEN.AzurLane',
+    url: 'https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane&hl=en&gl=us'
+  },
+  {
+    title: 'Forge of Empires: Build your city!',
+    installs: 31869721,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/onPq5pBY2babMN2F09sg-N_CTdlZSpkFHLCNxrjchQLaLLHQ2SEMgROGMufnnTIexq-8',
+    appId: 'com.innogames.foeandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.innogames.foeandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Pop - Live Multiplayer Bingo Games for Free',
+    installs: 15226931,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/6WANFf-ICHIokRelrdeMVgLKWpWP-nI-T5T8W0cPwyMsJ1iepJtxiTb0wJzY3IIr50A',
+    appId: 'com.uken.BingoPop',
+    url: 'https://play.google.com/store/apps/details?id=com.uken.BingoPop&hl=en&gl=us'
+  },
+  {
+    title: 'Art of War: Legions',
+    installs: 31675929,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/DVcwZBxj4FXe7bMkbQtp1QQLsZ1R9-jVESqnbErob5IonjEXA0GpzwGmtZD0i9s1IEk',
+    appId: 'com.addictive.strategy.army',
+    url: 'https://play.google.com/store/apps/details?id=com.addictive.strategy.army&hl=en&gl=us'
+  },
+  {
+    title: 'Kiss of War',
+    installs: 2518077,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/abzVaNMt9030u6xdxhB4mRE3cObjFYZDacArH86vM1As56V0FVN0XlDkmYMulgNejw',
+    appId: 'com.tap4fun.kissofwar.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.tap4fun.kissofwar.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Looney Tunes™ World of Mayhem - Action RPG',
+    installs: 19205492,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/fW2W-agvA7NALIW5XgkQHJCGxBjv-BhoGPHL20iQxTzBy3c6JATtAERalE6rw_ks1VA',
+    appId: 'com.aqupepgames.projectpepe',
+    url: 'https://play.google.com/store/apps/details?id=com.aqupepgames.projectpepe&hl=en&gl=us'
+  },
+  {
+    title: "Disney Sorcerer's Arena",
+    installs: 3404119,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/92DMmiP-RR1PWpuH9Z4bp7SAO8rkxqCc7aFEHvULVv9Bb49N1dpgbglowUQn5rH5iZ4',
+    appId: 'com.glu.disneygame',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.disneygame&hl=en&gl=us'
+  },
+  {
+    title: 'ONE PIECE TREASURE CRUISE',
+    installs: 8321585,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/OSzDl1eioNEorqOTYtqZbGQkMjYX_r6UA7zQ8kojkQL3oLuB5bRZWl3Ar0aMWKAZtQ-r',
+    appId: 'com.namcobandaigames.spmoja010E',
+    url: 'https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010E&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Party - Free Classic Bingo Games Online',
+    installs: 9212731,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/f9mhIQ07kK6PjwjwiH9ZqV2DgCuElbHyCAxn594BYj0hzBp8bwX7-O9ratT1BwKtlA',
+    appId: 'com.bingo.tour.party.crazy.free',
+    url: 'https://play.google.com/store/apps/details?id=com.bingo.tour.party.crazy.free&hl=en&gl=us'
+  },
+  {
+    title: 'Phase 10: World Tour',
+    installs: 2826720,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/Ni1JCxwtrTq3bLx25w7Aqf5Q0OUG_aW_jUR8VhuRlNPaRni92YW6ZMLoxvZt_HLIugei',
+    appId: 'com.mattel163.phase10',
+    url: 'https://play.google.com/store/apps/details?id=com.mattel163.phase10&hl=en&gl=us'
+  },
+  {
+    title: 'The Walking Dead: Road to Survival',
+    installs: 40213579,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/lM1AQwpzvVcamum_P6kTSYNK29KOsM7tmtEcI9sphM9sUfNIHXdJq_uAKZAensbNBQ',
+    appId: 'com.scopely.headshot',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.headshot&hl=en&gl=us'
+  },
+  {
+    title: 'Love Nikki-Dress UP Queen',
+    installs: 16301023,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/2ZyiBChPwnOLTeg07nVcFGoooQzR6WrUlwR4Vn0gW97tbJgUZFGoceUeDvjxSyOC71E',
+    appId: 'com.elex.nikkigp',
+    url: 'https://play.google.com/store/apps/details?id=com.elex.nikkigp&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life World: Build stories & create your world',
+    installs: 25756677,
+    genre: 'GAME_EDUCATIONAL',
+    icon: 'https://lh3.googleusercontent.com/_dVO-An27H7KuedNfw3rC1nHdBiOK6fE9t39kVkrgcjb2F3OkkPY_-sNBDNorbzN-g',
+    appId: 'com.tocaboca.tocalifeworld',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=en&gl=us'
+  },
+  {
+    title: 'EVE Echoes',
+    installs: 1809836,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yIwvLsGmV4U0RPNY22CU45gRx2X7eOvnJLTibZ2JBDenJaxhl2rlpGQJJ1Ph2erS4eEq',
+    appId: 'com.netease.eve.en',
+    url: 'https://play.google.com/store/apps/details?id=com.netease.eve.en&hl=en&gl=us'
+  },
+  {
+    title: 'Ark of War - The War of Universe',
+    installs: 7344461,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/tKLCnr-cNUUozWm9XbgyLDR_Jaa3scjyreaAU6htw_0a--bQ5z-tOOaR2rFOyWti_-Ep',
+    appId: 'com.sevenpirates.infinitywar',
+    url: 'https://play.google.com/store/apps/details?id=com.sevenpirates.infinitywar&hl=en&gl=us'
+  },
+  {
+    title: 'Sniper 3D: Fun Free Online FPS Shooting Game',
+    installs: 442678074,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/mVlPRwyYHxpe54fO7U4FXmil9AMLcbayV4McRC7r6tW0iWiICD4-qKAPVW46lpAWBnU4',
+    appId: 'com.fungames.sniper3d',
+    url: 'https://play.google.com/store/apps/details?id=com.fungames.sniper3d&hl=en&gl=us'
+  },
+  {
+    title: 'Words With Friends 2 – Free Multiplayer Word Games',
+    installs: 24256692,
+    genre: 'GAME_WORD',
+    icon: 'https://lh3.googleusercontent.com/3QQ-yIdLZtKfRc4Kg7GcGiFF1x3EbBm5MnJY9DekJ9p6hvagfxRaqUm5CqezyzlITO3P',
+    appId: 'com.zynga.words3',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.words3&hl=en&gl=us'
+  },
+  {
+    title: 'War Machines: Tank Battle - Army & Military Games',
+    installs: 87117438,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/WeA3L94Cg8f5l8pKts0EdGd1l4WShUrJ3xPpNKWzOl6yLEMlH6jN62VjYUVTdzH-LA',
+    appId: 'com.fungames.battletanksbeta',
+    url: 'https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=en&gl=us'
+  },
+  {
+    title: 'Three Kingdoms: Overlord',
+    installs: 3175472,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/A7s25xqVgMDu2WLFGowAPFCStIS5IY75dMxIKf4TRVf_2OYEGLwHDaQpNdxlavXwqUs',
+    appId: 'com.jedigames.p20.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.jedigames.p20.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Vegas Live Slots : Free Casino Slot Machine Games',
+    installs: 2444475,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/6uXI-T54n2XnvLiord_hlD1zd3OkRh_COoA0VIzHb0eyJEdC3rVS31fNUYC2ho_fZqw',
+    appId: 'com.purplekiwii.vegaslive',
+    url: 'https://play.google.com/store/apps/details?id=com.purplekiwii.vegaslive&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Jelly Saga',
+    installs: 114426021,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/Xb9cwDMkfLCwMmjyft5GLRR276LkqdvekNMy7oaVpwqZs6P1mnPeisOSZhdDBm-dLA',
+    appId: 'com.king.candycrushjellysaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter: Panda Pop!',
+    installs: 59576854,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/4R8mFqU3LGFlKyP_1AmcZxNhz-38xEKw0FOdyElUPJtg9toTKnO4ofLP8FQEIKVdFQg',
+    appId: 'com.sgn.pandapop.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp&hl=en&gl=us'
+  },
+  {
+    title: '叫我官老爺 - 原創宮廷模擬當官手遊',
+    installs: 1361305,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/PidSgImVDPoVkzEIjUQG-15K0zLAdkmyIRjj6Yho1fOC3auzZTriAp2afU3kspVV0g',
+    appId: 'com.szckhd.jwgly.azfanti',
+    url: 'https://play.google.com/store/apps/details?id=com.szckhd.jwgly.azfanti&hl=en&gl=us'
+  },
+  {
+    title: 'GSN Casino: New Slots and Casino Games',
+    installs: 14165518,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/wOVme7xqMeJFiLfKIgYL8I1bHNQBoAsyn52WRJsZ7gJmn5H9rhip_WK5k_1h2gJxA1U',
+    appId: 'com.gsn.android.casino',
+    url: 'https://play.google.com/store/apps/details?id=com.gsn.android.casino&hl=en&gl=us'
+  },
+  {
+    title: 'Willy Wonka Slots Free Casino',
+    installs: 3992312,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/7xh8tGZFWVqFlJ4ALQOLYDopbN8SXPkJmoonKZBsDOdjMTAO0TMhJ20c1GHsNZ0B1A',
+    appId: 'com.zynga.wonka',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.wonka&hl=en&gl=us'
+  },
+  {
+    title: 'Archero',
+    installs: 46234546,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/D3E-OXaIIl7Ds1SZ4NfSoexAgk_tBAMq7cjmf_uTMmu-aObKzCIi-0H4DvJZDQoIMBI',
+    appId: 'com.habby.archero',
+    url: 'https://play.google.com/store/apps/details?id=com.habby.archero&hl=en&gl=us'
+  },
+  {
+    title: 'Spades Plus - Card Game',
+    installs: 11601572,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/3HERM8l_cZb16NsbOo99TUfEOh9KPF-PC-qn8EDdGtADybU_amq6hyyA-c6aPCG1hS4L',
+    appId: 'net.peakgames.mobile.spades.android',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.mobile.spades.android&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzles & Survival',
+    installs: 970370,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/6wa3U0mYOwVt0SFx8mH1mnftjqK3O_pahnTMshAfd3xJJCHzgAB8iE-wtROoiBRiGw',
+    appId: 'com.global.ztmslg',
+    url: 'https://play.google.com/store/apps/details?id=com.global.ztmslg&hl=en&gl=us'
+  },
+  {
+    title: "King's Throne: Game of Lust",
+    installs: 2704944,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aUfysjzSsIUcRS2sIMKiNKbrwrvr3HhzzFldj_2y01GwTrgVQVt2WMpkFKDV1ZUsLdhg',
+    appId: 'com.ksrgland.goat',
+    url: 'https://play.google.com/store/apps/details?id=com.ksrgland.goat&hl=en&gl=us'
+  },
+  {
+    title: '88 Fortunes - Casino Games & Free Slot Machines',
+    installs: 4335646,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/iVQb09g4aiRC1C9W2SRjIGXqR8d8vgmYiyb2hudEGCse56S2CXlrIcCQGcWCipJIF7I',
+    appId: 'com.ballytechnologies.f88',
+    url: 'https://play.google.com/store/apps/details?id=com.ballytechnologies.f88&hl=en&gl=us'
+  },
+  {
+    title: 'Mobile Legends: Adventure',
+    installs: 15174521,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/0SCI8i6tqM670aeUhRqHJgb4DiuPKz2FQfYT6845XhvSlV547ndgxCfklPyutPnyMgE',
+    appId: 'com.moonton.mobilehero',
+    url: 'https://play.google.com/store/apps/details?id=com.moonton.mobilehero&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzles & Conquest',
+    installs: 1611667,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/hBpjOPVbQJOw8__HrsOdq_UEWIkz4dxwFYcsvgAF0tLo2bYpbjUBpGiZUfIeezLnS4w',
+    appId: 'com.global.tmslg',
+    url: 'https://play.google.com/store/apps/details?id=com.global.tmslg&hl=en&gl=us'
+  },
+  {
+    title: 'Sweet Escapes: Design a Bakery with Puzzle Games',
+    installs: 9194953,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/0pjMosxqifL-9tcgsZoM6m6cF0p7K5cL-qw4D8qCrkLG-249ipBVJJRtzJDT1opkGUzu',
+    appId: 'com.redemptiongames.sugar',
+    url: 'https://play.google.com/store/apps/details?id=com.redemptiongames.sugar&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Journey - Lucky & Fun Casino Bingo Games',
+    installs: 3665954,
+    genre: 'GAME_CASINO',
+    icon: 'https://lh3.googleusercontent.com/GuCWLRHiWGxmQHSoQL-FazEhRuI-2WdwVeihVE38RC9A8RGtB8hCSLb1X24zu8R2xg',
+    appId: 'com.bingo.scape.android.free',
+    url: 'https://play.google.com/store/apps/details?id=com.bingo.scape.android.free&hl=en&gl=us'
+  },
+  {
+    title: 'The Wizard of Oz Magic Match 3 Puzzles & Games',
+    installs: 8024607,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/gaSHQXliSh9oqA3DhHYh3QNz-0czgBTadZbGZuwiA0YkgXNQo2lJDXySL7sQU5X2fQ',
+    appId: 'com.zynga.ozmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.ozmatch&hl=en&gl=us'
+  },
+  {
+    title: 'SimCity BuildIt',
+    installs: 101709079,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/xakRp9RjsWKDIRMxMMEsvU-yfbKN5aYaK-dCx3z7Ud69_ptgeYtd6mHxvtyfg_Sid7A',
+    appId: 'com.ea.game.simcitymobile_row',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=en&gl=us'
+  },
+  {
+    title: 'Two Dots',
+    installs: 38481106,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/bkZcOtXMXm61rHekkPBbcfHAWSCwZEqZa4NNy4jcml8s_yZDvC9cM-9ZDAGuU6qc2_JS',
+    appId: 'com.weplaydots.twodotsandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Bud Farm: Idle Tycoon - Build Your Weed Farm',
+    installs: 1806279,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/GvJ4ylS-jQs7YwL31K4VGJk1TPvH189JehvMehI9vIcCAjDLXdagfRUlFSyIMZLwHMo',
+    appId: 'com.LDRLY.budfarmidletycoon',
+    url: 'https://play.google.com/store/apps/details?id=com.LDRLY.budfarmidletycoon&hl=en&gl=us'
+  },
+  {
+    title: 'Z Day: Hearts of Heroes | MMO Strategy War',
+    installs: 17493186,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/c9or4tVWPEbytIl5qVEa_ZQmbdGAOG7WdvP9-PKJILd-x45SE2vW7Pg9lrGFf-_9I3zY',
+    appId: 'com.kingsgroup.ww2',
+    url: 'https://play.google.com/store/apps/details?id=com.kingsgroup.ww2&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Showdown: Free Bingo Games – Bingo Live Game',
+    installs: 5308820,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ccBrFlZcm7TgAd_YGRWFuwvAezwNfCyCvNsvDOB1Q9V0EXCPMyBUteCld1z9vgNiaNg',
+    appId: 'air.com.spicerackmedia.bingoshowdown',
+    url: 'https://play.google.com/store/apps/details?id=air.com.spicerackmedia.bingoshowdown&hl=en&gl=us'
+  },
+  {
+    title: 'The Battle Cats',
+    installs: 13814393,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/WZ6STwaXOFyrlCFH9Ls4uHQYVPDhISlUo3jTLpzJNMjpCsnP12yoEYZ8dSKXPFctEZyD',
+    appId: 'jp.co.ponos.battlecatsen',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatsen&hl=en&gl=us'
+  },
+  {
+    title: 'Animal Crossing: Pocket Camp',
+    installs: 25014318,
+    genre: 'GAME_SIMULATION',
+    icon: 'https://lh3.googleusercontent.com/ePV12ngpTDq46clyciayX3dLQESJjDFsFK3kQ_TCbwC0Vk34o46rRFX6OCjAd_xxEJzX',
+    appId: 'com.nintendo.zaca',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zaca&hl=en&gl=us'
+  },
+  {
+    title: 'Mario Kart Tour',
+    installs: 77707947,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/jd_ZEZPrw1cb9jhh4ahq2AQmatyHooba15lDPyCTmne9Pffoy6yLaYxKpjcXGLPBi40',
+    appId: 'com.nintendo.zaka',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zaka&hl=en&gl=us'
+  },
+  {
+    title: 'Ulala: Idle Adventure',
+    installs: 2797308,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/K2mvB7oPI42PBaXtvsFahGqlEo-u7x_NNMGxZCA4XazlkidPtfvgNMPcTiy4SMtSA9w',
+    appId: 'com.xdg.and.wll',
+    url: 'https://play.google.com/store/apps/details?id=com.xdg.and.wll&hl=en&gl=us'
+  },
+  {
+    title: "Diggy's Adventure: Challenging Puzzle Maze Levels",
+    installs: 21679760,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/scIyo0RMmApxBFaqJYTT2hRjEtElZI1V8E7fjdSI7sFUKQ4KDHGZEkPP-EcCYFyFF6k',
+    appId: 'air.com.pixelfederation.diggy',
+    url: 'https://play.google.com/store/apps/details?id=air.com.pixelfederation.diggy&hl=en&gl=us'
+  },
+  {
+    title: 'Vikings: War of Clans',
+    installs: 25938105,
+    genre: 'GAME_STRATEGY',
+    icon: 'https://lh3.googleusercontent.com/yEV7hVSymqvuUy5xUGR8p7NFtZ5ORo-jPK0GBEqIU55-O-SdzMK4aTbgsDCkp5hs8g95',
+    appId: 'com.plarium.vikings',
+    url: 'https://play.google.com/store/apps/details?id=com.plarium.vikings&hl=en&gl=us'
+  },
+  {
+    title: 'WWE SuperCard – Multiplayer Card Battle Game',
+    installs: 13937365,
+    genre: 'GAME_SPORTS',
+    icon: 'https://lh3.googleusercontent.com/--NAHz9BbrRZB_zLzxRO2Mr1_tezoGjiXf7pJS2eWWvcSAbkWSLOmQvfkcm1Xm3qZvei',
+    appId: 'com.catdaddy.cat22',
+    url: 'https://play.google.com/store/apps/details?id=com.catdaddy.cat22&hl=en&gl=us'
+  },
+  {
+    title: 'Last Day on Earth: Dead War',
+    installs: 91749635,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/1NJaEmZal-WWfNTcpQkpO0Z0U4SbLMcit2K3DDW2_BQ7OJkyn1at4zDAgBGCfZLLubDd',
+    appId: 'zombie.survival.craft.z',
+    url: 'https://play.google.com/store/apps/details?id=zombie.survival.craft.z&hl=en&gl=us'
+  },
+  {
+    title: 'BLEACH Brave Souls - 3D Action',
+    installs: 11222873,
+    genre: 'GAME_ACTION',
+    icon: 'https://lh3.googleusercontent.com/xVhnHz2gfTHsvtbw7tmNDsa02Y9XG_ds509Y7ZV-MYlkY3H030ekvmesXaxfzhCTbw',
+    appId: 'com.klab.bleach',
+    url: 'https://play.google.com/store/apps/details?id=com.klab.bleach&hl=en&gl=us'
+  },
+  {
+    title: 'Diner DASH Adventures: a time management game',
+    installs: 3680753,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/53lX4fYSyNBAIsAOAu69w38soM_LMuJFAiCA04uFx28pt9h7FUbdvJlkjHcGZgyvfQ',
+    appId: 'com.glu.dashtown',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.dashtown&hl=en&gl=us'
+  },
+  {
+    title: 'Gummy Drop! Match to restore and build cities',
+    installs: 23696394,
+    genre: 'GAME_PUZZLE',
+    icon: 'https://lh3.googleusercontent.com/uHasaEmG5RlHIQ9JL_FGav3NA9RAJ20laZYsmN2-M6us1ZGcWnGQ8H-7IxxjvrT6AQ',
+    appId: 'com.bigfishgames.gummydropgoogle',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.gummydropgoogle&hl=en&gl=us'
+  },
+  {
+    title: 'Hearthstone',
+    installs: 48431621,
+    genre: 'GAME_CARD',
+    icon: 'https://lh3.googleusercontent.com/_4HguZs7U1OwAogXG8fjlDu1VPbnppQGG-L8ZaGGxSPDAgwkn-W9sz3gtYNbp6qrmlk',
+    appId: 'com.blizzard.wtcg.hearthstone',
+    url: 'https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en&gl=us'
+  },
+  {
+    title: 'Seekers Notes®: Hidden Mystery',
+    installs: 10335259,
+    genre: 'GAME_ADVENTURE',
+    icon: 'https://lh3.googleusercontent.com/jXQG8YGFIYoSVtcoUx6pUYe-U27ULVO4AT7d8bC69D3K9-U4EWV7Tl1EKvR6PlgjnT4',
+    appId: 'com.mytona.seekersnotes.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mytona.seekersnotes.android&hl=en&gl=us'
+  }
+]

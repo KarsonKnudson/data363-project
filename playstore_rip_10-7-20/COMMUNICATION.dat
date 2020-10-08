@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Messenger – Text and Video Chat for Free',
+    installs: 4704519127,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rkBi-WHAI-dzkAIYjGBSMUToUoi6SWKoy9Fu7QybFb6KVOJweb51NNzokTtjod__MzA',
+    appId: 'com.facebook.orca',
+    url: 'https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=us'
+  },
+  {
+    title: 'RoboKiller - Spam and Robocall Blocker',
+    installs: 3666141,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/O2Qp3dV_5o1G--R6eRoiJNrd9ScpbehADjzpQZ1bvZ6zNuRD6XrrRO97f4XyVJ_TSA',
+    appId: 'com.robokiller.app',
+    url: 'https://play.google.com/store/apps/details?id=com.robokiller.app&hl=en&gl=us'
+  },
+  {
+    title: 'Burner - Second Phone Number - Calling & Texting',
+    installs: 3017500,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/-aIAn2GLn4CfowROuVMUnZavCGs2QWdhgv8mrfU0p1hRcyGxh3kep0sdkRWZb_rsIMlk',
+    appId: 'com.adhoclabs.burner',
+    url: 'https://play.google.com/store/apps/details?id=com.adhoclabs.burner&hl=en&gl=us'
+  },
+  {
+    title: 'Cafe - Live video chat',
+    installs: 8941472,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/R_tahnESTKH2DBGrC-MLhbZRowHAWjhi1VE3ectdvqRTKlk7QOlL78DBFR_cNReF5ZM',
+    appId: 'com.matchtech.cafe',
+    url: 'https://play.google.com/store/apps/details?id=com.matchtech.cafe&hl=en&gl=us'
+  },
+  {
+    title: 'Azar',
+    installs: 178124725,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/UGnF6w2YBMtpoPs7sslQXbkNz7d_7yY0K_2iN4UpJMBm8SkoNQItXIzqs3oX4PuG97g',
+    appId: 'com.azarlive.android',
+    url: 'https://play.google.com/store/apps/details?id=com.azarlive.android&hl=en&gl=us'
+  },
+  {
+    title: 'Marco Polo - Stay In Touch',
+    installs: 25530491,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/R2-tMNKt_B89_JXtJcqXJ16vAqB07Po2x9Gn6J_cB_WakPo1jH3TGk-gZgd1JSR0Wstv',
+    appId: 'co.happybits.marcopolo',
+    url: 'https://play.google.com/store/apps/details?id=co.happybits.marcopolo&hl=en&gl=us'
+  },
+  {
+    title: 'TextNow: Free Texting & Calling App',
+    installs: 64554855,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs',
+    appId: 'com.enflick.android.TextNow',
+    url: 'https://play.google.com/store/apps/details?id=com.enflick.android.TextNow&hl=en&gl=us'
+  },
+  {
+    title: 'Coco - Live Video Chat coconut',
+    installs: 1379724,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/1M3gEepbc2nSugoG56JJFBD2f7c0EJvHf3DeUV5puDRaPRh8OJLVgk6cqaS__TVKU_I',
+    appId: 'com.newellmediallc.live.coco',
+    url: 'https://play.google.com/store/apps/details?id=com.newellmediallc.live.coco&hl=en&gl=us'
+  },
+  {
+    title: 'Whitepages - Find People',
+    installs: 4977063,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/RdrlTtyLhL99X_0UllCZSkyg7_tun1lWRygtwfJPFK9GVbBRBsoW7AE2lvjg70c08Q',
+    appId: 'com.whitepages.search',
+    url: 'https://play.google.com/store/apps/details?id=com.whitepages.search&hl=en&gl=us'
+  },
+  {
+    title: 'Hiya - Call Blocker, Fraud Detection & Caller ID',
+    installs: 13494565,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/0w58zzstVGY4rAbG2IBe7lSW4MHw79a-8v0SOEkHLc7tYe2E6XE6Kdawug6agWgbJg',
+    appId: 'com.webascender.callerid',
+    url: 'https://play.google.com/store/apps/details?id=com.webascender.callerid&hl=en&gl=us'
+  },
+  {
+    title: 'Truecaller: Caller ID, block fraud & scam calls',
+    installs: 658217577,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/nn_U3vONiACS6blzpxXPhIDRDsyE97cozJj0bXfgxCUFStnEhZ28r2F1Lm5Z8PAfZqM',
+    appId: 'com.truecaller',
+    url: 'https://play.google.com/store/apps/details?id=com.truecaller&hl=en&gl=us'
+  },
+  {
+    title: 'Hushed - Second Phone Number - Calling and Texting',
+    installs: 5342155,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/1Ex9G2oUKaNRpSHHDKAXLPNqXIXe84weDknNzHVRCbmbB8UVQHycvdt8hah7qLHsstUn',
+    appId: 'com.hushed.release',
+    url: 'https://play.google.com/store/apps/details?id=com.hushed.release&hl=en&gl=us'
+  },
+  {
+    title: 'LINE: Free Calls & Messages',
+    installs: 823357859,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/74iMObG1vsR3Kfm82RjERFhf99QFMNIY211oMvN636_gULghbRBMjpVFTjOK36oxCbs',
+    appId: 'jp.naver.line.android',
+    url: 'https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=en&gl=us'
+  },
+  {
+    title: 'KakaoTalk: Free Calls & Text',
+    installs: 209778301,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/KwGCiEolNEeR9Q4RFOnDtb8Pvqs3LNiQEdE07wMCnoULO3yLUprHbGGLBYNEt8k7WJY',
+    appId: 'com.kakao.talk',
+    url: 'https://play.google.com/store/apps/details?id=com.kakao.talk&hl=en&gl=us'
+  },
+  {
+    title: '2nd Line: Second Phone Number for Texts & Calls',
+    installs: 2317403,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Z0m6mj_Xt1athoKi_3i_PhqjjXDWZHqy9ev36Wnca43AnNQBjvEOMApn9TwxPa1vXQ',
+    appId: 'me.number.app.im',
+    url: 'https://play.google.com/store/apps/details?id=me.number.app.im&hl=en&gl=us'
+  },
+  {
+    title: 'TalkU Free Calls +Free Texting +International Call',
+    installs: 15402857,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/HvqtjnBGXR44CXzTzPOous6oFEqLCdv6S2qjLR4WRqBPQKGl8ERH7Q_f1Q9AZcCHSg',
+    appId: 'me.talkyou.app.im',
+    url: 'https://play.google.com/store/apps/details?id=me.talkyou.app.im&hl=en&gl=us'
+  },
+  {
+    title: 'Mr. Number - Caller ID & Spam Protection',
+    installs: 15817157,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/qZU6NDvSGBps9f_fnDQssrtTBpbIEipeRn0YzthH5O3xbk2HeLOl88gtPKOT7dz5-ig',
+    appId: 'com.mrnumber.blocker',
+    url: 'https://play.google.com/store/apps/details?id=com.mrnumber.blocker&hl=en&gl=us'
+  },
+  {
+    title: 'SpoofCard - Protect Your Privacy',
+    installs: 84108,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/5pQ98yTeGBch6l6kpJRenSzpoyVbtE6ySQLRxi5o6hb6aCV2QHX45SQUanOSH61GL3pn',
+    appId: 'com.spoofcard.app',
+    url: 'https://play.google.com/store/apps/details?id=com.spoofcard.app&hl=en&gl=us'
+  },
+  {
+    title: 'TextFun : Free Texting & Calling',
+    installs: 4138054,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Inhfls7-tbogYaEFHL8r7z_XyiXYjhdtLacSTpib6ZCnh4O-wcZoIA_VUhNnHBur6pA',
+    appId: 'com.textfun.text.free.call',
+    url: 'https://play.google.com/store/apps/details?id=com.textfun.text.free.call&hl=en&gl=us'
+  },
+  {
+    title: 'Nomorobo Robocall Blocking',
+    installs: 319068,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Dcn52frQZ7CTNDaKPZTZoNiPdUSnryJyMkZNHNn6BZhuDP97IaZZUrBdy8kA5Fwz1byA',
+    appId: 'com.nomorobo',
+    url: 'https://play.google.com/store/apps/details?id=com.nomorobo&hl=en&gl=us'
+  },
+  {
+    title: 'Viber Messenger - Messages, Group Chats & Calls',
+    installs: 924773346,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/U6w6exKdvzjRC6ypN68s6nvn8OBlNgDOf5ub9xcqvZPAkXXVW153t9KMeD8yeAVlTxw',
+    appId: 'com.viber.voip',
+    url: 'https://play.google.com/store/apps/details?id=com.viber.voip&hl=en&gl=us'
+  },
+  {
+    title: 'GO SMS Pro - Messenger, Free Themes, Emoji',
+    installs: 150618632,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/FmpyPzDDi7unF9-GOruljrh-1zVjatcvEOmnanlVRKsoExiiwFK_H5JuJEia9QgWcbo',
+    appId: 'com.jb.gosms',
+    url: 'https://play.google.com/store/apps/details?id=com.jb.gosms&hl=en&gl=us'
+  },
+  {
+    title: 'VPN SecureLine by Avast - Security & Privacy Proxy',
+    installs: 14904447,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/H3WizZJuqqxpUIj8kGyh8IG0zkAzqJv8wTSwqkfFrE-4YbwVBnRGYcyppBFCjAUcncY',
+    appId: 'com.avast.android.vpn',
+    url: 'https://play.google.com/store/apps/details?id=com.avast.android.vpn&hl=en&gl=us'
+  },
+  {
+    title: 'AT&T Call Protect',
+    installs: 31611960,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/sN9zzAxSMH1QmsD7kN26QKlrrRmLVvhhjoBhA_nIwgNakX5Au-EPCTtkIewWSCgrgfsA',
+    appId: 'com.att.callprotect',
+    url: 'https://play.google.com/store/apps/details?id=com.att.callprotect&hl=en&gl=us'
+  },
+  {
+    title: 'Rapidgator.net | Send and share big files',
+    installs: 304280,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/6_Qrvvx8qC2e5J3yoHAfEfNRmkKe3iy70nuRB2gIRfLTE6R0uDa8YH_xy-RogSNWTU8',
+    appId: 'net.rapidgator',
+    url: 'https://play.google.com/store/apps/details?id=net.rapidgator&hl=en&gl=us'
+  },
+  {
+    title: 'Voxer Walkie Talkie Messenger',
+    installs: 38888988,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU',
+    appId: 'com.rebelvox.voxer',
+    url: 'https://play.google.com/store/apps/details?id=com.rebelvox.voxer&hl=en&gl=us'
+  },
+  {
+    title: 'Talkatone: Free Texts, Calls & Phone Number',
+    installs: 19470107,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/LCxcPzMfUf682NS_I8WJgety5c8NbndRmKKtVe6_s98J_N7s9J6Ffb6qCgyW0_yIPw8',
+    appId: 'com.talkatone.android',
+    url: 'https://play.google.com/store/apps/details?id=com.talkatone.android&hl=en&gl=us'
+  },
+  {
+    title: '2ndLine - Second Phone Number',
+    installs: 13689125,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/St4MFsQQ5X_gW0vbtrgQygauImRrh0V6D8YNrkO0vzfdtyLlp7kxXoDdYg5Byd3BNA',
+    appId: 'com.enflick.android.tn2ndLine',
+    url: 'https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine&hl=en&gl=us'
+  },
+  {
+    title: 'Free Call : Call Free  & Free Text',
+    installs: 14124234,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/LnKvnIt-QFN5cIYc3nw9eVn0Uc6uxusT_2CMLmX2UMGqLFiTlQlZw4xqVQsyy_rWOng',
+    appId: 'call.free.international.phone.call',
+    url: 'https://play.google.com/store/apps/details?id=call.free.international.phone.call&hl=en&gl=us'
+  },
+  {
+    title: 'Yahoo Mail – Organized Email',
+    installs: 265263363,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/YtGn2T9ADy5Hs4cKVoDgGb7fPuMkdXVcszVE1oiozfE4AxhDNq0RkwajYs1FxcrMDpw',
+    appId: 'com.yahoo.mobile.client.android.mail',
+    url: 'https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail&hl=en&gl=us'
+  },
+  {
+    title: 'CallApp: Caller ID, Call Blocker & Call Recorder',
+    installs: 79870012,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/mqOaVp2k4cl5JXpwnq4jmF6u5GEOTTxRVxoAJjvJt8GwxdtKzle87387D80pXbTvxQ',
+    appId: 'com.callapp.contacts',
+    url: 'https://play.google.com/store/apps/details?id=com.callapp.contacts&hl=en&gl=us'
+  },
+  {
+    title: 'Torque Pro (OBD 2 & Car)',
+    installs: 2470550,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/jCmUBkfai1vJhnCYXDefs706hLCrBAPtzDX4JI4aFuVza2MS-ZMSSJnJFSFEHciDU9s',
+    appId: 'org.prowl.torque',
+    url: 'https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Texting',
+    installs: 475626,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/_rE5JjbbNOOD3oM3MOlwMLE3BeKzTHxjc0g3RMV8NNjc_Mqvr866kdOX5L3_mKt5qApU',
+    appId: 'dotsoa.anonymous.texting',
+    url: 'https://play.google.com/store/apps/details?id=dotsoa.anonymous.texting&hl=en&gl=us'
+  },
+  {
+    title: 'Phoner 2nd Phone Number + Texting & Calling App',
+    installs: 1634115,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/QAPlbGryEr6HTVS1QDWn_gObYmMr7c76LsmZwDx3XA0gGXgDqu0AxiEb0lRz7PCBf9c',
+    appId: 'com.appsverse.phoner',
+    url: 'https://play.google.com/store/apps/details?id=com.appsverse.phoner&hl=en&gl=us'
+  },
+  {
+    title: 'Spokeo - Identify Unknown Calls, People Search',
+    installs: 305986,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/wN0fLaxkg6up-Yy5HrLb0hOnhslPzNS6hvKmu2ZQwcHmoOBPCS4YzVztFS0uYXUpC7OU',
+    appId: 'spokeo.com.spokeomobile',
+    url: 'https://play.google.com/store/apps/details?id=spokeo.com.spokeomobile&hl=en&gl=us'
+  },
+  {
+    title: 'Live Chat Video Call with strangers',
+    installs: 1690023,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/TgEzz73k-Fz9fSm8A4boJ0EKVsZYs4fcFgPK-w1Rm0QwL2K3djAJZj6JWJ1VTn9vdKy_',
+    appId: 'com.popa.video.status.download',
+    url: 'https://play.google.com/store/apps/details?id=com.popa.video.status.download&hl=en&gl=us'
+  },
+  {
+    title: 'TextMe Up Free Calling & Texts',
+    installs: 6187073,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/8t_al6ncwnfSSL-0G4OZuNNjn78ShZjHdkslCi6n-py9pYXgDW2BrENxLojZLfmNTNHo',
+    appId: 'com.textmeinc.textme3',
+    url: 'https://play.google.com/store/apps/details?id=com.textmeinc.textme3&hl=en&gl=us'
+  },
+  {
+    title: 'Smartwatch Bluetooth Notifier: sync watch & wear',
+    installs: 1054910,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eVf7HMpBGc9vxXXPu7gHMjz_jaCm9JpsKm0kIe5VfsuL2JWtVLfEoRXL2LSEdUC_ozE',
+    appId: 'com.smartwatch.bluetooth.sync.notifications',
+    url: 'https://play.google.com/store/apps/details?id=com.smartwatch.bluetooth.sync.notifications&hl=en&gl=us'
+  },
+  {
+    title: 'Private Text Messaging + Secure Texting & Calling',
+    installs: 1482869,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/k7lJ5VipnfehYr-mp0DTb3sW10DojpEffBDQpPiZoPtyVRWbAiJxQfUdZBLCVDGXtg',
+    appId: 'ws.coverme.im',
+    url: 'https://play.google.com/store/apps/details?id=ws.coverme.im&hl=en&gl=us'
+  },
+  {
+    title: 'Pulse SMS (Phone/Tablet/Web)',
+    installs: 2110715,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/EpnWcEdGdcub3ORg8INZWt91lXSJ_wrfTUo66_vLmsDjnV46OnEgI1uq4zOQozPCPkM',
+    appId: 'xyz.klinker.messenger',
+    url: 'https://play.google.com/store/apps/details?id=xyz.klinker.messenger&hl=en&gl=us'
+  },
+  {
+    title: 'CryptoTab Browser Pro—mine on a PRO level',
+    installs: 59491,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ZhFlRgY094ZawJ2fu7IUWqfSmGcKt5ygPBu4OOVR_GFOi4m-8g59z5_husjK_F4hyQ',
+    appId: 'pro.cryptotab.android',
+    url: 'https://play.google.com/store/apps/details?id=pro.cryptotab.android&hl=en&gl=us'
+  },
+  {
+    title: 'BOBO Lite - Global Free Voice Chat Rooms',
+    installs: 128758,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/qX-9RpOyxwX1C1so0g-m8DdTMKL0i8lGiWGA_luyXWQPnmD7noKJvFsbmBmewBkUWv4',
+    appId: 'com.duiud.couple',
+    url: 'https://play.google.com/store/apps/details?id=com.duiud.couple&hl=en&gl=us'
+  },
+  {
+    title: 'Discord - Talk, Video Chat & Hang Out with Friends',
+    installs: 176463389,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA',
+    appId: 'com.discord',
+    url: 'https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=us'
+  },
+  {
+    title: 'Line2 - Second Phone Number',
+    installs: 3021151,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/KFAHUAe4UBq_6i6JDFYAUMNKpdCSaVkQfxiyLL1b1AHi5ZhjieV3SVInw5sAu4NVmbY',
+    appId: 'com.toktumi.line2',
+    url: 'https://play.google.com/store/apps/details?id=com.toktumi.line2&hl=en&gl=us'
+  },
+  {
+    title: 'FoxFi Key (supports PdaNet)',
+    installs: 1004633,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/l-4T6YZMaYK0rorjB1YEs0GDI-KS6idirk1tSN-wBu1gCFeCLnLMmMvLlGoTh-RO_Q',
+    appId: 'com.foxfi.key',
+    url: 'https://play.google.com/store/apps/details?id=com.foxfi.key&hl=en&gl=us'
+  },
+  {
+    title: 'Fake Caller: Fake Number App',
+    installs: 209496,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Gl30FijV9AGdYgWW-XMBKQcKbj-zpcA_5kn_yRei7YdB6QT9RqfQZrrXnPbEPoDohQ',
+    appId: 'com.roxy.fakecallerid.app',
+    url: 'https://play.google.com/store/apps/details?id=com.roxy.fakecallerid.app&hl=en&gl=us'
+  },
+  {
+    title: 'Call Control - SMS/Call Blocker. Block Spam Calls!',
+    installs: 6383730,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/csDVvK9qQ2LXkhHmdUcV2A_GmJFSG-hHR4j1NSbbfLCPbyUD-yZsfdP1o_ztXVZ6vu8',
+    appId: 'com.flexaspect.android.everycallcontrol',
+    url: 'https://play.google.com/store/apps/details?id=com.flexaspect.android.everycallcontrol&hl=en&gl=us'
+  },
+  {
+    title: 'Telos Free Phone Number & Unlimited Calls and Text',
+    installs: 4931136,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/jwSewpsMiniRSFrwB2EwyGpyFDCwi_h4f12yAIH4ssm-C1uvA6LdwXLo-Sh_u6tkSs8',
+    appId: 'com.telos.app.im',
+    url: 'https://play.google.com/store/apps/details?id=com.telos.app.im&hl=en&gl=us'
+  },
+  {
+    title: 'SmartWatch Sync & Bluetooth notifier',
+    installs: 6470243,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Ipy0xrUDTc71ly-Qm5_HJbuMvWR0YuygB4aQ8xtSW4Pz7KnR5APQapV0ds9n9SbpmA',
+    appId: 'com.OnSoft.android.BluetoothChat',
+    url: 'https://play.google.com/store/apps/details?id=com.OnSoft.android.BluetoothChat&hl=en&gl=us'
+  },
+  {
+    title: 'Walkie Talkie, Talk Now, Push to Talk',
+    installs: 700267,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/aGUdzCKMGlsjEo-U2KX2hMh5ypnajgPNmXhlFqkmWSSP1dK10RPYIrM5e2W8my1M6g',
+    appId: 'walkie.talkie.talk',
+    url: 'https://play.google.com/store/apps/details?id=walkie.talkie.talk&hl=en&gl=us'
+  },
+  {
+    title: 'Messenger for SMS',
+    installs: 43010118,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/4Xwx1Kj7pUbnn_5SWUAv_0Y4Gn6_4gY-1bRQj2vF_2VvRDvsoXCseuwn7_34--O7sKA',
+    appId: 'com.link.messages.sms',
+    url: 'https://play.google.com/store/apps/details?id=com.link.messages.sms&hl=en&gl=us'
+  },
+  {
+    title: 'imo free HD video calls and chat',
+    installs: 6652996,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/uL2suDkNZWrUR-5n-laPW8KdjdWsJQEI5VKUU9a7GFeL3J_OBFFvEYGGCvpH247zhR0',
+    appId: 'com.imo.android.imous',
+    url: 'https://play.google.com/store/apps/details?id=com.imo.android.imous&hl=en&gl=us'
+  },
+  {
+    title: 'Libon - International calls 🌍📞',
+    installs: 12349465,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/XP8UUYUlqIio9kpfbVYbBUKd5HRl91tGfN9XrSSDIx2j7JdueV9h8z7QJKFGqHTMAw',
+    appId: 'lifeisbetteron.com',
+    url: 'https://play.google.com/store/apps/details?id=lifeisbetteron.com&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Texting',
+    installs: 61525,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ED1Qp6Hxp97bz_7Skxtl0A7qxtWW4m8TIT_z2MvhET8eJtYWRWEwklaM9C4uRBmBfl0',
+    appId: 'com.anonymoustexting',
+    url: 'https://play.google.com/store/apps/details?id=com.anonymoustexting&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Friends, Family, Kids - Location Tracker',
+    installs: 8006035,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/mR2LIkoiJackk9bjRyfu9YXGb03_gc2KzO_SdSjk2zodgXOSJc0CtkyWLgK2CGrL-OL2',
+    appId: 'com.isharing.isharing',
+    url: 'https://play.google.com/store/apps/details?id=com.isharing.isharing&hl=en&gl=us'
+  },
+  {
+    title: 'Prank Caller - Prank Call App',
+    installs: 1213688,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/2W0K0YFtZXNgkHJzlL-e3gPqnfTadiHG5UAt8rb3cAXPWIM55AgaC3YbxxRTz_b9I5M',
+    appId: 'prank.caller.io',
+    url: 'https://play.google.com/store/apps/details?id=prank.caller.io&hl=en&gl=us'
+  },
+  {
+    title: 'PureChat - Video Chat With Foreigners & New People',
+    installs: 707987,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/EeyHBx-J40lGrUga9lUy01bxrQ-3oBp2QS_a1WOxyzMGhjii7DAoa44tHK3iLRxefd4',
+    appId: 'com.videochat.pure',
+    url: 'https://play.google.com/store/apps/details?id=com.videochat.pure&hl=en&gl=us'
+  },
+  {
+    title: 'mysms SMS Text Messaging Sync',
+    installs: 3281262,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/9DbqAg-LBEXwPhsuSF-zG4Wy7m44hEnKHStSLTRuSM-lrRHE3ZlgaKvg_tX-Sew2JPk',
+    appId: 'com.mysms.android.sms',
+    url: 'https://play.google.com/store/apps/details?id=com.mysms.android.sms&hl=en&gl=us'
+  },
+  {
+    title: 'Numero eSIM: Second Phone Number & Virtual SIM',
+    installs: 2695523,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Gv4fTXIP9sXGAWn8J3GVbEXjeCvknrdD-gQsW_u0pWhDFSIQEVuZaVPCSkMQ9-z21g',
+    appId: 'com.esim.numero',
+    url: 'https://play.google.com/store/apps/details?id=com.esim.numero&hl=en&gl=us'
+  },
+  {
+    title: 'Onoff',
+    installs: 1578276,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/KDbfRHKbBVGukacslSdo_s-oIySEQKE0x_fba6otUWFeWyiKVHKnUosoOU2i-J1ETA',
+    appId: 'com.onoffapp.app',
+    url: 'https://play.google.com/store/apps/details?id=com.onoffapp.app&hl=en&gl=us'
+  },
+  {
+    title: 'Textra SMS',
+    installs: 15076353,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg',
+    appId: 'com.textra',
+    url: 'https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=us'
+  },
+  {
+    title: 'Free Adblocker Browser - Adblock & Popup Blocker',
+    installs: 25155739,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/NXgN-xTzwPSpSZYLe3jUo4NYCw_cN9MoxuGWYU71yuYEyT1oUvRhuEIV3mG8yLR_xlM',
+    appId: 'com.hsv.freeadblockerbrowser',
+    url: 'https://play.google.com/store/apps/details?id=com.hsv.freeadblockerbrowser&hl=en&gl=us'
+  },
+  {
+    title: 'Hobnob Invitations: Invitation Maker & Text RSVP',
+    installs: 418016,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/a9RAbBaDaGS6_zSMuziue1pbxV9arAvRtzy14hBUmaWlg6Wpm01JaFy5tmEGxdCF',
+    appId: 'io.hobnob.hobnob',
+    url: 'https://play.google.com/store/apps/details?id=io.hobnob.hobnob&hl=en&gl=us'
+  },
+  {
+    title: 'Second Phone Number: private texting & calling app',
+    installs: 1217875,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/VcEf70c3RNtzkxW4IAv2Ve3EfN5SRy5pv9L4AlfaRAx6yRsBMkm89R_HzMgAFepfnA',
+    appId: 'com.bpmobile.second.phone',
+    url: 'https://play.google.com/store/apps/details?id=com.bpmobile.second.phone&hl=en&gl=us'
+  },
+  {
+    title: 'Flyp - Multiple Phone Numbers',
+    installs: 303382,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/uRGZrOzGNnRA8_dnH8fdFcmq-WC3Xxd-rEi08VTnJX9kjGaATIBBprFSucSyBikcLVsW',
+    appId: 'flyp.android',
+    url: 'https://play.google.com/store/apps/details?id=flyp.android&hl=en&gl=us'
+  },
+  {
+    title: 'International Calling App - Yolla',
+    installs: 1977265,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/RCXewvpRcafudAf5YkI4DE99Vq57s8g4Ds6nASZM3WsrE7JmK2IEo7Tt_zyAAJCs32d6',
+    appId: 'com.yollacalls',
+    url: 'https://play.google.com/store/apps/details?id=com.yollacalls&hl=en&gl=us'
+  },
+  {
+    title: 'Sync.ME - Caller ID, Spam Call Blocker & Contacts',
+    installs: 6811121,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/7zR3sBylCNj_N6LYfi0EfJOBsMbEqA2Z22yKHSiaOd8DzoHt7eUGG-Hmp4hrodXyjSM',
+    appId: 'com.syncme.syncmeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.syncme.syncmeapp&hl=en&gl=us'
+  },
+  {
+    title: 'Mood Messenger - SMS & MMS',
+    installs: 7679537,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/WvaUHQXZGTPZqKtuWku2QnA9sK-rFrHjisZ-ClgAiUBV_Fx0nfPFYua4g_LxZeCWV50',
+    appId: 'com.calea.echo',
+    url: 'https://play.google.com/store/apps/details?id=com.calea.echo&hl=en&gl=us'
+  },
+  {
+    title: 'Hit Em Up - Personalized Mass Text and Bulk SMS',
+    installs: 8205,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/TbCLfsES2UAGTeKspiwmTDZ-QSgUf-caZNp4m69cEqp5aeyLxbCLtQZQwnr2UY14Z9I',
+    appId: 'com.hitemup',
+    url: 'https://play.google.com/store/apps/details?id=com.hitemup&hl=en&gl=us'
+  },
+  {
+    title: 'Contacts, Phone Dialer & Caller ID: drupe',
+    installs: 22596282,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/4ePukH0wlcL7oiKn95fiZjRET9l56BaM_qlibXEbnP8Tf6qQlYL31U5hwZY9ac4Vjk8',
+    appId: 'mobi.drupe.app',
+    url: 'https://play.google.com/store/apps/details?id=mobi.drupe.app&hl=en&gl=us'
+  },
+  {
+    title: 'DashCommand (OBD ELM App)',
+    installs: 1965101,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/BHIEF0DMTSu8pNaHRO9uBISVI505nkIP00rdywymp7D2gDo-RETExDwqssaB3L5N_jE',
+    appId: 'com.palmerperformance.DashCommand',
+    url: 'https://play.google.com/store/apps/details?id=com.palmerperformance.DashCommand&hl=en&gl=us'
+  },
+  {
+    title: 'Private Callr',
+    installs: 6828,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/novlOGGZKm4ZXMrGbBMENFYril6cxyAiX9qR3g_KnwM94E5u4KJyhJSz4r0SPDpM060',
+    appId: 'com.privatecallr',
+    url: 'https://play.google.com/store/apps/details?id=com.privatecallr&hl=en&gl=us'
+  },
+  {
+    title: 'WhatsAgent: Online Notifier and Last Seen History',
+    installs: 1631413,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/wGZRTiCJ0_yhh_k1pB4_mtgANAro5haJHccbqFYE-EaRkfMnf7qQr5NUpXdZXh6k-RLf',
+    appId: 'com.dartima.childonline',
+    url: 'https://play.google.com/store/apps/details?id=com.dartima.childonline&hl=en&gl=us'
+  },
+  {
+    title: 'Temp Mail - Free Instant Temporary Email Address',
+    installs: 5120371,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/loOoNkCFFsTFoyJFhutLZdNcTX84ivJtWKl7TtXvACAeTOXQLohfRVcWXerqLxp1KIk',
+    appId: 'com.tempmail',
+    url: 'https://play.google.com/store/apps/details?id=com.tempmail&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Calling: Free private calling',
+    installs: 23848,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/bZD3zkPn1oroVbcK6DU9ZRgCBwL3FLUHW16g0m4lWtIjIjc8mIT_cBJpYnhBhYOHLTM',
+    appId: 'com.anonymous.caller',
+    url: 'https://play.google.com/store/apps/details?id=com.anonymous.caller&hl=en&gl=us'
+  },
+  {
+    title: 'MySudo - Private & Secure Call, Text and Email',
+    installs: 17161,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/NqnlSzi-bb7-IHRge-fSmLuDnUKkZxjs2Abe-3bAOi3YFWTGBh_DCGrfMyFEIhZn8Zg',
+    appId: 'com.anonyome.mysudo',
+    url: 'https://play.google.com/store/apps/details?id=com.anonyome.mysudo&hl=en&gl=us'
+  },
+  {
+    title: 'Call Recorder Automatic',
+    installs: 46835767,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/VFUS5uVMotxQPCUlwH4w6vIJt4kqPuUDEXh9NNCF2dkm5F1f8KckQYg2edvGcYrwkkm2',
+    appId: 'il.co.smedia.callrecorder.yoni',
+    url: 'https://play.google.com/store/apps/details?id=il.co.smedia.callrecorder.yoni&hl=en&gl=us'
+  },
+  {
+    title: 'NetShare - no-root-tethering',
+    installs: 3063169,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/mUOEbk2nd6I4tIPlXtzWwbYvSRFMhWb1ni8nu1CXdoWM7BUIp3qS6O8EAX_EOc7XaQ',
+    appId: 'kha.prog.mikrotik',
+    url: 'https://play.google.com/store/apps/details?id=kha.prog.mikrotik&hl=en&gl=us'
+  },
+  {
+    title: 'Block Text, SMS Blocker, Spam Message Block',
+    installs: 3531237,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/L4xEDYeSlM6zAFOmD6KICsG9IP8OIOHn9b970Sl7RzStC1cJXSUDm-fpMLgtArwXUqeY',
+    appId: 'com.smsBlocker',
+    url: 'https://play.google.com/store/apps/details?id=com.smsBlocker&hl=en&gl=us'
+  },
+  {
+    title: 'Threema. Secure and private Messenger',
+    installs: 3276718,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-',
+    appId: 'ch.threema.app',
+    url: 'https://play.google.com/store/apps/details?id=ch.threema.app&hl=en&gl=us'
+  },
+  {
+    title: 'Bria Mobile: VoIP Business Communication Softphone',
+    installs: 140232,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/yUAuG3CU8mZG1sMvyUUNBFFw7Jw_aTg7-3TkxXwbKLx2Pe4jhVZIksL5pRao9W6deEI',
+    appId: 'com.counterpath.bria',
+    url: 'https://play.google.com/store/apps/details?id=com.counterpath.bria&hl=en&gl=us'
+  },
+  {
+    title: 'Smart Prime browser',
+    installs: 46,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rHVTDL85mV2onjZQ3WR3RBfpOhERN1vZMNxHtesNH4bQTbfKZHsDdN7wMC773wMi4g',
+    appId: 'com.wSmartprimebrowser_10619177',
+    url: 'https://play.google.com/store/apps/details?id=com.wSmartprimebrowser_10619177&hl=en&gl=us'
+  },
+  {
+    title: 'Call Assistant: Call Screener, Hold Music, Dialer',
+    installs: 37511,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/IyKsOIZ1PQTEl2PtB2S6wBSXlE58GJmNU8Yv0M-LcW24_kA5ExTjcHIVzUfUoWf7QA',
+    appId: 'com.callassistant.android',
+    url: 'https://play.google.com/store/apps/details?id=com.callassistant.android&hl=en&gl=us'
+  },
+  {
+    title: 'OBD Fusion (Car Diagnostics)',
+    installs: 48616,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/V2flrnPe9_0_bw6Gc_8onLdkDAK-z7LAd0nMZ34sJ9fRg8iMbQEaoPI2cBs9617jFBM',
+    appId: 'OCTech.Mobile.Applications.TouchScan',
+    url: 'https://play.google.com/store/apps/details?id=OCTech.Mobile.Applications.TouchScan&hl=en&gl=us'
+  },
+  {
+    title: 'Handcent Next SMS - Best texting w/ MMS & stickers',
+    installs: 2336917,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/WNyx_T82wztq7szEMhY7x00NzfyA0pP-IcT3Ss28b9aihu2CzjccONEsp7bobSOECQ',
+    appId: 'com.handcent.app.nextsms',
+    url: 'https://play.google.com/store/apps/details?id=com.handcent.app.nextsms&hl=en&gl=us'
+  },
+  {
+    title: 'Automatic Call Recorder Pro - Recorder Phone Call',
+    installs: 2234994,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/a62-naCao-ZLYD24kxhhRBZ79yuXRJxvdQ3EN5I-QiFI4k__aEQqRfMgDBJ2bkmpTgw',
+    appId: 'phone.automatic.call.recorder.arc',
+    url: 'https://play.google.com/store/apps/details?id=phone.automatic.call.recorder.arc&hl=en&gl=us'
+  },
+  {
+    title: 'Avast Secure Browser: Fast VPN + Ad Block',
+    installs: 273844,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/x9LI-GfM55x4jACdE-187A8NSSbRJkSr8tiCZSqaO-HT4GnQeFe3MxgRD0M9vs33lDI',
+    appId: 'com.avast.android.secure.browser',
+    url: 'https://play.google.com/store/apps/details?id=com.avast.android.secure.browser&hl=en&gl=us'
+  },
+  {
+    title: 'Channel 19',
+    installs: 131541,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Xy0PPAVmDc2239wSnDLu715djg00xEIAm60eC78UyiuKtSx2O82xHdFlt-WSgcxa5KE',
+    appId: 'com.cb3g.channel19',
+    url: 'https://play.google.com/store/apps/details?id=com.cb3g.channel19&hl=en&gl=us'
+  },
+  {
+    title: 'Cam - Random Video Chats',
+    installs: 1177808,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/4Y9oiKi4VTBcDmrmGD86RB3fGVLEZNFrqwZTKj6zy_kUyhQZ7T3rCFR7qYRaHNUOX30',
+    appId: 'com.tangerine.live.cam',
+    url: 'https://play.google.com/store/apps/details?id=com.tangerine.live.cam&hl=en&gl=us'
+  },
+  {
+    title: 'Messenger SMS & MMS',
+    installs: 3886539,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eJuYSST_D0AtNoZK4CQa_wvga-Kh8p6tts_j03UNc-gQ4WaAmjNUd_kS7wRnlSgklQ',
+    appId: 'sms.mms.messages.text.free',
+    url: 'https://play.google.com/store/apps/details?id=sms.mms.messages.text.free&hl=en&gl=us'
+  },
+  {
+    title: 'Privacy Messenger - Private SMS messages, Call app',
+    installs: 4878502,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/4DLxzHvbkYeRX2vmqmYIPrGPpphPH5M-qGcOU7x4Tdf0vWNS3rH4KZuUx1LRfebnId8',
+    appId: 'com.melonsapp.privacymessenger',
+    url: 'https://play.google.com/store/apps/details?id=com.melonsapp.privacymessenger&hl=en&gl=us'
+  },
+  {
+    title: 'Talk Chat - Stranger Chat, Random Chat',
+    installs: 470264,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/m4Bp5m7NxteQ5VljB5BJoXEhd2jDS0eXCXlZEOogEzNNH1CNfdHdoxFA9RSwMiDYeg',
+    appId: 'kr.jungrammer.talkchat',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.talkchat&hl=en&gl=us'
+  },
+  {
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    installs: 69100334,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg',
+    appId: 'com.psiphon3.subscription',
+    url: 'https://play.google.com/store/apps/details?id=com.psiphon3.subscription&hl=en&gl=us'
+  },
+  {
+    title: 'Puffin Browser Pro',
+    installs: 478903,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/wF1LbUhwL1IO5XtRAhFUNVcFVhAFHMfx1BghUyEjolJw4GLutU4VgSMX7H6qEDZlbg',
+    appId: 'com.cloudmosa.puffin',
+    url: 'https://play.google.com/store/apps/details?id=com.cloudmosa.puffin&hl=en&gl=us'
+  },
+  {
+    title: 'Yaja Live Video Chat - Meet new people',
+    installs: 2460401,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/M3DGmYRDQTKTzZXq51FmCjAlv60v-J2_tb6nn9hxKTvKWFHRESbf1ScaG9NwRPonVoQ',
+    appId: 'com.colive.yaja',
+    url: 'https://play.google.com/store/apps/details?id=com.colive.yaja&hl=en&gl=us'
+  },
+  {
+    title: 'Photon Flash Player & Browser',
+    installs: 17560595,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/h2O_URktvUDFxtm9dtv8NR1Ikc5eEahTZDFkicoX5J5HDQAAp5jlb4sayYLiRAfbPRo',
+    appId: 'com.appsverse.photon',
+    url: 'https://play.google.com/store/apps/details?id=com.appsverse.photon&hl=en&gl=us'
+  },
+  {
+    title: 'Caller ID  & Call Blocker Free',
+    installs: 16226860,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/jkzPQjjn-DTdeVVTQeNsWwVHzjtRS0henZ1_GZzuaD0FFmpYG88hAOzIYD7DRTSHJg',
+    appId: 'caller.id.phone.number.block',
+    url: 'https://play.google.com/store/apps/details?id=caller.id.phone.number.block&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Texting',
+    installs: 1016630,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/fIap9X8jNkiajZ9XWrBNxBQ1wVOQObYjTBKsyX7_F5GNaBVXa-NMLXc_bcYqympcRvs',
+    appId: 'uk.co.digitalclockwork.apps.android.anonymoustexting',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.digitalclockwork.apps.android.anonymoustexting&hl=en&gl=us'
+  },
+  {
+    title: "CryptoTab Browser—world's first mining browser",
+    installs: 3062948,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/0B1fB7WvcRzSN8dry9a2d4-pVWgP6l02zKmxPP6zpSDSz6yBY0qA2vqgbmhTDL02dVw',
+    appId: 'com.cryptotab.android',
+    url: 'https://play.google.com/store/apps/details?id=com.cryptotab.android&hl=en&gl=us'
+  },
+  {
+    title: 'Contacts+ Pro',
+    installs: 303462,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/G_2PIfKt0ovuD4oywzHyKl0YpmVAKzRkw58VV_E-YkMNVoYEUQSM08qziuxv4QeVKg',
+    appId: 'com.fullcontact.ledene',
+    url: 'https://play.google.com/store/apps/details?id=com.fullcontact.ledene&hl=en&gl=us'
+  },
+  {
+    title: 'FairEmail - open source, privacy oriented email',
+    installs: 231553,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/DSMBLC-yGuWCdMYzqpNio-brFDS4Th6ERZcmilckYtU9tXqEqMEetwC9JCQoJSLVGF4',
+    appId: 'eu.faircode.email',
+    url: 'https://play.google.com/store/apps/details?id=eu.faircode.email&hl=en&gl=us'
+  },
+  {
+    title: 'CB Radio Chat - for friends!',
+    installs: 2103006,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/O2zY7qPAjNddTtZeO8Wgen5LKiRSIj0oBw0WKIspCCLaIcgeZJHQbP5YBtmbBAAjkys',
+    appId: 'com.plugmind.cbtest',
+    url: 'https://play.google.com/store/apps/details?id=com.plugmind.cbtest&hl=en&gl=us'
+  },
+  {
+    title: 'Nextplus Free SMS Text + Calls',
+    installs: 9595564,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/_xADDTfQL4wfI6MZK7S9mNUugyp7fHHbpbPGyu-na9pQpgIewWlXDfymP9Cu1UGpeg',
+    appId: 'me.nextplus.smsfreetext.phonecalls',
+    url: 'https://play.google.com/store/apps/details?id=me.nextplus.smsfreetext.phonecalls&hl=en&gl=us'
+  },
+  {
+    title: 'Do It Later - Schedule SMS, Auto Reply Text, Whats',
+    installs: 818871,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/l7T-VaoNnZcGtIDebrydE9OIlsx6ijPoCGgyeEvxoRv_R1WqdeIktzxjj5Ok1xWlC9Rn',
+    appId: 'com.hnib.smslater',
+    url: 'https://play.google.com/store/apps/details?id=com.hnib.smslater&hl=en&gl=us'
+  },
+  {
+    title: 'JusTalk Kids - Safe Video Chat and Messenger',
+    installs: 1103120,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/WX8qqu5nQQSdJ_s7NhLoc8H_zUl5S7W3CoJBUWykWs9imariQyksc79SyiJdnFPO9A',
+    appId: 'com.justalk.kids.android',
+    url: 'https://play.google.com/store/apps/details?id=com.justalk.kids.android&hl=en&gl=us'
+  },
+  {
+    title: 'PrivacyStar: Stop scam with SCAM LIKELY protection',
+    installs: 1762543,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/VlLeStHh8BF76ERTapQKDnb0MYAp1WYdTZEHlhS9ne3SLHKAzImnVhFizb3oxkA-7k4f',
+    appId: 'com.privacystar.android',
+    url: 'https://play.google.com/store/apps/details?id=com.privacystar.android&hl=en&gl=us'
+  },
+  {
+    title: 'PhoneLine - Your Second Phone Number',
+    installs: 38587,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/lFFC2nnPU_8Y8jongL4Pn3NShMo_hVUDLIFhbZQkHT8FeyAx7xaa262p6cbliMCdkQ',
+    appId: 'com.kickback.phoneline',
+    url: 'https://play.google.com/store/apps/details?id=com.kickback.phoneline&hl=en&gl=us'
+  },
+  {
+    title: 'OBDLink (OBD car diagnostics)',
+    installs: 1413567,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/gWj6Z1DJUYt5i2Y_hml4hSCgORYvlLYlxw2MchiwjdSw58EYMsKEkLOlJTJAtnIPaw',
+    appId: 'OCTech.Mobile.Applications.OBDLink',
+    url: 'https://play.google.com/store/apps/details?id=OCTech.Mobile.Applications.OBDLink&hl=en&gl=us'
+  },
+  {
+    title: '10-21 Police Phone',
+    installs: 75822,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/7pW2C1MZD_mQbzQpDexrYRsRisUsmKQjtJ5BaD3S2fdMaIkWOZPT-sCTDYMN19IPMA',
+    appId: 'com.callyo.police_phone_1021',
+    url: 'https://play.google.com/store/apps/details?id=com.callyo.police_phone_1021&hl=en&gl=us'
+  },
+  {
+    title: 'Unlisted - Second Phone Number',
+    installs: 75703,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/QvZ8S-AhYhtQWHpXO6DW5s9lNK4GcKAY2Mg6q6ObMFPdGeBZvC0GOde36wohkr6U1g',
+    appId: 'com.unlistedmobile.unlisted',
+    url: 'https://play.google.com/store/apps/details?id=com.unlistedmobile.unlisted&hl=en&gl=us'
+  },
+  {
+    title: 'Fast settings browser',
+    installs: 13,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/57WMEEodDnqCa0vZkuhbeiSQXxz4GAQXUpQ163ercZjgZQjpXFLz_u8l4xsH1mffxg6n',
+    appId: 'com.wFastsettingsbrowser_11915317',
+    url: 'https://play.google.com/store/apps/details?id=com.wFastsettingsbrowser_11915317&hl=en&gl=us'
+  },
+  {
+    title: 'SIJÚ',
+    installs: 95724,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/8K7MjxtKpMhDD7pS6PLK32KHLfwAbZw-QKWhdJ7ApozXOOb5eLNF0ambvr-irt-ecQ',
+    appId: 'com.icubadevelopers.siju',
+    url: 'https://play.google.com/store/apps/details?id=com.icubadevelopers.siju&hl=en&gl=us'
+  },
+  {
+    title: 'Virtual SIM',
+    installs: 2540820,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/oOIj5Ie9zNrJJskv93eXaQyfdB6l7kg-gPOBQC4u1mkCXny1tkHLF8KXV6WoWQlIhRU',
+    appId: 'com.virtualsimapp',
+    url: 'https://play.google.com/store/apps/details?id=com.virtualsimapp&hl=en&gl=us'
+  },
+  {
+    title: 'Reads out loud Texts, Email and all other Messages',
+    installs: 697476,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Nj6zjzB7O935UU_wKQdmXeMg1rsAljakrjCmQgJ0AwfY4jhuyNIMsgThCs4qAlpOYQ',
+    appId: 'com.messageloud',
+    url: 'https://play.google.com/store/apps/details?id=com.messageloud&hl=en&gl=us'
+  },
+  {
+    title: 'Zoiper IAX SIP VOIP Softphone',
+    installs: 3854143,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/DLfGd5tTg1WL_Y6y2UQ3EWexhFXWRN2h1ml2MROgnBFRRL3Bg3jb3TICxBKFnIvfUf0Y',
+    appId: 'com.zoiper.android.app',
+    url: 'https://play.google.com/store/apps/details?id=com.zoiper.android.app&hl=en&gl=us'
+  },
+  {
+    title: 'EasyTether Pro',
+    installs: 109879,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/344x4FLtwP2DowUBNq9b0IJqz1JqzpZ5zb3ArE-Id3kRiy151ejNROd91V8aTiJcRIo',
+    appId: 'com.mstream.etpc',
+    url: 'https://play.google.com/store/apps/details?id=com.mstream.etpc&hl=en&gl=us'
+  },
+  {
+    title: 'شات تعارف و دردشة - NAChat',
+    installs: 577984,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/D8Tzfu7GAoTtOnm0jDeOSEar_3x5nhj2fwPYKw6_v6TFLf2HfhfiJED6LnSHrOoTcJQv',
+    appId: 'com.newarabchat.nac',
+    url: 'https://play.google.com/store/apps/details?id=com.newarabchat.nac&hl=en&gl=us'
+  },
+  {
+    title: 'JusTalk - Free Video Calls and Fun Video Chat',
+    installs: 16504014,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/C-KCc8M94x_6Jp6tdpsbe6F-zZsUyBukG-hllrHadaDGzk7Nc6hVob8Me9T1rdr6jxw',
+    appId: 'com.juphoon.justalk',
+    url: 'https://play.google.com/store/apps/details?id=com.juphoon.justalk&hl=en&gl=us'
+  },
+  {
+    title: 'WeChat',
+    installs: 345313553,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/eOXYfM4C_CJc6hJ9Yxa0q0Xf-O8u03T5af6NdC5vnuYKLnrgsIjEaM4lUK3Mj7gNn7Y',
+    appId: 'com.tencent.mm',
+    url: 'https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=us'
+  },
+  {
+    title: 'Likey - Live Video Chat with Your Stars',
+    installs: 28266,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/wn9tvbLklZjo2AEXhco2Vb8xs3clQ9x7Vob3EEQmz9kQyXbZuhCQ76AHzsj23ufO3rU',
+    appId: 'to.likey.android',
+    url: 'https://play.google.com/store/apps/details?id=to.likey.android&hl=en&gl=us'
+  },
+  {
+    title: 'Contacts+',
+    installs: 23141979,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/q2SNXJMiF5MpboyNb1tBLAZoEQakvAS4sFyY6W5gfVWZ8J0iOXxOQlqdFIFxLQM8oRk',
+    appId: 'com.contapps.android',
+    url: 'https://play.google.com/store/apps/details?id=com.contapps.android&hl=en&gl=us'
+  },
+  {
+    title: 'HulloMail Voicemail',
+    installs: 243765,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/SveHMdiosINrCRE28dkCWhcGKDRkrIYDw8PCPvr7_ae-INdOizLPIX8tHdYuEG7i1wAA',
+    appId: 'com.hullomail.messaging.android',
+    url: 'https://play.google.com/store/apps/details?id=com.hullomail.messaging.android&hl=en&gl=us'
+  },
+  {
+    title: 'WazzapMigrator',
+    installs: 333627,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/C7Tf3E2lI-ieysZ4GARGBgQYzfJlC8EubKIEk-ASDI1koMhMeCkE7WpSU2v0mdqS6g',
+    appId: 'com.nbeghin.whatsappmigrator',
+    url: 'https://play.google.com/store/apps/details?id=com.nbeghin.whatsappmigrator&hl=en&gl=us'
+  },
+  {
+    title: 'TalkinChat',
+    installs: 1012468,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/uFoA2g9ClU9dg4wh5vyG2GUTTNOR3OjX278WrDBdu1kNxH636NpHyUKQwjnhzeXfO10',
+    appId: 'net.chatp',
+    url: 'https://play.google.com/store/apps/details?id=net.chatp&hl=en&gl=us'
+  },
+  {
+    title: '2nd phone number - free private call and texting',
+    installs: 2443571,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/5IlkEOUAOpq82PFkBKIcI74J7KptIGrkZpqI0BuJiFEGwJLk0TAw9KI-vprMQoP4SvA',
+    appId: 'com.us.free.phone.number',
+    url: 'https://play.google.com/store/apps/details?id=com.us.free.phone.number&hl=en&gl=us'
+  },
+  {
+    title: 'get set prime',
+    installs: 4,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/3FSITzded1fLYubY1xxKoOx6M-KCBwsWiPei9framRXoAcTHhbUROChn7Wf_MW_DvA',
+    appId: 'com.wGetsetprime_11990119',
+    url: 'https://play.google.com/store/apps/details?id=com.wGetsetprime_11990119&hl=en&gl=us'
+  },
+  {
+    title: 'JuiceSSH - SSH Client',
+    installs: 3122835,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/8HJdKfUfC9T0F7q1PhVNS7n2OUtD0W8b5CD7icmrDRh4j7PzFy3_ROxqShZjfAt2NWOD',
+    appId: 'com.sonelli.juicessh',
+    url: 'https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en&gl=us'
+  },
+  {
+    title: 'hide.me VPN',
+    installs: 1876861,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/nAWV1Dzlo3vfp9bp5Q5PMFO3mTpjyAUpoEtiBrkxsFcMinpyjgRjuSKxqFqkniyGRw',
+    appId: 'hideme.android.vpn',
+    url: 'https://play.google.com/store/apps/details?id=hideme.android.vpn&hl=en&gl=us'
+  },
+  {
+    title: 'BOSS Revolution: International Calling,Texting App',
+    installs: 7196235,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/3ms8iB4E0cnr-YGhqYYaOvJrVusaNPH1FWVrY1dW3FgDcbdFgiaKSNxKgUwp9_p7OQ',
+    appId: 'net.idt.um.android.bossrevapp',
+    url: 'https://play.google.com/store/apps/details?id=net.idt.um.android.bossrevapp&hl=en&gl=us'
+  },
+  {
+    title: 'Liti Live - Video Chat to Find New Friends',
+    installs: 45107,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/TK_fiVkApr1OZp0vl0WJOv2yZ5jIQf_JW5FqMdYzE8tsNoR0PM5194XX2RsfW5Rbu7pe',
+    appId: 'com.liti.android',
+    url: 'https://play.google.com/store/apps/details?id=com.liti.android&hl=en&gl=us'
+  },
+  {
+    title: 'Car Gauge Pro (OBD2 + Enhance)',
+    installs: 25679,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/Ztj8jaegu7D9j8FvdASV1BerDs68CXljgKkgEhUFdmOEz3r20YtWHBMq3L83VIusApS-',
+    appId: 'Scantech.CarGaugePro',
+    url: 'https://play.google.com/store/apps/details?id=Scantech.CarGaugePro&hl=en&gl=us'
+  },
+  {
+    title: 'Rogervoice',
+    installs: 53166,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/R39ruWeBY1gDSQY9xIvoWUe90BWXVv-vfEGsMQ-Gv4uLrISffYJ_odv7VAMj10HcEtUX',
+    appId: 'com.rogervoice.app',
+    url: 'https://play.google.com/store/apps/details?id=com.rogervoice.app&hl=en&gl=us'
+  },
+  {
+    title: 'Legal Text Collector',
+    installs: 52385,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/1F3_i0Fgilcjw0E_-uRGlcCy3aN8sf1kTQ6T6CkYl0GfXLr1ejVLeLCG-wznzeyeHKY',
+    appId: 'com.legaltextcollector',
+    url: 'https://play.google.com/store/apps/details?id=com.legaltextcollector&hl=en&gl=us'
+  },
+  {
+    title: 'Hear Boost: Enhanced Microphone Volume & Recording',
+    installs: 411393,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ReocebSxAJxnerQTbb_saGL7IKbPpfsVqb7A-VwMZej6mWy85tiBQFwIbic7xeXVYg',
+    appId: 'com.audiofix.hearboost',
+    url: 'https://play.google.com/store/apps/details?id=com.audiofix.hearboost&hl=en&gl=us'
+  },
+  {
+    title: 'True Phone Dialer & Contacts & Call Recorder',
+    installs: 7758020,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/0h9jjF5zq1G2-rVB4HUCRUrl_JZeB73-qDXu48OIW_kkWhHu-n8Dhfa3345Jt0qHpw',
+    appId: 'com.hb.dialer.free',
+    url: 'https://play.google.com/store/apps/details?id=com.hb.dialer.free&hl=en&gl=us'
+  },
+  {
+    title: 'Eyecon: Caller ID, Calls and Phone Contacts',
+    installs: 41972227,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/6NraEQmsYyRAg63A6CDxC6oBUFPskW9YPgQoKcji9H0gpv9cxXng5yohAJzo0ppu6g',
+    appId: 'com.eyecon.global',
+    url: 'https://play.google.com/store/apps/details?id=com.eyecon.global&hl=en&gl=us'
+  },
+  {
+    title: 'Messages for Wear OS (Android Wear)',
+    installs: 1051242,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/E6pxy-ja6KBq4uaiCC5RQRzabNF0HQ2W2fMEiDlDK69_iNCzUCMGIF1H1XOTFOCmIf1B',
+    appId: 'com.appfour.wearmessages',
+    url: 'https://play.google.com/store/apps/details?id=com.appfour.wearmessages&hl=en&gl=us'
+  },
+  {
+    title: 'AVG Browser: Fast Browser + VPN & Ad Block',
+    installs: 139790,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rO_SG4i8KwLtVH6H746iWBsm5WwnVDRccdZajeaInsCf_r7jVjw-NgPNmdYfXSnlr-o',
+    appId: 'com.avg.android.secure.browser',
+    url: 'https://play.google.com/store/apps/details?id=com.avg.android.secure.browser&hl=en&gl=us'
+  },
+  {
+    title: 'Browsec: FREE & Unlimited VPN, Fast & Secure proxy',
+    installs: 3254595,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/sSY1UmTM_-JU8RnRhQbJndvI4mKQgiZBgEJV3ij1sB5skwCg2YrMMZABymQq_Sj_wz_F',
+    appId: 'com.browsec.vpn',
+    url: 'https://play.google.com/store/apps/details?id=com.browsec.vpn&hl=en&gl=us'
+  },
+  {
+    title: 'Should I Answer?',
+    installs: 779518,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/NLEQ0dghITECObk6bmtnKmOV01AhSsh9O08qz_0VF75v-cBkbLIVQs-bibIWgK-kbmM',
+    appId: 'org.mistergroup.shouldianswer',
+    url: 'https://play.google.com/store/apps/details?id=org.mistergroup.shouldianswer&hl=en&gl=us'
+  },
+  {
+    title: 'TeamSpeak 3 - Voice Chat Software',
+    installs: 1630528,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/jUgoP67po1y3aQ5iBlBpZkrRrizUNRYAYxonQjrfiHp115V8GlAUdv642Z6qBcOpg9k',
+    appId: 'com.teamspeak.ts3client',
+    url: 'https://play.google.com/store/apps/details?id=com.teamspeak.ts3client&hl=en&gl=us'
+  },
+  {
+    title: 'True ID Caller Name: Caller ID, Call Block, SMS',
+    installs: 9897087,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/OApqFwtXJXR_RJNx3wMs1WliBvFemHyQlDGEN0TD98riKJW5Di5oy-FXT8X4JrNkwA',
+    appId: 'truecaller.caller.callerid.name.phone.dialer',
+    url: 'https://play.google.com/store/apps/details?id=truecaller.caller.callerid.name.phone.dialer&hl=en&gl=us'
+  },
+  {
+    title: 'Email app for Hotmail & Outlook mail: Fast & Easy',
+    installs: 581353,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/F3L5RJi0tq-R4PJHU-fyNJZyoUdF9uVKlTZrv-NPU-2WUpgddq2h1yJDuSviOdUbptqh',
+    appId: 'com.emailclient.mailchecker.outlook.hotmail',
+    url: 'https://play.google.com/store/apps/details?id=com.emailclient.mailchecker.outlook.hotmail&hl=en&gl=us'
+  },
+  {
+    title: 'EasyTether Pro',
+    installs: 5502,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/fbN7-4A4vfaxelufs4gt5-getdO45bV2Vio7EGLSqUhpzTzX5PHQyS2QN02Q7MyZ8kE',
+    appId: 'eu.easytether.pro',
+    url: 'https://play.google.com/store/apps/details?id=eu.easytether.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Cake Web Browser-Free VPN, Fast, Private, Adblock',
+    installs: 1395994,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/85VMdfEqyqwuGp8hWKcZhUnmVHxQLoZ8cGhfm0-OyZAGZqQ9PgcF45AV1C3d1WerrA',
+    appId: 'com.cake.browser',
+    url: 'https://play.google.com/store/apps/details?id=com.cake.browser&hl=en&gl=us'
+  },
+  {
+    title: 'Getcontact',
+    installs: 47535523,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/EVzr5ggqyw-960UKByM2fdMk9HVV2y7MKQ3VbI9jNSNhDNzckpxJZU8F8ZN1g0X26KnN',
+    appId: 'app.source.getcontact',
+    url: 'https://play.google.com/store/apps/details?id=app.source.getcontact&hl=en&gl=us'
+  },
+  {
+    title: 'The ASL App',
+    installs: 379909,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/08ebTYFi0Gc3Ahe4HM6_BKgHy-DwyU6uOLQdQl0jVuxlQwto3M_liGwByHGEUP_hUA',
+    appId: 'com.inkandsalt.aslapp',
+    url: 'https://play.google.com/store/apps/details?id=com.inkandsalt.aslapp&hl=en&gl=us'
+  },
+  {
+    title: 'ZoiPer Pro - SIP Softphone',
+    installs: 20272,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/AYEq1Un1a5ar3uHpmHz9qYPDwT-GROlLATGHD65pIS1XhadMwdAwASEd1uPqacGM8g',
+    appId: 'com.zoiperpremium.android.app',
+    url: 'https://play.google.com/store/apps/details?id=com.zoiperpremium.android.app&hl=en&gl=us'
+  },
+  {
+    title: 'Random Chat (Ranchat with Stranger)',
+    installs: 180969,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/3eutUxkJdFHX5gnu1oZUnO3Ul2B53dSgV1B9MbQP8uEunLzUGCf1nndp3NCUHau4rRo',
+    appId: 'kr.jungrammer.superranchat',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.superranchat&hl=en&gl=us'
+  },
+  {
+    title: 'Live Talk - Free Video Chat',
+    installs: 7821898,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/P4YhXywsgURGyyzWDAN_OnurWKg5kMCoY6d2gcxUl0xc9NBhsXBvT-sfVn0Sf0H30g',
+    appId: 'xyz.livetalk',
+    url: 'https://play.google.com/store/apps/details?id=xyz.livetalk&hl=en&gl=us'
+  },
+  {
+    title: 'Online Walkie Talkie Pro',
+    installs: 3592336,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/NFRTZhkmU14IuFd5k_sSNCnlawsAfYk6vjVcEo1zNQFhQolBQw7ovmMmqI5nsSKtVg',
+    appId: 'masih.vahida.serverwalkietalkie',
+    url: 'https://play.google.com/store/apps/details?id=masih.vahida.serverwalkietalkie&hl=en&gl=us'
+  },
+  {
+    title: 'SMS Auto Reply Text Messages / SMS Autoresponder',
+    installs: 300464,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/B5KAFdQ4aK0mbrNmjt9EGTZGYEI5_8AhuBKUfTEMH7NBlKQ5y9L_AjOMikS7a-VJFl4',
+    appId: 'com.lemi.smsautoreplytextmessagefree',
+    url: 'https://play.google.com/store/apps/details?id=com.lemi.smsautoreplytextmessagefree&hl=en&gl=us'
+  },
+  {
+    title: 'Call Unblock - Blocked Calls',
+    installs: 225702,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/tPqkoGtm1_lp2KKs8oMXGbVyAmcz-kQIfZlcuxqz_AQWPYh3ZN_wlqfq9EDHhEOGx4uf',
+    appId: 'com.callunblock.sourcefiles123',
+    url: 'https://play.google.com/store/apps/details?id=com.callunblock.sourcefiles123&hl=en&gl=us'
+  },
+  {
+    title: 'Calculator Pro+ - Private Message & Call Screening',
+    installs: 382279,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/CbIXlp6vVGDjmAy4zZ3HYvVoQo9-bInKac_T1BKLdyOZs_r-UKHvh_k4Ylf63PI3zV7f',
+    appId: 'com.privatesmsbox.calc',
+    url: 'https://play.google.com/store/apps/details?id=com.privatesmsbox.calc&hl=en&gl=us'
+  },
+  {
+    title: '2Call - Second Phone Number for Free Text & Call',
+    installs: 233913,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/6ObA3AfNczdhzZxeRj-9G3APudCeP4LyVEl5pt0kihQfRgqzAXbo-as50ru1DAOfxYE',
+    appId: 'com.featuredapps.call',
+    url: 'https://play.google.com/store/apps/details?id=com.featuredapps.call&hl=en&gl=us'
+  },
+  {
+    title: 'Phonak myCall-to-Text phone transcription',
+    installs: 15699,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/dANr-QL0-9MwKUHBoA0MGkKekz9HHv6EoAY5-qabSBLYgoiGZygoOR7L_v34_jr7qm4',
+    appId: 'com.rogervoice.sonova',
+    url: 'https://play.google.com/store/apps/details?id=com.rogervoice.sonova&hl=en&gl=us'
+  },
+  {
+    title: 'QKSMS',
+    installs: 840069,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/sQiJ7kSa6TtryQ2pJwYWdsNdrwr10fW9GLcXPdjxAJWbHsFHlBSwl8OXJzV4DVRlqVk',
+    appId: 'com.moez.QKSMS',
+    url: 'https://play.google.com/store/apps/details?id=com.moez.QKSMS&hl=en&gl=us'
+  },
+  {
+    title: 'Free Call, Call Free Phone Calling App - CallGate',
+    installs: 1672525,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/vkY3JRF8VE07-bhZEvf0_3afTKtsStegpZjryYK7tuGwKuyQVn5ETFp98oVrHCdiJQ',
+    appId: 'com.smsrobot.free.calls',
+    url: 'https://play.google.com/store/apps/details?id=com.smsrobot.free.calls&hl=en&gl=us'
+  },
+  {
+    title: 'Whoscall – The caller ID and block App',
+    installs: 47192871,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/PciY7n0LxBp4NxVtoEXognh3j_UTq8dvR2xMAPy7ACLoQJS33N8JdqHfLuQpz5bjjWs',
+    appId: 'gogolook.callgogolook2',
+    url: 'https://play.google.com/store/apps/details?id=gogolook.callgogolook2&hl=en&gl=us'
+  },
+  {
+    title: 'Messenger - Free Texting App',
+    installs: 1437281,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/fvDqJtYx-Pa9OYep_R55hSmjLcvNbjujSVdd_0um8q7N0xvfUxta1xbM_wDUIP26htE',
+    appId: 'messenger.sms',
+    url: 'https://play.google.com/store/apps/details?id=messenger.sms&hl=en&gl=us'
+  },
+  {
+    title: 'Glide - Video Chat Messenger',
+    installs: 22739451,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/PRgK-zOIUQ33_5fVIkVcALLzRWQCFlq6FfxLl3pAkn7hte9YMitoHAN78djQP4a9dg',
+    appId: 'com.glidetalk.glideapp',
+    url: 'https://play.google.com/store/apps/details?id=com.glidetalk.glideapp&hl=en&gl=us'
+  },
+  {
+    title: 'Auto Message - automatic send and reply sms sender',
+    installs: 291035,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/x0-g9Om6opWaMliwrzKxbGTmVQVPiy2-iH-2idy96vJpXuTvXNb1PdVk5A6gEaQ6Fw',
+    appId: 'com.heavenecom.smartscheduler',
+    url: 'https://play.google.com/store/apps/details?id=com.heavenecom.smartscheduler&hl=en&gl=us'
+  },
+  {
+    title: 'chomp SMS',
+    installs: 15487060,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/G1jalUvzKDBMEwP2iYSjWZKVwwN0WHJpFyzh9DOo-Jlnwclqft37T88w4DRMjpLD3ls',
+    appId: 'com.p1.chompsms',
+    url: 'https://play.google.com/store/apps/details?id=com.p1.chompsms&hl=en&gl=us'
+  },
+  {
+    title: 'Fanytel - International Calls & SMS',
+    installs: 389075,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/DYGhMWQF5T_1zrSAubxpEMiq-HbYnFwS_YSSM0J46ooIlLiIwJQaSrvHDP5r3BQzGgM',
+    appId: 'com.revesoft.mobiledialer.fanytel.fanytel',
+    url: 'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.fanytel.fanytel&hl=en&gl=us'
+  },
+  {
+    title: 'Sticker Make for WhatsApp',
+    installs: 18989225,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/6HGv378X-afewCbMJaefaShfnoAOpDVNj9u_1zTn6FSB07VSzrEUKnlhX-f5ah8yPg',
+    appId: 'stickerwhatsapp.com.stickers',
+    url: 'https://play.google.com/store/apps/details?id=stickerwhatsapp.com.stickers&hl=en&gl=us'
+  },
+  {
+    title: '원앙챗(안심결제)',
+    installs: 12817,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ANnURL3zbPk9G2pmpQzYfyP8oeCbThcM8zsqoRAVbuFU2owZUdppaLy18EZ2FtXBnxg',
+    appId: 'kr.chat.wangtalk',
+    url: 'https://play.google.com/store/apps/details?id=kr.chat.wangtalk&hl=en&gl=us'
+  },
+  {
+    title: 'Followers & Retweets For Twitter',
+    installs: 45248,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/V0WHPjpwrP5ZKNdEWSJv462cWqO2W_CLgjifde7U8OlmTzvgRqh6zndW-umhdaaHHQ',
+    appId: 'com.followrt',
+    url: 'https://play.google.com/store/apps/details?id=com.followrt&hl=en&gl=us'
+  },
+  {
+    title: 'Print Text Messages (Backup, Restore & Print)',
+    installs: 118724,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/hVEDpQIDU_89XagtGMqcXGAOJTl6NEqKUdFKbNQQmMQD5RGDfv95Zxnygq-sn2jQ4SY',
+    appId: 'co.uk.create.solutions.printtextmessagesfree',
+    url: 'https://play.google.com/store/apps/details?id=co.uk.create.solutions.printtextmessagesfree&hl=en&gl=us'
+  },
+  {
+    title: 'My Virtual Girlfriend Cindy',
+    installs: 665427,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/kiouELd3liHn1Jw2OUxI7USEv9dD5nmtlDr_X5oUD26tJZGBQDMuq1gfpF5xUcVHMsqE',
+    appId: 'com.paphus.cindy',
+    url: 'https://play.google.com/store/apps/details?id=com.paphus.cindy&hl=en&gl=us'
+  },
+  {
+    title: 'Restore refund browser',
+    installs: 56,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/qVqSD2l66IFQp_Wth_PJbdizuzQo5y2V7r7WJBIGTv7L7_6vsNhi5c_5wwA1VbSWZA',
+    appId: 'com.wRestorerefundbrowser_8722479',
+    url: 'https://play.google.com/store/apps/details?id=com.wRestorerefundbrowser_8722479&hl=en&gl=us'
+  },
+  {
+    title: 'VPN Vault - Super Proxy VPN',
+    installs: 237536,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/1qrion_yac4jD-CvfDQDX2mBSBDgzCyJtp2GLEpQO-9w47bgWZvt2F0OMK2aSsbe3RE',
+    appId: 'com.appsverse.avvpn',
+    url: 'https://play.google.com/store/apps/details?id=com.appsverse.avvpn&hl=en&gl=us'
+  },
+  {
+    title: "Who's App Online",
+    installs: 115907,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/WUw_FccLK_5xTnhwO3tYlzTD8Z2BpKsynB_fOqWGoqUGByLfZheiqhp9WPsWLD85Pa0',
+    appId: 'hk.overflow.whosapp',
+    url: 'https://play.google.com/store/apps/details?id=hk.overflow.whosapp&hl=en&gl=us'
+  },
+  {
+    title: 'Call Blocker - Block & report unwanted calls',
+    installs: 208117,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/sCjUstQ7Jxe0p7rit4VmytmYAtLRgwJEYKOKcGNDSxnA_pYqI8hbGCyg8d_nAK6Y_A',
+    appId: 'com.unknownphone.callblocker',
+    url: 'https://play.google.com/store/apps/details?id=com.unknownphone.callblocker&hl=en&gl=us'
+  },
+  {
+    title: 'TextU - Private SMS Messenger, Call app',
+    installs: 373746,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Teg_1BOpE2GPxoGjkBGArGQUoLetSNI7jAzKLlMNmdJWlRlHfYxGLGPaNN8QIyJHEjI',
+    appId: 'com.textu.sms.privacy.messenger',
+    url: 'https://play.google.com/store/apps/details?id=com.textu.sms.privacy.messenger&hl=en&gl=us'
+  },
+  {
+    title: 'International Calls',
+    installs: 1645753,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/5tofFJF3JH3Z39tNx8OXDcuqj9sgaNH6Ljf4HcurbI7uXeEWrit9clPi-3a1zukUcmo',
+    appId: 'com.nettia',
+    url: 'https://play.google.com/store/apps/details?id=com.nettia&hl=en&gl=us'
+  },
+  {
+    title: 'Free Calls, Messages & International Calling',
+    installs: 6025258,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/TIwe4Vg7z0O6JkKFFuLVVZ6GefNHKcNRmLudvZs1PLO4T07o3prSbmYtW1Ctv_gpp30',
+    appId: 'com.voxofon',
+    url: 'https://play.google.com/store/apps/details?id=com.voxofon&hl=en&gl=us'
+  },
+  {
+    title: 'Mocha TN5250',
+    installs: 7754,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/PZ40s_Zw7FDPFjv83KTso0oJYQci6eyzPSUkfGb8s2E-DhnAwLygvxd17rPC-jQohQ',
+    appId: 'dk.mochsoft.tn5250paid',
+    url: 'https://play.google.com/store/apps/details?id=dk.mochsoft.tn5250paid&hl=en&gl=us'
+  },
+  {
+    title: 'Your Freedom VPN Client',
+    installs: 10402491,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/ICFzAdm7Rx8kwnuihBKo-cuZzy32fxZZCi4k9qvS35jVEd9FnH1JdSO8LOo2KoOcu9A',
+    appId: 'de.resolution.yf_android',
+    url: 'https://play.google.com/store/apps/details?id=de.resolution.yf_android&hl=en&gl=us'
+  },
+  {
+    title: 'Calls Blacklist PRO - Call Blocker',
+    installs: 210185,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/BPGCf6p3NkZtZL4N9yTaYxPC-RiEIsNsjr7a5r-644tpB0UNdcaP0Hwt2pf0ufGhEQ',
+    appId: 'com.vladlee.callsblacklist',
+    url: 'https://play.google.com/store/apps/details?id=com.vladlee.callsblacklist&hl=en&gl=us'
+  },
+  {
+    title: 'New Messenger 2020',
+    installs: 6947998,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/PY-Uf6S66BgFKLCyUqkJdyTa3rROaaHp-2LB3NwR62XfUsEAyUIuS9CcuNSQBlajmg',
+    appId: 'com.smscolorful.formessenger.messages',
+    url: 'https://play.google.com/store/apps/details?id=com.smscolorful.formessenger.messages&hl=en&gl=us'
+  },
+  {
+    title: 'Just Between Us',
+    installs: 9429,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rNtmDyKXP91sfzGizGwuZXkAkvat1FPg6XkWPkSa17-BxujbB4EbzaFcntgZ5T1rHg',
+    appId: 'com.getyourmarriageon.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.getyourmarriageon.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Call Recorder',
+    installs: 3888104,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/AIns-MB00C3Umhf4kBSXO8RVLR76mcRTjcdNLmXwNhCSQ3HFnhWcD0iJCB67F6CE9OU',
+    appId: 'com.killermobile.totalrecall',
+    url: 'https://play.google.com/store/apps/details?id=com.killermobile.totalrecall&hl=en&gl=us'
+  },
+  {
+    title: 'Kiki Chat Messenger: Free Private Friends Chats',
+    installs: 473624,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/HrMVU_oKUnfDWePcoCUlylUUQ27H6pNFSaqHOepUGk92V7K1vVk1bOXhJb1RtxK-kg',
+    appId: 'ws.coverme.sentry',
+    url: 'https://play.google.com/store/apps/details?id=ws.coverme.sentry&hl=en&gl=us'
+  },
+  {
+    title: 'Live Mobile Location and GPS Coordinates',
+    installs: 21516793,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/RHBV9LhP7Nlb7dKU_G6PeSzqwSuQpzfkS-9Qnwf2h50uBm9eeAcMnNOYFMAIHNz33k9q',
+    appId: 'livemobilelocationtracker.teccreations',
+    url: 'https://play.google.com/store/apps/details?id=livemobilelocationtracker.teccreations&hl=en&gl=us'
+  },
+  {
+    title: 'BIG Phone for Seniors',
+    installs: 157766,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/Byggwq9J3zkj2FqciRwzuh6yVVKQu6ojcjJ9i9ogYnX4T-Ya_1dUX3vajqGin_XGO8w',
+    appId: 'name.kunes.android.launcher.bigphone',
+    url: 'https://play.google.com/store/apps/details?id=name.kunes.android.launcher.bigphone&hl=en&gl=us'
+  },
+  {
+    title: 'Tenta Private VPN Browser + Ad Blocker (Beta)',
+    installs: 2722838,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/5x3Lh2gJLrXj5qUVEnQGyNYMFAwnTmAvzg3LJpGQk9F0H3rWqsYtco0b1p6nfpmRxe29',
+    appId: 'com.tenta.android',
+    url: 'https://play.google.com/store/apps/details?id=com.tenta.android&hl=en&gl=us'
+  },
+  {
+    title: 'Groundwire: VoIP SIP Softphone',
+    installs: 18112,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/or0exdhYFVAoCdfboNh_2zyqVe3IaSRW0_q-428DKGXiJIi6rewtxEqg-H4aZYFGxgc',
+    appId: 'cz.acrobits.softphone.aliengroundwire',
+    url: 'https://play.google.com/store/apps/details?id=cz.acrobits.softphone.aliengroundwire&hl=en&gl=us'
+  },
+  {
+    title: 'Acapela TTS Voices',
+    installs: 648226,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/xLNEz1IQ-AcqXxOxWcokrEMrj8QCXR3hvhB8qsm6PJknb-bnPvgm2d0pub2XXwchIg',
+    appId: 'com.acapelagroup.android.tts',
+    url: 'https://play.google.com/store/apps/details?id=com.acapelagroup.android.tts&hl=en&gl=us'
+  },
+  {
+    title: 'Showcaller: Caller ID, Call Recorder & Blocker',
+    installs: 24599417,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/tbdrIsqMSM6_obOTRaxMm4vS9EmmIr5MC_XvbJPURYWqhs5b3d3fCOirmwiifk-nYbVI',
+    appId: 'com.allinone.callerid',
+    url: 'https://play.google.com/store/apps/details?id=com.allinone.callerid&hl=en&gl=us'
+  },
+  {
+    title: 'RanTalk - Stranger with Chat, Random Talk',
+    installs: 154970,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/cd7HgS7Wvujo0jZLOgSjttaBl-_DsbnPLUVgZvmAj4ErzdotGfsDuLojW_5gLfAWiNU',
+    appId: 'kr.jungrammer.rantalk2',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.rantalk2&hl=en&gl=us'
+  },
+  {
+    title: 'Smiley Private Texting SMS text messaging',
+    installs: 99276,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/rSP6zNvmaiwNuI5S75Pap5nsaZuUfrYNweEhShlTAo7KS28SghBZXVHGhr_9B-EFlo0',
+    appId: 'com.binarypattern.smiley',
+    url: 'https://play.google.com/store/apps/details?id=com.binarypattern.smiley&hl=en&gl=us'
+  },
+  {
+    title: 'EasyTether Full',
+    installs: 196003,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/U_-7phHbZOQkU77HJ_J9g5k3GWm5NmvmRNhSayg6ZSZmYleDxCiV0SXMMiWZuAz7xBg',
+    appId: 'com.mstream.easytether_polyclef',
+    url: 'https://play.google.com/store/apps/details?id=com.mstream.easytether_polyclef&hl=en&gl=us'
+  },
+  {
+    title: 'Video Call',
+    installs: 8459452,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/jl9TtJVO9SgpMVClhGao-u28aYr3q7fgEBAsimEWfbd2UZF1S6UG2SrC-8ny_kg4-hVh',
+    appId: 'com.recommended.videocall',
+    url: 'https://play.google.com/store/apps/details?id=com.recommended.videocall&hl=en&gl=us'
+  },
+  {
+    title: 'Free Calls - International Phone Calling App',
+    installs: 4772214,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/zR0Qb18uZjze7qC6J6bzQQ8OOLzSOS_ttDFrxpZ3fC7uSoXS0y6lWRGTgsr1v-xPYao',
+    appId: 'com.whatsphone.messenger.im',
+    url: 'https://play.google.com/store/apps/details?id=com.whatsphone.messenger.im&hl=en&gl=us'
+  },
+  {
+    title: 'Obd Harry Scan - OBD2 | ELM327 car diagnostic tool',
+    installs: 955054,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/HaPn8O7TNLTDN5PbPw-Gd1aq3mvTfrudkh9ov3DqNQebQ8a5HVTaNxXsgMXWXY-TAA',
+    appId: 'com.elm.obd.harry.scan',
+    url: 'https://play.google.com/store/apps/details?id=com.elm.obd.harry.scan&hl=en&gl=us'
+  },
+  {
+    title: 'TalkTT - Phone Call / SMS / Virtual Phone Number',
+    installs: 326350,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/bN8Bs46RczbxvDPTvfrKEMTOr4OVcU5znxJwkOKr6titunGwQDdGBLIxLQ3DcKL3aD0',
+    appId: 'com.talktt.mylogin',
+    url: 'https://play.google.com/store/apps/details?id=com.talktt.mylogin&hl=en&gl=us'
+  },
+  {
+    title: 'BIG Launcher',
+    installs: 1216656,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/BS-AaO4KZX9cMqbY9jelJapI7lMtG2xse05KwP6iHxDXHt8qNE5tLvj--guvogQ4ItA',
+    appId: 'name.kunes.android.launcher.demo',
+    url: 'https://play.google.com/store/apps/details?id=name.kunes.android.launcher.demo&hl=en&gl=us'
+  },
+  {
+    title: 'GO4YU Calling pozivi ka Srbiji',
+    installs: 78035,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/HFhgGRWb47JqAjA7U5KJAflMYC9QudUUXtuID-a70Em9DhUHEYwlJkAaABAbVYy-46k',
+    appId: 'com.go4yu',
+    url: 'https://play.google.com/store/apps/details?id=com.go4yu&hl=en&gl=us'
+  },
+  {
+    title: 'KingsConference',
+    installs: 124708,
+    genre: 'COMMUNICATION',
+    icon: 'https://lh3.googleusercontent.com/DwuHQ1ooFFqUIAMJ7FKCg_GVQeVFUCVCP3Xilw-fQUnWM2TkPEEviOYVqqLhyQYslyYg',
+    appId: 'com.newmedia.conference',
+    url: 'https://play.google.com/store/apps/details?id=com.newmedia.conference&hl=en&gl=us'
+  },
+  {
+    title: 'DroidSSTV - SSTV for Ham Radio',
+    installs: 5862,
+    genre: 'COMMUNICATION',
+    icon: 'https://play-lh.googleusercontent.com/YzmNgR4y3vji4crKw5T5rXNICvfx-T88deLUjCkSdmA6ZTeBh-Vu6XBcbp10G8ZlOg',
+    appId: 'com.wolphi.sstv',
+    url: 'https://play.google.com/store/apps/details?id=com.wolphi.sstv&hl=en&gl=us'
+  }
+]
