@@ -1,0 +1,1394 @@
+[
+  {
+    title: 'Be Closer',
+    installs: 17831137,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/_QuZLu0Kc1ixhf1OK697AOskPeVElcU_oMVbrAozh0542RPYOsSdaM0-vC814sRira0',
+    appId: 'com.becloser',
+    url: 'https://play.google.com/store/apps/details?id=com.becloser&hl=en&gl=us'
+  },
+  {
+    title: 'Speech Blubs: Language Therapy',
+    installs: 904013,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/AKg6860DgpPU0s9glnkUBucdyZQT98ZQecOsULBndZXd4ZwaiBOse1b1iYz_VUnMBEM',
+    appId: 'org.blubblub.app.speechblubs',
+    url: 'https://play.google.com/store/apps/details?id=org.blubblub.app.speechblubs&hl=en&gl=us'
+  },
+  {
+    title: 'MMGuardian Parental Control App For Parent Phone',
+    installs: 1564993,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/XDbzjZTJKvfqMiXx_no27w7J9vfZQGP2IG8NFj9LoAETvWNwvxIdvSkEFEQ7uoEpc60',
+    appId: 'com.mmguardian.parentapp',
+    url: 'https://play.google.com/store/apps/details?id=com.mmguardian.parentapp&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Kids: Child Cell Phone Location Tracker',
+    installs: 22861461,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/KsRARocBMhwOzBoRIryNvKFYCs1QMM8hVZOKMydUlTp101gSV54ib_MWS8IbO7nbsaAk',
+    appId: 'org.findmykids.app',
+    url: 'https://play.google.com/store/apps/details?id=org.findmykids.app&hl=en&gl=us'
+  },
+  {
+    title: 'Family Spots',
+    installs: 897514,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ynBBPHPl2d4EElb7bMuh1zelNyyr7iitYVjA-eK3WbjebMOl6aQllnSHM6XPd64QFpk',
+    appId: 'app.familyspots',
+    url: 'https://play.google.com/store/apps/details?id=app.familyspots&hl=en&gl=us'
+  },
+  {
+    title: 'Spotline',
+    installs: 3307446,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Kon1-ksJS9uiQ1vNRu4UZUTPIrIu4HywCGWDKgf68IPdTVv3cvewcTib1rEQA3uVIyE',
+    appId: 'com.famspotline',
+    url: 'https://play.google.com/store/apps/details?id=com.famspotline&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control App & Location Tracker - FamiSafe',
+    installs: 1268492,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/FRom7wRzCzfqQtcIqEm0cslhinBGfQgl5HolqbK_c_V2q-f-jWvOYqCch-Eqz9yW8fuc',
+    appId: 'com.wondershare.famisafe',
+    url: 'https://play.google.com/store/apps/details?id=com.wondershare.famisafe&hl=en&gl=us'
+  },
+  {
+    title: 'BackThen - Baby milestone & private photo album',
+    installs: 93932,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/bbdar0uuQw2JkIhIM9eV9l_4tybBkiL6wGe7Q5J5IBxP_u_wpD87oHeI3sV86riqWY8',
+    appId: 'com.backthen.android',
+    url: 'https://play.google.com/store/apps/details?id=com.backthen.android&hl=en&gl=us'
+  },
+  {
+    title: 'BabySparks - Development Activities and Milestones',
+    installs: 2601760,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/cqGT8c8JskwX4Z6hPMBZKTfry2ykbjTwgmpSB5uyiJZqcY5jB-rHTF32gWxwWJ_Z8g',
+    appId: 'com.babysparks.babysparks',
+    url: 'https://play.google.com/store/apps/details?id=com.babysparks.babysparks&hl=en&gl=us'
+  },
+  {
+    title: 'My Family - Family Locator',
+    installs: 3336184,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/W3wW1DUjqRj2ZvQzCc07ckuJURDGD2lG0AEbavHdNyQnLpmOd8BmfPGK3uh5YF6V_Ps',
+    appId: 'family.tracker.my',
+    url: 'https://play.google.com/store/apps/details?id=family.tracker.my&hl=en&gl=us'
+  },
+  {
+    title: 'Kinedu: Baby Developmental Activities & Milestones',
+    installs: 3962004,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Og6Wx7Z-1im6FgU2EgT2J98i5JALzJbO4AdOlqG6ypQDaCP8wgVvAhFP70AEpkoGqAU',
+    appId: 'com.kinedu.appkinedu',
+    url: 'https://play.google.com/store/apps/details?id=com.kinedu.appkinedu&hl=en&gl=us'
+  },
+  {
+    title: 'FamilyAlbum - Easy Photo & Video Sharing',
+    installs: 4400915,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/pmHzNLe6eQoKUJCu0v9Tg7XpCqT2onfrsaNehw78JoGSsUwovJejZFPdl3L6ePERIlk',
+    appId: 'us.mitene',
+    url: 'https://play.google.com/store/apps/details?id=us.mitene&hl=en&gl=us'
+  },
+  {
+    title: 'Peekaboo Moments – Babybook, memories & moments',
+    installs: 1238882,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/JbfVLX_unPfvnLFsf6WKdOsUoOT79leXqsyT-xglduvHlk4KZVmWBgHzJ8g8y7F5oYw',
+    appId: 'com.liveyap.timehut',
+    url: 'https://play.google.com/store/apps/details?id=com.liveyap.timehut&hl=en&gl=us'
+  },
+  {
+    title: 'Qustodio Parental Control App',
+    installs: 4228,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ILyrop0OvRzXqNT2SnfoCZ4P7NWQUlETx2lS5yxGESafmFPifp1HGmf7u2MwyckjUqdW',
+    appId: 'com.qustodio.family.parental.control.app.screentime',
+    url: 'https://play.google.com/store/apps/details?id=com.qustodio.family.parental.control.app.screentime&hl=en&gl=us'
+  },
+  {
+    title: 'GLOW. Pregnancy & Baby Tracker',
+    installs: 972132,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/gl90jcmcllbj_plLDgNO2YgaoJwV0gOJ4l2c9T_8ZG-STWjQ9bsVhpI7Ul0cgiKSFA',
+    appId: 'com.glow.android.nurture',
+    url: 'https://play.google.com/store/apps/details?id=com.glow.android.nurture&hl=en&gl=us'
+  },
+  {
+    title: 'Dynamo - Successful Kids. Effortlessly.',
+    installs: 230548,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/-r1j2reMBaOSWjrMVjicWSvZYL0DMZifouBTm-5dEBafKTJsCHOWPArHuzjzJdOaqhr_',
+    appId: 'fyi.dynamo.parents',
+    url: 'https://play.google.com/store/apps/details?id=fyi.dynamo.parents&hl=en&gl=us'
+  },
+  {
+    title: 'coParenter - The #1 coParenting App',
+    installs: 57997,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/O0S5V4q7Q6pnujb5KQbZHEJ6DRu7ca4vIiTJcVle9XnQ1eTp366s1YgIkpgYACKOmy8',
+    appId: 'com.coparenter.coparenterandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.coparenter.coparenterandroid&hl=en&gl=us'
+  },
+  {
+    title: 'GLOW. Baby Tracker & Feeding, Diaper, Sleep Log',
+    installs: 394079,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/EV6Z0bMgcN8YG8uGA2PYsaHgXE88fqIZZ6f_ynfYk0ILNO0NgQZWVl9WP5khilImOCk',
+    appId: 'com.glow.android.baby',
+    url: 'https://play.google.com/store/apps/details?id=com.glow.android.baby&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Monitor Saby. 3G & Wifi video Babymonitor',
+    installs: 478880,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/zkRfzA9GROlmXQguisA17bL57uOdarMsxd4Y7zD-ZM0vMAFE549Dv2S0rmKrPodXbfkN',
+    appId: 'com.saby.babymonitor3g',
+    url: 'https://play.google.com/store/apps/details?id=com.saby.babymonitor3g&hl=en&gl=us'
+  },
+  {
+    title: 'Sentry Parental Control',
+    installs: 516943,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/QSbfkHsdXopW-OiXF0lUqmQtsrjrGHhgyleEZotCoZ_AOUODU-FgHUhojQ1O9s9CG2w',
+    appId: 'com.sentry.parental',
+    url: 'https://play.google.com/store/apps/details?id=com.sentry.parental&hl=en&gl=us'
+  },
+  {
+    title: 'Boomerang Parental Control - Screen Time app',
+    installs: 102548,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/yrgXGgyf4COGyuZGr7cTCZhNm5DIvCShibGzdhL5Q6wY7o2juhPEhnfoJdJkrKC9CqQe',
+    appId: 'com.nationaledtech.Boomerang',
+    url: 'https://play.google.com/store/apps/details?id=com.nationaledtech.Boomerang&hl=en&gl=us'
+  },
+  {
+    title: 'Just a Baby - Find Co-parents, Egg & Sperm Donors',
+    installs: 45697,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/rzwJGznWN09JSpbFLuvX7b7nYDstzj64DSIdB9MZvFWeFuCs6-JzMXWrkzXtQqoERQ',
+    appId: 'co.justababy.app',
+    url: 'https://play.google.com/store/apps/details?id=co.justababy.app&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Connect (activity log)',
+    installs: 123719,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ABLKr7S1v1FLux-wUpzV2AaQvLS8KyBtecBL7R9fI5_0lDftAQ5AQozymEMIsYeaYnbD',
+    appId: 'com.seacloud.bc',
+    url: 'https://play.google.com/store/apps/details?id=com.seacloud.bc&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Daybook - Newborn Tracker. Breastfeeding log.',
+    installs: 1304417,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/l-GvnexX8u528P4xlmgoND0gL80VesMkYbpZb7tqmVg4Moj49y5QRAm50CwMcbEFag',
+    appId: 'com.drillyapps.babydaybook',
+    url: 'https://play.google.com/store/apps/details?id=com.drillyapps.babydaybook&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control & Kids GPS: Kaspersky SafeKids',
+    installs: 1783552,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ZfZdB_9E6PuAoIqb5jb2R249u7mQ9zO53dflNfVaVQaTwWGt5DG4gfE3bRnvtdwOAi0',
+    appId: 'com.kaspersky.safekids',
+    url: 'https://play.google.com/store/apps/details?id=com.kaspersky.safekids&hl=en&gl=us'
+  },
+  {
+    title: 'Playfully Baby Development Activities & Milestones',
+    installs: 71890,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/8e-kYvnRtCjiJQJPprUmhR8MA8Kn1zIZMMLPvGEOTpUZmnMX6kBouJOqP_8ZNq4kmw',
+    appId: 'com.playfullyapp.playfully',
+    url: 'https://play.google.com/store/apps/details?id=com.playfullyapp.playfully&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control : Screen Time & Location Tracker',
+    installs: 75559,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/YbxOL0A40FQxRMOom7b795IiY6_B71RszfleLdJzmIh0cgW0-HKdGl88wKbR_z2lsGc',
+    appId: 'com.bitguardian.parentalcontrol',
+    url: 'https://play.google.com/store/apps/details?id=com.bitguardian.parentalcontrol&hl=en&gl=us'
+  },
+  {
+    title: 'ParentLove: Baby Tracker Feedings Diapers Pumping',
+    installs: 66053,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/OuujWbJd5N-cl6rXZGFdqp6wOyr6YogIxR6mizTHvLhTbFUFkAXNweQJbk-tyCvLMWg',
+    appId: 'com.coquisoft.parentlove',
+    url: 'https://play.google.com/store/apps/details?id=com.coquisoft.parentlove&hl=en&gl=us'
+  },
+  {
+    title: 'Allowance & Chores Bot',
+    installs: 31153,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/owywZhKhcvUm76GoJ5fLUA1lll6_zjJN91XJRQGcX4n6pJKXruvQSS6ON414JVDP_OAs',
+    appId: 'com.wingboat.AllowanceBot',
+    url: 'https://play.google.com/store/apps/details?id=com.wingboat.AllowanceBot&hl=en&gl=us'
+  },
+  {
+    title: 'Teen Time - Parental Control, Screen Time & GPS',
+    installs: 106824,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/vG0APF7LOaLNQGRh73g2pFjDH0yb0MPw5pBCBTT-RBp6cQfhhdLg3TxK_ZHfTTIM7CII',
+    appId: 'com.teentime.parent',
+    url: 'https://play.google.com/store/apps/details?id=com.teentime.parent&hl=en&gl=us'
+  },
+  {
+    title: 'Color Art:Paint by Number&Color by Number for Free',
+    installs: 56422,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/79CNXxfpV-YFz3rsioUk4FbFtr1dtuvCnHJ1Sqa_bjFFoL7rbnJbj9q0pdh60aI9tjI',
+    appId: 'com.paint.by.number.pixel.art.coloring.pages',
+    url: 'https://play.google.com/store/apps/details?id=com.paint.by.number.pixel.art.coloring.pages&hl=en&gl=us'
+  },
+  {
+    title: 'Keepy - Save Artwork and Birthday Memories',
+    installs: 153289,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/COqelrbqNg2l6qwKMvKqgT1TUX81HD-SZHsbq0YWWxi91inlyidht0vZvW6vNvE9I58',
+    appId: 'me.keepy',
+    url: 'https://play.google.com/store/apps/details?id=me.keepy&hl=en&gl=us'
+  },
+  {
+    title: 'Pure Web - The First Porn Blocker',
+    installs: 164353,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/I87ssSYRtpLKtzNy7YiU8lRI0-yjoiMB4x9Z8F-SGH0VGkLKIEwbQ7x72Utzl7qpOxK4',
+    appId: 'com.msw.pornblocker',
+    url: 'https://play.google.com/store/apps/details?id=com.msw.pornblocker&hl=en&gl=us'
+  },
+  {
+    title: 'ESET Parental Control',
+    installs: 733721,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/KnFSfLkZYicHH6OsYds91guWtq6yCiJh4Jh_7AtBrP7Zn2ZixT6_ypnCj09QwaSISeON',
+    appId: 'com.eset.parental',
+    url: 'https://play.google.com/store/apps/details?id=com.eset.parental&hl=en&gl=us'
+  },
+  {
+    title: 'Adult Block - The Best Porn Blocker',
+    installs: 1159728,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/5sAmu1XIUUqj6hwfp6MucMGKoTP-wRXEX1WxvhLcDFXi-vEn-jL-aPjO4_bjJn6YAkMc',
+    appId: 'com.mw.adultblock',
+    url: 'https://play.google.com/store/apps/details?id=com.mw.adultblock&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control Kroha - screen time, kids mode',
+    installs: 433178,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/vcWWo0aP6vKJcT69ghiwRB02u3HEv6E_uGHQPJshw0LW8BWmFl_y1AvugpA2gfmPWg',
+    appId: 'ua.com.tim_berners.parental_control',
+    url: 'https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control&hl=en&gl=us'
+  },
+  {
+    title: 'Kid security - GPS phone tracker, family search',
+    installs: 386047,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/vgbpzEbbHHW86QZjnFPNxvCszH94GSaxHcKnyZHyq5I5VHZOdhBI68ajF8l10r0C4Oo',
+    appId: 'kz.sirius.kidssecurity',
+    url: 'https://play.google.com/store/apps/details?id=kz.sirius.kidssecurity&hl=en&gl=us'
+  },
+  {
+    title: 'Jiminy Parental Control App',
+    installs: 49352,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/2sFwkcFHNCAcm-o_VLrKTmlmWzLV-i2P-b5BId2ZTkMFNxgN0wcUB6cD6ZvTo9K7wg',
+    appId: 'me.jiminy.child',
+    url: 'https://play.google.com/store/apps/details?id=me.jiminy.child&hl=en&gl=us'
+  },
+  {
+    title: 'GeoLocator — Family Tracker + Baby Monitor Online',
+    installs: 597151,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/MASrWeogUIbOltlYMTEbzEg38awQeWKuEDx2CF_2oQkBP_wnfCGuVlsF1jVPEmobOSpb',
+    appId: 'app.geoloc',
+    url: 'https://play.google.com/store/apps/details?id=app.geoloc&hl=en&gl=us'
+  },
+  {
+    title: 'Little Stories. Read bedtime story books for kids',
+    installs: 588960,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/VwMVJsT17lL_XnBHTTAhfsaesDAR13kqmEivdNPOcEcxwV-3y6MVNg6Pev8J1Ij2ccq_',
+    appId: 'com.diveomedia.little.stories.bedtime.books.kids',
+    url: 'https://play.google.com/store/apps/details?id=com.diveomedia.little.stories.bedtime.books.kids&hl=en&gl=us'
+  },
+  {
+    title: 'Pregnancy + tracker',
+    installs: 23439436,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/JTkbcWjwjDemJkmNOyDd1LGiuik3GI45XV7vDv_J0T7uZgsMfzGaZcq22TTkkhaDSjxb',
+    appId: 'com.hp.pregnancy.lite',
+    url: 'https://play.google.com/store/apps/details?id=com.hp.pregnancy.lite&hl=en&gl=us'
+  },
+  {
+    title: 'Text Monitoring Parental Control App: SaferKid',
+    installs: 62841,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/VaoP9D4E5Q-Y_s6yxkLSg3cwU6PsTOPM1DTBb9w16inaBFxAApNDGfItzJIdRZPdbOk',
+    appId: 'com.saferkid.parentapp',
+    url: 'https://play.google.com/store/apps/details?id=com.saferkid.parentapp&hl=en&gl=us'
+  },
+  {
+    title: 'Pregnancy Tracker Week by Week',
+    installs: 2215424,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/JwzQ0Qggwr1Njmt3zVKz-7D0WrEfi3ZHc7yNG6T-bjygqpcXPN4yibwaKHmSwdfvOwk',
+    appId: 'com.wachanga.pregnancy',
+    url: 'https://play.google.com/store/apps/details?id=com.wachanga.pregnancy&hl=en&gl=us'
+  },
+  {
+    title: 'Homey - Chores and Allowance',
+    installs: 50090,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/wgpNAD_QjuyRg8W9L2sv4M9GO_JX9ti2lb9E5FxTK4EyKDj3bbbU-E_lZCcj0m53nlo',
+    appId: 'com.homey.app',
+    url: 'https://play.google.com/store/apps/details?id=com.homey.app&hl=en&gl=us'
+  },
+  {
+    title: 'Storybook - Bedtime Stories & Baby Sleep Massage',
+    installs: 465577,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/MJ395vpWLTAn3qdMYMsRa6XBsfRtNsiG_l7eYuuwLrMD8LY1G1l2adfTgIy2HmPWaTY',
+    appId: 'app.storybook.story',
+    url: 'https://play.google.com/store/apps/details?id=app.storybook.story&hl=en&gl=us'
+  },
+  {
+    title: 'SoaringSafe Parental Control App and App Blocker',
+    installs: 6842,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/8J9sc9tZOlzLRB-KZvBlxfum44db5Qr0YNwU-d-EPKgoQs-6464x2tzV51mOzO5Z7Q',
+    appId: 'com.ionic.soaringsafe',
+    url: 'https://play.google.com/store/apps/details?id=com.ionic.soaringsafe&hl=en&gl=us'
+  },
+  {
+    title: 'Family locator / GPS location - Locator 24',
+    installs: 608660,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/1njknMBnuBU8ItogoQcQ5g7_VBR1qXhTkaAeCnKpCM25A7bp6KnrQFJBySKjyWb6Q0E',
+    appId: 'locator24.com.main',
+    url: 'https://play.google.com/store/apps/details?id=locator24.com.main&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Monitor 3G - Video Nanny & Camera',
+    installs: 248353,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/9xe4YOmFtbeWVait2eDDeUcmAn7DSeoYX3WZR4An97Qz2iwt_I6o4PHR7kUNjVBFH6hi',
+    appId: 'com.tappytaps.android.babymonitor3g',
+    url: 'https://play.google.com/store/apps/details?id=com.tappytaps.android.babymonitor3g&hl=en&gl=us'
+  },
+  {
+    title: 'HiMommy - Pregnancy Tracker App',
+    installs: 450167,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/voOq-hanzzT0IDfOXKJPAVYE604Jiw-8MxAjtQis_FSXU8FM6J_MGmUt_50cqbyrk3E',
+    appId: 'androidgecko.com.himommy',
+    url: 'https://play.google.com/store/apps/details?id=androidgecko.com.himommy&hl=en&gl=us'
+  },
+  {
+    title: 'Annie Baby Monitor: Video Audio Nanny Cam 3G WiFi',
+    installs: 44229,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/AdrH4sn-TAX7fZ9YDSEJo-JsJ_P2vtVcMUX1fEqMQC34pusBFr-ZiGpxW2FzLB9eflg',
+    appId: 'cz.masterapp.annie3',
+    url: 'https://play.google.com/store/apps/details?id=cz.masterapp.annie3&hl=en&gl=us'
+  },
+  {
+    title: 'Safe Surfer: Porn Filter and App Blocker',
+    installs: 485977,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/hJPS3eyxf-KN_0Q8bpxz4COx_4YRVUZUCssdMkemTcb1MQCC8W4wHu-AiJWiM7FUQ4wy',
+    appId: 'com.safesurfer',
+    url: 'https://play.google.com/store/apps/details?id=com.safesurfer&hl=en&gl=us'
+  },
+  {
+    title: 'Sex Offender Search',
+    installs: 5608787,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/s_x-SimZXfRFDOs-P4u1RJIiS5NHAKE8hicC0cv9xR_Vtxx9ylOJFSJpkEJcnmJr-J4',
+    appId: 'com.fsp.android.h',
+    url: 'https://play.google.com/store/apps/details?id=com.fsp.android.h&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Tracker - Newborn Feeding, Diaper, Sleep Log',
+    installs: 1406354,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/2mPGobAXoK_eQqvqS6RfTBug1v8AnEeUevuFSNhDqRUzTo_bp16d4J9pqC0noDHXt1Hu',
+    appId: 'com.nighp.babytracker_android',
+    url: 'https://play.google.com/store/apps/details?id=com.nighp.babytracker_android&hl=en&gl=us'
+  },
+  {
+    title: 'Feed Baby - Baby Tracker',
+    installs: 2082730,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/WL8VEBl99k9HEE3b63FYNUwA9VLIZ8snJ5P0-2N_gEdZ3dQWApnQsdfryAKDsUsZOi-o',
+    appId: 'au.com.penguinapps.android.babyfeeding.client.android',
+    url: 'https://play.google.com/store/apps/details?id=au.com.penguinapps.android.babyfeeding.client.android&hl=en&gl=us'
+  },
+  {
+    title: 'Tooth Fairy CAMERA',
+    installs: 71686,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/3Wp9mrEIQmU6w3OkcsiEUMhI9dWJWRdBmQxCWrn1MuykGGUD9ij6zboNbU4FqVXxcQ',
+    appId: 'dk.superfilm.toothfairycameraandroid',
+    url: 'https://play.google.com/store/apps/details?id=dk.superfilm.toothfairycameraandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Family Zone Parental Controls',
+    installs: 127628,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/eI3BJhkkm9OODhw3fm0nqGRLKupQxkPy3NF3tqNEuF-u8e9_yRnhyG1A10OeVRIzOkY',
+    appId: 'au.com.familyzone',
+    url: 'https://play.google.com/store/apps/details?id=au.com.familyzone&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control Screen Time Website Blocker',
+    installs: 129444,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/7oanA5NMkf3cUwwiem3j8sKblAOco7c8F9chm5dbUpneavHwcA9BaT5mRrEDvThQOXQ',
+    appId: 'com.locker.kids',
+    url: 'https://play.google.com/store/apps/details?id=com.locker.kids&hl=en&gl=us'
+  },
+  {
+    title: 'Child Reward - chores, rewards and statistics',
+    installs: 43044,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/QyVIS5iRwehjrZS8znBhYVjJRHHRNFruu53RXuv1HVTBmyV7q6ZKNEmEfYu2wgZA_O6d',
+    appId: 'com.childreward',
+    url: 'https://play.google.com/store/apps/details?id=com.childreward&hl=en&gl=us'
+  },
+  {
+    title: 'Family GPS tracker KidsControl',
+    installs: 1213423,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/kI_i3VPyAIurHgujIoH8uXf3acLPBJhEHx446BQXYaeKsej_i4mlGZjkMj6Y6D0rxA',
+    appId: 'app.gpsme',
+    url: 'https://play.google.com/store/apps/details?id=app.gpsme&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Tracker. Breastfeeding Tracker. Newborn 👶',
+    installs: 1609534,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/C7gpONqROpgq-pKZLgfgIwO3XrYhBH3idRCez3WLiH8HYotmjdHCZQxxjpOAJ03lO166',
+    appId: 'com.wachanga.babycare',
+    url: 'https://play.google.com/store/apps/details?id=com.wachanga.babycare&hl=en&gl=us'
+  },
+  {
+    title: 'Zoemob Family Locator',
+    installs: 6274675,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/eWbGcXc-AzA2vVg1LDNKTa-UJL7EK-WK21KKrlkma5gN_7NHckx5xB2oJdPeTv7sX6w',
+    appId: 'com.zoemob.gpstracking',
+    url: 'https://play.google.com/store/apps/details?id=com.zoemob.gpstracking&hl=en&gl=us'
+  },
+  {
+    title: 'Canopy - Parental Control App',
+    installs: 918,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/qS4sxD9eIHvLRj1NhRhOzIIEnSU0HA1KKgucWOx6n8VHTf4YlgvFsWt0_KxwQcY_LWC8',
+    appId: 'com.canopy.vpn.filter.parent',
+    url: 'https://play.google.com/store/apps/details?id=com.canopy.vpn.filter.parent&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Log (Stash, Nurse, Growth, Sleep, Feed)',
+    installs: 52107,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ydZY8fskSbCg5WnUoY9WIL_mTDjWy-Rn4WOp9E6v2SVgb8B8i3Z5prr1h6HK7hKK-A',
+    appId: 'com.compass.babylog',
+    url: 'https://play.google.com/store/apps/details?id=com.compass.babylog&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Zone - Keep your toddler busy and lock phone',
+    installs: 127018,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Y_tZdgAzjyplNeLXFzMs5RthQ7zsPOZ0W_4ADJ6HsIxiIvk983nyqa79RnVAgphxATh5',
+    appId: 'eu.vrseeds.BabyZone',
+    url: 'https://play.google.com/store/apps/details?id=eu.vrseeds.BabyZone&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Monitoring of Adult Images. Alerts & Pics',
+    installs: 187,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/P6kYvFL-ujyeG7aiTGgwREvYACro_8Rp7k-sDkrs6XHBdruaFDIZ4D481ODOQ4jKwq0',
+    appId: 'com.blueoceanaustin.pma.live',
+    url: 'https://play.google.com/store/apps/details?id=com.blueoceanaustin.pma.live&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Night Light: Instant Sleep Aid & White Noises',
+    installs: 1286941,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/CugzIU-uvrTq04s9hf3DHAuiLtCJ1cLMqeI-oobNKVICYClmQ5q21BDmbVDIa_hPMkOX',
+    appId: 'com.bipfun.nightlight',
+    url: 'https://play.google.com/store/apps/details?id=com.bipfun.nightlight&hl=en&gl=us'
+  },
+  {
+    title: 'Forcefield for Parent Device',
+    installs: 49435,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/q4Jszqs6F2k2GE0OwArbPmQTNYwM1zjMx5lY-yRJDObxfFCeCCQ2ED_aIQxqGvFxi7ph',
+    appId: 'com.parentdashboardnative',
+    url: 'https://play.google.com/store/apps/details?id=com.parentdashboardnative&hl=en&gl=us'
+  },
+  {
+    title: 'Potty Whiz: Potty Training Assistant',
+    installs: 37502,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/MI5cURnEQOEcs4u7kfWFn--fqsNNaacwqkwnAIGhm20ZzcUv0D1nurWF8yOADGzfJz0',
+    appId: 'app.kidplay.pottywhiz',
+    url: 'https://play.google.com/store/apps/details?id=app.kidplay.pottywhiz&hl=en&gl=us'
+  },
+  {
+    title: 'Sound Sleeper - White Noise',
+    installs: 557259,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/JOlSQxngnnsIRB1Ko1ogaUpRd2FY5S5JlfJXP5jen_sIAPd6i0T9-XoriDIS33y6KAM',
+    appId: 'by.si.soundsleeper.free',
+    url: 'https://play.google.com/store/apps/details?id=by.si.soundsleeper.free&hl=en&gl=us'
+  },
+  {
+    title: 'Breastfeeding - Baby Tracker',
+    installs: 433743,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/hpTeviMAeJv7YQXNagkMcDQB4JRB89oKeOvAERFNQeTTvJ4DxOFrTJaGlg5zawnItBMf',
+    appId: 'droso.application.nursing',
+    url: 'https://play.google.com/store/apps/details?id=droso.application.nursing&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Feed Timer, Breastfeeding',
+    installs: 59483,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/XZ0K_GfZkZIpHVnRIwSYpIPuQ4oJYXeClNWdqxb7WCkQXJxR6h-tCV2u_ggqd0MZ5a4',
+    appId: 'com.fehnerssoftware.babyfeedtimer',
+    url: 'https://play.google.com/store/apps/details?id=com.fehnerssoftware.babyfeedtimer&hl=en&gl=us'
+  },
+  {
+    title: 'HiDaddy - Dads Pregnancy Guide',
+    installs: 5348,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/aqEHLavsRUMyZaT_kcne3-HB4dNhVsXcMdwpU452v3linjcNHlQ7WJoaKFSv0J02-UA',
+    appId: 'com.hifamily.hidaddy',
+    url: 'https://play.google.com/store/apps/details?id=com.hifamily.hidaddy&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Sleep PRO 🍼',
+    installs: 44283,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/JniFkuEgTc9dVmj8-hM8eDdhqfmb-LgNxK2q-l08xc7NZgiLMoIXDNXDC2Z-u3Q7yRmR',
+    appId: 'com.urbandroid.babysleep.unlock',
+    url: 'https://play.google.com/store/apps/details?id=com.urbandroid.babysleep.unlock&hl=en&gl=us'
+  },
+  {
+    title: 'Panda Bubble Rescue Garden',
+    installs: 104971,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/lKQceBupO1GdWOGkAgUDyDDtJ7CwMtiRbSx3yawjbqvdTIzl9NSFExLlm-gsuPYz4zo',
+    appId: 'f2game.bubbleshooter.pandapop',
+    url: 'https://play.google.com/store/apps/details?id=f2game.bubbleshooter.pandapop&hl=en&gl=us'
+  },
+  {
+    title: 'BLW Brasil - Introdução Alimentar e Receitas Bebês',
+    installs: 72068,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/RX2kZ9hIjUr866HG81I2cpOnL1Y95EY__0gV_8GiZb-6gQJzRCZoRZYytL8fpti8Q3w',
+    appId: 'com.e8c5a3102a45.app',
+    url: 'https://play.google.com/store/apps/details?id=com.e8c5a3102a45.app&hl=en&gl=us'
+  },
+  {
+    title: 'Dormi - Baby Monitor',
+    installs: 2037141,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/XU6VaeqqE7iKV4adL3Ukr11Rzovnc2V8iFLSNcCx24t9LlraJUA2m6wyV2BS0l9qF_wN',
+    appId: 'com.sleekbit.dormi',
+    url: 'https://play.google.com/store/apps/details?id=com.sleekbit.dormi&hl=en&gl=us'
+  },
+  {
+    title: 'Thumsters',
+    installs: 10413,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/yka8WaRh2W70XZ3V0e_rY5_wWJe7Yz-c_dukyPuI6Vw17t-y0bL1nwWiqcpvPCtA9WEd',
+    appId: 'com.koben.thumbs',
+    url: 'https://play.google.com/store/apps/details?id=com.koben.thumbs&hl=en&gl=us'
+  },
+  {
+    title: 'FamilyKeeper Parent',
+    installs: 33269,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/dA6xTuhjkf-aUKDZ0O1FB_yb6x-NzrcbEeAV5LBlw6n25WLkFEDPDZbvx_6vwkjeAkY',
+    appId: 'co.familykeeper.parents',
+    url: 'https://play.google.com/store/apps/details?id=co.familykeeper.parents&hl=en&gl=us'
+  },
+  {
+    title: 'Littlehoots',
+    installs: 4827,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/3v7UiULcIaO-dU2gSw38rknkAyfBhRDklibG0zh3-l3bXgBnIo85hUQgtbG1QmSN0Mk',
+    appId: 'com.littlehoots.littlehoots',
+    url: 'https://play.google.com/store/apps/details?id=com.littlehoots.littlehoots&hl=en&gl=us'
+  },
+  {
+    title: 'Kiddy - Reward Kids For Good Behavior - Parenting',
+    installs: 5604,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/tbsrMRHFv7YQ9d01nmMboBBeqk9ADuqw1RsNBJxnpLHgTc25Hwk26XN3kPf5XYQf-kYk',
+    appId: 'com.kiddy.kiddy',
+    url: 'https://play.google.com/store/apps/details?id=com.kiddy.kiddy&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Manager - Breastfeeding Log and Tracker',
+    installs: 450503,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/WiDtWv4iyikE0P9l6ROBYbED6WpBxHFGdD957oA9tR84ebb-2ok0JsFbrI_LJ-LTVKI',
+    appId: 'innmov.babymanager',
+    url: 'https://play.google.com/store/apps/details?id=innmov.babymanager&hl=en&gl=us'
+  },
+  {
+    title: 'DairyBar',
+    installs: 993,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/8flgFTi4A24fqJtHiihzG4w6gFMTBnod9shP0xasdHH9CPvUmzYlbO1xbXRbU8uuTCY',
+    appId: 'com.JLB.DairyBar',
+    url: 'https://play.google.com/store/apps/details?id=com.JLB.DairyBar&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Mode - Child lock & Time limit | Screen Time',
+    installs: 30945,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/KbzlAIwAOugeKPgTgl55m9eggciLRCqOTaN7RGgSwS6jiAJHeRsNhV1F3RjOzLqPPv0f',
+    appId: 'com.kidzoye.parentalcontrol',
+    url: 'https://play.google.com/store/apps/details?id=com.kidzoye.parentalcontrol&hl=en&gl=us'
+  },
+  {
+    title: 'BabyTime (Parenting, Track & Analysis)',
+    installs: 1075399,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Gd5_GuS3UgeodEjSms4idMt3aPaTYMXwjw9MnR8JD10QtmGg-mI3p2Yk4R1o8A7du4Q8',
+    appId: 'yducky.application.babytime',
+    url: 'https://play.google.com/store/apps/details?id=yducky.application.babytime&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Monitor: Video Baby Cam for Parents & Nanny',
+    installs: 131604,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/u0HZkTH0Tl6KzPBQfdxl3Z0JkmAUHGdqq8hJ-T5vMPjHg8WM5ZmpSJbBaclVi5FGMGXg',
+    appId: 'com.bipfun.babymonitor',
+    url: 'https://play.google.com/store/apps/details?id=com.bipfun.babymonitor&hl=en&gl=us'
+  },
+  {
+    title: 'Souletics® TV',
+    installs: 212,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/VBfUwaKV_Z7jW7zDd0Yj5qWv4bflRE8rSxuAxdv_FxbHL2a6Cqg3KHXCArcXQslE1g',
+    appId: 'com.souletics',
+    url: 'https://play.google.com/store/apps/details?id=com.souletics&hl=en&gl=us'
+  },
+  {
+    title: 'Moms on Call Scheduler',
+    installs: 3275,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/U-B5dT9es8x69-4zxk-_nm6wGRzBWo_CrN7QP4VqOXNM8Y1HYGY77dmPpIhi0wctqQo',
+    appId: 'com.momsoncall.scheduler',
+    url: 'https://play.google.com/store/apps/details?id=com.momsoncall.scheduler&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler Learning Games For Kids 2-5 Years Olds',
+    installs: 55813,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/j9AkJJANSOQk2-VBf9cM6_WxNBy3aLQDmxqpVgZRQ_gn1SOQJomi9KPNayvyb7NLnZw',
+    appId: 'com.tt.sensorylearning.kidseducation.toddlergames.learningapps',
+    url: 'https://play.google.com/store/apps/details?id=com.tt.sensorylearning.kidseducation.toddlergames.learningapps&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Names / First Names 2020',
+    installs: 699638,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/GXdj0JkS5TMWXFy3Jw4Gj3WooysTGeA7w40UQIglwo5L7O2N2_ECGXEDz10zsZWicqI',
+    appId: 'com.charlie_names.charlies_names',
+    url: 'https://play.google.com/store/apps/details?id=com.charlie_names.charlies_names&hl=en&gl=us'
+  },
+  {
+    title: 'BabyCam - Baby Monitor Camera',
+    installs: 1162916,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/tUdXYGgYM49BCuaGT8JKJJR5Os1UwHan3JHPU2DOjYZP1xIQP1GYTCbrQo0K9m5tiSc',
+    appId: 'com.arjonasoftware.babycam',
+    url: 'https://play.google.com/store/apps/details?id=com.arjonasoftware.babycam&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Launcher - Parental Control and Kids Mode',
+    installs: 111169,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/qp7RSgPSYVv6JpD2s1jTI73Hbu122cxOfZw4fG_XwgISw3gQpCKE9sHRR6ScKip37g',
+    appId: 'com.kidslauncher',
+    url: 'https://play.google.com/store/apps/details?id=com.kidslauncher&hl=en&gl=us'
+  },
+  {
+    title: 'BLW Ideas - Introducción de Alimentos y Recetas',
+    installs: 31577,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/kc3LpF4Zq05AMoS8d3p_QBlhx57yHb_0CRk5qKzWOY5tc5fUZ9Jge6lzaLd6grjQ6Q',
+    appId: 'com.rdcbca80b3d2.www',
+    url: 'https://play.google.com/store/apps/details?id=com.rdcbca80b3d2.www&hl=en&gl=us'
+  },
+  {
+    title: 'The Short Years Baby Book',
+    installs: 18991,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/nouPxlWWk3U0VPw9CghC1XGqOAq9lGUxIKDl8_v9kZGIbppQd4gkBvDtFLcrAp7Uhls',
+    appId: 'com.unboundapplications.theshortyears',
+    url: 'https://play.google.com/store/apps/details?id=com.unboundapplications.theshortyears&hl=en&gl=us'
+  },
+  {
+    title: 'Tootsie - Baby Photo Editor - Pregnancy Pics Track',
+    installs: 19665,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/0yUxycuph3o-GaJyrhJa_t8YIwOeDpvmLBgfrZCSV1GMus25EII4mSO5o_a38FZ7aT45',
+    appId: 'baby.babyphoto.photo.editor.photoeditor.totsie.tootsie.story',
+    url: 'https://play.google.com/store/apps/details?id=baby.babyphoto.photo.editor.photoeditor.totsie.tootsie.story&hl=en&gl=us'
+  },
+  {
+    title: 'Woobo Parent',
+    installs: 3285,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/_mSHeLxCyEqyl52CXlkdHDdgd6OVkOOlSf_t3OJILLXwvqJorMO2PVAo3dMT5iEg6vI',
+    appId: 'io.woobo.app',
+    url: 'https://play.google.com/store/apps/details?id=io.woobo.app&hl=en&gl=us'
+  },
+  {
+    title: 'Nod - Baby Sleep Coach & Feeding Tracker',
+    installs: 21762,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/q4_eAPEPd0zqwwUnyjlz3LLBKvNKjl-dycjopsaT0fpX3pw3dtWVEkQfqQtJBnHxJA',
+    appId: 'com.nodtosleep.app',
+    url: 'https://play.google.com/store/apps/details?id=com.nodtosleep.app&hl=en&gl=us'
+  },
+  {
+    title: 'Paint and Learn Animals',
+    installs: 2561437,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/9UTYLgkWXnMYKXfyir3nTkLxpiGD_3Wj0YgKoWM1WCSM67HivIBNHaybxvD_vf6m_mI',
+    appId: 'com.sunny.paint.learn.animals',
+    url: 'https://play.google.com/store/apps/details?id=com.sunny.paint.learn.animals&hl=en&gl=us'
+  },
+  {
+    title: 'Mobile Phone Tracker - Family Locator',
+    installs: 4336,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/6weMaaZ5AUG58TZxIj32qY-HqJkP8459qBgi4sBgqu-IrPmP9UUMJxEbI0NjkW47qw',
+    appId: 'family.locator.mobile.phone.tracker',
+    url: 'https://play.google.com/store/apps/details?id=family.locator.mobile.phone.tracker&hl=en&gl=us'
+  },
+  {
+    title: 'Fun Routine - Visual schedules',
+    installs: 71108,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/aoM2bjpgqNyq8LougOra5t37SmlsvwLqiXuf4-JAG-fpniA6sBhbQnvl85d13WTnIw',
+    appId: 'br.com.phaneronsoft.rotinadivertida',
+    url: 'https://play.google.com/store/apps/details?id=br.com.phaneronsoft.rotinadivertida&hl=en&gl=us'
+  },
+  {
+    title: 'Feed Baby Pro - Baby Tracker',
+    installs: 95703,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/sYRDTtuhgIewyOgrtjUFrDT2mP8TsBbCCTGzwMCqsR5HPiOvQxZvMoZYbTXY1SRi-C_w',
+    appId: 'au.com.penguinapps.android.babyfeeding.client.android.pro',
+    url: 'https://play.google.com/store/apps/details?id=au.com.penguinapps.android.babyfeeding.client.android.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Surfie-Parent',
+    installs: 5639,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/0GAbx6al-XTKZPmngc7jNKhRF7bOvEQ_mS6z4gP3cV10G3rg4waoaf8P2giSI4U0FQ',
+    appId: 'com.puresight.surfie.parentapp',
+    url: 'https://play.google.com/store/apps/details?id=com.puresight.surfie.parentapp&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control App with Kid Content by PikaPika',
+    installs: 23325,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/fKzwqZBZJNonw4H2b2Vkrl4Uv7gqqbdss2ZKjHqi7L_Bn3N2YF-p9oJTN6cbwUv1m8A',
+    appId: 'com.floydwiz.pikapika',
+    url: 'https://play.google.com/store/apps/details?id=com.floydwiz.pikapika&hl=en&gl=us'
+  },
+  {
+    title: 'Motivator of good behavior - Kids 24',
+    installs: 106453,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/b8BCriOl44F09ceDO30osnHYLJiFzcXRyafMJCNwnJGpiIPzmspM8cMtup298v4RCfc',
+    appId: 'rgmobile.com.sun',
+    url: 'https://play.google.com/store/apps/details?id=rgmobile.com.sun&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket Parent',
+    installs: 3220,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/1sGtkv9t3gCFYT6WABoLm7Fg0ztOw74nv9JZy5a9qFY6UbtpEcPr6eTfNHCbuzMxb2w',
+    appId: 'com.mythicowl.pocketparent',
+    url: 'https://play.google.com/store/apps/details?id=com.mythicowl.pocketparent&hl=en&gl=us'
+  },
+  {
+    title: 'Breastfeeding Newborn tracker, pump and baby diary',
+    installs: 1131685,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/wfq5klY5Y6uX3s-wcehjV_tdRkbyPxKWYiBhEhXJArsDwlZVp7EjxQ0No1ZgVjrvBZU',
+    appId: 'com.whisperarts.kids.breastfeeding',
+    url: 'https://play.google.com/store/apps/details?id=com.whisperarts.kids.breastfeeding&hl=en&gl=us'
+  },
+  {
+    title: 'Yo Re Mi',
+    installs: 129,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/KHlS7Up3EdE1Ihcgf52GlE5AUs6OcpKyWIM0rl-N_Ohc11ojWFrbjdeCWn7A5bHYbOQA',
+    appId: 'com.yoremikids',
+    url: 'https://play.google.com/store/apps/details?id=com.yoremikids&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Tracker, Feeding, Diaper Changing for Newborn',
+    installs: 19524,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/BAVUXiWg4XTTLi6E3_4CVK-ClYFhqhYCQe6hOI1aILM0-KnsGDTRUmJvGlrbSxMjSfo',
+    appId: 'simple.babytracker.newbornfeeding.babycare',
+    url: 'https://play.google.com/store/apps/details?id=simple.babytracker.newbornfeeding.babycare&hl=en&gl=us'
+  },
+  {
+    title: 'MamaZen: Moms Meditation & Mindfulness',
+    installs: 2089,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/SWEIVNeNl51mwnMJustuozSxULA6qmj6LAu10UxEPCVI4OWh8GzV0Pqe6rwnlIhanUVB',
+    appId: 'com.mamazen.app',
+    url: 'https://play.google.com/store/apps/details?id=com.mamazen.app&hl=en&gl=us'
+  },
+  {
+    title: 'Mr Bomb & Friends',
+    installs: 36264,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/EseBoizZyQKYUY_Tk5PL4z3Cx45uwpp06hL44yhtGuIfKbJt2IBrhm-HJGDmsgcfqQJg',
+    appId: 'com.ruleoffun.mrbomb',
+    url: 'https://play.google.com/store/apps/details?id=com.ruleoffun.mrbomb&hl=en&gl=us'
+  },
+  {
+    title: 'The Vitals™ App',
+    installs: 2597,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/p9ae6z5ZzBaitEcRkryFhmxID4uT4Hjyu9ljQk7wdbpxdoVH65UP64dYjrQUPY3OO0Q',
+    appId: 'org.awareservices.vitalscaregiver',
+    url: 'https://play.google.com/store/apps/details?id=org.awareservices.vitalscaregiver&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Led Kitchen – Baby Led Weaning Recipes (BLW)',
+    installs: 9341,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/iwmL76c4LUr81XpGFffERdqLQDdY5JngqCAbM_pq7L6irAcWrdPvCd6sZUQOeyKZYsk',
+    appId: 'com.babyled.kitchen',
+    url: 'https://play.google.com/store/apps/details?id=com.babyled.kitchen&hl=en&gl=us'
+  },
+  {
+    title: 'Family Locator GPS Tracker Child - Chat - ToDo 360',
+    installs: 426283,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/AbTmhOzASnSmcwXVngUjBk11EzOnWjDA9NuWOdgis-lmIvsKKddGyAGf15kIgjhayys',
+    appId: 'ar.com.megaingenieria.emobi.locator',
+    url: 'https://play.google.com/store/apps/details?id=ar.com.megaingenieria.emobi.locator&hl=en&gl=us'
+  },
+  {
+    title: 'SafeToNet',
+    installs: 3019,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/TQTiRQpkNGKEERxRCMvvutXC-kcGpDhaoXEI8b7WUeXiGzQXpBc95ImY6LqPOXadwXBS',
+    appId: 'com.safetonet.android',
+    url: 'https://play.google.com/store/apps/details?id=com.safetonet.android&hl=en&gl=us'
+  },
+  {
+    title: 'Bit Guardian Parental Control - For Parents',
+    installs: 161,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/0b7-ktqT-HP9RnYg1Q9Mc9AMz4cl4_Hw3v6aiaw_GNtM_BvHE9mg1sK9z2joUe7hq97D',
+    appId: 'com.bitguardian.parentalcontrol.parent',
+    url: 'https://play.google.com/store/apps/details?id=com.bitguardian.parentalcontrol.parent&hl=en&gl=us'
+  },
+  {
+    title: 'Nancy Baby Cam (Video & Audio Baby Monitor)',
+    installs: 5170,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/AjAPwu6XgHGkUt1Luf3Z9P0xY9GZsClZSIVQnXc_sQm_9nSomu3vZqJBt0FxT89knVM',
+    appId: 'cz.masterapp.nancybabymonitor',
+    url: 'https://play.google.com/store/apps/details?id=cz.masterapp.nancybabymonitor&hl=en&gl=us'
+  },
+  {
+    title: 'TekNekk - The Ultimate Parental Remote-Control App',
+    installs: 359,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/nv4-zZOIalpWJ3C6OMUCHg-VwARrMYWd8SXNLSlWgRBCDaCgUpdnrQIDdIsbQe4ICA',
+    appId: 'com.teknekk.apps.android',
+    url: 'https://play.google.com/store/apps/details?id=com.teknekk.apps.android&hl=en&gl=us'
+  },
+  {
+    title: 'Microsoft Family Safety',
+    installs: 323980,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/eEZuWwcu-rcwi3_9Z-4tO76tIzDgeprl6zldnyUC71-tgnp_YB3DmRHILVIqs07YJlE',
+    appId: 'com.microsoft.familysafety',
+    url: 'https://play.google.com/store/apps/details?id=com.microsoft.familysafety&hl=en&gl=us'
+  },
+  {
+    title: "Baby's First 100 Foods",
+    installs: 45,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/fmrLyThM6SQzJO0pAQH-RsWk8o-yrQVV1pNC7TMCTra6E1t4tg_3LfMs44bD_2c7c5SO',
+    appId: 'com.fourtythirddigital.babysfirst100foods',
+    url: 'https://play.google.com/store/apps/details?id=com.fourtythirddigital.babysfirst100foods&hl=en&gl=us'
+  },
+  {
+    title: 'Christian Hypnobirthing',
+    installs: 1921,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Qub8635hb1iBvovrmRyeBMxtlKkjS61_N0uJa4tbOHGZD0VdN_xpCzXObeBV--MT8Q',
+    appId: 'uk.co.christianhypnobirthing.androidoverview',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.christianhypnobirthing.androidoverview&hl=en&gl=us'
+  },
+  {
+    title: 'Bibino: Baby Monitor & Video Nanny Cam For Parents',
+    installs: 8213,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/nUCecLlqyAfAO968NJ2Fu--Wi6Bx-LqpPG6-CmDSSebDazQLf2RqwiTslHk8dt-EzX8',
+    appId: 'com.tappytaps.android.bibino',
+    url: 'https://play.google.com/store/apps/details?id=com.tappytaps.android.bibino&hl=en&gl=us'
+  },
+  {
+    title: 'Parental Control: ‘CALMEAN Control Center’',
+    installs: 94511,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/IHqquEHy-wRV0Xk1lQfQXA-PekHK09DH64v1z2dkGs8oU7Ok8Gac98oVMMUpv9ZL_KI',
+    appId: 'com.calmean.control',
+    url: 'https://play.google.com/store/apps/details?id=com.calmean.control&hl=en&gl=us'
+  },
+  {
+    title: "HiBaby - Baby's First Year",
+    installs: 5638,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/GKem7YJzqfgMGojihEgOQI4vAAMuhL5sJk1miXQ29G6illnBdyOr0ST8mt9LSr0EqaI',
+    appId: 'com.hifamily.hibaby',
+    url: 'https://play.google.com/store/apps/details?id=com.hifamily.hibaby&hl=en&gl=us'
+  },
+  {
+    title: 'As Semanas Mágicas',
+    installs: 36347,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Zq7s9MsGeXi1KMSg_dZwYR4Pvh_lnQJbIL8rRhjrGivv9FhUqhDMzDtyq-EyN68OsUg',
+    appId: 'com.domustechnica.tww.br',
+    url: 'https://play.google.com/store/apps/details?id=com.domustechnica.tww.br&hl=en&gl=us'
+  },
+  {
+    title: 'Canopy Kids',
+    installs: 459,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/wBDiXB4gAnxthUTeNc1DHm-ra3QTjmsleX6XrxMXz9jvvddLZyA2z42hO1PjULIzeo4',
+    appId: 'com.canopy.vpn.filter',
+    url: 'https://play.google.com/store/apps/details?id=com.canopy.vpn.filter&hl=en&gl=us'
+  },
+  {
+    title: 'SmartDaddy Parental Control',
+    installs: 3360,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/zJ0c4RNdcniw5bqycDWUS6c4ilNm7SsoTXnmSDRjHHLJjxwzuMCrBAl0X_SbQbXOmIw',
+    appId: 'com.parentalcontrol.smartdaddy',
+    url: 'https://play.google.com/store/apps/details?id=com.parentalcontrol.smartdaddy&hl=en&gl=us'
+  },
+  {
+    title: 'High Contrast Cards for Babies',
+    installs: 927,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/SHhuO6gUr_BtspNnsFzuJgAvv5y7BbCBmY7pMo1gefN14hG6TbRpFTzfD9teI5GIQRYN',
+    appId: 'cz.newoaksoftware.highcontrastcards',
+    url: 'https://play.google.com/store/apps/details?id=cz.newoaksoftware.highcontrastcards&hl=en&gl=us'
+  },
+  {
+    title: 'Leeloo AAC - Autism Speech App for Nonverbal Kids',
+    installs: 23522,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/xFMZ1c6KQUC8Eb3MrLsw1IrZiR8tULBF28ULlf61nWDYnrj5C6ws5cU-MgqlAHkDsZg',
+    appId: 'org.dreamoriented.leeloo',
+    url: 'https://play.google.com/store/apps/details?id=org.dreamoriented.leeloo&hl=en&gl=us'
+  },
+  {
+    title: 'Bebememo - Baby camera & album',
+    installs: 4153,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/NrocCgg-xc1aW32HC4r6-ELdOQ5bB-BzJI3OIrekY_Hr3XdNWjvl8rMSbzWYHVSpXbA',
+    appId: 'com.liveyap.timehut.bbmemo',
+    url: 'https://play.google.com/store/apps/details?id=com.liveyap.timehut.bbmemo&hl=en&gl=us'
+  },
+  {
+    title: 'Piyo - Babycare record for sharing',
+    installs: 422948,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/nuIz-kV_tL6Y7bq12PL4mK0WC-6e9J_oxn-pFH0Xikd0tipgeYOQIRD9nrt1BZHdEQ',
+    appId: 'jp.co.sakabou.piyolog',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.sakabou.piyolog&hl=en&gl=us'
+  },
+  {
+    title: 'Yubi Parental Control App | Safe Videos for Kids',
+    installs: 10273,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/LaKuvT1hDBjhgj4Ey3VIVp4el5r4JboJ2LT_8jcEVmZJsXvfrrC6Tet5U93ZXMZkDA',
+    appId: 'yubi.com',
+    url: 'https://play.google.com/store/apps/details?id=yubi.com&hl=en&gl=us'
+  },
+  {
+    title: 'NannyNotes - Baby tracker and child daily sheet',
+    installs: 2198,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/9I_tW0JQcu7nTRaD-ymkRdeiZRfiMExl0FmhIVtPXO3VfNZGGKt1IoKtbaq8PI-NrO8',
+    appId: 'net.nannynotes',
+    url: 'https://play.google.com/store/apps/details?id=net.nannynotes&hl=en&gl=us'
+  },
+  {
+    title: 'Parenting Hero - Become a wiser parent',
+    installs: 2874,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/5LRZepLVayPXecZbFnyKeSrGLgPmJI6zitf3zSKuDexbd72kc3kcPKZJxGE9IJG1koM',
+    appId: 'com.mythicowl.parentinghero',
+    url: 'https://play.google.com/store/apps/details?id=com.mythicowl.parentinghero&hl=en&gl=us'
+  },
+  {
+    title: 'Аудио сказки для детей',
+    installs: 1563820,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/sCRgXda24akdq7-AQ3XAkAXKbe-KbOmz8JzGl4RMCPQkj9tho-NETb2AaBT7i02cgTnc',
+    appId: 'com.zdp72.audio.book.fairy.tales.rus1',
+    url: 'https://play.google.com/store/apps/details?id=com.zdp72.audio.book.fairy.tales.rus1&hl=en&gl=us'
+  },
+  {
+    title: 'My Kids Safety - Family Tracker',
+    installs: 26047,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Ay-JoDKIbc5giEqLu3cIzAo6K9juE8Ho-pRzU2GxSiOypMxMPcZKrWX9lxm7ajrHHfQ',
+    appId: 'com.family.tracker.kids.gps.locator.phone.free',
+    url: 'https://play.google.com/store/apps/details?id=com.family.tracker.kids.gps.locator.phone.free&hl=en&gl=us'
+  },
+  {
+    title: 'Pomelody - music for kids',
+    installs: 28085,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/dhejCqFSXEWuxsvzMTPL7zmB-Jy_nB3cTpUh-1fe9i4JPth-s-3WGBdpapNJYbdxOXg',
+    appId: 'com.pomelody',
+    url: 'https://play.google.com/store/apps/details?id=com.pomelody&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Breastfeeding Tracker',
+    installs: 32587,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/7c6dnnu_83nFrdDWxFFv_Lx3W4ZAKs5BQXE5jyRgFS-OiJwayMs8mNKIGryl_KApPGQ',
+    appId: 'com.sevenlogics.babynursing',
+    url: 'https://play.google.com/store/apps/details?id=com.sevenlogics.babynursing&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Monitor & Alarm',
+    installs: 88955,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/nH1V4qt7H0QukVhR_NzX9GQ4FzSs0rkPhiWARs5DL3LqAlCmi5Ivoe1JZtqqX37j8Xc',
+    appId: 'com.tappytaps.android.babymonitoralarm.full',
+    url: 'https://play.google.com/store/apps/details?id=com.tappytaps.android.babymonitoralarm.full&hl=en&gl=us'
+  },
+  {
+    title: 'My Baby Unicorn - Magical Unicorn Pet Care Games',
+    installs: 808984,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ixPp-v7XQoKX3OIcnHBwNtWlKT5gKUfnCOqfJJhlPcSKL3SSr27Vf_-6Dy8KfKIF0TA',
+    appId: 'com.beansprites.babyunicornpandaFREE',
+    url: 'https://play.google.com/store/apps/details?id=com.beansprites.babyunicornpandaFREE&hl=en&gl=us'
+  },
+  {
+    title: 'Genius - Screen Time Parental Control Remote 2020',
+    installs: 703,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/paJKySde7J1QCscveobhOhOjdqVGV0kFI4WS4voWQu057eOdU2SfFtxAn-JZqJFbQTM',
+    appId: 'com.goyamove',
+    url: 'https://play.google.com/store/apps/details?id=com.goyamove&hl=en&gl=us'
+  },
+  {
+    title: 'Disconnect Now',
+    installs: 47,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/ocyPwFKmE2FFP-m5mchWjhI-9Snd-I5MgV5L9N8wi2Dt7URG_yn7moQ949fb3Lri0oc',
+    appId: 'com.disconnectnow.parent',
+    url: 'https://play.google.com/store/apps/details?id=com.disconnectnow.parent&hl=en&gl=us'
+  },
+  {
+    title: 'Chameleon: Parental Control & Cell Phone Tracker',
+    installs: 1001,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/RynEzhsTEL2qTlibLlBGxt-my9muPSO9rYqehfs_FaQlhRQ9ABL3D-b2e8WpYM6gBG4',
+    appId: 'com.chameleon.guard',
+    url: 'https://play.google.com/store/apps/details?id=com.chameleon.guard&hl=en&gl=us'
+  },
+  {
+    title: 'Meerkiddo - Parental Control',
+    installs: 8483,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/K98H_x4MQAqvdr5rCdfCG1hLnHnFVd67bqEnn-8zb-G0E4sU3G60Vg_k2cD6BqEs770',
+    appId: 'com.dvcsolutions.parentalcontroldvc',
+    url: 'https://play.google.com/store/apps/details?id=com.dvcsolutions.parentalcontroldvc&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Night Light - Integral',
+    installs: 155,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/LGdgZ38IEhjCGnp8JD2YCVuHq-Z_jYfsQaybqqJfySwbdI5F7Bi3HW5dIC1hqQgHdKGr',
+    appId: 'com.bipfun.nightlight.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.bipfun.nightlight.pro&hl=en&gl=us'
+  },
+  {
+    title: 'MilkStack',
+    installs: 675,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/iLCxaemECiSPBVsco_RevbQJAwOc2AYQcKUggBU8QksmbmlnA7oMnggbwivPDaQtLM8z',
+    appId: 'com.MilkStack.myapp',
+    url: 'https://play.google.com/store/apps/details?id=com.MilkStack.myapp&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Language (Try Before You Buy)',
+    installs: 307174,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/6HorlEFFaVT12GHe8--ogIbDOSyVbuwUrxA6gKdrDWFTjP-Wj9Sonmmsf8uUBMRkBGA',
+    appId: 'com.enbyin.babylanguage',
+    url: 'https://play.google.com/store/apps/details?id=com.enbyin.babylanguage&hl=en&gl=us'
+  },
+  {
+    title: 'Child Development - Wachanga Parenting Guide 👶',
+    installs: 350218,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/6GrOw209pACnKFxQZacVtQALNC8r-HX20mCb9t-qMWCj8VaJTyL1eyaVfZD5TlAPkw',
+    appId: 'com.wachanga.android',
+    url: 'https://play.google.com/store/apps/details?id=com.wachanga.android&hl=en&gl=us'
+  },
+  {
+    title: 'Piggy - Pocket Money & Allowance Manager for Kids',
+    installs: 41467,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/oiGWxG-m6w_j5PiEwkrDQBEDIW4JIRD9-_rHK1_TyeMfpPsyb9ZlKjgvLn-pNq60IQ',
+    appId: 'com.thinksmart.pocketmoney',
+    url: 'https://play.google.com/store/apps/details?id=com.thinksmart.pocketmoney&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Name Together',
+    installs: 577546,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/_CZ4vqODQDTbVl2UwB7Nm4weIcL13yQMYfz_7dF2uyPfIvUfL8x_NYA39uYIM8wOGUmr',
+    appId: 'com.BabyName.start',
+    url: 'https://play.google.com/store/apps/details?id=com.BabyName.start&hl=en&gl=us'
+  },
+  {
+    title: 'Nuttri Plus - Baby Food: Guide to starting solids',
+    installs: 607,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/QTlnGoxNPDFcuvH0eOqaPG2Rkx-RRg-ucsI3xtPJW2KJtpjwELcljlFX-eMFBqyI8mTG',
+    appId: 'com.lenastudio.nuttri.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.lenastudio.nuttri.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Parent Sense Baby Daily Routine and Sense Tips',
+    installs: 10595,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Z5tjBa0LyzqwuEMdfh3vKj2ElPMPqgwYHndEpdvhBOsetdc0zGR8aCBkB_91Q8xIFV0',
+    appId: 'tech.bitcube.parentsense',
+    url: 'https://play.google.com/store/apps/details?id=tech.bitcube.parentsense&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Led Weaning - Guide & Recipes',
+    installs: 95210,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/YuaCfDX52hAh58TRQUUb-vqZZufcSQwByre-dhA1qsePrrlLvlewvtnsyiKouj8t8w',
+    appId: 'blw.babyledweaning.recipes',
+    url: 'https://play.google.com/store/apps/details?id=blw.babyledweaning.recipes&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Videos and Songs',
+    installs: 383504,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/9YW_6T6_KzhWBuHdBQpym97RY7OvuKnyU_xFqNiJdpyfpPtiDcFyUQMsrToPoT70KQ',
+    appId: 'com.thoc.kidsvideos',
+    url: 'https://play.google.com/store/apps/details?id=com.thoc.kidsvideos&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Monitor',
+    installs: 1503019,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/X2AmUSk7ctAOuQcGU9uPT1HDhKShWKc3842JzQFW2EZcZ8SjSVVZgU00VqTnaYTlhMcn',
+    appId: 'dk.mvainformatics.android.babymonitor',
+    url: 'https://play.google.com/store/apps/details?id=dk.mvainformatics.android.babymonitor&hl=en&gl=us'
+  },
+  {
+    title: 'Contraction Timer Donate',
+    installs: 3735,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/jYyH-gmyIUVT3mmkGmRtW3zZXLf6a9UAtZrd8OSrLW76ZRKGiKD3YLE08NmEBNBF5HU',
+    appId: 'com.jamesots.android.contractiontimerdonate',
+    url: 'https://play.google.com/store/apps/details?id=com.jamesots.android.contractiontimerdonate&hl=en&gl=us'
+  },
+  {
+    title: 'ママリ 妊娠・出産・育児で悩むママに優しいQ&Aアプリ',
+    installs: 604024,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/y8uHLr2DKlgGB3Qwt61delqpzh6dsOFkAvev2tVRPUf4WS8-N7yvQN_D6k2hHGAP1nI',
+    appId: 'com.connehito.mamariq',
+    url: 'https://play.google.com/store/apps/details?id=com.connehito.mamariq&hl=en&gl=us'
+  },
+  {
+    title: 'Fruit, Vegetables, Flowers - All Nature for Kids',
+    installs: 45194,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/tKtOGC_lUy7TGKe7IrFtelbgySv55qaoyJyDA__WNSOMwiEYBnt7wh5eVl9gd_237Q',
+    appId: 'net.cleverbit.Nature',
+    url: 'https://play.google.com/store/apps/details?id=net.cleverbit.Nature&hl=en&gl=us'
+  },
+  {
+    title: 'Control Child Premium Parental Control',
+    installs: 4658,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/rFJaeU-PJC6B23qeN6hSa5F9rSWNZW25Iv52MzAqfF3peT5ENDSpibOgRVgNdqPi4wE',
+    appId: 'com.controlchild.parentalcontrol',
+    url: 'https://play.google.com/store/apps/details?id=com.controlchild.parentalcontrol&hl=en&gl=us'
+  },
+  {
+    title: 'Kids task timer - visual timer for kids',
+    installs: 22945,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/x3e7jag_7zVpLNCQPcOeAeF6uNm8A1gYWWD33Cg0h500LCI5FGKDLmKDggZQcMUd-fs',
+    appId: 'com.digit.kidstimer',
+    url: 'https://play.google.com/store/apps/details?id=com.digit.kidstimer&hl=en&gl=us'
+  },
+  {
+    title: 'My Baby Care - Newborn Babysitter & Baby Games',
+    installs: 2013629,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/dEsW1SBDNAwDoySRyZW7t2uV-E5pRKoR-xghF21C88hBGCE485ejMImSxRZGAZ-TI_0',
+    appId: 'com.beansprites.mybabycareFREE',
+    url: 'https://play.google.com/store/apps/details?id=com.beansprites.mybabycareFREE&hl=en&gl=us'
+  },
+  {
+    title: 'HappyMama Всё о детях до года',
+    installs: 141740,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/bPpHOpwrJ2c3h_E_zgdNQhFdk30L-3mgRZsUNXrAu5B0JS2I0OFDVy11BZPHt9wpyx8',
+    appId: 'com.mummy.happy_mama',
+    url: 'https://play.google.com/store/apps/details?id=com.mummy.happy_mama&hl=en&gl=us'
+  },
+  {
+    title: 'Birth Announcement',
+    installs: 21764,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/tWyHQNh-81lK0n6_Jq4hcFVb3nsAx2pPj_zAZeQVadGeFbw3gqEZIC4JLlZSifp6Skc',
+    appId: 'com.birthannouncement',
+    url: 'https://play.google.com/store/apps/details?id=com.birthannouncement&hl=en&gl=us'
+  },
+  {
+    title: 'Shoosh Smart Sleeper',
+    installs: 6,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/kIkG1Xj2PW54fk_o_MTiV2aUdddLo9U7kQJMEda-r7ZLIqrjISsf1uqtdmtkGhxBHQ0',
+    appId: 'com.klabsph.shoosh',
+    url: 'https://play.google.com/store/apps/details?id=com.klabsph.shoosh&hl=en&gl=us'
+  },
+  {
+    title: 'Toddler By Design',
+    installs: 508,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/Z3T-uZvYtNl1XazK8qJNBwwUMvXV5YYpX85-LRAgFJ3JbfsC-qtvM9O85jtSmbzoD0Tz',
+    appId: 'com.momsoncall.TBD',
+    url: 'https://play.google.com/store/apps/details?id=com.momsoncall.TBD&hl=en&gl=us'
+  },
+  {
+    title: 'Dinner Bell',
+    installs: 2,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/9S_bPR-GBf3vn82wzS86d5y4iIdeGrHjmvdGqwXapHUYVVwMN2g5YCL3itZ0ijfYRe0',
+    appId: 'com.www_3queensoftware.DinnerBell',
+    url: 'https://play.google.com/store/apps/details?id=com.www_3queensoftware.DinnerBell&hl=en&gl=us'
+  },
+  {
+    title: 'Points - Behavior tasks rewards',
+    installs: 8966,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/zUicQQ47QeJdsQjiIwFupNTQmnHCafl8N46XuPBTgWt0OY9roerM7cZnHVM9Hnt7-ME',
+    appId: 'com.alawfa.points',
+    url: 'https://play.google.com/store/apps/details?id=com.alawfa.points&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Food Chart',
+    installs: 105535,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/qeuDr8iLiDZ0roD-6r7h3yIhIOFX7wPrMw2HwRiTwGDr4aDjxVPy6vBDm53qj5yF5AW8',
+    appId: 'air.hr.definicijahrane.babyfoodchart',
+    url: 'https://play.google.com/store/apps/details?id=air.hr.definicijahrane.babyfoodchart&hl=en&gl=us'
+  },
+  {
+    title: 'Sleep In Your Own Bed, Baby!',
+    installs: 38,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/AiimNrpzdHNnwk2-jpO4Xv_0X898EkCdP0HuCf5zE11z7iEAIa72qUZMNtsKRhyi0Bwf',
+    appId: 'com.arcanerapture.goodnightbaby',
+    url: 'https://play.google.com/store/apps/details?id=com.arcanerapture.goodnightbaby&hl=en&gl=us'
+  },
+  {
+    title: 'Family Monitor',
+    installs: 2,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/wrTpMU0n2EdS3t4ExLRCTNIZjNNE6DjWdA5xXgu0eNg-WKLprmGYnbOD4pZYparFCZUA',
+    appId: 'uk.cyferltd.familymonitorfull',
+    url: 'https://play.google.com/store/apps/details?id=uk.cyferltd.familymonitorfull&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Chore Chart',
+    installs: 936,
+    genre: 'PARENTING',
+    icon: 'https://play-lh.googleusercontent.com/qKkK3kN9ADwOdNBTLO3V1OHthmFJOHK9Anibg4MQkTIX9urjbJsRFUQ2GzpxvZOtKA',
+    appId: 'appinventor.ai_sterlingapplications.Database_testing',
+    url: 'https://play.google.com/store/apps/details?id=appinventor.ai_sterlingapplications.Database_testing&hl=en&gl=us'
+  },
+  {
+    title: 'Погремушка VIP',
+    installs: 9,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/zTNHrDA9JmXZ4CDZ74lGUGzZcwPoqdDM3CBj7RobIp3GHtfIyQ-_TnofGKyoj-TUzBM',
+    appId: 'com.kidsapps.rattlevip',
+    url: 'https://play.google.com/store/apps/details?id=com.kidsapps.rattlevip&hl=en&gl=us'
+  },
+  {
+    title: 'TIMER CHILD LOCK',
+    installs: 14,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/_yHzuKNM3RQwu_RQkjxLU0Ad5TPAS7GRa9pKNyikVILRY3fVeHhRh3Xx9QdTmelU1IY',
+    appId: 'locker.e.com.locker1',
+    url: 'https://play.google.com/store/apps/details?id=locker.e.com.locker1&hl=en&gl=us'
+  },
+  {
+    title: 'Kids Chore Chart 2',
+    installs: 11,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/J0c3V8MVNwkS07ouS3X8qIPIwt1fin79RhoNk367PWE9jwlW4sPBv0NCvuaN4OTMTKE',
+    appId: 'com.sterlingroadapplications.kidschorechart2',
+    url: 'https://play.google.com/store/apps/details?id=com.sterlingroadapplications.kidschorechart2&hl=en&gl=us'
+  },
+  {
+    title: 'Cry It Out',
+    installs: 72,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/rbcbmubrKJIMfUmPPIISICGxWWUaEe-6HKzAiuoEjwNIPZrLBAUO9NHpzQFEP6wyZFE',
+    appId: 'com.crmobile.cryitout',
+    url: 'https://play.google.com/store/apps/details?id=com.crmobile.cryitout&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Shower Games Full',
+    installs: 14,
+    genre: 'PARENTING',
+    icon: 'https://lh3.googleusercontent.com/K6ai9t6HL3vGhFLXWUBLqFz6iEMW2n3Ivfg4DUH7G27t2Phs9PD-pI0jMziiTZTyQw',
+    appId: 'at.tomdrive.babyshowergamesfull',
+    url: 'https://play.google.com/store/apps/details?id=at.tomdrive.babyshowergamesfull&hl=en&gl=us'
+  }
+]

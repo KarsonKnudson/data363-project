@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Tinder - Dating, Make Friends and Meet New People',
+    installs: 245268044,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/stlBGKS482zWajOTk82IXFZhr22hk_NQewNOAJ0IeptPO73qfNesCyfNwW1-xwBiwv0',
+    appId: 'com.tinder',
+    url: 'https://play.google.com/store/apps/details?id=com.tinder&hl=en&gl=us'
+  },
+  {
+    title: 'Bumble – Dating, Make New Friends & Business',
+    installs: 22211336,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/tH2ui3MqYnTyt7EG9S3DVNDO7SV7eRtts2phjaE-vZNBvf4meAx5_a5LZc_IbZGAFw',
+    appId: 'com.bumble.app',
+    url: 'https://play.google.com/store/apps/details?id=com.bumble.app&hl=en&gl=us'
+  },
+  {
+    title: 'Life360: Family Locator & GPS Tracker for Safety',
+    installs: 80176052,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wyADnq1wH6_x5wO5ug2meYP7TIKmLBvA9jS1Ovf20Skqz7crSq59FIKP5oYaEj8KZg',
+    appId: 'com.life360.android.safetymapd',
+    url: 'https://play.google.com/store/apps/details?id=com.life360.android.safetymapd&hl=en&gl=us'
+  },
+  {
+    title: 'Cricut Design Space',
+    installs: 1374695,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/L_TiBU2xSrmBSfhWRCADdk_BPioc7mq2xtoblWynBBnfd7XfEu-AWs-64MZIYk9dmA',
+    appId: 'com.cricut.designspace',
+    url: 'https://play.google.com/store/apps/details?id=com.cricut.designspace&hl=en&gl=us'
+  },
+  {
+    title: 'Fantastic Face – Aging Prediction, Face - gender',
+    installs: 24475169,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/szQDGsmxiQfs9JwqEVdunCHXK0_TN3qRNpNHtZSW2KbscfVv9jeUnMg04X61YvWSjHrF',
+    appId: 'com.hy.sfacer',
+    url: 'https://play.google.com/store/apps/details?id=com.hy.sfacer&hl=en&gl=us'
+  },
+  {
+    title: 'Tumile - Meet new people via free video chat',
+    installs: 32492916,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/J161FCsBKzdJNgI72nf2xq9MM85hwPszJ34iIxv-I1rPM5swF3gleVavCdnCB8z2JNfn',
+    appId: 'com.rcplatform.livechat',
+    url: 'https://play.google.com/store/apps/details?id=com.rcplatform.livechat&hl=en&gl=us'
+  },
+  {
+    title: 'Tile',
+    installs: 4206430,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/hn9ZasZoRMjeOrOKXqwkfxMYGw6_LfDKQ0acYJy5NW0ITc9yDNiK-hAuLiycqtBIGGyO',
+    appId: 'com.thetileapp.tile',
+    url: 'https://play.google.com/store/apps/details?id=com.thetileapp.tile&hl=en&gl=us'
+  },
+  {
+    title: 'Bermuda Video Chat - Meet New People',
+    installs: 22296814,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Yb8xOkXtD1A3dMW2OzZz9zx7ULb6PCEl11ZIicbEA0Zinh9tFQqz4tIHdnlQ8hSWyM4',
+    appId: 'vixr.bermuda',
+    url: 'https://play.google.com/store/apps/details?id=vixr.bermuda&hl=en&gl=us'
+  },
+  {
+    title: 'Zodiac Touch Psychic Reading',
+    installs: 520611,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/RB7AZApymXdHSPLL1Wx6Al1X99lRz914Of4cAlmCQrZLvI3j_70ARscDaAWbksq8xg',
+    appId: 'com.zodiactouch',
+    url: 'https://play.google.com/store/apps/details?id=com.zodiactouch&hl=en&gl=us'
+  },
+  {
+    title: 'Pray.com',
+    installs: 1286101,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/TxpCmj0P_W_gMv4TyE0_BsHVnHCJD-voPcl-CXFMoSVovMTC9gnzRzR79zhXq5A0Yw',
+    appId: 'com.prayapp.client',
+    url: 'https://play.google.com/store/apps/details?id=com.prayapp.client&hl=en&gl=us'
+  },
+  {
+    title: 'Purple Ocean Psychic Readings',
+    installs: 273306,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/q_jUD55VKJZ47V7EhO6L9pyl5DTDUHhZrbbYL2VNnJn6318FBSeV33YX9WehcFZoh0dz',
+    appId: 'co.purpleocean.android',
+    url: 'https://play.google.com/store/apps/details?id=co.purpleocean.android&hl=en&gl=us'
+  },
+  {
+    title: 'GoLocator: Family Location Finder',
+    installs: 14935084,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/pMNMXOWlWsCEYmp2g1pEqotsxvEkwjvgJkm2dh6oZnph21pz8G64Gc6ydkybkqHGBw',
+    appId: 'com.hulahoop.android',
+    url: 'https://play.google.com/store/apps/details?id=com.hulahoop.android&hl=en&gl=us'
+  },
+  {
+    title: 'FortuneScope: live palm reader and fortune teller',
+    installs: 11052890,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/-i-SdkXGlcz5elv3EYUoc8hvvQ7wUfgHioWMtmM31tyFs93w_Ub6EIQoGoSBV8rdFxM',
+    appId: 'com.fortunescope',
+    url: 'https://play.google.com/store/apps/details?id=com.fortunescope&hl=en&gl=us'
+  },
+  {
+    title: 'Gaze Video Chat App-Random Live Chat & Meet People',
+    installs: 901659,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/e6VSEzDZLV4xiiXxhvCqvIt9OdR3nU7cU2kPVR_000-uzT-IfjpPH6y9FLars-htAQ',
+    appId: 'video.chat.gaze',
+    url: 'https://play.google.com/store/apps/details?id=video.chat.gaze&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Face:face aging, young camera, fantastic app',
+    installs: 6789968,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/sFg8U9C9FhR-11zrAPsKhaXKk9dXD_V-sL03Ao_3FjJn0E4-s48-fqRusKpSy24JpfQ',
+    appId: 'faceapp.aging.young.ai.face',
+    url: 'https://play.google.com/store/apps/details?id=faceapp.aging.young.ai.face&hl=en&gl=us'
+  },
+  {
+    title: 'Circle 1st generation',
+    installs: 422209,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/x_8RMWDHtb7dRvy_M5XHSMH0CcePvyLGZitF1BeFz6MO3hl-7FD3qUlzZRW0FwHLPVs',
+    appId: 'com.circlemedia.circlehome',
+    url: 'https://play.google.com/store/apps/details?id=com.circlemedia.circlehome&hl=en&gl=us'
+  },
+  {
+    title: 'SLS Official Largest Global Swinger Community',
+    installs: 78711,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/kH9MyMV018QwchXMj3RzDm3x_xX6N-nhTmygJM_Q4hRufa3WE0mdqLi_-jRXr68MFNuX',
+    appId: 'com.swinglifestyle.and',
+    url: 'https://play.google.com/store/apps/details?id=com.swinglifestyle.and&hl=en&gl=us'
+  },
+  {
+    title: 'happn – Local dating app',
+    installs: 69701644,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/O1XquBzqm2MjscNtAI84wmnR2Q89L6aO9xjPm9MwFeu-_1CLqGV4LBSIfhUjeTWByQQ',
+    appId: 'com.ftw_and_co.happn',
+    url: 'https://play.google.com/store/apps/details?id=com.ftw_and_co.happn&hl=en&gl=us'
+  },
+  {
+    title: 'Astro 2020 - Horoscope & Zodiac Compatibility',
+    installs: 1016478,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/psJ-ro_TdHZ60CdIESL_cn3kB9L3CDivz0EFEGGLQFEX3xFjHtKmBv2oWRcnCgns7FA',
+    appId: 'astrology.daily.horoscope',
+    url: 'https://play.google.com/store/apps/details?id=astrology.daily.horoscope&hl=en&gl=us'
+  },
+  {
+    title: 'Dog Whistle',
+    installs: 292553,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/zBUibFvorFWvNUsw2fT5ebiBgmx_zM8HAGfw8RXacIodAukbQmKSIYFSnHPQabwecA',
+    appId: 'com.animal.translate',
+    url: 'https://play.google.com/store/apps/details?id=com.animal.translate&hl=en&gl=us'
+  },
+  {
+    title: 'AncestryDNA - Genetic Testing',
+    installs: 955555,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/c94sybhr32hpeC43M2KnHlYpUczX3CMNMfP3X6EYvWiXOii8Kv0XIFA86v0xAtb2oSM',
+    appId: 'com.ancestry.ancestrydna',
+    url: 'https://play.google.com/store/apps/details?id=com.ancestry.ancestrydna&hl=en&gl=us'
+  },
+  {
+    title: 'Journey: Diary, Journal',
+    installs: 3092187,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ZaSoyzS0E33u-xi49lnNEPr7A4iZPTyJH2ddwSnDOFdNpvsy9VMS50CW3egKNUO8J14',
+    appId: 'com.journey.app',
+    url: 'https://play.google.com/store/apps/details?id=com.journey.app&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Family - GPS Location Tracker',
+    installs: 3042533,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/975jCt0BtQwbWx02MKqRi9cnxUV8nSgbGZpkin0EWB6qIzG6LUMZHJIQ2QRUsPmuGQ',
+    appId: 'com.mspy.lite',
+    url: 'https://play.google.com/store/apps/details?id=com.mspy.lite&hl=en&gl=us'
+  },
+  {
+    title: 'Psychic - Real Live Reading',
+    installs: 412390,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/xD-u5HVFzQX6xaqnqLV-erY3aoRnR6oezVFDYqks6yXzM1FYKdtZfMG6Mzzgl34n7gId',
+    appId: 'fr.telemaque.voyance',
+    url: 'https://play.google.com/store/apps/details?id=fr.telemaque.voyance&hl=en&gl=us'
+  },
+  {
+    title: 'Food Network Kitchen',
+    installs: 5599616,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/_gpoObPhi1Df7Obrr8Kl_OsJ4kZdAmlGufAZPzYqPmJ-w7kruCBZxxND4V0WxlERrXg',
+    appId: 'com.scripps.android.foodnetwork',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.android.foodnetwork&hl=en&gl=us'
+  },
+  {
+    title: 'Psychic Txt & Daily Horoscopes',
+    installs: 299265,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/lye1-FXk_cid3HtsEptJWvoe5GjRMFUYLuc1ghnGMHsBWzVpvyOEGRWIfIdgiYrSQw',
+    appId: 'com.psychictxt.psychictxtapplication',
+    url: 'https://play.google.com/store/apps/details?id=com.psychictxt.psychictxtapplication&hl=en&gl=us'
+  },
+  {
+    title: 'Nebula: Horoscope & Astrology',
+    installs: 327403,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/MirJU9YLhH0eIHObQO4oRQvpSA792n2uy2RzjghwsnAhZh7JQDE8ES3xGpvRm_6QshA',
+    appId: 'genesis.nebula',
+    url: 'https://play.google.com/store/apps/details?id=genesis.nebula&hl=en&gl=us'
+  },
+  {
+    title: 'Psíquicos - lectura psíquica y lecturas de tarot',
+    installs: 1056001,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/4Sg5MA_tN3ipWyroWVmnLatEHLZgF3z40OQhckfS4RFY2zbGAmSR0Ft_Z3ycWj8pL51x',
+    appId: 'com.psiquicos',
+    url: 'https://play.google.com/store/apps/details?id=com.psiquicos&hl=en&gl=us'
+  },
+  {
+    title: 'Kids App Qustodio',
+    installs: 1826652,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/smFolyia5q6ZiH8P74qT3XftXenUEBSos3HNlxsJ3AGyfrSpZLWPygSzuIAMOguBYQ',
+    appId: 'com.qustodio.qustodioapp',
+    url: 'https://play.google.com/store/apps/details?id=com.qustodio.qustodioapp&hl=en&gl=us'
+  },
+  {
+    title: 'Necrophonic',
+    installs: 35678,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/aSioghBYlUr13c9ebvwy-zArlTOwZPV8cePQcVXQG5Wy_TD1RewrjxEy4UYdsXj-o-Y',
+    appId: 'com.chillseekers.Necrophonic',
+    url: 'https://play.google.com/store/apps/details?id=com.chillseekers.Necrophonic&hl=en&gl=us'
+  },
+  {
+    title: 'JSwipe – The #1 Dating App for Jewish Singles',
+    installs: 398263,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/AZJx9DEWcAcohzHENyEWEu6BlAE3yx4MydTcRzOOex05YU80xYw_Dcp3i0EkqI8otziW',
+    appId: 'com.smooch.labs.jswipe',
+    url: 'https://play.google.com/store/apps/details?id=com.smooch.labs.jswipe&hl=en&gl=us'
+  },
+  {
+    title: 'Roomster - Roommates, Roommate & Roommate Finder',
+    installs: 3685130,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/iPMs6zTWWZcBxybhqKJ3OWfpdBOgkCEbfsY7-6a3ZFpSsub3zidGtQ1MvZeF7FM0csn8',
+    appId: 'com.roomster',
+    url: 'https://play.google.com/store/apps/details?id=com.roomster&hl=en&gl=us'
+  },
+  {
+    title: 'OurPact – Parental Control App GPS Family Locator',
+    installs: 452437,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/j80hWlxixhoEHOonntBuv4CZDzCczdlk4yU6ckCtmKpZ2d1lRkSjrz8mZAZ8Lapccis-',
+    appId: 'com.ourpact.androidparent',
+    url: 'https://play.google.com/store/apps/details?id=com.ourpact.androidparent&hl=en&gl=us'
+  },
+  {
+    title: 'SeekMe - Palm Scan Cartoon Camera  Baby Prediction',
+    installs: 791820,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/EO5cbORep6J-U5WlGvpCh2tzWd6K8oEdBybHBLiQG1K3XKS_QrORaoPfOqXm1uuDRaQ',
+    appId: 'com.test.seekme',
+    url: 'https://play.google.com/store/apps/details?id=com.test.seekme&hl=en&gl=us'
+  },
+  {
+    title: 'HUD™ Casual Dating App',
+    installs: 251533,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/fZvR4FmI04P2ripd73-5Gm2RWzcl34kH2gEpnfq7FIlxSjZhyFnc3XwMGfjLuIYh37M',
+    appId: 'com.hookupdating',
+    url: 'https://play.google.com/store/apps/details?id=com.hookupdating&hl=en&gl=us'
+  },
+  {
+    title: 'AstroSoul Your Personal Predictions',
+    installs: 1212537,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/rjnSKutxE8AGREqhAlecChZuZ1WpmKxmi-r5jp-98sMc5HeQh3_o0bWKJ5EyR808OPw',
+    appId: 'com.astrosouls',
+    url: 'https://play.google.com/store/apps/details?id=com.astrosouls&hl=en&gl=us'
+  },
+  {
+    title: 'Co–Star Personalized Astrology',
+    installs: 1612966,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/9p-9YqiRe-S11R_ham8f9HFgLeQSqfAI_hxMobcHln7T1UqH5-Vbdr1iN1r1YYI5eE4',
+    appId: 'com.costarastrology',
+    url: 'https://play.google.com/store/apps/details?id=com.costarastrology&hl=en&gl=us'
+  },
+  {
+    title: 'Pet Interphone',
+    installs: 705993,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/aXwHYg6DczMTxPY1YmVsJdA9E03T_gaE_YhD8o9lFKHkcLpfIwIV0nP72fQfhJfst00',
+    appId: 'com.pet.translator',
+    url: 'https://play.google.com/store/apps/details?id=com.pet.translator&hl=en&gl=us'
+  },
+  {
+    title: 'Daylio - Diary, Journal, Mood Tracker',
+    installs: 10566320,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wweiF4j7oCrolJVXpqaBf7egP7ia8j0nt4b97ebS7BcRRQLLIp6fA3HDX0qT1qd4UQ',
+    appId: 'net.daylio',
+    url: 'https://play.google.com/store/apps/details?id=net.daylio&hl=en&gl=us'
+  },
+  {
+    title: 'Palmistry',
+    installs: 6059591,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/32e5XbqCCnZEshZZD-15O5uSVqA1XQplXw7kJ335KRVeSv_W8BL7rZ5R8gRAqTUnpeM',
+    appId: 'com.academy.soular.star',
+    url: 'https://play.google.com/store/apps/details?id=com.academy.soular.star&hl=en&gl=us'
+  },
+  {
+    title: 'Relax - Daily Palmistry, future baby, palm Scanner',
+    installs: 1703872,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/pPZfUatQ3U7ztgyMCa4vllfhQRMexDWZVNqqgjsCai4DvFGHe_RYVwbkmVZaLl-lIOU',
+    appId: 'com.meditation.deepsleep.relax',
+    url: 'https://play.google.com/store/apps/details?id=com.meditation.deepsleep.relax&hl=en&gl=us'
+  },
+  {
+    title: 'Marketplace - Buy and letgo',
+    installs: 967185,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/KseUUXoDeZJ1A7QGNccjAcdjCm2ktXXA26kztnKanqZRu1V0snb5L3V1dra8qh1_wQ',
+    appId: 'com.marketplace.buy.and.sell.free',
+    url: 'https://play.google.com/store/apps/details?id=com.marketplace.buy.and.sell.free&hl=en&gl=us'
+  },
+  {
+    title: 'GCN',
+    installs: 168559,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/xhq-nlbANin4CAp9gJXfyes_3POdqq30bE9C0ik6GqwIVch2zv0QvHrWGNDIXVgcp021',
+    appId: 'com.playsportsnetwork.tourmalet',
+    url: 'https://play.google.com/store/apps/details?id=com.playsportsnetwork.tourmalet&hl=en&gl=us'
+  },
+  {
+    title: 'Circle Parental Controls',
+    installs: 65417,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/omJfLxpfi2cRne183FjZi_lgD-YSA1O-7vORxMtH_YjEyAZv-bFcqVdt80aQltecxiM',
+    appId: 'com.meetcircle.circle',
+    url: 'https://play.google.com/store/apps/details?id=com.meetcircle.circle&hl=en&gl=us'
+  },
+  {
+    title: 'Joseph Prince',
+    installs: 178475,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/K0_-7fvs7q4WIzTtA9xw9C6gt8N9UWjkWCaj0UH8_nfs-HSEJRbPnieGh4yms4HLIlU',
+    appId: 'com.josephprince',
+    url: 'https://play.google.com/store/apps/details?id=com.josephprince&hl=en&gl=us'
+  },
+  {
+    title: 'ChallengeLab',
+    installs: 6982104,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/8SOjbFsP5f04NTJTlSepDSTbZ1FWSCa7yKeihLQGPct2cYtLW56BUjlYYJ6zkVxZRTco',
+    appId: 'com.challengeLab.android',
+    url: 'https://play.google.com/store/apps/details?id=com.challengeLab.android&hl=en&gl=us'
+  },
+  {
+    title: 'Life Palmistry - AI Palm&Gender&Prediction',
+    installs: 1136676,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/TmoJP8sGHmdWyzOD9-nTl8VNaehwWAi9MkaUWY2IsR7elaCWQiAIRDzOECjDIH7OaQ8',
+    appId: 'com.life.palm',
+    url: 'https://play.google.com/store/apps/details?id=com.life.palm&hl=en&gl=us'
+  },
+  {
+    title: 'Family Locator',
+    installs: 85547,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/55VvKcvm7285mhL-pvE0RfMklOSXwwONSh0Ns3IShf-aWkndiccQ3lJVODpkWVUVIzM',
+    appId: 'family.locator.find.my.friends',
+    url: 'https://play.google.com/store/apps/details?id=family.locator.find.my.friends&hl=en&gl=us'
+  },
+  {
+    title: 'Daily Horoscope AstrologyZone® by Susan Miller',
+    installs: 287687,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/zb-Ff8wTxzI9kk2XCBwpoasHA8tO17_yBdcWFqBEXamEVAVx0P38TLonYHHS4nowiA',
+    appId: 'com.handson.h2o.az2014',
+    url: 'https://play.google.com/store/apps/details?id=com.handson.h2o.az2014&hl=en&gl=us'
+  },
+  {
+    title: 'FamilyWall - Family Organizer',
+    installs: 1190232,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/n0O91cn9LMY0Zqqt6DasVqXykBfmFJg1qutFYd2Tqajd3YI7fBHHxq7swSQeXgpTd6Cj',
+    appId: 'com.familywall',
+    url: 'https://play.google.com/store/apps/details?id=com.familywall&hl=en&gl=us'
+  },
+  {
+    title: 'Warhammer Age of Sigmar',
+    installs: 270800,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/MMBvFZ3AVcUAuHHblsCSLQoi-wVnrel5SJW0N4_H_madD4Euj_KBdOCI9qsztaPk1Ro',
+    appId: 'com.gamesworkshop.ageofsigmar',
+    url: 'https://play.google.com/store/apps/details?id=com.gamesworkshop.ageofsigmar&hl=en&gl=us'
+  },
+  {
+    title: 'Super Fonts',
+    installs: 1048457,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/8UpbPdQyGyxZL_akoAjO4ix4xURjUN26Fa2nkSnG56PNmZuoXGN5ejjylNmW1d0oF3Ad',
+    appId: 'com.micge.keyboard',
+    url: 'https://play.google.com/store/apps/details?id=com.micge.keyboard&hl=en&gl=us'
+  },
+  {
+    title: 'PsychicBook - Psychic Readings',
+    installs: 4270,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/20Rue-wcBiKCUjrrsJagWHpxdNnF6ezlypH2lQBXOWuxa_0e5QWUbQZqu3SmhNa0AQ',
+    appId: 'net.psychicbook.app',
+    url: 'https://play.google.com/store/apps/details?id=net.psychicbook.app&hl=en&gl=us'
+  },
+  {
+    title: "TopU: Let's enjoy video chat online",
+    installs: 3727584,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/2zs6JOwdNyISEK4UDEWNMhB_h9kihF6vLUaQMDJGJH18IdQ3x8mVs878yiZD4Br7IjI',
+    appId: 'com.topu.livechat',
+    url: 'https://play.google.com/store/apps/details?id=com.topu.livechat&hl=en&gl=us'
+  },
+  {
+    title: 'Aging Face - Face Predict & Cartoon Effect',
+    installs: 297043,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/0YxmG8fVlPTKhRwKQkQHIyvcPtXxvdHGuHJ4d24iq1TcX6eoH85FCjYrpabbP8tKrRY',
+    appId: 'com.aging.face.cartoon.camera',
+    url: 'https://play.google.com/store/apps/details?id=com.aging.face.cartoon.camera&hl=en&gl=us'
+  },
+  {
+    title: 'Planner 5D - Home & Interior Design Creator',
+    installs: 26778925,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ZR5yAMPm-WV0DgFldeXoBd4okCj--DQ9XiYggeSmvuecWr9bHnpA5bbqJ4HGKdgrt3Rt',
+    appId: 'com.planner5d.planner5d',
+    url: 'https://play.google.com/store/apps/details?id=com.planner5d.planner5d&hl=en&gl=us'
+  },
+  {
+    title: 'TimePassages',
+    installs: 101414,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/vVlXCTB5Eq3JB4zRbIkB7efdw99J8Oq98krKHDlN5MiLeY_pX4Obl62zjSIWP-ebRg',
+    appId: 'com.astrograph.timepassages',
+    url: 'https://play.google.com/store/apps/details?id=com.astrograph.timepassages&hl=en&gl=us'
+  },
+  {
+    title: 'Ibiza Video Chat',
+    installs: 420506,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/PDVQGTS-Y0hnrr2UW47T_IWq3OX2eGfDufibZD9fklxkX4pYew5bVUTHqLK44GKXpw',
+    appId: 'com.ibizasama',
+    url: 'https://play.google.com/store/apps/details?id=com.ibizasama&hl=en&gl=us'
+  },
+  {
+    title: 'Lumen - The Mature Dating App for Silver Singles',
+    installs: 1363820,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/j431m8WPClza7rR2gB46VSEoxGruoy8MTagighl_kAZe9BSohvZOUKqGH__AsAjppXM',
+    appId: 'com.lumen.app',
+    url: 'https://play.google.com/store/apps/details?id=com.lumen.app&hl=en&gl=us'
+  },
+  {
+    title: 'Astrology & Palm Master',
+    installs: 307727,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/IFtUkQR6mcGi2x30l0OrEnxzZStWKE1UWrGMtvyd6-tIhewz_SHVokJ1C8akTVwiUKs',
+    appId: 'com.palm.astrology',
+    url: 'https://play.google.com/store/apps/details?id=com.palm.astrology&hl=en&gl=us'
+  },
+  {
+    title: 'I am - Daily affirmations reminders for self care',
+    installs: 289418,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wXEXpHL0CDFIi3I69x8oN_D-Njs7BJjOkh1FIHslpnkSqf86lC7N0dlXnnfSVda7XsE',
+    appId: 'com.hrd.iam',
+    url: 'https://play.google.com/store/apps/details?id=com.hrd.iam&hl=en&gl=us'
+  },
+  {
+    title: 'AstroMatrix Birth Chart Synastry Horoscopes',
+    installs: 802492,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/-TajBgA9N-M_4HWLMsKHD1ULGSJsPdlJaYmD3QYDj_ARMiURaJRovGhsSTnKbb1MsQ',
+    appId: 'io.cordova.astromatrix',
+    url: 'https://play.google.com/store/apps/details?id=io.cordova.astromatrix&hl=en&gl=us'
+  },
+  {
+    title: 'Faladdin: Free Daily Horoscope & Tarot Readings',
+    installs: 13661736,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/m0_E3R2XCmKR8VacXVJcA_35_YRapqsq6_k2VjaQWjftHpAs0FzHqqd6zXCpJS1WAs8',
+    appId: 'com.faladdin.app',
+    url: 'https://play.google.com/store/apps/details?id=com.faladdin.app&hl=en&gl=us'
+  },
+  {
+    title: 'AT&T Secure Family™',
+    installs: 38157883,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/BeeOxt7owukve_M09ad9ll0HaLVeq4w-NXAJGV61FJ4T72ctya1spuzFKJ_aymNn8dY',
+    appId: 'com.wavemarket.waplauncher',
+    url: 'https://play.google.com/store/apps/details?id=com.wavemarket.waplauncher&hl=en&gl=us'
+  },
+  {
+    title: 'Muslim Pro - Prayer Times, Azan, Quran & Qibla',
+    installs: 71699548,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/KJtt874qiZpZRN6mJV0-gIbqxn-N5V1UWrD4H7N8puqNduqAGc2IvH4ZtIkGD-7nDA',
+    appId: 'com.bitsmedia.android.muslimpro',
+    url: 'https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=en&gl=us'
+  },
+  {
+    title: 'Coco Camera',
+    installs: 929398,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/sDR6pTcU3wEXogztp_EWbvfSytyhAtyybotxep7e9muMr8SQapVmrpxLUhUhsbUQ2jk',
+    appId: 'com.camera.coco',
+    url: 'https://play.google.com/store/apps/details?id=com.camera.coco&hl=en&gl=us'
+  },
+  {
+    title: 'Intimately Us',
+    installs: 11628,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/-mFuTgzz_WB8zUoWVkiV3l426AxYmg2-l5VzmwiEikL4z8jCU1n3vLwGdW5KRiT8xI63',
+    appId: 'com.getyourmarriageon.iu',
+    url: 'https://play.google.com/store/apps/details?id=com.getyourmarriageon.iu&hl=en&gl=us'
+  },
+  {
+    title: 'Starwise: Astrology, AstroCities and Horoscope',
+    installs: 19616,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/axu22wMN_h7nNNrY1TpabFU63TxGOxZw_3sL4xHFy6gq30b5hEPqVhaTZQ6EvbwYF6Q',
+    appId: 'com.star.wise',
+    url: 'https://play.google.com/store/apps/details?id=com.star.wise&hl=en&gl=us'
+  },
+  {
+    title: 'Live Psychic Chat Psychic Reading',
+    installs: 37429,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/CWVUwFvm3wDY9P5tIMtrzI1-nnZOAHtJ0ajSxzp0KrZ7U085LHLuGcg78fEmfRHqLaJF',
+    appId: 'com.purpledotdigital.livepsychic',
+    url: 'https://play.google.com/store/apps/details?id=com.purpledotdigital.livepsychic&hl=en&gl=us'
+  },
+  {
+    title: 'Day One Journal',
+    installs: 365558,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/8VUlFNyKmvfr_Hz-ZJCbu-VzkCVvmfjiyYJKM9YomxSQxJwd735Vp8RwGFbeTSkIm8Y',
+    appId: 'com.dayoneapp.dayone',
+    url: 'https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&hl=en&gl=us'
+  },
+  {
+    title: 'GeoZilla - Find My Family',
+    installs: 6620058,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/XA9JOwrFrs6xYqfPgXKHd9eLkb_B2o4csimZzXXuiFW4h0UlsJwV2JpfnigZn7om8w',
+    appId: 'com.geozilla.family',
+    url: 'https://play.google.com/store/apps/details?id=com.geozilla.family&hl=en&gl=us'
+  },
+  {
+    title: 'Yodha My Astrology & Horoscope',
+    installs: 1937258,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ajyMYVK27zqsHZIbMas76kUfxUvI2dC5drn1zFNlI630ADO3EeWIKAG46fAjB4T3Kg',
+    appId: 'com.astroid.yodha',
+    url: 'https://play.google.com/store/apps/details?id=com.astroid.yodha&hl=en&gl=us'
+  },
+  {
+    title: '365 Gratitude: Self-Care Journal',
+    installs: 426567,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/BmzoOf5o7j8YwABCn5b9OZoj4C8u3ZtplH3VuFyeH34yTi_YMcfKjNkpuz_z2RImcA',
+    appId: 'com.gratitude.challenge',
+    url: 'https://play.google.com/store/apps/details?id=com.gratitude.challenge&hl=en&gl=us'
+  },
+  {
+    title: 'Yodha My Astrology and Zodiac Horoscope',
+    installs: 619654,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/78QdKaaGh5y8SJknplVzVQO1MXYc7JEhCsd1zX37LSYlV9tHMH9x4huQGHAOkLcgvA',
+    appId: 'com.astroid.yodha.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.astroid.yodha.pro&hl=en&gl=us'
+  },
+  {
+    title: 'iHoroscope - 2020 Daily Horoscope & Astrology',
+    installs: 12727809,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Qzl9p17IInl8fz-HMMYhWepRhRf6BLC-rCPtD0uluU0i65EA21x4EmuEQdlp456vadM',
+    appId: 'fr.telemaque.horoscope',
+    url: 'https://play.google.com/store/apps/details?id=fr.telemaque.horoscope&hl=en&gl=us'
+  },
+  {
+    title: 'Obedience: BDSM habit tracker app for couples',
+    installs: 103107,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/GIs3cF6KWBzerK6T51g8SK2Wop_95Jb4Yv3zifBp62FRxnE5sWv3j28xaN6DXfUEqw',
+    appId: 'com.obedience',
+    url: 'https://play.google.com/store/apps/details?id=com.obedience&hl=en&gl=us'
+  },
+  {
+    title: 'Walk Tracker - Step Counter Free & Calorie Burner',
+    installs: 771963,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/olohQ5zER29M4GZQcTa_JZoyg4MMCwpdoSy9lbBsMUhBhStVqskseHy0CkXQJogZuIug',
+    appId: 'health.step.walk',
+    url: 'https://play.google.com/store/apps/details?id=health.step.walk&hl=en&gl=us'
+  },
+  {
+    title: 'Find Me Gluten Free',
+    installs: 708278,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/Q3veMQwCKxS-1WpPD1RSpI2xgcftGvObXAXOlGsA5Wh_YztE1cxhAC2rnclfAic41Yc',
+    appId: 'com.fmgf.free',
+    url: 'https://play.google.com/store/apps/details?id=com.fmgf.free&hl=en&gl=us'
+  },
+  {
+    title: 'Singles - Free Romance Meetup Dating App Near Me',
+    installs: 772998,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/f76mb123AkJ3hF1fhSRe1HcH2BR-e3aVd9tm5DCyafvWDuyDcgp5cWW8cBLurhhUfQMC',
+    appId: 'com.linkhyb.singles',
+    url: 'https://play.google.com/store/apps/details?id=com.linkhyb.singles&hl=en&gl=us'
+  },
+  {
+    title: 'Toucan Smart Home',
+    installs: 13537,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/YOEg7OILUtQbY0L32Vfxxr67loiguqL29s_gcA4FExSRMA0R9T9LLbWJF2SLfqmAfNOB',
+    appId: 'com.vupoint.toucan',
+    url: 'https://play.google.com/store/apps/details?id=com.vupoint.toucan&hl=en&gl=us'
+  },
+  {
+    title: 'Sanctuary Astrology: Horoscope & Birth Chart',
+    installs: 180996,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/2xyPV6DndaMwVTDZz_f1dfdTWGKUroVw91H9UNWEhAdMD0FnNtQLTbWLbljr8s2aMVk',
+    appId: 'com.sanctuaryworld.sanctuaryandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.sanctuaryworld.sanctuaryandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Psychic Vision: Psychic Video Readings & Live Chat',
+    installs: 130889,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/MbLrCRLtD6O8fL52KfuoLZrntQDzTbo9XaZF_COu1e5rSI9y9DyEvvJyEPNLtJeSJuo',
+    appId: 'com.liquidsoftwaremobile.mytarotadvisornet',
+    url: 'https://play.google.com/store/apps/details?id=com.liquidsoftwaremobile.mytarotadvisornet&hl=en&gl=us'
+  },
+  {
+    title: 'Yumi: Hookup & Anonymous Chat App for NSA Dating',
+    installs: 176004,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Rcso9jCKYl1EquYq3P6LVhxsAQoMGk716p0j3LckQrv7oAlDSp78Qizw9Y1wh8TrA6w',
+    appId: 'co.lucky.hookup',
+    url: 'https://play.google.com/store/apps/details?id=co.lucky.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'Sleep as Android Unlock 💤 Sleep cycle smart alarm',
+    installs: 1204642,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/3W_8fBXMgxbbpSZ5zegghyGLjFWE7AxeEE6GyKkhP8lt2U13afGtZua7Ne-qrdPvJUQ',
+    appId: 'com.urbandroid.sleep.full.key',
+    url: 'https://play.google.com/store/apps/details?id=com.urbandroid.sleep.full.key&hl=en&gl=us'
+  },
+  {
+    title: 'Roomi - Roommates & Rooms Finder',
+    installs: 709807,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/RuN2eK2yoUqJ2raQUP3XwHmP7GIJtqAt8P3D62rkYsrKCvGuRjgoBFHtHmwDC91b8_xI',
+    appId: 'com.roomiapp.android',
+    url: 'https://play.google.com/store/apps/details?id=com.roomiapp.android&hl=en&gl=us'
+  },
+  {
+    title: 'align 27 - Daily Astrology',
+    installs: 46034,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/S313Yhk29wR3SnnGyTkRmDrKmCLkgMGG30kBetFY24BKvm7zELB-QmT11gtrTdXqUjg',
+    appId: 'com.dailyinsights',
+    url: 'https://play.google.com/store/apps/details?id=com.dailyinsights&hl=en&gl=us'
+  },
+  {
+    title: 'The Pattern',
+    installs: 1151683,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Al6CA4smc7joCyX7veO5ZlwFt-7alBAEAayFpaDOGk78BTpSF1kmYtuNn5DzTJDkMts',
+    appId: 'com.thepattern.app',
+    url: 'https://play.google.com/store/apps/details?id=com.thepattern.app&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Mod',
+    installs: 174228,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/WC5bETYG7vsxhH06RnHTVgnkSQFyU6Lc0SXvwmlkNPhSgFiWDIF4JimSRLSA-qH7Eg',
+    appId: 'com.dragon.maps.mods.egg.baby.addon',
+    url: 'https://play.google.com/store/apps/details?id=com.dragon.maps.mods.egg.baby.addon&hl=en&gl=us'
+  },
+  {
+    title: 'Ms Yvonne - DNA Ancestry & Cartoon Portrait',
+    installs: 304712,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/JQ1W3zD_DQabcm3NQcyazyxDGxmgzLkQjuYX4z3GW3afxDayEamb08kdmAjkfIfMtiQe',
+    appId: 'com.skin.msyvonne',
+    url: 'https://play.google.com/store/apps/details?id=com.skin.msyvonne&hl=en&gl=us'
+  },
+  {
+    title: 'PaperKarma - Stop Postal Junk Mail',
+    installs: 166423,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/UvJG93-jRDnCfiijb-g1p89X-tbi4rMICRG4cZJRe6ogtC7IA9bRkQZsYlred9hltQ',
+    appId: 'com.readabl.paperkarma',
+    url: 'https://play.google.com/store/apps/details?id=com.readabl.paperkarma&hl=en&gl=us'
+  },
+  {
+    title: 'Forks Plant-Based Recipes',
+    installs: 80433,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/n0X5iAO_8ToPhrDQPp4iLyg4D3Yrcb7KtQycs0QQZsKiZsLszLEBBoPdyK7xuqLXpg',
+    appId: 'cc.fuze.forks',
+    url: 'https://play.google.com/store/apps/details?id=cc.fuze.forks&hl=en&gl=us'
+  },
+  {
+    title: 'fortunica - Psychic, Love and Tarot Readings',
+    installs: 3398236,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/QAXiaxvUYxfY6QSysSxPOX-IV-a1CRdtPsb6weYG56c0ax_pGQTQMGgyK4x9jWlh8iE',
+    appId: 'com.questico.fortunica.german',
+    url: 'https://play.google.com/store/apps/details?id=com.questico.fortunica.german&hl=en&gl=us'
+  },
+  {
+    title: 'I Am Sober',
+    installs: 625798,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ZSeo7ZJxVW_XDtj4Zo8iCUJW1mZPIbKGXX6V6OPjsQjhXDtITI09t9ilbWW42kfi-bg',
+    appId: 'com.thehungrywasp.iamsober',
+    url: 'https://play.google.com/store/apps/details?id=com.thehungrywasp.iamsober&hl=en&gl=us'
+  },
+  {
+    title: 'Horoscope & Astrology & Palm Reading - Coach Chat',
+    installs: 160923,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/BZ0sHsO7mydTnnOddxV7BlwNIcZH0xhuaj6HVyXSQ7bmFCFSpASzZlZrxMrCdB0kLRU',
+    appId: 'jcom.horoscope.astrology',
+    url: 'https://play.google.com/store/apps/details?id=jcom.horoscope.astrology&hl=en&gl=us'
+  },
+  {
+    title: 'Hay House Unlimited Audio',
+    installs: 21406,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Lx9FPjKbjotlSohBma2YW1QtZCl4hhxsZ-nX_JR0iReiUqj58kRlLchPRoFoskps1Q',
+    appId: 'com.hayhouse.hayhouseaudio',
+    url: 'https://play.google.com/store/apps/details?id=com.hayhouse.hayhouseaudio&hl=en&gl=us'
+  },
+  {
+    title: 'Girl with Tail Skins',
+    installs: 453392,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/q0yse9r0llprenhonzDS5HXUW5NIA28LjiL1xS3FmGFI6n4fDXD6lxKqLgoAI-O4Ftk',
+    appId: 'com.tail.skins.ears.cute',
+    url: 'https://play.google.com/store/apps/details?id=com.tail.skins.ears.cute&hl=en&gl=us'
+  },
+  {
+    title: 'Punchbowl — Online Invitations & Digital Cards',
+    installs: 595828,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/x1x5r6GeCFQPldaCzhHJhoxhVcIGKJDU5tAd8sJhWHpA1YSz7URIwmgId8JZabos388',
+    appId: 'com.punchbowl.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.punchbowl.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Famio: Connect With Family',
+    installs: 106395,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/8gN4zQifHQ-MbnKk-HN123i4KEaZYadIP1Hrpz8T9tJnLrHS9YL2jmqpe_n5-wFeQ0Q',
+    appId: 'com.find.connect.family',
+    url: 'https://play.google.com/store/apps/details?id=com.find.connect.family&hl=en&gl=us'
+  },
+  {
+    title: 'Fonts Plus - Stylish Fancy fonts & emoji Keyboard',
+    installs: 986198,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/iY8rVWSYuqOPBEsjeO8rkFzu8E712a9XoHwF2RAlcXDNku0QtH521jFzYATemj27ug',
+    appId: 'com.fontsplus',
+    url: 'https://play.google.com/store/apps/details?id=com.fontsplus&hl=en&gl=us'
+  },
+  {
+    title: 'Guroja - Live Video Chat',
+    installs: 1211711,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/B2u61Bo8Dbee5nym01CXDXMC-6UsyELluSDKm_ppWzfmjGF3G0YK_FukwddDHF9QdLuJ',
+    appId: 'com.colive.guroja',
+    url: 'https://play.google.com/store/apps/details?id=com.colive.guroja&hl=en&gl=us'
+  },
+  {
+    title: 'Tarot Cards Reading Free - Daily Tarot & Yes or No',
+    installs: 583514,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/QQ3lnIB8FGImjdSaPbRJIUTnjtyy_kMkQQSa-zqZQdqC49i9CgVUOPBBWpYZJs-a0Lw',
+    appId: 'com.tarotlife.tarot.card.reading.numerology',
+    url: 'https://play.google.com/store/apps/details?id=com.tarotlife.tarot.card.reading.numerology&hl=en&gl=us'
+  },
+  {
+    title: 'Solex',
+    installs: 7704,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/2mP9dLsLFhU_CXdi-VpiF25h7N0ItoVuP1_1Vc1sdSoB1p_2NaSlVf8znKPTDMmPYw',
+    appId: 'com.fognl.solex',
+    url: 'https://play.google.com/store/apps/details?id=com.fognl.solex&hl=en&gl=us'
+  },
+  {
+    title: 'Net Nanny Parental Control App',
+    installs: 62045,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/jOVYRu7sPpoURw0Ti-ipfTdcMF1Gwa8_1HiPLvj9UbavN6p2fn-cFZNOrDeb53qdrw',
+    appId: 'com.contentwatch.ghoti.cp2.parent',
+    url: 'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp2.parent&hl=en&gl=us'
+  },
+  {
+    title: 'High Vibe TV',
+    installs: 5620,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/aPN76KQ6Ea1p1IVh_uYjltBS7nT9fMGtYOcDHnv2iTIK9LKmcXgQ3bTbGXPgQW20obE',
+    appId: 'tv.uscreen.highvibetv',
+    url: 'https://play.google.com/store/apps/details?id=tv.uscreen.highvibetv&hl=en&gl=us'
+  },
+  {
+    title: 'SpareRoom USA — Roommate, Room & Property Finder',
+    installs: 235521,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/NCk14GcEZbS0WWEV94O-0e1CjlOG4xyUdjQlVNhtcZsBShLV7GKsTDtb_Rhcpa0JHQA',
+    appId: 'com.spareroom.spareroomus',
+    url: 'https://play.google.com/store/apps/details?id=com.spareroom.spareroomus&hl=en&gl=us'
+  },
+  {
+    title: 'Real Plans - Meal Planner and Shopping List',
+    installs: 40719,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/tJSlYgjmEu7XwOvMSoi-wscgs7ievVng8iw-PqbML9hiNYodhdQF3JLTK6rqmCap_fA',
+    appId: 'com.sdei.realplans.realplans',
+    url: 'https://play.google.com/store/apps/details?id=com.sdei.realplans.realplans&hl=en&gl=us'
+  },
+  {
+    title: 'Aisle — Dating App For Indians',
+    installs: 3039619,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/M8QZODVQoiS6kIqJTGAkLrxS4jqbnA2iOHPoslTIDMMV7vte5nhoMHENP1s7uwt5LMo',
+    appId: 'com.aisle.app',
+    url: 'https://play.google.com/store/apps/details?id=com.aisle.app&hl=en&gl=us'
+  },
+  {
+    title: 'Sleep as Android 💤 Sleep cycle smart alarm',
+    installs: 20297335,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Ui7iNIIJKajTlE1fJzFjNTHrilzBDcUROWSL7kn2IcdnrdQyTCroHjXRWkE7K5d_M6Y',
+    appId: 'com.urbandroid.sleep',
+    url: 'https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en&gl=us'
+  },
+  {
+    title: 'Veggly – Vegan and Vegetarian Dating',
+    installs: 145149,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/zkOI7qrB6N2gXMYLe5FBQY5FyIvppD1kErka2zldUXz7i5Pq1nHMuI6NSZTccKeBVKM',
+    appId: 'com.veggly',
+    url: 'https://play.google.com/store/apps/details?id=com.veggly&hl=en&gl=us'
+  },
+  {
+    title: 'Daybook - Diary, Journal, Note, Mood Tracker',
+    installs: 1209085,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/YFqIlpawCRLToQqCM8KbbVZY5Ks7nLNq49e3jsXckM_rfiQXjCJynfksfHy01_dZYw',
+    appId: 'com.bigheadtechies.diary',
+    url: 'https://play.google.com/store/apps/details?id=com.bigheadtechies.diary&hl=en&gl=us'
+  },
+  {
+    title: 'Tarot Fox',
+    installs: 30072,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/R2Pyxj29cwqOLZZ0SZDflIX3k3UWsxpiaKZAlCOPz-yZQdFCG4k10eZiWT2wy4x9q-g',
+    appId: 'com.tarotfox.android',
+    url: 'https://play.google.com/store/apps/details?id=com.tarotfox.android&hl=en&gl=us'
+  },
+  {
+    title: 'IOG Bible TV',
+    installs: 3644,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/7WIM98o3wo2xWuBfuF9Y3ctqEW7o1CUlJrEi47jqBCeCbQfqldnGHVmzNxUE9Wyj9B4',
+    appId: 'com.ioglessons',
+    url: 'https://play.google.com/store/apps/details?id=com.ioglessons&hl=en&gl=us'
+  },
+  {
+    title: 'XO - dating & icebreaker games',
+    installs: 12796,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Ojd36fWsNPiCG236-79nXu7r1G_tSkbw9AzB0PBvR0UwSQLTd6P12f-4dBgTE5EMeg',
+    appId: 'com.wonderful.hiii',
+    url: 'https://play.google.com/store/apps/details?id=com.wonderful.hiii&hl=en&gl=us'
+  },
+  {
+    title: 'LOVELY – Your Dating App To Meet Singles Nearby',
+    installs: 14914998,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/LyIFxe1YBvDG7Nw2X3S8PAnjkO9-elOewkvH9FMVz1VRpfJplBR-oxIHCbMWmZyYF8A',
+    appId: 'com.pinkapp',
+    url: 'https://play.google.com/store/apps/details?id=com.pinkapp&hl=en&gl=us'
+  },
+  {
+    title: 'My Psychic Reading',
+    installs: 37821,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/xiCIeDJB7WwzrV6k58vyMgsLcqs0q1yUZsoXeMENTYUkeBmVX8O9zmsiZtIDRpaNGc4',
+    appId: 'com.mypsychic.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mypsychic.android&hl=en&gl=us'
+  },
+  {
+    title: 'Crestron App',
+    installs: 53136,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/qaENpmL7ZInba1nYmub4b6wOyBdlT7jlleS43sKYpts_S0OHhwCeDc7rol1Tmqdo8g',
+    appId: 'air.com.crestron.andros',
+    url: 'https://play.google.com/store/apps/details?id=air.com.crestron.andros&hl=en&gl=us'
+  },
+  {
+    title: 'Tiimo - your daily planner, made visual',
+    installs: 14903,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/vQGxLStef3J5zMOq-tEWsUdRznz97BLASRQY_fIy5BV9H_Xj2ggnKmfGL5VXsmHQZQ',
+    appId: 'com.tiimoapp.androidapp',
+    url: 'https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp&hl=en&gl=us'
+  },
+  {
+    title: 'Mind - Expand Your Consciousness',
+    installs: 64328,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/o5yKnmeFUMK0OqqoBLPiyRAu0Qtics_YgDO518LZ4g3oYbpDRflRb1HwOEKBr4-e3L3P',
+    appId: 'com.gradoid.mind.android',
+    url: 'https://play.google.com/store/apps/details?id=com.gradoid.mind.android&hl=en&gl=us'
+  },
+  {
+    title: 'CMN News',
+    installs: 13123,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/MvtqI5l8eISZZOek7gIcly_hC41JQZmhRoSlf6jt7bVO59W_4x9EphTN4Td8x1HYPbaC',
+    appId: 'ws.coverme.cmn',
+    url: 'https://play.google.com/store/apps/details?id=ws.coverme.cmn&hl=en&gl=us'
+  },
+  {
+    title: 'Violet Camera',
+    installs: 650197,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/2r5WDR3CBMtOO57r9YKQ2AjF-sZVeQc698DQ7zCd4tD4nzZWTC99G92kkwUYWPWnIg',
+    appId: 'com.xcamera.clover',
+    url: 'https://play.google.com/store/apps/details?id=com.xcamera.clover&hl=en&gl=us'
+  },
+  {
+    title: 'Tattoodo - Tattoo Design',
+    installs: 8393262,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/UjPd82cyvKw0PV2FjAgIuUSc49xKSgCh1piqkszOgS0GyhPSVqKI63kwNsQv6PICAhea',
+    appId: 'com.tattoodo.app',
+    url: 'https://play.google.com/store/apps/details?id=com.tattoodo.app&hl=en&gl=us'
+  },
+  {
+    title: 'Tingles ASMR - Relaxing & Soothing Sleep Sounds',
+    installs: 947956,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/YB9EH4Qq73IbvhMrqN9o27r_t1UJGpQnVmDYdURlZbK_2OSmiuDI8cFHoX0t7f80DQ',
+    appId: 'com.designs1290.tingles',
+    url: 'https://play.google.com/store/apps/details?id=com.designs1290.tingles&hl=en&gl=us'
+  },
+  {
+    title: 'End of the Age+',
+    installs: 3116,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wTRtVkZL6AJG4Us3mP7t6YcfO_xodvWxbR08bRlctzysX3iIwBN4ICrc_-oVu2z4lOLT',
+    appId: 'com.endtime',
+    url: 'https://play.google.com/store/apps/details?id=com.endtime&hl=en&gl=us'
+  },
+  {
+    title: 'AA 12 Step Toolkit - 12 Steps RecoveryBox',
+    installs: 232356,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/PFRD8RXKqomQo3pyUbOdo7WfR9agCQp63Ia_ADUOiEE9b97gLw-11L0ZhRfEpRzvuSvc',
+    appId: 'com.ibyteapps.aa12steptoolkit',
+    url: 'https://play.google.com/store/apps/details?id=com.ibyteapps.aa12steptoolkit&hl=en&gl=us'
+  },
+  {
+    title: 'MySignSays - Love Horoscope, Tarot Readings & More',
+    installs: 120952,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/yDNYZrJ8b0qhuBdbc2SbbdWvpT89MX39yJXqnOYtMkIxq2gnOrWr9CgXKV59wep1ATE',
+    appId: 'com.mysignsays.app',
+    url: 'https://play.google.com/store/apps/details?id=com.mysignsays.app&hl=en&gl=us'
+  },
+  {
+    title: 'Binnaz: Live Psychics & Astrology, Tarot Readings',
+    installs: 1523278,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/HlJqCIkBsFWIpk-KbsxN8lbndj7bvLgyjW0hTj73YW8R9_Ae58MP09R9nbDTrh4d8w',
+    appId: 'com.binnazabla.kahvefali',
+    url: 'https://play.google.com/store/apps/details?id=com.binnazabla.kahvefali&hl=en&gl=us'
+  },
+  {
+    title: 'Sheytoon',
+    installs: 18246,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ikVgxnlWsDI77DJC8HMv6D67x3L6zY_ynGIlXC5QvZoNDaf2z-L_SggXJOEZsnLYbWY',
+    appId: 'com.triovent.datingapp',
+    url: 'https://play.google.com/store/apps/details?id=com.triovent.datingapp&hl=en&gl=us'
+  },
+  {
+    title: 'Galaxy Tarot',
+    installs: 2056128,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/C-VMn-H5M2SHCD7JEr-XJd1fzI7QHA1i6aio50In-QIHa4OUg2rhJhY2cyF379b1nyg',
+    appId: 'com.hemisphere3.tarot',
+    url: 'https://play.google.com/store/apps/details?id=com.hemisphere3.tarot&hl=en&gl=us'
+  },
+  {
+    title: 'See Future',
+    installs: 150896,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/J_LnfOVPwNPcLXbBVpyOemtsaF0VNsl6rmYyBsWdSkOZEPfxjg4AdzdAYzMUYBFXVHM',
+    appId: 'com.see.future',
+    url: 'https://play.google.com/store/apps/details?id=com.see.future&hl=en&gl=us'
+  },
+  {
+    title: 'CardSnacks: ecards, greetings, gift cards',
+    installs: 18371,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/7pUfhyHTpLUdYSgsl20QT-sH4ZWTPXh7cmFEHZhjRqPCucwUjEPRvZnNdReOG0Hpj8Qa',
+    appId: 'mobigram.cardsnacks',
+    url: 'https://play.google.com/store/apps/details?id=mobigram.cardsnacks&hl=en&gl=us'
+  },
+  {
+    title: 'QBOT V3 PRO',
+    installs: 328,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/657qV9njwfA-6YwEku9mF96lCZP6MpnNcvLcypOTi4SDdqK9OXaDjKYgxmIrnoUfDA',
+    appId: 'com.myqbot.qbot1.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.myqbot.qbot1.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Find Me A Freak Free Online Dating App for singles',
+    installs: 2097436,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/TXQHF_i2MiIZDDSzt8Fn5-KR86do6PemSWaz4a6e21s2wi2sLNEypPSqcSTAJMZ_Ew',
+    appId: 'com.findmeafreak.com.app',
+    url: 'https://play.google.com/store/apps/details?id=com.findmeafreak.com.app&hl=en&gl=us'
+  },
+  {
+    title: 'Psychics 24/7',
+    installs: 36831,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/qM0SKHn4PzflHsRMt_TLslzj6kwVEolwO2CBMxle8ONRUM9KYuba-poVM0ym61X5ag',
+    appId: 'com.psychics247.android',
+    url: 'https://play.google.com/store/apps/details?id=com.psychics247.android&hl=en&gl=us'
+  },
+  {
+    title: 'Universalis',
+    installs: 28431,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/OiKrhvdGmjkwuB-xzGOICbuaoRANxYac7IL-YwJBAswot6bp8fCa2xBBolb2kM0ugco',
+    appId: 'com.universalis.android.universalis',
+    url: 'https://play.google.com/store/apps/details?id=com.universalis.android.universalis&hl=en&gl=us'
+  },
+  {
+    title: 'Carpin - Family Locator',
+    installs: 216626,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/U0xAIwosohuA3Ue_KO7WNPTleWq15QuI_-dzFn8CQinKx4M36yEVbG40mrMmqJWchkBU',
+    appId: 'com.monodijital.carpin',
+    url: 'https://play.google.com/store/apps/details?id=com.monodijital.carpin&hl=en&gl=us'
+  },
+  {
+    title: 'knitCompanion',
+    installs: 57712,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/HAg7ASvwo2Hhj34zUi9k0i69PQRss0bl7xKXqYZExtEeGJM4-EIvByG3A-gBcWLotg',
+    appId: 'com.create2thrive.knitcompanion',
+    url: 'https://play.google.com/store/apps/details?id=com.create2thrive.knitcompanion&hl=en&gl=us'
+  },
+  {
+    title: 'Old Me-Simulate Old Face',
+    installs: 1265213,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/4Fy6Bpe36A_OM7PgnXhMf4P1QMWmU4fOldkWYhwB9wJSY3Tm9K4IbA_TVuL9aI-GCpU',
+    appId: 'com.old.me',
+    url: 'https://play.google.com/store/apps/details?id=com.old.me&hl=en&gl=us'
+  },
+  {
+    title: 'Word on Fire Digital',
+    installs: 14122,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/HMm0zorvD-fphFs5ChP2pf7ewNDzsmqBNK6pHu5az3jLC2qerlmen9y7EGLFVt5LtQ',
+    appId: 'com.wordonfire',
+    url: 'https://play.google.com/store/apps/details?id=com.wordonfire&hl=en&gl=us'
+  },
+  {
+    title: 'ECHOVOX System 3 Professional ITC',
+    installs: 12938,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/S_3ERXPiYI2dKsdY2DSQTeK93vrU3pGWPQNjjeIcq6CkJWVQWMhxH1lurp80MR0dL8c',
+    appId: 'com.bigbeard.echovox',
+    url: 'https://play.google.com/store/apps/details?id=com.bigbeard.echovox&hl=en&gl=us'
+  },
+  {
+    title: 'Couple Game: Relationship Quiz App for Couples 💕',
+    installs: 655158,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/l-wtlq94qVKFivOVtzSY7-smDQLgTpqub5TlObwsd4KfBo0OYi4yYmRAWYMtJ-QJ3w',
+    appId: 'com.jmm.couplegame',
+    url: 'https://play.google.com/store/apps/details?id=com.jmm.couplegame&hl=en&gl=us'
+  },
+  {
+    title: 'Happy Couple - relationship quiz',
+    installs: 853483,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/kL660BRvzUavD4TZVxiOi3Og2UJbFBh7PMyfLX15EjMJxxNPhDzbbhxkIF29CBMRBw',
+    appId: 'com.relance.happycouple',
+    url: 'https://play.google.com/store/apps/details?id=com.relance.happycouple&hl=en&gl=us'
+  },
+  {
+    title: 'S Talk - Chat Whenever',
+    installs: 480855,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/-_uO92aHp9E_9zn7okxO6srnX4-qsJ3DZVf8a8bFze_A0ZQhXOY9A2AVOLfFKryE_o4',
+    appId: 'com.talkingbar.android',
+    url: 'https://play.google.com/store/apps/details?id=com.talkingbar.android&hl=en&gl=us'
+  },
+  {
+    title: 'Deadwave - (Paranormal ITC EVP Ghost Box)',
+    installs: 3636,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/l0eCLYDz8guoa9kUNkcI7ig879vt4HYILJ7sRm2wBKrMBIreJVzG2x5WD7UU21KAcxI',
+    appId: 'com.chillseekers.deadwave',
+    url: 'https://play.google.com/store/apps/details?id=com.chillseekers.deadwave&hl=en&gl=us'
+  },
+  {
+    title: 'Astrofun - Life Coach',
+    installs: 1523544,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/fdPTx6jg00swO13Zi4wbvV41rf2AhqxHMZsE5Glh6EAoMwnwSa8t458V3GWmlhBAoIJB',
+    appId: 'com.astrofun.android',
+    url: 'https://play.google.com/store/apps/details?id=com.astrofun.android&hl=en&gl=us'
+  },
+  {
+    title: 'Swingers App For Singles, Couples & Threesome App',
+    installs: 394902,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/mQBEiuJW0sRGSA4PvlikkKtpO3yu3wHv_gPllnCgrJQ5OIgPYh1NaTvCQxXQruOxq1M',
+    appId: 'com.swingerydating.swingery',
+    url: 'https://play.google.com/store/apps/details?id=com.swingerydating.swingery&hl=en&gl=us'
+  },
+  {
+    title: 'Ablo - Make friends worldwide',
+    installs: 15047649,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/7TA2uTXhO0mDcd8POv6hfkf33HRoeeF2ZrQVm90HbwziVW5Xp-C1s9ZCDTqDaaQvvzg',
+    appId: 'live.ablo',
+    url: 'https://play.google.com/store/apps/details?id=live.ablo&hl=en&gl=us'
+  },
+  {
+    title: 'MySpiritualToolkit - 12 Step AA App for Alcoholics',
+    installs: 129563,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/aqOMMwfBgRP7lBoP36PGip3w75JkY0LaUnO-xOyLZ5mFn2jsujC6-GNDRAe8IVBkh7Q',
+    appId: 'com.myspiritualtoolkit.mytoolkit',
+    url: 'https://play.google.com/store/apps/details?id=com.myspiritualtoolkit.mytoolkit&hl=en&gl=us'
+  },
+  {
+    title: 'Leftover Watch',
+    installs: 2904,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/6hFK6UNVNPI9B_53SR4QtlHGy0AjSMDbxlu-bsFJATf2VbtSX3ORCzNWn7SpyOUSXq8',
+    appId: 'com.jjinc.LeftoverWatch',
+    url: 'https://play.google.com/store/apps/details?id=com.jjinc.LeftoverWatch&hl=en&gl=us'
+  },
+  {
+    title: 'SmashUps',
+    installs: 45854,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/HvvzhWaiBgmBT-DwaWNmB0EC1pm7YOTTtGhjx5XZw5piBuR50S1tZnvG2ypPdz_ziCs',
+    appId: 'com.smashups',
+    url: 'https://play.google.com/store/apps/details?id=com.smashups&hl=en&gl=us'
+  },
+  {
+    title: 'Dekkoo',
+    installs: 49799,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/keEztE1JbicCloMo8R_6ksjEtHp3NXhZJJpcSwn1mOIh56VvtMUN3R_5bDkx7VVL4H_j',
+    appId: 'tv.vhx.dekkoo',
+    url: 'https://play.google.com/store/apps/details?id=tv.vhx.dekkoo&hl=en&gl=us'
+  },
+  {
+    title: 'SLOWLY - Connect to the World!',
+    installs: 2355205,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/6hb_cN9udjof_fuBBoWBiE8lrLoymAaOPWvIRbCcfW-SuNhxaXx-6PA8Adq-X5G0Gw',
+    appId: 'com.slowlyapp',
+    url: 'https://play.google.com/store/apps/details?id=com.slowlyapp&hl=en&gl=us'
+  },
+  {
+    title: 'Pawscout',
+    installs: 101582,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/DUzh_OuOeQDq9_anr9wGJDWnwTr0qqBQFh7unSfb3XeUHwAEJE_5KM0SdAE38PAqmDA',
+    appId: 'com.rulegrid.pawscout',
+    url: 'https://play.google.com/store/apps/details?id=com.rulegrid.pawscout&hl=en&gl=us'
+  },
+  {
+    title: 'Super Slime Simulator: Satisfying ASMR & DIY Games',
+    installs: 52957537,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/YfZBtR6aG3A9YbwMxuuhrPZCRM65z-HfFoAoFrszhT649J3tICDJM2aEdk1mxRbpLbM',
+    appId: 'com.dramaton.slime',
+    url: 'https://play.google.com/store/apps/details?id=com.dramaton.slime&hl=en&gl=us'
+  },
+  {
+    title: 'Astro Veda - My Astrology and Horoscope',
+    installs: 240740,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/4lCu8YXSpvrR6HzXeq3WP3LZledPcbhPxAQhhwEiTXzU9rjnX52loXLagKWSYHXRQw',
+    appId: 'com.whiterabbit.mypocketastrologer.astroveda',
+    url: 'https://play.google.com/store/apps/details?id=com.whiterabbit.mypocketastrologer.astroveda&hl=en&gl=us'
+  },
+  {
+    title: 'Hue Essentials - Philips Hue & TRÅDFRI',
+    installs: 476671,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/3Q6eRDyrgfHLj6JcSr7Lq1j874o1pGUNv7VfufKfJB8VGkF-agOb5ImhGxxq6UHOow',
+    appId: 'com.superthomaslab.hueessentials',
+    url: 'https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials&hl=en&gl=us'
+  },
+  {
+    title: 'BeerSmith 3 Mobile Homebrewing',
+    installs: 63785,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/3pxBDXirL6y5fi4B8jRXASqkWFzAy7E4Hrf8LXtEmML5CqRS-ZPtaP-fVTh_9V2lwoY',
+    appId: 'com.beersmith.beersmith2full',
+    url: 'https://play.google.com/store/apps/details?id=com.beersmith.beersmith2full&hl=en&gl=us'
+  },
+  {
+    title: 'Slide: Video Dating',
+    installs: 198560,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/J6x_AUUZ86Sw5Uulfvi0CA6uUj1x-agnG2WW-eZ4DRBr3jSlmK3aOtQHDBy7iJ2av7Y',
+    appId: 'com.hpcnt.vana',
+    url: 'https://play.google.com/store/apps/details?id=com.hpcnt.vana&hl=en&gl=us'
+  },
+  {
+    title: 'Psychic Union - Personal Reading',
+    installs: 22903,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/pKmqJiO-pRS-Eeang1qcZZA6aJjChTheSshK2iaG1A7cZGE9NYi3u328SrSnWVt-Tek',
+    appId: 'com.psychicunion',
+    url: 'https://play.google.com/store/apps/details?id=com.psychicunion&hl=en&gl=us'
+  },
+  {
+    title: 'Desire - Couples Game',
+    installs: 1479521,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/oPczYBn0TpR-VQenYlit0keVt0BLC6kBxCTELDs4GPJoFLii8x5ia5Hy2sssQ1fp4LU',
+    appId: 'com.desireapps.desire',
+    url: 'https://play.google.com/store/apps/details?id=com.desireapps.desire&hl=en&gl=us'
+  },
+  {
+    title: 'Farmers Dating Only for Country Singles - FarmersD',
+    installs: 36476,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/d61_pKPQAC0BFXOEl5q9jSaslOJOMKantYRM2Ym3P8OjYl-3R_zUtx1CrN0gQBqxck-2',
+    appId: 'com.dating.apps.farmers.only',
+    url: 'https://play.google.com/store/apps/details?id=com.dating.apps.farmers.only&hl=en&gl=us'
+  },
+  {
+    title: 'Portals of Prayer',
+    installs: 11631,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/1kN5qVAmtZ7mapaay7S-oXNOdR_ZDncGgRVXi9TCHJ8f-lD-5IJuJ3zyfHwzcIb44WA',
+    appId: 'org.cph.portals_of_prayer',
+    url: 'https://play.google.com/store/apps/details?id=org.cph.portals_of_prayer&hl=en&gl=us'
+  },
+  {
+    title: 'Echo Prayer',
+    installs: 196299,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ggtaCVmr4Ao1uz_IOIDoYoatj8poKiDkU3p__IkEjLhRSmZS5bcEHAOX72hrOZ5wCIE',
+    appId: 'com.cloversites.echo',
+    url: 'https://play.google.com/store/apps/details?id=com.cloversites.echo&hl=en&gl=us'
+  },
+  {
+    title: 'Face Magic - Face Aging & Cartoon Photo Editor',
+    installs: 170529,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/OPs1nByQGX8oE6mPjYolGARwqURApxKwOlhNjUVMw0bJIVc9p7h4I3OYSczqT_NgSiEp',
+    appId: 'com.face.magic.aging.cartoon',
+    url: 'https://play.google.com/store/apps/details?id=com.face.magic.aging.cartoon&hl=en&gl=us'
+  },
+  {
+    title: 'Horoscope -Daily Horoscope & Palm Reader',
+    installs: 8837273,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/n4PGEtnZxiOEJOzsaaDBXSKPz8a2oD1YPbtv4iwRZy4E0tLGghenB4Z2wJUi-Oat_7c',
+    appId: 'com.dev.dailyhoroscopepalmreader',
+    url: 'https://play.google.com/store/apps/details?id=com.dev.dailyhoroscopepalmreader&hl=en&gl=us'
+  },
+  {
+    title: 'Manything',
+    installs: 345549,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/uHLKQGwgwlHKKL2RIFFIzdKhnM24hMfKB7rLDNWUWRAqSCQgo42xRhovorUlOjijEhU',
+    appId: 'com.manything.manythingviewer',
+    url: 'https://play.google.com/store/apps/details?id=com.manything.manythingviewer&hl=en&gl=us'
+  },
+  {
+    title: 'Brilliant TV',
+    installs: 36613,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/sTtTVAxnLWMFtf8EBBOmNAkg-i6ySd6UCLLUC-7eUFSPEWR90nKBmKR456YcLyMDai8',
+    appId: 'com.brillianttv',
+    url: 'https://play.google.com/store/apps/details?id=com.brillianttv&hl=en&gl=us'
+  },
+  {
+    title: 'Ultimate Intimacy for Couples',
+    installs: 70991,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/MzdDPytIBlQQnIJ9MoZaowNdtoVlm0Y0sGQaxeKPnOQqv4HREHvFSOhfxpQVZRPAgd8',
+    appId: 'org.addingstrengthtomarriages.ultimateintimacy2',
+    url: 'https://play.google.com/store/apps/details?id=org.addingstrengthtomarriages.ultimateintimacy2&hl=en&gl=us'
+  },
+  {
+    title: 'Numerology | Life Guidance',
+    installs: 24107,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/Jt8RmemcL1HjBp7WqbKuu_oCNkvuIVKjPNvvwKgCTtHIeYEPD3QqK2j3WWRjXbS9mQ',
+    appId: 'com.fasky.numerology',
+    url: 'https://play.google.com/store/apps/details?id=com.fasky.numerology&hl=en&gl=us'
+  },
+  {
+    title: 'Noonlight: Feel Protected 24/7',
+    installs: 1011820,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/wXfCGra09BXBcVpX2t-1nPfA1Txrls6Jx48pxOsS8KpO7G2UyM1JmEuPKVuNhamFmRg',
+    appId: 'com.safetrekapp.safetrek',
+    url: 'https://play.google.com/store/apps/details?id=com.safetrekapp.safetrek&hl=en&gl=us'
+  },
+  {
+    title: 'EveryDoggy: Dog training app',
+    installs: 5765,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/E4mwaZ8pW4EsFC1A5YqVATvQDNhkyO_waVzvKsBcwhpp4yBy9pu2Lb1ybmClJjhEDw',
+    appId: 'com.everydoggy.android',
+    url: 'https://play.google.com/store/apps/details?id=com.everydoggy.android&hl=en&gl=us'
+  },
+  {
+    title: 'GZI TV',
+    installs: 5999,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/J1gwupirqTFkr9oqs6-OjFKiqnOYy5POC8tWlNvfirKP0ELnBKx8voSUIwrqIIehw3M',
+    appId: 'com.gzitv',
+    url: 'https://play.google.com/store/apps/details?id=com.gzitv&hl=en&gl=us'
+  },
+  {
+    title: 'Bedtime Fan Noise - White Noise Fan Sleep Sounds',
+    installs: 1324976,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/NLAHgr1DxUa1f27nDx1TG6NiDBsFEn0FEqleKhiZGlCx4RiemHsDBELGo1I9U5dyOA',
+    appId: 'com.ellisapps.bedtimefan',
+    url: 'https://play.google.com/store/apps/details?id=com.ellisapps.bedtimefan&hl=en&gl=us'
+  },
+  {
+    title: 'Free Psychic - One free answer',
+    installs: 30173,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/B5-ihZFcCwnczlQ_8EDmclhQi0bJLC0tx3bEKaBc_1Ua7ZAWAHYLjxek3-AH0lmTlw',
+    appId: 'io.cebbzsasu.voyanceapp',
+    url: 'https://play.google.com/store/apps/details?id=io.cebbzsasu.voyanceapp&hl=en&gl=us'
+  },
+  {
+    title: 'Answers.tv',
+    installs: 1447,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/fwXcXlFneid0XUVwKumLz89n0wkrVp4l6mumyuD-Y1Pn8C7kTiZ-kpnqlPVZMw5tfnoj',
+    appId: 'com.answersingenesis',
+    url: 'https://play.google.com/store/apps/details?id=com.answersingenesis&hl=en&gl=us'
+  },
+  {
+    title: 'Gratitude - Journal App, Daily Zen & Affirmations',
+    installs: 751725,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/rLHoEb58kWA6A2zruEffuEK-gW5tBnpq2YEjuJQFvn3sBbwpKnjutNviZh503cs1aDE',
+    appId: 'com.northstar.gratitude',
+    url: 'https://play.google.com/store/apps/details?id=com.northstar.gratitude&hl=en&gl=us'
+  },
+  {
+    title: 'Horos - Natal Chart',
+    installs: 1189951,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/9ZzXEIcaXbVox1KJmTiBqboN8O21xV4zJstW1_8z39ctrBJ4PFGVgFA3jkXJLQMM6i2o',
+    appId: 'com.horos.horos',
+    url: 'https://play.google.com/store/apps/details?id=com.horos.horos&hl=en&gl=us'
+  },
+  {
+    title: 'I Love Me! University',
+    installs: 9541,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/-365ePACa1RlSQDm7usVva4gaRg_0C9OvTSk41OVSvlC-7KBEZoDhz15OQe13tgAM3s',
+    appId: 'uk.co.disciplemedia.ilovemeuni',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.disciplemedia.ilovemeuni&hl=en&gl=us'
+  },
+  {
+    title: 'Crestron Mobile Pro',
+    installs: 3452,
+    genre: 'LIFESTYLE',
+    icon: 'https://play-lh.googleusercontent.com/_uCeBaWoQlxV8tGrn1DxKbsT3qogTXd6q8SeDsveYjLhEGlX389IyRJd3kdwn4QPbN1H',
+    appId: 'com.crestron.mobile.android',
+    url: 'https://play.google.com/store/apps/details?id=com.crestron.mobile.android&hl=en&gl=us'
+  },
+  {
+    title: 'justWink Greeting Cards',
+    installs: 1899778,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/vdgPznlJcsIm9EbMwWCe3PnIoiE-MWbdwFb7R8jykaaIFez86QmqzOBCRQYsEBHp1kE',
+    appId: 'com.justwink',
+    url: 'https://play.google.com/store/apps/details?id=com.justwink&hl=en&gl=us'
+  },
+  {
+    title: 'Clutterfree',
+    installs: 7595,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/uu9xq1eLJh9wjQD8j3pQcuDMaQSyFcjZbF2r4azkyLcoV_8KpNGJ7FXSfoLkpMny0tDJ',
+    appId: 'com.becomingminimalist.clutterfree',
+    url: 'https://play.google.com/store/apps/details?id=com.becomingminimalist.clutterfree&hl=en&gl=us'
+  },
+  {
+    title: 'Row Counter - Knitting and Crocheting lines count',
+    installs: 203319,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/jdvl9YOfIvfWcaMX3IKJDtzBrT7knQZRZ9LirA6KAdXmXgnRr0UARsMVxdYFKiaAmQ',
+    appId: 'com.row_counter',
+    url: 'https://play.google.com/store/apps/details?id=com.row_counter&hl=en&gl=us'
+  },
+  {
+    title: 'Foreclosure Homes For Sale',
+    installs: 174683,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/bsU7CTHeBKJ_8jluk844xTbZNMbRctAFtzGmM8O58NB5YgP0-CAn2ksCeQJ8ACIrOtk',
+    appId: 'com.FFSData.Foreclosure.com',
+    url: 'https://play.google.com/store/apps/details?id=com.FFSData.Foreclosure.com&hl=en&gl=us'
+  },
+  {
+    title: 'PARAVOX (VOICE ITC) PRO',
+    installs: 180,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/ysopbSptwlZDyoPKV8WWCgtvJy9CWhSJinmvCA9jOR89z0gwJQuuBTI4sKllTkilRfGD',
+    appId: 'com.EIONdev.paravox',
+    url: 'https://play.google.com/store/apps/details?id=com.EIONdev.paravox&hl=en&gl=us'
+  },
+  {
+    title: 'Safelog Pilot Logbook',
+    installs: 11904,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/9x6uNKuAn24g-GHRc1FvDZn_sKES705NLVSEjty6QHcD4hHqG3thwz6LqFLP41XJfL92',
+    appId: 'com.dauntless.safelog',
+    url: 'https://play.google.com/store/apps/details?id=com.dauntless.safelog&hl=en&gl=us'
+  },
+  {
+    title: 'Sugarbook - Luxury Dating App',
+    installs: 182577,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/a-t1AjFG8KS24DZPau-4PqhZrspGshoDPejjhxQv7jTcR5AEHGLzeIy_8js4h7zdHE0',
+    appId: 'com.sb.sugarbook',
+    url: 'https://play.google.com/store/apps/details?id=com.sb.sugarbook&hl=en&gl=us'
+  },
+  {
+    title: 'Avocation - Habit Tracker',
+    installs: 590186,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/qpQuIiQa3hxRSG4_AeLWA04yMmFRJQ6_keLHFwJ9b7rvtFFWQynj8zrMhrsIhLWCSXw',
+    appId: 'app.avocation.avocation',
+    url: 'https://play.google.com/store/apps/details?id=app.avocation.avocation&hl=en&gl=us'
+  },
+  {
+    title: 'Horoscope. Numerology. Compatibility. Biorhythms',
+    installs: 28383,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/PonAK0vNrryLXApvLvSMIghJ5fOXElMP98aDv3-BmP_hUNV24SKNR_y3c30VsefhVg',
+    appId: 'com.gravitytech.compatibility',
+    url: 'https://play.google.com/store/apps/details?id=com.gravitytech.compatibility&hl=en&gl=us'
+  },
+  {
+    title: 'Sarah Beth Yoga',
+    installs: 12794,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/OKtqO7qQoAMDnvsh9p4vbSyBHnt9IckCxlZDO-ls4rBQu2LKtVyTBKZBXaomgMLmgQ',
+    appId: 'tv.uscreen.sarahbethyoga',
+    url: 'https://play.google.com/store/apps/details?id=tv.uscreen.sarahbethyoga&hl=en&gl=us'
+  },
+  {
+    title: 'Hillsong Channel NOW',
+    installs: 33810,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/pYdtjDaLAQ5C4TbUUgIdZarKvg-lXgbvtGBD6-HTfBSRvcXXBC9KuIhabsEWhuE8wtc',
+    appId: 'com.hillsongchannel.now',
+    url: 'https://play.google.com/store/apps/details?id=com.hillsongchannel.now&hl=en&gl=us'
+  },
+  {
+    title: 'Quiver',
+    installs: 9895,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/vFABfdsLariY0lEg4orj-wQ_eXS4RWt8yXAspT-2FoaV5aOHFPPJYPlo1arzWhKVqA',
+    appId: 'com.seachangedigital.quiverus',
+    url: 'https://play.google.com/store/apps/details?id=com.seachangedigital.quiverus&hl=en&gl=us'
+  },
+  {
+    title: 'Palmistry: Predict Future by Palm Reading',
+    installs: 1279686,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/8bRE6y3hiiIrGX2XylOeqhqfbX_wrw9lIGFCE5AXaxA80jJU1Tb5k5pTK3VoL0YAgQ',
+    appId: 'com.palm.reading.predict.palmistry',
+    url: 'https://play.google.com/store/apps/details?id=com.palm.reading.predict.palmistry&hl=en&gl=us'
+  },
+  {
+    title: 'The Secret To Money by Rhonda Byrne',
+    installs: 56634,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/6bNijiDALJBo-QBvBo9avTy8jiKyQ3RBkgZ_An7eG8XTqVTHqCR2e0QCgQNXyQiDKw',
+    appId: 'com.secrettomoney',
+    url: 'https://play.google.com/store/apps/details?id=com.secrettomoney&hl=en&gl=us'
+  },
+  {
+    title: 'Muslim - Prayer Times, Azan, Qibla Finder, Quran',
+    installs: 18577135,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/YzX7IhFizN8lZBr2S0WrlflA-gkOyiXVFlG9acRBoMVZQ5UUN2UO94neANX-09E6IyM',
+    appId: 'com.hundred.qibla',
+    url: 'https://play.google.com/store/apps/details?id=com.hundred.qibla&hl=en&gl=us'
+  },
+  {
+    title: 'Sun Signs: Horoscopes',
+    installs: 3920778,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/1bPeji6N_oTI4hypf7JMVzpPEoLb-8JRnR_nNoZvs2SLdOdqvf5OsB8pA6O1bIBcQIw',
+    appId: 'app.horoscope1_5.com',
+    url: 'https://play.google.com/store/apps/details?id=app.horoscope1_5.com&hl=en&gl=us'
+  },
+  {
+    title: 'Daily Horoscope 2020 - Free read by Astrologers',
+    installs: 245104,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/7J5mJUwezm6whkKgxiJ-5c6dOZna7kKdZMyYyoW_vvDqvqPoueiowp9jGX2cDiL0scc0',
+    appId: 'com.horoscope.astrology.zodiac.signs.free',
+    url: 'https://play.google.com/store/apps/details?id=com.horoscope.astrology.zodiac.signs.free&hl=en&gl=us'
+  },
+  {
+    title: 'Locked Diary - Daily Journal Notebook',
+    installs: 604402,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/AN3f4gQodsr-2zabq5cB0AdbEV-jtea6APYt16N1ztxVCH3mHF02rPxzOonT9j-4OoOG',
+    appId: 'journal.notebook.memoir.write.diary',
+    url: 'https://play.google.com/store/apps/details?id=journal.notebook.memoir.write.diary&hl=en&gl=us'
+  },
+  {
+    title: 'Astro Gold',
+    installs: 7163,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/rMlIlC7PfLH8rUaau6ZHCgDMbBIbQiYNY1NFWYGYqPSK7WGfDuZ41rTerdAcH-fyObI',
+    appId: 'com.cosmicapps.astrogold',
+    url: 'https://play.google.com/store/apps/details?id=com.cosmicapps.astrogold&hl=en&gl=us'
+  },
+  {
+    title: 'Tarot Eagle',
+    installs: 5094,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/DhvXqMws5GCau6z3xMkfUuq_G0mwOG3aKKTB2nCjajre0A2E_6hfmAPt7UGiA9uOqTYE',
+    appId: 'com.taroteagle.android',
+    url: 'https://play.google.com/store/apps/details?id=com.taroteagle.android&hl=en&gl=us'
+  },
+  {
+    title: 'Five Minute Journal',
+    installs: 28587,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/502-ZQVu5kq3KP0Ez8VnEbE-o-5QxhkXopAbqas2BbmGcrsw6SHPfqbrSQz-BukDQzKN',
+    appId: 'com.intelligentchange.fiveminutejournal',
+    url: 'https://play.google.com/store/apps/details?id=com.intelligentchange.fiveminutejournal&hl=en&gl=us'
+  },
+  {
+    title: 'Hooked Deals',
+    installs: 291651,
+    genre: 'LIFESTYLE',
+    icon: 'https://lh3.googleusercontent.com/w189oV3d4NdaXB6itIYx183OPVvUZD8yYIGfMEBicaNwuIYL6hJ3bSZjKYHvgUWAiw',
+    appId: 'com.umetime.umetimeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.umetime.umetimeapp&hl=en&gl=us'
+  }
+]

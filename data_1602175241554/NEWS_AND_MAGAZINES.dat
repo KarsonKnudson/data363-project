@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'The New York Times',
+    installs: 35453363,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/gfmioo4VBEtPucdVNIYAyaqruXFRWDCc0nsBLORfOS0_s9r5r00Bn_IpjhCumkEusg',
+    appId: 'com.nytimes.android',
+    url: 'https://play.google.com/store/apps/details?id=com.nytimes.android&hl=en&gl=us'
+  },
+  {
+    title: 'Police Scanner, Fire and Police Radio',
+    installs: 2347499,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/KQiJhBOZ8fwz1JMWmEKFEpujWpMsRrbc0I5-F8q3rt0-kYEh8vKmAIxVN6ym39WZwRuA',
+    appId: 'police.scanner.radio.broadcastify.citizen',
+    url: 'https://play.google.com/store/apps/details?id=police.scanner.radio.broadcastify.citizen&hl=en&gl=us'
+  },
+  {
+    title: 'Washington Post Select',
+    installs: 1015833,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ILggEjybV_ulYPkU_62Ey0wujB6wPXVX0UY-Gtcw29zADPC5Jsj6KSoeDsRzPh5QnO4',
+    appId: 'com.washingtonpost.rainbow',
+    url: 'https://play.google.com/store/apps/details?id=com.washingtonpost.rainbow&hl=en&gl=us'
+  },
+  {
+    title: 'Fox Nation: Celebrate America',
+    installs: 797054,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/WjE0LBl2my6UZeF8x5Qr_lZc99B_HMU4kmJsA5gPutl0dXSSoMGMLzW7-l8PVFoHeAc',
+    appId: 'com.fng.foxnation',
+    url: 'https://play.google.com/store/apps/details?id=com.fng.foxnation&hl=en&gl=us'
+  },
+  {
+    title: 'The Wall Street Journal: Business & Market News',
+    installs: 3233818,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/eksxaPfxbTVb6VTl5aj1sXLpKc_N9Z6AZ3_5Oq6JhTXmgEQza-1v58a66p_ID0phE2Zv',
+    appId: 'wsj.reader_sp',
+    url: 'https://play.google.com/store/apps/details?id=wsj.reader_sp&hl=en&gl=us'
+  },
+  {
+    title: 'Reddit',
+    installs: 52429758,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T',
+    appId: 'com.reddit.frontpage',
+    url: 'https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en&gl=us'
+  },
+  {
+    title: 'Medium',
+    installs: 5833991,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4',
+    appId: 'com.medium.reader',
+    url: 'https://play.google.com/store/apps/details?id=com.medium.reader&hl=en&gl=us'
+  },
+  {
+    title: 'The Washington Post',
+    installs: 1998276,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE',
+    appId: 'com.washingtonpost.android',
+    url: 'https://play.google.com/store/apps/details?id=com.washingtonpost.android&hl=en&gl=us'
+  },
+  {
+    title: 'Rush Limbaugh',
+    installs: 578411,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/r6Lolw0UfAYTZ3PFN8I-dOmpUjQo27TKAPbOiVMFzCwSxWD2952kcHLTbJwTAba9_Y_s',
+    appId: 'com.premiereradio.android.rushlimbaugh',
+    url: 'https://play.google.com/store/apps/details?id=com.premiereradio.android.rushlimbaugh&hl=en&gl=us'
+  },
+  {
+    title: 'Bloomberg: Market & Financial News',
+    installs: 18664720,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/_qTb7fdtj18tYn1AyKLX1-kGvhzgJctx9sHpxk95ktK0hn9ruGnkJZCRp39Asp1kG4A',
+    appId: 'com.bloomberg.android.plus',
+    url: 'https://play.google.com/store/apps/details?id=com.bloomberg.android.plus&hl=en&gl=us'
+  },
+  {
+    title: 'The Guardian - Live World News, Sport & Opinion',
+    installs: 6678698,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs',
+    appId: 'com.guardian',
+    url: 'https://play.google.com/store/apps/details?id=com.guardian&hl=en&gl=us'
+  },
+  {
+    title: 'BlazeTV',
+    installs: 305294,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/7_-DVkr-Ih2aGU8fP7ZvuY7zc6EgAwGUSpEr5_sV85EtqPW9iDori8Ah7ajnSoD6n50W',
+    appId: 'com.levintv',
+    url: 'https://play.google.com/store/apps/details?id=com.levintv&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast Player & Podcast App - Castbox',
+    installs: 14824081,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/CzFEOgmTdindoUqV4xDpZMknyjplmSUgOU-W9DtTuAZuyzZy_8fn26BZDRXzSwDbOTEh',
+    appId: 'fm.castbox.audiobook.radio.podcast',
+    url: 'https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast&hl=en&gl=us'
+  },
+  {
+    title: 'Miami Herald',
+    installs: 63187,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/JUa5ETJkj06Q_axKZyF7w39Np_l_tem0YK1q3RGqj8LvSla4H1Ox7eerJN_FtJGdEyg',
+    appId: 'com.herald.newsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.herald.newsapp&hl=en&gl=us'
+  },
+  {
+    title: 'The Sacramento Bee newspaper',
+    installs: 85163,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Nf75c7JaelPc09wY-pb16v_p1s4lz70zSWSzrtGJaJmqqh0iaEy7Cfv5TAnY8CMlB9k',
+    appId: 'com.ap.sacramento',
+    url: 'https://play.google.com/store/apps/details?id=com.ap.sacramento&hl=en&gl=us'
+  },
+  {
+    title: 'Financial Times',
+    installs: 2356896,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/QZwQshUIUQQgI9E7bC7bWPdoMViEcrQld2a9-9S8nvyrBW0Szt-G_x7pU4dJpvb0Dm8',
+    appId: 'com.ft.news',
+    url: 'https://play.google.com/store/apps/details?id=com.ft.news&hl=en&gl=us'
+  },
+  {
+    title: 'Kansas City Star Newspaper',
+    installs: 58678,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/EwTekzNTOw5zx3P6BMdxbzNlOgVTkve_Ewa8IXp8et02A6yUSY5V1BBDJaJ3q5guEA',
+    appId: 'com.kansascity.android',
+    url: 'https://play.google.com/store/apps/details?id=com.kansascity.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Economist (Legacy)',
+    installs: 3767854,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/G4z2t3sWNm4J89OLh3MTIt2PCZMCZE7ENfxA7YzC7VHVW4ABe8FFZ7ZXGa7la5GAtg',
+    appId: 'uk.co.economist',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.economist&hl=en&gl=us'
+  },
+  {
+    title: 'News & Observer (N&O): Mobile',
+    installs: 36838,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/7FhhtkhFlsaUIveixAgf4n9C3VqOgueubKNtcx_fHF62CZSeouRhsRNDb8y0J0-O022Y',
+    appId: 'com.newsobserver.android',
+    url: 'https://play.google.com/store/apps/details?id=com.newsobserver.android&hl=en&gl=us'
+  },
+  {
+    title: 'NYT Cooking',
+    installs: 123846,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/kcJtjYTX6mKlrBrmGPnhuFt7PXPhahM-qGUXoplTEY2meBVywRSzjJDfUfuMqM5cjxA',
+    appId: 'com.nytimes.cooking',
+    url: 'https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en&gl=us'
+  },
+  {
+    title: 'Audm',
+    installs: 43391,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Rctj_vMoiHHq3gp5wXIglr9JOKadFCWsSHX-R_tiTuwImktKVTIEI7-kuCs43Htwsz4',
+    appId: 'and.audm',
+    url: 'https://play.google.com/store/apps/details?id=and.audm&hl=en&gl=us'
+  },
+  {
+    title: 'The Podcast App',
+    installs: 2383392,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/BVE95MSg45l0JOdur6wqcTc4KS5rAjuEMiMoP9X4pKapabALbcJjmc7BUcfBKzxdCyhd',
+    appId: 'com.streema.podcast',
+    url: 'https://play.google.com/store/apps/details?id=com.streema.podcast&hl=en&gl=us'
+  },
+  {
+    title: 'Le Monde | Actualités en direct',
+    installs: 6442476,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/aN_UGrgEUuShQGFMU1Kuhwy2cCU6CL9spKqAyP4MREEPzJuqrxvKQGPqPAyrshjmZM0',
+    appId: 'com.lemonde.androidapp',
+    url: 'https://play.google.com/store/apps/details?id=com.lemonde.androidapp&hl=en&gl=us'
+  },
+  {
+    title: 'Barron’s:  Stock Markets & Financial News',
+    installs: 137825,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/u3yFgr3ApDbSj3mbSPZhZV5DIVcd64tIGSyKuME7y0YfmsvHAtxG8wghhGndKMqqmg',
+    appId: 'com.barrons.us',
+    url: 'https://play.google.com/store/apps/details?id=com.barrons.us&hl=en&gl=us'
+  },
+  {
+    title: 'Magzter: Digital Magazines & Newspapers',
+    installs: 2954979,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/FUnNVsk-V5sJ5aJSyg-HFQoeinFluVt_ugBxWDJs7vqSdJ829bFPUDb0M6YdpQM3iQU',
+    appId: 'com.dci.magzter',
+    url: 'https://play.google.com/store/apps/details?id=com.dci.magzter&hl=en&gl=us'
+  },
+  {
+    title: 'TYT - Home of Progressives',
+    installs: 81780,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A',
+    appId: 'com.tyt.battlecruiser',
+    url: 'https://play.google.com/store/apps/details?id=com.tyt.battlecruiser&hl=en&gl=us'
+  },
+  {
+    title: 'The Charlotte Observer',
+    installs: 47785,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/0-c_fJmWfjqmY4ATK8QfKhqqzYJuz15PmkIJFBtw3ICjzvVkVboDOHWYTI96xIU-pg',
+    appId: 'com.charlotteobserver.android',
+    url: 'https://play.google.com/store/apps/details?id=com.charlotteobserver.android&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket: Save. Read. Grow.',
+    installs: 15473238,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Jgl7C0anIk2AVTWq-an0dV3HS8pvP-_UIyrTifrNGxcReZT9hQ-LWUQ-I3oh94_IpA',
+    appId: 'com.ideashower.readitlater.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Tacoma News Tribune Newspaper',
+    installs: 24895,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/lK2jdh8jxZ4-CCTpUjTAXTptMcM4h4G-_o_Kxwm4SSzgZ4cH_fr4HSSmCXxMR-20kA',
+    appId: 'com.thenewstribune.android',
+    url: 'https://play.google.com/store/apps/details?id=com.thenewstribune.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Economist',
+    installs: 235363,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/v0mG0DW6yEJ1fnNqNLIcfVhyZah-WzMlkPZeNLTlMD6shNuIFP102fORwbFKo6fGifM',
+    appId: 'com.economist.lamarr',
+    url: 'https://play.google.com/store/apps/details?id=com.economist.lamarr&hl=en&gl=us'
+  },
+  {
+    title: 'Baltimore Sun',
+    installs: 38534,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/lhu5_HJHSOp73qlwgHMESXojT4_r2CRQH6fibra589zhEONzlKqbcW-xnbVW-wvHqw',
+    appId: 'com.apptivateme.next.bs',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.bs&hl=en&gl=us'
+  },
+  {
+    title: 'LA Times: Essential California News',
+    installs: 451522,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/y8fBXWtyM6qCVqNmyLrSJrYIwEzEv_3g-5yrcbm8GLV-wO4KSrlNhlzJWJlANi1Y-Zhh',
+    appId: 'com.apptivateme.next.la',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.la&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast Addict',
+    installs: 10142536,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/m6FeLOkUfP8qTZNXKFSSI8_exI-SlGJRcIArl3gRm3-VninL7l1RdYlPkkf2CfbBnA',
+    appId: 'com.bambuna.podcastaddict',
+    url: 'https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en&gl=us'
+  },
+  {
+    title: 'Fort Worth Star-Telegram',
+    installs: 93502,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/WUfGAQyv08DBtp95o4mXnMDyZJyB63A1VmxPOi8ZThC6T0M4beih1QlCz7wXgfUsTz0',
+    appId: 'com.ap.star',
+    url: 'https://play.google.com/store/apps/details?id=com.ap.star&hl=en&gl=us'
+  },
+  {
+    title: 'The Wichita Eagle & Kansas.com',
+    installs: 31840,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/jWNJnk2jnWVoAuIgGDkgy4cX_EI_uV-2jJHASpYptXf5xg7vrjVNcYaAG3VhRlBiaq2r',
+    appId: 'com.kansas.android',
+    url: 'https://play.google.com/store/apps/details?id=com.kansas.android&hl=en&gl=us'
+  },
+  {
+    title: 'Pocket Casts - Podcast Player',
+    installs: 1677482,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/23K9TDTOdlo57Pi9JvNtPc9K-utruK6jQEpQGD_E4QBLRJYRAgLcC7gF2Rd_0T1qhLLS',
+    appId: 'au.com.shiftyjelly.pocketcasts',
+    url: 'https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=en&gl=us'
+  },
+  {
+    title: 'Chicago Tribune',
+    installs: 216831,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/PAOsTekGUbaueHAhoTqdt3sdemi7d1_Jdmv8ZwxDaSkKOw0GcCH2qAN5_9E_lbW8qPI',
+    appId: 'com.apptivateme.next.ct',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.ct&hl=en&gl=us'
+  },
+  {
+    title: 'Bellingham Herald WA newspaper',
+    installs: 11198,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/1cSMdVmtYrMXC0npqGKe957bMqdPbQfY1UFAZWO8N_Z2Oy-hXVyHF9KbbZVByvePr40',
+    appId: 'com.bellinghamherald.android',
+    url: 'https://play.google.com/store/apps/details?id=com.bellinghamherald.android&hl=en&gl=us'
+  },
+  {
+    title: 'Herald-Leader - Lexington KY',
+    installs: 24175,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/gMfljTIxwCByS_ssRlH66LKeZ6Y13I8oHn1dIXSj46vp3lYg37NDphW6gFZ161cC1A',
+    appId: 'com.kentucky.android',
+    url: 'https://play.google.com/store/apps/details?id=com.kentucky.android&hl=en&gl=us'
+  },
+  {
+    title: 'Idaho Statesman - Boise News',
+    installs: 22193,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/GulqZg0BFVocWhqmnNLrneVgv1LQI2GrQctrg5jHLx4QtFms1DT3Levgcn0jxtnRnQ',
+    appId: 'com.idahostatesman.android',
+    url: 'https://play.google.com/store/apps/details?id=com.idahostatesman.android&hl=en&gl=us'
+  },
+  {
+    title: 'The State News: Columbia, SC',
+    installs: 32171,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/VIE9w6BdjJueMQEmht8MZArSGH-6K3P-k64v_aOObzdYPknIZUQK0mqQrignDWiUoII',
+    appId: 'com.thestate.android',
+    url: 'https://play.google.com/store/apps/details?id=com.thestate.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Local',
+    installs: 36474,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/lxLB1LlKIyoLSNCVMAkGPnu3dSHXCw-yfXJ0EqIF-4jpGqvCGg8o1BtX8_AdzSG5P4Nh',
+    appId: 'com.thelocal.app',
+    url: 'https://play.google.com/store/apps/details?id=com.thelocal.app&hl=en&gl=us'
+  },
+  {
+    title: 'San Luis Obispo Tribune news',
+    installs: 6799,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/7WJ8QOq1LCjnR36RkSl-fsM8HK5DjyKY6tgZa2wtMvtqXLamtONQ_zvm2g1sdzN1qak',
+    appId: 'com.sanluisobispo.android',
+    url: 'https://play.google.com/store/apps/details?id=com.sanluisobispo.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Economist Espresso. Daily News',
+    installs: 1231903,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/hB8r-DVTEuP3ThKWUiGyRIDDGB3Y-jlCd75wbuWoFYmQ9SNNpGel3_EOE0CJKHPZWF8',
+    appId: 'com.economist.darwin',
+    url: 'https://play.google.com/store/apps/details?id=com.economist.darwin&hl=en&gl=us'
+  },
+  {
+    title: 'Feedly - Smarter News Reader',
+    installs: 6540674,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/NNS6OGOetsyYa0hhXTItJ7aCNljIKLD8uLibF5qdEBq_m7kHhK091KXZBVk7JzrfPw',
+    appId: 'com.devhd.feedly',
+    url: 'https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en&gl=us'
+  },
+  {
+    title: 'Fresno Bee newspaper',
+    installs: 28817,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/grvc8kO-sNYOW_zV3w5eLzNcNabTcoDoI5fDP_JibcE25csLo8gf3PcVIoghMV_wWA',
+    appId: 'com.fresnobee.android',
+    url: 'https://play.google.com/store/apps/details?id=com.fresnobee.android&hl=en&gl=us'
+  },
+  {
+    title: 'Ground News',
+    installs: 90730,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/9fGzCazdAlX2dzlY9GlCmri4uM_iAYySrKgbBcTy6e-_uX5NFHSF1XBZf2IK8ps4WQ',
+    appId: 'com.checkitt',
+    url: 'https://play.google.com/store/apps/details?id=com.checkitt&hl=en&gl=us'
+  },
+  {
+    title: 'Readly - Unlimited Magazine Reading',
+    installs: 1365573,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/l55jqaSB7Fs8HDKiQt3ejbc8QQFtqmkv7zt-l5TX79ivMx7RucFU9mfciJ--mN_WLdA',
+    appId: 'com.readly.client',
+    url: 'https://play.google.com/store/apps/details?id=com.readly.client&hl=en&gl=us'
+  },
+  {
+    title: 'Island Packet Hilton Head news',
+    installs: 9499,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/3tkxL22ATzVQBqBUCDpGjeSfRrngD1Ya10WlyDqaZcIu57lI90S9neGhsqoXyLWKpqI',
+    appId: 'com.islandpacket.android',
+    url: 'https://play.google.com/store/apps/details?id=com.islandpacket.android&hl=en&gl=us'
+  },
+  {
+    title: 'Star Tribune',
+    installs: 90821,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/FUwKJeJzQgDa_hao1ro6PhBwozRXWzZc5mXiEadBaa_ACq8Y428LLK7ADpUEQWQwjxo',
+    appId: 'com.startribune.android.newsclient',
+    url: 'https://play.google.com/store/apps/details?id=com.startribune.android.newsclient&hl=en&gl=us'
+  },
+  {
+    title: 'Pocketmags Magazine Newsstand',
+    installs: 176110,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/uiOTtQNg8iHYLSQe9XVWaTlEs0VC54MiHR_yHnX6_h_xPFw1_KsuDUq6esSEtGN4VV8',
+    appId: 'com.triactivemedia.pocketmags',
+    url: 'https://play.google.com/store/apps/details?id=com.triactivemedia.pocketmags&hl=en&gl=us'
+  },
+  {
+    title: 'San Francisco Chronicle News',
+    installs: 18710,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/88BWm_ZWZ5k3AUc3XU-Uz9-7uHZrKzD5vi68S9r9D5DldrLLD6Foa1Q3rBVFrV2P9gA',
+    appId: 'com.sfchronicle.newsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.sfchronicle.newsapp&hl=en&gl=us'
+  },
+  {
+    title: 'New York Post for Tablet',
+    installs: 45336,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/DChnLY8Bk5YjH0XWR0aClKsFFo7WVWpzVk08jb4X28HvQLQhvfkwmvnzTJq2vzq1Ew',
+    appId: 'com.nypost.tablet',
+    url: 'https://play.google.com/store/apps/details?id=com.nypost.tablet&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast App: Free & Offline Podcasts by Player FM',
+    installs: 5306245,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/VfeI7e9DAoVHcsMtAvvvjowaV3B_8NiH1Gc5gpKwld099MsQYefrgdis_uxSSXXHzUA',
+    appId: 'fm.player',
+    url: 'https://play.google.com/store/apps/details?id=fm.player&hl=en&gl=us'
+  },
+  {
+    title: 'The Modesto Bee & ModBee.com',
+    installs: 24777,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Jj2Ie3YXJ2Fdw6S0PEDNf7qc_Hwa1UTCwT92E_KVKaN0Y1h3uFRdunVHSKIAEChRSKY',
+    appId: 'com.modbee.android',
+    url: 'https://play.google.com/store/apps/details?id=com.modbee.android&hl=en&gl=us'
+  },
+  {
+    title: 'One America News OAN',
+    installs: 7859,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/nNAGZJUoWMqTYd2mVz1tk_xVsoENOsRVuAIjv8u9SDfKZwPbFupMUbAnZcwaGERrXHwG',
+    appId: 'com.herringnetworks.oanlive',
+    url: 'https://play.google.com/store/apps/details?id=com.herringnetworks.oanlive&hl=en&gl=us'
+  },
+  {
+    title: 'Business Insider',
+    installs: 1359678,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/4vFJju8z86kURgWXVSQCxZ6Zoqai_b7OvtXl5mQbZt6_9JEONZJRJIBrnFNNQMDuYp4',
+    appId: 'com.freerange360.mpp.businessinsider',
+    url: 'https://play.google.com/store/apps/details?id=com.freerange360.mpp.businessinsider&hl=en&gl=us'
+  },
+  {
+    title: 'USA TODAY',
+    installs: 7151837,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg',
+    appId: 'com.usatoday.android.news',
+    url: 'https://play.google.com/store/apps/details?id=com.usatoday.android.news&hl=en&gl=us'
+  },
+  {
+    title: 'azcentral',
+    installs: 124041,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/IMb8Ok1Hcx-3_WEeV6JIH0MYlmzD5bxP8vjXRWmi4sYD8QCo7Uf3423qwUx2Q3hrfac',
+    appId: 'com.gannett.local.library.news.azcentral',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.azcentral&hl=en&gl=us'
+  },
+  {
+    title: 'The Olympian- Olympia WA news',
+    installs: 9658,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/9gKNiasWQunLS3EI0qkHQnWa0M0vuNshjxp1GyJfSWSZzLD7Mm39qSKan2ziE9eAUQ',
+    appId: 'com.theolympian.android',
+    url: 'https://play.google.com/store/apps/details?id=com.theolympian.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Word Among Us – Daily Mass Readings & Prayer',
+    installs: 43302,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ZShtAKfTMv73ArKLqETAC58i7O3ef5VD-s_bxWRlKCpKpKxSSET-ogG6_uErD5Gm6uY',
+    appId: 'org.wau.android',
+    url: 'https://play.google.com/store/apps/details?id=org.wau.android&hl=en&gl=us'
+  },
+  {
+    title: 'Tri-City Herald: WA state news',
+    installs: 11468,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/wyd_7eM96aAeY8O-Y6qJGB5AH7DhAfa6IeC5Wdio5T4F9J6yS4e75aUrOMWq-Q7Uq6A',
+    appId: 'com.tricityherald.android',
+    url: 'https://play.google.com/store/apps/details?id=com.tricityherald.android&hl=en&gl=us'
+  },
+  {
+    title: 'Boost for reddit',
+    installs: 963373,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/GF71STDEmTKhbEexCYbePXAjYym_ee8E6WR7_R8jr5_Xf10jfL0Kibkjfl33zDrJBw',
+    appId: 'com.rubenmayayo.reddit',
+    url: 'https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit&hl=en&gl=us'
+  },
+  {
+    title: 'Sarasota Herald-Tribune',
+    installs: 10610,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/E8TVZmpia5-LW_1c_a--I0M-YKmOfVkhP2MLKywuiiG3KSadzsBiY83xo0yA4jXIiA',
+    appId: 'com.gatehousemedia.id3160',
+    url: 'https://play.google.com/store/apps/details?id=com.gatehousemedia.id3160&hl=en&gl=us'
+  },
+  {
+    title: 'Houston Chronicle News',
+    installs: 19607,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/OaFwGdifSkhLJW4_923V8pg-C3jeMx0KlwqTJ9BYfmNlFqKWW4wJrO0ZKKubp_hfa8rs',
+    appId: 'com.houstonchronicle.newsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.houstonchronicle.newsapp&hl=en&gl=us'
+  },
+  {
+    title: 'Belleville News Democrat News',
+    installs: 22462,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/L4DVmQ-FBktisZZjOMxCOzNmgZ54hnm53UMtF__1fOQ7frkgS6nA-HmIKNLxa53ZGxs',
+    appId: 'com.bnd.android',
+    url: 'https://play.google.com/store/apps/details?id=com.bnd.android&hl=en&gl=us'
+  },
+  {
+    title: 'Delaware Online',
+    installs: 54852,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/c3ukFteWpowGF37BbJwOcZMurGKhvddIeVGLKaBDfRLOBgqPkS0KCuE9M3L3UM_AAP4',
+    appId: 'com.gannett.local.library.news.delawareonline',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.delawareonline&hl=en&gl=us'
+  },
+  {
+    title: 'Milwaukee Journal Sentinel',
+    installs: 60362,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/3xleualS2OaU7mPqUsKuBGTsNqo9ordKFD9wNASiKMn9rPDJDeDLHl5dBntmqJJUaMYF',
+    appId: 'com.mjs.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mjs.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Sun News - Myrtle Beach SC',
+    installs: 20693,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/pB9pAeWIUAvQ02aCtBEwIbrj7x5RhrBtXHcLk626dBqrtiTyzmLczXlUX8gR7-JnfJaV',
+    appId: 'com.thesunnews.android',
+    url: 'https://play.google.com/store/apps/details?id=com.thesunnews.android&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast App & Podcast Player - Podbean',
+    installs: 5231864,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/jFcFj9dMkjXDlbywqBhU498AqdDySYD0KFOU88HL0POOrdSzDO9IO3WMGYoDHEvo',
+    appId: 'com.podbean.app.podcast',
+    url: 'https://play.google.com/store/apps/details?id=com.podbean.app.podcast&hl=en&gl=us'
+  },
+  {
+    title: 'el Nuevo Herald',
+    installs: 47906,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/F_eyUznztnEWMwqR3QfUXDcpqgFPpnNB-OS_MT88QHjhq4BrnrbGMsvEjYUHckorlQ',
+    appId: 'com.miamiherald.droid.nuevo',
+    url: 'https://play.google.com/store/apps/details?id=com.miamiherald.droid.nuevo&hl=en&gl=us'
+  },
+  {
+    title: 'הארץ - Haaretz',
+    installs: 314091,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/blUEaL5X2J2lDp-p2JzTxzMzqUJ6ZJc4VCGIfaRrBhaytT0pIjVwGWBSf_JQXxH6p6c',
+    appId: 'com.haaretz',
+    url: 'https://play.google.com/store/apps/details?id=com.haaretz&hl=en&gl=us'
+  },
+  {
+    title: 'Scientific American',
+    installs: 79306,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/83iuXLYztbeSHy1g8YymUYuN6ooe4hRQVRBrX-O-h-Fgb2iwOUzRDbRhtM-R-4o2Rg',
+    appId: 'com.nature.scientificamerican',
+    url: 'https://play.google.com/store/apps/details?id=com.nature.scientificamerican&hl=en&gl=us'
+  },
+  {
+    title: 'El Nuevo Día',
+    installs: 912768,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/3_ZBkTXfWsflIleM1A7HuZQx2-gfc2JJ0gBF_9JhBp1BS7GZrGyixRJUp5UEV12mmA',
+    appId: 'com.elnuevodia.androidapplication',
+    url: 'https://play.google.com/store/apps/details?id=com.elnuevodia.androidapplication&hl=en&gl=us'
+  },
+  {
+    title: 'IndyStar: Local News',
+    installs: 81977,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/WVArGSFVwAq_NbDzDwkaGpYpCWCt_y0DePQGiZEmdwx2T2jZSeEP8mMX6pDtxBEfRCU',
+    appId: 'com.gannett.local.library.news.indystar',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.indystar&hl=en&gl=us'
+  },
+  {
+    title: 'Haaretz English Edition',
+    installs: 136816,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/wcxGI4JEnIQ-4HqapklZRDHAxKV0YHmio7qZCmKEcvJ8AYsdfMwbFh-II1pz-CS-5ULD',
+    appId: 'com.opentech.haaretz',
+    url: 'https://play.google.com/store/apps/details?id=com.opentech.haaretz&hl=en&gl=us'
+  },
+  {
+    title: 'Podcast Player',
+    installs: 10484388,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/GAXBioTyvIfnu31qtyr2BEC9wbpxJuEc299uhzGjqxxgtgyhL9LxLt92xoPIJE_qeg',
+    appId: 'com.podcast.podcasts',
+    url: 'https://play.google.com/store/apps/details?id=com.podcast.podcasts&hl=en&gl=us'
+  },
+  {
+    title: 'Rubin Report',
+    installs: 6612,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/k7Xrn0gYTOGtxPd70iD6xPatmSxHhNHHHQOFjgob1CQvQUn5pYTselNTuoDQidjanX0z',
+    appId: 'com.seasteaddigital.rr',
+    url: 'https://play.google.com/store/apps/details?id=com.seasteaddigital.rr&hl=en&gl=us'
+  },
+  {
+    title: 'LA NACION y Club LA NACION',
+    installs: 791374,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ztGs_9K0LPf3Wr6kh-74LGVKUdHY3kq4KFYUjQejutj4vIIXAvUUKwVeJkqaXPjKwzI',
+    appId: 'app.lanacion.activity',
+    url: 'https://play.google.com/store/apps/details?id=app.lanacion.activity&hl=en&gl=us'
+  },
+  {
+    title: 'Church Militant',
+    installs: 4834,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/63bZzuaA4xazWrJ3ghZ5STYrQ4oslKTRPdXFnLAlEcyvKwS5-NxAGWB2I3OzxcCR8-U',
+    appId: 'com.churchmilitant.cmtv',
+    url: 'https://play.google.com/store/apps/details?id=com.churchmilitant.cmtv&hl=en&gl=us'
+  },
+  {
+    title: 'REFORMA',
+    installs: 275150,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/hdCKc1keco17O4FlWG86Uho-IptTI5gzmJFCsEJOgn_8qVDUSf3fyQNdf_RdWxUnBoU',
+    appId: 'com.gruporeforma.reforma',
+    url: 'https://play.google.com/store/apps/details?id=com.gruporeforma.reforma&hl=en&gl=us'
+  },
+  {
+    title: 'Newsday',
+    installs: 105549,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/3Iy6TvGBoJPepr4OX2jVTz0FXkLYIqduHSJcQ_NVPXGV86uITUpgoqwNFmrOAi8ANGE',
+    appId: 'com.pagesuite.newsday',
+    url: 'https://play.google.com/store/apps/details?id=com.pagesuite.newsday&hl=en&gl=us'
+  },
+  {
+    title: 'Corriere della Sera DE',
+    installs: 305746,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/MEgkcwde-JxrgB_GnsVmNU1U3biRdgm5wRupZ-QF_XTVVfLFAtYtNMRpARYQU4imFjo',
+    appId: 'it.rcs.corrierede',
+    url: 'https://play.google.com/store/apps/details?id=it.rcs.corrierede&hl=en&gl=us'
+  },
+  {
+    title: 'The Repository - Canton, OH',
+    installs: 24902,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Vnb4l3btVWAjBBdl4_B9dZOSMCd32lyWjQa5mKdpRKYwmSsKxCq4Y8Ic4KWdoId0xw',
+    appId: 'com.spreedinc.providers.gatehousemedia.cantonrepository',
+    url: 'https://play.google.com/store/apps/details?id=com.spreedinc.providers.gatehousemedia.cantonrepository&hl=en&gl=us'
+  },
+  {
+    title: 'Apple Daily 蘋果動新聞',
+    installs: 6742447,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/SkD4cotfpgvDwneGsyxx-wqsiffd7Jyj2IDpYOhgXqK08BBg1hN_Y3OnzFvQtR03en4N',
+    appId: 'com.nextmedia',
+    url: 'https://play.google.com/store/apps/details?id=com.nextmedia&hl=en&gl=us'
+  },
+  {
+    title: 'The Upper Room',
+    installs: 13561,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/go7u7utdnypYn_Zf8IHQNzFteBrqj5Fmec1a4zsbmGeUItP46iwS9HTBrw3_N36nnhGb',
+    appId: 'com.theUpperRoom.devoapp',
+    url: 'https://play.google.com/store/apps/details?id=com.theUpperRoom.devoapp&hl=en&gl=us'
+  },
+  {
+    title: 'Instapaper',
+    installs: 508541,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/uQElx_kgheNkInfRZl6_iPZ34HLOpt1KMOiVWmcN_PZFRQ66Ug3vDaAS0eymjsok7g',
+    appId: 'com.instapaper.android',
+    url: 'https://play.google.com/store/apps/details?id=com.instapaper.android&hl=en&gl=us'
+  },
+  {
+    title: 'Folha de S.Paulo',
+    installs: 729729,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/_J2GyZ6Zkm0hZwxboderx-H-zAu1PVXPzVrxe5vkVV6FoUv67RpgK4fS8h-qo7WMIQ',
+    appId: 'br.com.folha.app',
+    url: 'https://play.google.com/store/apps/details?id=br.com.folha.app&hl=en&gl=us'
+  },
+  {
+    title: 'Sun Sentinel',
+    installs: 71529,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/uIW8nfiN8Kw2MF_C9S4HootCD0mLIpkU3TadMv3mS7b4I4x5zPS9hpn2tou8kjcCCwo',
+    appId: 'com.apptivateme.next.sfss',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.sfss&hl=en&gl=us'
+  },
+  {
+    title: 'Rock Hill Herald SC newspaper',
+    installs: 10176,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/jdg1zmDQWUPFZKsvn0E8MMEulZzJ-W8cEYNnmyMuB7LMPGnRfEdLEVWjNILbj8zJoA',
+    appId: 'com.heraldonline.android',
+    url: 'https://play.google.com/store/apps/details?id=com.heraldonline.android&hl=en&gl=us'
+  },
+  {
+    title: 'Tennessean: Nashville and Greater Tennessee News',
+    installs: 63851,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/x3OeWt-T6bK8Exp1k_jiwNZ9ffBE4fXz-nGzPxBRypq7pytUQUqYWPzHjuP_Qn0ro-0',
+    appId: 'com.gannett.local.library.news.tennessean',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.tennessean&hl=en&gl=us'
+  },
+  {
+    title: 'Newsvoice - Unbiased & Real News Feed, USA & World',
+    installs: 102146,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Wdb1P8nXClNu7kKPjuX-lw2Lz0IHvduVduJf8FWJkdeKY90pys9pQwRQkzUl8wR1-_k',
+    appId: 'com.newsvoice.newsvoice',
+    url: 'https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice&hl=en&gl=us'
+  },
+  {
+    title: 'Relay for reddit (Pro)',
+    installs: 124297,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/RLn0U8UaYpMEd0vdcJPVrUvizUTVUvRoup6BQIHF6gZYHdu7__F-3qNYdXoV36bbfKQ',
+    appId: 'reddit.news',
+    url: 'https://play.google.com/store/apps/details?id=reddit.news&hl=en&gl=us'
+  },
+  {
+    title: 'National Geographic',
+    installs: 134139,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/NxVwlEC9Ea9TfQz9VpYYBbG70-6-q55lcsdTXEBuSgzKn-aOd1taRc2tT5iwOykRUVE',
+    appId: 'com.natgeomobile.ngmagazine',
+    url: 'https://play.google.com/store/apps/details?id=com.natgeomobile.ngmagazine&hl=en&gl=us'
+  },
+  {
+    title: 'Cincinnati.com',
+    installs: 57643,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/wrlDMiLh9fdI7TSM3fMq3Vpq8FxZrm66E-21Y6pU_Uyd3DHyHq91lMENKzVyatY0X88',
+    appId: 'com.cincinnati.CincyMobile',
+    url: 'https://play.google.com/store/apps/details?id=com.cincinnati.CincyMobile&hl=en&gl=us'
+  },
+  {
+    title: 'Biloxi Sun-Herald Newspaper',
+    installs: 24574,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/vEiAJ_HMUBMCBMvxwZTraOXw4PIEEfPeZ-R8hBcFknmhxdjG6szJzOwgiVHMBspRZs0',
+    appId: 'com.sunherald.android',
+    url: 'https://play.google.com/store/apps/details?id=com.sunherald.android&hl=en&gl=us'
+  },
+  {
+    title: 'Star Press',
+    installs: 21337,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/5xVye-K8v4awocX-zqB_nHznAM1zgAP0cXHLxImjRMj1o3xBvbcuoBigXE_M7yRnRw',
+    appId: 'com.gannett.local.library.news.thestarpress',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.thestarpress&hl=en&gl=us'
+  },
+  {
+    title: 'Centre Daily Times - PA news',
+    installs: 7741,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/7trVj0lM4I0ic8AN_RWWczMP5pZqKOwLZa2mIyMqSY_m6IGypGnj2CwccVt58oklJw',
+    appId: 'com.centredaily.android',
+    url: 'https://play.google.com/store/apps/details?id=com.centredaily.android&hl=en&gl=us'
+  },
+  {
+    title: 'Durham Herald Sun',
+    installs: 624,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/hQEuq04sgdwnSmdsyVBXcC-KVjdMHkMRmILJMIFvgR4qZIKpuCVgiGZof5ApGYiXzw',
+    appId: 'com.mcclatchy.heraldsun',
+    url: 'https://play.google.com/store/apps/details?id=com.mcclatchy.heraldsun&hl=en&gl=us'
+  },
+  {
+    title: 'Florida Today: Local News',
+    installs: 39323,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/AT5VD8szhZgTFhYOzuIe8Kf5Dd_4SRxL68NRgfwOZOOR4QPUqcoayEeUfUY3SPdj7Q',
+    appId: 'com.gannett.local.library.news.floridatoday',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.floridatoday&hl=en&gl=us'
+  },
+  {
+    title: 'ynet',
+    installs: 3239005,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/LB7LuEGqomUmDITSkev4n6nQxLQ94-22-fwyEVzRuGAdZhCRRG1R53LevqVdaFec-hjL',
+    appId: 'com.goldtouch.ynet',
+    url: 'https://play.google.com/store/apps/details?id=com.goldtouch.ynet&hl=en&gl=us'
+  },
+  {
+    title: 'La Nación Costa Rica',
+    installs: 63230,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Y_2EGjD_vjQPoTF6uV7Eu4z1RNkqfyHk74q4D5yebq53HxweoCDWjaIjjZNEuWRbhlc',
+    appId: 'com.nacion.android.nacioncostarica',
+    url: 'https://play.google.com/store/apps/details?id=com.nacion.android.nacioncostarica&hl=en&gl=us'
+  },
+  {
+    title: 'The Providence Journal, R.I.',
+    installs: 16200,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/NvLzksViyN8u9pdDzFa7SY7f_NGJkPokrwzXxZFgNLOp8nPfDmORsS8tsRdmWR10-Vgi',
+    appId: 'com.gatehousemedia.id3049',
+    url: 'https://play.google.com/store/apps/details?id=com.gatehousemedia.id3049&hl=en&gl=us'
+  },
+  {
+    title: 'The Salt Lake Tribune',
+    installs: 9568,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/chaHiIUPqHhuFf0M9qJJl8-rY4lIpjui8MZx1uGup2GjnDD2K7WaG5Zg61LfWv47AB4',
+    appId: 'com.sltrib.android',
+    url: 'https://play.google.com/store/apps/details?id=com.sltrib.android&hl=en&gl=us'
+  },
+  {
+    title: 'HuffPost - Daily Breaking News & Politics',
+    installs: 4936641,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/3J0L5T-1reAMYIUkNag-LJ0Ptt-jScq5-Og-h9imMqmoUmteLFzWe0xy57v-npqCHXg',
+    appId: 'com.huffingtonpost.android',
+    url: 'https://play.google.com/store/apps/details?id=com.huffingtonpost.android&hl=en&gl=us'
+  },
+  {
+    title: 'Democrat & Chronicle',
+    installs: 50448,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/4pK_IbMLDqYuEVNiXrpsslYklnfmySUvS7QhsRqlnBl6P_w1L3V7v-wDQSIrIMUKFok',
+    appId: 'com.gannett.local.library.news.democratandchronicle',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.democratandchronicle&hl=en&gl=us'
+  },
+  {
+    title: 'La Matinale actualité du Monde',
+    installs: 389895,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Ecm08I3HzcOFAHR55yUEEZx2P-g0MMjv3cHCFsxjtSprvvbpKXOCbe9SaKbfdp9I',
+    appId: 'com.lemonde.morning',
+    url: 'https://play.google.com/store/apps/details?id=com.lemonde.morning&hl=en&gl=us'
+  },
+  {
+    title: 'Asbury Park Press: Local News',
+    installs: 66597,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Qjjx90mhwFaRS8x0cSGAHVcmiFEZxeWb9SNeN5DOdSoKSkmi0Ea1Oua3sWSeodDb30pf',
+    appId: 'com.gannett.local.library.news.app',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.app&hl=en&gl=us'
+  },
+  {
+    title: 'Albany Times Union News',
+    installs: 9476,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Di0htXyZPRNVMeQhKSIA8_ONXTNaVq5NJGVQVEnG2Sdun5wi0EjhASAatkjAQ2zJPuw',
+    appId: 'com.timesunion.newsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.timesunion.newsapp&hl=en&gl=us'
+  },
+  {
+    title: 'Sync for reddit (Pro)',
+    installs: 134480,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/lrafG-Fdqoskl0n3m75mboC_NSS77xImHS0G1zjdDTbDozewqBYp1_L-DMAIMsPlkFY',
+    appId: 'com.laurencedawson.reddit_sync.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Read Positive & Good News: Ever Widening Circles',
+    installs: 716,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/K7IPlIZyzPE93-TS1-Atg2NHu6n1Ij2So3JwzTgNIYAQ-aCi6nd6rboOvTdEZhFegbo',
+    appId: 'com.EverWideningCircles.android',
+    url: 'https://play.google.com/store/apps/details?id=com.EverWideningCircles.android&hl=en&gl=us'
+  },
+  {
+    title: 'Cake Masters Magazine',
+    installs: 16865,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/2DWGuJQIAVv5-pzYYUJeW-9oTdhY3CRD33zjEZW4Gj5SBTsLp8bFCfGtXavar1-uUQ',
+    appId: 'com.cakemasters.cakemasters',
+    url: 'https://play.google.com/store/apps/details?id=com.cakemasters.cakemasters&hl=en&gl=us'
+  },
+  {
+    title: 'O Globo',
+    installs: 445164,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/1L_DpBdsaxlQgwt9Kq5g1d_wv77CGY8MV9mcgYiybSvBGUM7wIeqdmYxehVkVuTrbU4',
+    appId: 'br.com.infoglobo.oglobo',
+    url: 'https://play.google.com/store/apps/details?id=br.com.infoglobo.oglobo&hl=en&gl=us'
+  },
+  {
+    title: 'NJ.com',
+    installs: 181779,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/32eYrQJZuEJFPFhKzso5ND4EHDr1Zgj68MGf6LpmAoll37hNIbbLXv_Mnv1-myVduN8',
+    appId: 'com.ap.advnj',
+    url: 'https://play.google.com/store/apps/details?id=com.ap.advnj&hl=en&gl=us'
+  },
+  {
+    title: 'Courier Journal',
+    installs: 49315,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/0wUtMCK1JSqGgXjbqemspTzJoQjDnsIH9FCIwoXdUqH1JNmPRcHFuz_wHbzks_YJpw',
+    appId: 'com.gannett.local.library.news.courierjournal',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.courierjournal&hl=en&gl=us'
+  },
+  {
+    title: 'rif is fun golden platinum for Reddit',
+    installs: 185780,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/JheiDUWsMHB8R3ag0vTKh0EMQsinFaku68oYJxDjSiZwVQl-Z5lFZZqPuniVONpP1pQ',
+    appId: 'com.andrewshu.android.redditdonation',
+    url: 'https://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation&hl=en&gl=us'
+  },
+  {
+    title: 'San Antonio Express-News',
+    installs: 10863,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/QdfUWdIEn5PGlSNubW35IBDgu8x1QZBud--CKkSRQHzAXvTUY7DN17KMlEPYEeXBjeI',
+    appId: 'com.expressnews.newsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.expressnews.newsapp&hl=en&gl=us'
+  },
+  {
+    title: 'Foreign Affairs Magazine',
+    installs: 49209,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/2LxjK20TEDsB9Fw5JbyNXICsf7Jgdg_yHHXainyoMa20pQAXP-e0S3B_SusJWP5Z0TQ',
+    appId: 'com.foreignaffairs.magazine',
+    url: 'https://play.google.com/store/apps/details?id=com.foreignaffairs.magazine&hl=en&gl=us'
+  },
+  {
+    title: 'GoErie',
+    installs: 3125,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/SL6-mf39ohNw5C2wcT6UOOkameMsl3t8WB5ZDlg5nHPDIgHS3GgAFYarwp9z5k7AKnj_',
+    appId: 'com.ghm.goerie',
+    url: 'https://play.google.com/store/apps/details?id=com.ghm.goerie&hl=en&gl=us'
+  },
+  {
+    title: 'New York Daily News',
+    installs: 256373,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/WzLoDEhh_jcJtXur9lD9D4MslTnq5S9hMqXoaAZK4urXI8T4wFF0ykLvrxaqfDO5OwA',
+    appId: 'com.freerange360.mpp.NYDN',
+    url: 'https://play.google.com/store/apps/details?id=com.freerange360.mpp.NYDN&hl=en&gl=us'
+  },
+  {
+    title: 'Peoria Journal Star',
+    installs: 27195,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/qMPQtasaAPs4T2z9dBhW8muWCfQyo8tfXQaXxxle2zSh1BGABx-aOGexegeZBT1_sOk',
+    appId: 'com.spreedinc.providers.gatehousemedia.peoriajournalstar',
+    url: 'https://play.google.com/store/apps/details?id=com.spreedinc.providers.gatehousemedia.peoriajournalstar&hl=en&gl=us'
+  },
+  {
+    title: 'PennLive.com',
+    installs: 58389,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/x-70n9qxqA4knA7kdWrFhC4JBiQTNeVL3pBhphZaKdG1ruckFnrfQt3t6NRd7PkiDw',
+    appId: 'com.ap.advpenn',
+    url: 'https://play.google.com/store/apps/details?id=com.ap.advpenn&hl=en&gl=us'
+  },
+  {
+    title: 'Le Figaro.fr: Actu en direct',
+    installs: 3335639,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/8bCWoO6hPbvyrdxkjTpHO7kP8PvVJbc9Sn5fpHXyuKGHQdPGcISkEpup5XqSAc5yN1Q',
+    appId: 'fr.playsoft.lefigarov3',
+    url: 'https://play.google.com/store/apps/details?id=fr.playsoft.lefigarov3&hl=en&gl=us'
+  },
+  {
+    title: 'Naples Daily News',
+    installs: 29435,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/LhG1-k5UKVdIklJg8s4bZLPkyznw-WhtVAubYaK40VOX-M3VxyY8dtw4iBRZXITPCQ',
+    appId: 'com.scripps.naplesnews.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.naplesnews.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'The Dallas Morning News',
+    installs: 94044,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ydlLd_qmLjQok2N56fBeTquRWtYLE6TsdPbH3uvFqLmMco8a-0MJ1gmMv1JBowGDg3s',
+    appId: 'com.dmn.pressengine',
+    url: 'https://play.google.com/store/apps/details?id=com.dmn.pressengine&hl=en&gl=us'
+  },
+  {
+    title: 'ソーシャル経済メディア - NewsPicks',
+    installs: 1042594,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/2aBzOX4U2sHGMqcqYbEQpMt-qjM_P4g0eEZFl2st1pUi7vSlVMynbLBotZglhVopEQ',
+    appId: 'com.newspicks',
+    url: 'https://play.google.com/store/apps/details?id=com.newspicks&hl=en&gl=us'
+  },
+  {
+    title: 'Bradenton Herald Newspaper',
+    installs: 11192,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/UseQyaTc6nWRD-36j1-Ac1sgl7kR7gP9Ldm2pZHYWLZau7XN6bihZP26splG-rQ6ZdyS',
+    appId: 'com.bradenton.android',
+    url: 'https://play.google.com/store/apps/details?id=com.bradenton.android&hl=en&gl=us'
+  },
+  {
+    title: 'lohud',
+    installs: 36005,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/x9I7i-GC_z9uXCdHX23OKXhjX63ITuePU5J5F5d7C0Atf5dqTCZWMhvfZmrX_bBKtzmU',
+    appId: 'com.gannett.local.library.news.lohud',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.lohud&hl=en&gl=us'
+  },
+  {
+    title: 'Broadcastify Police Scanner Pro',
+    installs: 34829,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/HR3KHx6ZPjhfhetf7UfnjGHRqSvEECd-8UKL3EU15z6m8PVrjsSiTgEfrn32ESXcTfM',
+    appId: 'com.radioreference.broadcastifyPro',
+    url: 'https://play.google.com/store/apps/details?id=com.radioreference.broadcastifyPro&hl=en&gl=us'
+  },
+  {
+    title: 'The Times & The Sunday Times',
+    installs: 562294,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Go-dU8ITGlEIwcsFa8b2Gt1Hb3ayH8V_RZaWSwBzssylTmaKXhXuNr_zeD3EUYF-v_M',
+    appId: 'uk.co.thetimes',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.thetimes&hl=en&gl=us'
+  },
+  {
+    title: 'WELT News – Nachrichten live',
+    installs: 1768297,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Dzx_kS0tomMv0o6_WF3I-22sTyWSzNiY5eSOvfq5gh8NVH_5g5f-e_B4jmtguWad92Q',
+    appId: 'de.cellular.n24hybrid',
+    url: 'https://play.google.com/store/apps/details?id=de.cellular.n24hybrid&hl=en&gl=us'
+  },
+  {
+    title: 'San Diego Union-Tribune',
+    installs: 13995,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/DxakNowFnskbSkVZqUFSkqaqeilvLWFbsOeYHlydpmKydkXk4Hg9uZBrMmiI1RKoFg',
+    appId: 'com.apptivateme.next.sdut',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.sdut&hl=en&gl=us'
+  },
+  {
+    title: 'Sync for reddit',
+    installs: 1048576,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/-HBcjzKx4WCg_Q6Tw90eM4BZC2IN5h9lJgQconJUyxApITmsxOz7qKSWCMpZOUpn1w',
+    appId: 'com.laurencedawson.reddit_sync',
+    url: 'https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync&hl=en&gl=us'
+  },
+  {
+    title: 'Merced Sun-Star, CA newspaper',
+    installs: 9589,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/uvkjKLYJiUHXwC8192qYXPAMJ5YLfjMNFTXWZeBDfvgaaYLk1np8z4ileU0iJDW2kv2E',
+    appId: 'com.mercedsunstar.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mercedsunstar.android&hl=en&gl=us'
+  },
+  {
+    title: 'OK Jailbirds',
+    installs: 27324,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/cvYsBPQaf6VT5MxFbB1Lhm4e2bdIPCB_zgKr1L2BXVZDzvQWtBihBDMsw4a7UWkXG15H',
+    appId: 'com.etype.okjailbirds.android.stdviewer',
+    url: 'https://play.google.com/store/apps/details?id=com.etype.okjailbirds.android.stdviewer&hl=en&gl=us'
+  },
+  {
+    title: 'Beckett Baseball',
+    installs: 21983,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/GKfK564Efc7OFqVbSk_aJemykiNSdNvanD6Y17tuBUBYVVpL-SpU4GpaZvizrRMuP0c',
+    appId: 'com.beckett.becketbaseball',
+    url: 'https://play.google.com/store/apps/details?id=com.beckett.becketbaseball&hl=en&gl=us'
+  },
+  {
+    title: 'Reno Gazette Journal',
+    installs: 18008,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/T-E4wK6TnZm6YPHTZFFfwvws0ZKOXCLMiBd50j1dx5FF53BK1dvaX36LqBeHjdMeSg',
+    appId: 'com.gannett.local.library.news.rgj',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.rgj&hl=en&gl=us'
+  },
+  {
+    title: 'Get WIRED',
+    installs: 15004,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/8J64RVqmHmcHqs6271TUg9KzwRt8v49_W-8rhqtu_TdpBWfjbWWYYaWiHLLkBZkZxus',
+    appId: 'com.wiredar',
+    url: 'https://play.google.com/store/apps/details?id=com.wiredar&hl=en&gl=us'
+  },
+  {
+    title: 'Coloradoan: Local News',
+    installs: 24837,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/5_ncR5Pg-bshmIaNSt6YU0GRINKStNsV2qJP-xP6s7it6fCAut9kJShAqmIOTpph',
+    appId: 'com.gannett.local.library.news.coloradoan',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.coloradoan&hl=en&gl=us'
+  },
+  {
+    title: 'Ledger-Enquirer - Columbus GA',
+    installs: 15477,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/r3iDoaIFIWp0A9-9wy4d8V_QzXjkYnmhoDNPrcyqSJ-4rl5H_7MIMDUVJew4lGId9I4u',
+    appId: 'com.ledgerenquirer.android',
+    url: 'https://play.google.com/store/apps/details?id=com.ledgerenquirer.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Desert Sun',
+    installs: 28929,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/kkGBL6GQ35I3Ba8DYxc36l3Nrds8s_HKHrCSaW3sDKO6MvEZ_0-piYahxrICFmWARpj3',
+    appId: 'com.gannett.local.library.news.mydesert',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.mydesert&hl=en&gl=us'
+  },
+  {
+    title: 'Hartford Courant',
+    installs: 43854,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/wGdrhBRcoCB1UK2GcRMdOAVFW4mteGoJdwC9xtscg-DremVVICuUom88MS2Sx3YX6XE',
+    appId: 'com.apptivateme.next.hc',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.hc&hl=en&gl=us'
+  },
+  {
+    title: 'Beckett Football',
+    installs: 14715,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/Wq_bSRq689tL_TvQt5x0X-ZJr6i9pwx0I73HsYZJQnBoicbJB3mV6fQF_mbYYSEMOoYg',
+    appId: 'com.beckett.becketftball',
+    url: 'https://play.google.com/store/apps/details?id=com.beckett.becketftball&hl=en&gl=us'
+  },
+  {
+    title: 'Kitsap Sun',
+    installs: 18302,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/T6-f_DguFbeFtKBqXlE5tzW7HMVTD0ZXHbIKjpp-5CulWIH90gYiA0sTzHNXPQcXQw',
+    appId: 'com.scripps.kitsapsun.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.kitsapsun.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Curio: hear great journalism',
+    installs: 142922,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/6YUdrSaGy51NJu0X6wnKCHieMmI8YBgJpoAMby-fcPyXjE-M_pPI64dGNw0fSX47qogx',
+    appId: 'io.curio',
+    url: 'https://play.google.com/store/apps/details?id=io.curio&hl=en&gl=us'
+  },
+  {
+    title: 'Worcester Telegram & Gazette',
+    installs: 23004,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/JWHGF3ax-9JVxtCTZLVFect8HJf5viGg03_HkpyROEnpb-7KKuK_Wh1z2ThfGzrDpIY',
+    appId: 'com.gatehousemedia.id3103',
+    url: 'https://play.google.com/store/apps/details?id=com.gatehousemedia.id3103&hl=en&gl=us'
+  },
+  {
+    title: 'High Times Magazine',
+    installs: 43592,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/H7EkS4bgcSYjKR2YkaxAYiBEsYP3Zrb7ZVf4P-Vgspp_NjO94DZIdPD_LelKS94Nvg',
+    appId: 'com.hightimes.android',
+    url: 'https://play.google.com/store/apps/details?id=com.hightimes.android&hl=en&gl=us'
+  },
+  {
+    title: 'The Telegraph - Macon, GA news',
+    installs: 56857,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/s8J5-izaWEDxNYj6nxLRt5gez-s6WZLv5iI_zYzCaAvPi4ePQ0__fpwgPbrG7W9OgNk',
+    appId: 'com.macon.telegraph',
+    url: 'https://play.google.com/store/apps/details?id=com.macon.telegraph&hl=en&gl=us'
+  },
+  {
+    title: 'DER SPIEGEL - Nachrichten',
+    installs: 6106699,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/NKnjiKMPtPaDcfN_mcG-F1nR9nBHgZAclG5IkfVrfpekMy0SoGagXbVdRXv1C1mIKhc',
+    appId: 'de.spiegel.android.app.spon',
+    url: 'https://play.google.com/store/apps/details?id=de.spiegel.android.app.spon&hl=en&gl=us'
+  },
+  {
+    title: 'Foreign Policy',
+    installs: 16120,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/v0DQSYlUXI3gBwtGyxhQMyXwFPGYV_sM7U3yr9nYRsmGygvCQMr4sS6lqrpW--1oXQ',
+    appId: 'com.foreignpolicy.android',
+    url: 'https://play.google.com/store/apps/details?id=com.foreignpolicy.android&hl=en&gl=us'
+  },
+  {
+    title: 'EL NORTE',
+    installs: 297713,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/SKVgPY0dcpPs75nq4s2bZ1p_VFNJQdzPRgs7xZ08PFjLTzUFJAsU4NAutzmgmYwQvxE',
+    appId: 'com.gruporeforma.elnorte',
+    url: 'https://play.google.com/store/apps/details?id=com.gruporeforma.elnorte&hl=en&gl=us'
+  },
+  {
+    title: 'The Columbus Dispatch',
+    installs: 42796,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/tjVvsEW2N8aFxqkWJOKyM19W2ROeGAtDakTuoUgJ2fF2RQxE0nKW6ItNckavX__p9Q',
+    appId: 'com.dispatch.coldispatch',
+    url: 'https://play.google.com/store/apps/details?id=com.dispatch.coldispatch&hl=en&gl=us'
+  },
+  {
+    title: 'NYC Fire Wire',
+    installs: 4121,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/WShuP1P5WHqhozMiECvSOkPKUdkDnJrev_2w1jTDpyRioLcHXFLDrGQVeadpUOytPtQu',
+    appId: 'com.pioneer.nycfirewire',
+    url: 'https://play.google.com/store/apps/details?id=com.pioneer.nycfirewire&hl=en&gl=us'
+  },
+  {
+    title: 'Lansing State Journal: Lansing Michigan News',
+    installs: 21302,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/uJeG0e5EuEKq4AITYxq3F5Us8S1E-mR7BGnvTmF0IT2RMM4q0xBK88MEfU1ILegpJ7s',
+    appId: 'com.gannett.local.library.news.lsj',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.lsj&hl=en&gl=us'
+  },
+  {
+    title: 'The Limbaugh Letter',
+    installs: 76718,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/wl6EbxCOZAopJKxSUxxPTUwjmCQRLXScOEIL8tXSH02KhSmRRrXRMEXDcxrlsymjpAGD',
+    appId: 'com.texterity.android.TheLimbaughLetter',
+    url: 'https://play.google.com/store/apps/details?id=com.texterity.android.TheLimbaughLetter&hl=en&gl=us'
+  },
+  {
+    title: 'The World of Cross Stitching Magazine',
+    installs: 6470,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/1eKctPs4n4jmVgoTZMVVwbDDGd4-6YKpNQuhdXAtGPycYllh1MI93WOq0yT7jOtVcA',
+    appId: 'com.im.worldofcrossstitching',
+    url: 'https://play.google.com/store/apps/details?id=com.im.worldofcrossstitching&hl=en&gl=us'
+  },
+  {
+    title: 'Joey for Reddit',
+    installs: 270080,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ar_MdPyiUMNK7-cbrDxgmTqzOiNTILHLepldk4uC_7AlaNjdgQWIGXa5pBLbu7T5wqw',
+    appId: 'o.o.joey',
+    url: 'https://play.google.com/store/apps/details?id=o.o.joey&hl=en&gl=us'
+  },
+  {
+    title: 'Orlando Sentinel',
+    installs: 73868,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/OZXmhkrBLQs66qC18ju5R0Kd7bDRTUpk4k0kQ2XnRBIBZvgHgfawF49d_EY4miDlaQ',
+    appId: 'com.apptivateme.next.os',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.os&hl=en&gl=us'
+  },
+  {
+    title: 'National Review',
+    installs: 25637,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/cu8BI4ftTJrI0PzL8cyueyk0dv5vO8MMvkfpIi9BrObAGSPBRTyRnAiL_sHz8NLTaAk',
+    appId: 'com.maz.nrdigital',
+    url: 'https://play.google.com/store/apps/details?id=com.maz.nrdigital&hl=en&gl=us'
+  },
+  {
+    title: 'syracuse.com',
+    installs: 58049,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/S6Ez556dfck7Oy8rb58ga2vcryYUy0U433rOujpZUMb-ei9V9t46iEVG28B7MDT5KKY',
+    appId: 'com.ap.advsyra',
+    url: 'https://play.google.com/store/apps/details?id=com.ap.advsyra&hl=en&gl=us'
+  },
+  {
+    title: 'Salon',
+    installs: 11042,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/1l6LkHW-GD897-LUc8-8iJR2HibQeLx1a_Udn6FlEdSZX0pfbSahjwrKCjGudGI2iC4',
+    appId: 'com.maz.combo632',
+    url: 'https://play.google.com/store/apps/details?id=com.maz.combo632&hl=en&gl=us'
+  },
+  {
+    title: 'TCPalm',
+    installs: 35036,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/HHq3hZ6JmnrfGh2KAHKxnYIf9aI72ewe7AsllT9TAmQWqOj2Yv8AlechpXcQSJ01VQ',
+    appId: 'com.scripps.tcpalm.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.tcpalm.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'The Sydney Morning Herald',
+    installs: 46359,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/AvGUuLetPG9KbYjzdwtnEBJZrDxm-i2CLBsUmRoX9oagQUvkXFe9WPYiVCaGmI5ZCg',
+    appId: 'com.fairfaxmedia.ink.metro.smh',
+    url: 'https://play.google.com/store/apps/details?id=com.fairfaxmedia.ink.metro.smh&hl=en&gl=us'
+  },
+  {
+    title: 'Relay for reddit',
+    installs: 1028295,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/cwoYUgBTgdLheFnXTWSgfFTV1w4-TyqaGJTA4l7X9VicxuwoWhSjWr0LHafd3eWcQTjq',
+    appId: 'free.reddit.news',
+    url: 'https://play.google.com/store/apps/details?id=free.reddit.news&hl=en&gl=us'
+  },
+  {
+    title: 'Des Moines Register',
+    installs: 56737,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/8qF5Sa9GBkExqrMIG8MS3ioQ_bAaeM-TrW4es7fzyVULPzyCmCMLXy5LdX5Py0FAt5M',
+    appId: 'com.gannett.local.library.news.dmregister',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.dmregister&hl=en&gl=us'
+  },
+  {
+    title: 'Poetry Magazine',
+    installs: 52948,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/oTL3m5zBu9emsbT4gsTqAKbiGRsd0EodrfMNTVupaFLDY8cuL1EGB0CZbrUt6wH3gFr7',
+    appId: 'org.poetrymagazine.poetry',
+    url: 'https://play.google.com/store/apps/details?id=org.poetrymagazine.poetry&hl=en&gl=us'
+  },
+  {
+    title: 'Knoxville News',
+    installs: 50990,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/wOCAC4svf4SrSDQBevTgM3T16b6a0Sv31D1ayOdmRSkQkmXgag6_poLzNtWRDGUmNdq1',
+    appId: 'com.scripps.knoxnews.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.knoxnews.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'The Economic Times: Sensex, Market & Business News',
+    installs: 8130327,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/2G0Wjgjx5TYsLXFhig2RBYzgepW291fAZzy15ZQsnMoW4i-ThlzvhUmBNu5W76GFboUF',
+    appId: 'com.et.reader.activities',
+    url: 'https://play.google.com/store/apps/details?id=com.et.reader.activities&hl=en&gl=us'
+  },
+  {
+    title: 'The Ledger - Lakeland, Florida',
+    installs: 11879,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/7TQjIRvR6O8qPA_qLhrwHYF2IvNRjhwJANI4kEV9KPsG1A52BfGW9eFFhGGae1Nt098',
+    appId: 'com.gatehousemedia.id3154',
+    url: 'https://play.google.com/store/apps/details?id=com.gatehousemedia.id3154&hl=en&gl=us'
+  },
+  {
+    title: '🚨 Earthquake Network - Realtime alerts',
+    installs: 5987949,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/jqKhxuw-pOylOo1w2dYUKqanMM6aYnh9MayJXf7z2vR2lhZQjXHaeBB16-y7Jq40Rw',
+    appId: 'com.finazzi.distquake',
+    url: 'https://play.google.com/store/apps/details?id=com.finazzi.distquake&hl=en&gl=us'
+  },
+  {
+    title: 'Inoreader - News App & RSS',
+    installs: 393179,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/mPC_o8nhXrXE22isxxVwNNuyiaKskjTRcbGKZEwqm6xlyXkfkfcBH1XDVpMJXWFG5w',
+    appId: 'com.innologica.inoreader',
+    url: 'https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=en&gl=us'
+  },
+  {
+    title: 'North Jersey: Bergen, Passaic, Essex, Morris News',
+    installs: 37565,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/LPjtKIO6oMtEQ2M9fBpPfdWM354SlK78HbwTkq1K8j0rFzH8p8FqSfIID1b5_bbmHg',
+    appId: 'com.northjersey.developer.northjerseylatestnews',
+    url: 'https://play.google.com/store/apps/details?id=com.northjersey.developer.northjerseylatestnews&hl=en&gl=us'
+  },
+  {
+    title: 'inkl: daily breaking news',
+    installs: 142048,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/z8KJkOzi-WOvJ2MEdb-JOx5C10IFBdiJ246X_WzBTJHFKn-zobxcZef7kgdbw_odXg',
+    appId: 'com.inkl.app',
+    url: 'https://play.google.com/store/apps/details?id=com.inkl.app&hl=en&gl=us'
+  },
+  {
+    title: 'El Paso Times',
+    installs: 55764,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/qz8VOeVIVqS3z1FPUfGtQh_tPx5lvJNoxmyvv0mZka5_YsgKLo6rIAQoY_xCSdq-Ul8',
+    appId: 'com.spreedinc.providers.elpasotimes.news',
+    url: 'https://play.google.com/store/apps/details?id=com.spreedinc.providers.elpasotimes.news&hl=en&gl=us'
+  },
+  {
+    title: 'Argus Leader',
+    installs: 17744,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/93s5n-x8KOC-OjK5W7a6YGpEhCOqF9pF3-cgh22NbOSfdmroZVAKajIf8VbbR7jqGg',
+    appId: 'com.gannett.local.library.news.argusleader',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.argusleader&hl=en&gl=us'
+  },
+  {
+    title: 'Love Patchwork & Quilting Magazine - Fresh Designs',
+    installs: 7063,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/yyVfPxtnTwFpPpVaQ-VtdAg1U-Z1Us_1AT_LEttKawQT6LRfKkWfTpGpZ6r84djADLI',
+    appId: 'com.im.lovepatchworkandquilting',
+    url: 'https://play.google.com/store/apps/details?id=com.im.lovepatchworkandquilting&hl=en&gl=us'
+  },
+  {
+    title: 'Post Crescent',
+    installs: 16129,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/RgDmuc__B5azMiu3luHEYBUH4aSoQ3TwBxy7WRruHnERtswssaBr0fJuoYkifXEBoPQ',
+    appId: 'com.gannett.local.library.news.postcrescent',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.postcrescent&hl=en&gl=us'
+  },
+  {
+    title: 'Allentown - Morning Call',
+    installs: 30383,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/AQBs9QA6q6OdcCMnJw1NqSBcRzHXD5awJDw_L4VfA0_QC8bhnfRi-CH3b7nRiQqjcA4',
+    appId: 'com.apptivateme.next.amc',
+    url: 'https://play.google.com/store/apps/details?id=com.apptivateme.next.amc&hl=en&gl=us'
+  },
+  {
+    title: 'BaconReader Premium for Reddit',
+    installs: 90260,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Da3kidYXUi0PU7euXLV7fyi6Ph3Pu_B9IbkFG4Ln1OLmF3iJz4FFehhVBU6TQNjdnPw',
+    appId: 'com.onelouder.baconreader.premium',
+    url: 'https://play.google.com/store/apps/details?id=com.onelouder.baconreader.premium&hl=en&gl=us'
+  },
+  {
+    title: 'Police Scanner',
+    installs: 30683,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/Vg2qXzoUcIPlqjR9Hf06Ibcho5V2K5y2k70JtL6qGh9KTk-grYYMi3Yru1HEVyPc0uK0',
+    appId: 'com.criticalhitsoftware.policescannerradio',
+    url: 'https://play.google.com/store/apps/details?id=com.criticalhitsoftware.policescannerradio&hl=en&gl=us'
+  },
+  {
+    title: 'Police Scanner FREE',
+    installs: 2485109,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/KOedLjBuORqCdlD_CY7hRv8PKABlN6Tm8oHjG8HT3dCqLH8dISZ3h6qvqtQ2Vi3w1-M',
+    appId: 'com.criticalhitsoftware.policeradio',
+    url: 'https://play.google.com/store/apps/details?id=com.criticalhitsoftware.policeradio&hl=en&gl=us'
+  },
+  {
+    title: 'Ventura County Star: Oxnard, Ventura County News',
+    installs: 37485,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/cb3xQxhbqiHZ-vVHJHENlNpJ5pzSAQDDFk1Pt8jiZeag88yX-COf0fVa4i21AhdPmg',
+    appId: 'com.scripps.vcstar.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.vcstar.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Cross Stitch Gold Magazine - Stitching Patterns',
+    installs: 4386,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/9FLmPkavelZDs0X6wBo-MeT0sInywr-RU1xZ248gq4RpjQcNkxeJ3IJnxXNG37kfAy0',
+    appId: 'com.immediatemedia.crossstitchgoldmag',
+    url: 'https://play.google.com/store/apps/details?id=com.immediatemedia.crossstitchgoldmag&hl=en&gl=us'
+  },
+  {
+    title: "BBC Gardeners' World Magazine - Gardening Advice",
+    installs: 57157,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/ozBvJbzRtjtEhgpgfcVEExLEwKkkrdvjNtx9F9NNy2m7Btnu4Tv4Z_B-WskOE1UKiGQ',
+    appId: 'com.immediatemedia.gardenersworldmag',
+    url: 'https://play.google.com/store/apps/details?id=com.immediatemedia.gardenersworldmag&hl=en&gl=us'
+  },
+  {
+    title: 'Commercial Appeal',
+    installs: 36825,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/Ngp1X0I_JVFxWmHCC4uRDFD-mbsP2IH5aEdLpLMTGAbTh164YuSu5qn_UUcDEzDUKGkn',
+    appId: 'com.whiz.MediaFlow_CA',
+    url: 'https://play.google.com/store/apps/details?id=com.whiz.MediaFlow_CA&hl=en&gl=us'
+  },
+  {
+    title: 'News360',
+    installs: 1468810,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/6KcF8Xwh2z2hOSxTY1eaoghyw8xte7sSmBSnZPHIR2cVLJn3nlRvTq3jgWEKvFolzFY',
+    appId: 'com.news360.news360app',
+    url: 'https://play.google.com/store/apps/details?id=com.news360.news360app&hl=en&gl=us'
+  },
+  {
+    title: 'Il Fatto Quotidiano',
+    installs: 147813,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/SyRpOxitrucQlRMqluUJ-9YJ6QvLOgjq9tnxHUqYKK3-ZbnW_h488-ehnAOj72kkI4Y',
+    appId: 'com.ilfattoquotidiano.mia',
+    url: 'https://play.google.com/store/apps/details?id=com.ilfattoquotidiano.mia&hl=en&gl=us'
+  },
+  {
+    title: 'Record Searchlight',
+    installs: 21363,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/tBn_Q_-fM4zv0hWkMbzyZKtBW9x-ROuaPiK8QX5x_-2s2-BAQ6i7mTEMIgTMvJfxxA',
+    appId: 'com.scripps.redding.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.scripps.redding.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'South China Morning Post',
+    installs: 542779,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/T2KXRgVa41j8Zzcb15DFvwwcTMcaP19vVjP_JON5jX5ob8zkysx-Dv1Wy3FSg3bgdQ',
+    appId: 'com.scmp.newspulse',
+    url: 'https://play.google.com/store/apps/details?id=com.scmp.newspulse&hl=en&gl=us'
+  },
+  {
+    title: 'Rockford Register Star, IL',
+    installs: 17643,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/4inBWq_2Vp5RpslbDrdLtaZxgnB2HrdiByDKEceaGB_K_XJ_8aPtwcI6HYDL3-CoEA',
+    appId: 'com.spreedinc.providers.gatehousemedia.rockfordregisterstar',
+    url: 'https://play.google.com/store/apps/details?id=com.spreedinc.providers.gatehousemedia.rockfordregisterstar&hl=en&gl=us'
+  },
+  {
+    title: 'Statesman Journal',
+    installs: 18545,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/hzQ02oUzsXafIdNoBm10JZBtF-7TnFMGJ8WC7LFm-RGmm3-86lsafZOXpm7WehuJkagu',
+    appId: 'com.gannett.local.library.news.statesmanjournal',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.statesmanjournal&hl=en&gl=us'
+  },
+  {
+    title: 'The Week Magazine US',
+    installs: 51717,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/jNkUpwCimv9YRqvyqgLVLpM6q0sIbArAEGF-VDnIFaaUyUQGSQH1cEBIKx8ijJacmnc',
+    appId: 'com.dennis.theweek.us',
+    url: 'https://play.google.com/store/apps/details?id=com.dennis.theweek.us&hl=en&gl=us'
+  },
+  {
+    title: 'Tech Review',
+    installs: 11498,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/5lELaWZglkxG_rdNa9RqiwTRVkrv0AZ604TIg7hx9Be5Oyd0r5lP4YS2IOt0AH2H8Q',
+    appId: 'com.technologyreview.mit',
+    url: 'https://play.google.com/store/apps/details?id=com.technologyreview.mit&hl=en&gl=us'
+  },
+  {
+    title: 'SkyAlert',
+    installs: 4241272,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/GIEKLSMZzWwOV6e-VFWaBGLh2bAWadyJljURfGeOowhDFW0g7YpYo65t1Vm7JjoReg',
+    appId: 'com.disappster.skyalert',
+    url: 'https://play.google.com/store/apps/details?id=com.disappster.skyalert&hl=en&gl=us'
+  },
+  {
+    title: 'TV Rain',
+    installs: 875287,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/hfz6EEtMVuHMu6QO6bqqRFhl-glwyd2OLDNw3GQ2mGlVxMv_Hie48Omnq1DvAQJo92E',
+    appId: 'com.hintsolutions.raintv',
+    url: 'https://play.google.com/store/apps/details?id=com.hintsolutions.raintv&hl=en&gl=us'
+  },
+  {
+    title: 'Le Point : journal, actualités et infos en continu',
+    installs: 1475556,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/kpZsYvtLBSyF4AEdjnNXkaVHe6CANUMinJi3LiK2rjBbabqqb2u7JAQhxTQdMTHdk5R-',
+    appId: 'fr.lepoint.android',
+    url: 'https://play.google.com/store/apps/details?id=fr.lepoint.android&hl=en&gl=us'
+  },
+  {
+    title: 'Times Herald',
+    installs: 17395,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/MvG7DQYhbMAnUwkf-6BjkDPxxfHk2RworS-1vl9Q7yXwFdag_1CxO43WB28w2EI6Tg',
+    appId: 'com.gannett.local.library.news.timesherald',
+    url: 'https://play.google.com/store/apps/details?id=com.gannett.local.library.news.timesherald&hl=en&gl=us'
+  },
+  {
+    title: 'Lotto Thai VIP 2D3D 2020',
+    installs: 2,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/6zIyQc8V7IXcvBGI61fteDIQlgGOkiAYKWg5VDL4lS-uNIHLiT_p8GkcsqeYstyKMw',
+    appId: 'com.thailottoresultnow.thailottovip2d3d',
+    url: 'https://play.google.com/store/apps/details?id=com.thailottoresultnow.thailottovip2d3d&hl=en&gl=us'
+  },
+  {
+    title: 'The Nation Magazine',
+    installs: 7666,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://lh3.googleusercontent.com/_E2YtnUqH9fYubUkH9pnnJirknx0XV9jsxa-sUTVLu6yw3NuskkADJbirW-0-lpy_tI',
+    appId: 'com.maz.combo430',
+    url: 'https://play.google.com/store/apps/details?id=com.maz.combo430&hl=en&gl=us'
+  },
+  {
+    title: 'Game Informer',
+    installs: 228279,
+    genre: 'NEWS_AND_MAGAZINES',
+    icon: 'https://play-lh.googleusercontent.com/qGXs_uvWYPo5LaZB3Ob0vHNacuctANbf856sblML3Sl0O6kziH2GnhuvBHa2sLj8kQw',
+    appId: 'com.gameinformer.tablet',
+    url: 'https://play.google.com/store/apps/details?id=com.gameinformer.tablet&hl=en&gl=us'
+  }
+]

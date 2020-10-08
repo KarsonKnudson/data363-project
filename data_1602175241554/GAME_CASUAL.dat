@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Coin Master',
+    installs: 132831254,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/gjQOsko6OzymKBM25DsmFqODiN2XQKbYf8TcjHhmYCScxyKd98ZiicrRg9Tycso0',
+    appId: 'com.moonactive.coinmaster',
+    url: 'https://play.google.com/store/apps/details?id=com.moonactive.coinmaster&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Saga',
+    installs: 1088969814,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/MAek6K4YyT7uyOE8PhK2GEDQzbyB7X7clDBAYGBDCH498ptYZeAf-NVgLvzAWbuZUjw',
+    appId: 'com.king.candycrushsaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=us'
+  },
+  {
+    title: 'Gardenscapes',
+    installs: 308200651,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/8bBPmLJuhHwPFsroQFUQFyVXQhhi2Ou5pqHydRGRfLQ-uYiswspVPka-KVMgoU6BIQ',
+    appId: 'com.playrix.gardenscapes',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=us'
+  },
+  {
+    title: 'Homescapes',
+    installs: 277878094,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/b8jKt4TuoJagGIHrQrmjpsi_WUl8ixiIPyOLHSul-7KqMzJvZzcH4AQgj9pV8I_j2BE',
+    appId: 'com.playrix.homescapes',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Soda Saga',
+    installs: 393895814,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ALKC68_IBgVTC6pYpWSS-zQvimzhEE2o0DX0jwExfuOBF4sJZNZMe4PTQRmPzXpK32Q',
+    appId: 'com.king.candycrushsodasaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga&hl=en&gl=us'
+  },
+  {
+    title: 'Township',
+    installs: 254092933,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/9SxsGPsApOk9zE6UUfptjs7Zkwd9lZONaC4skx4YEBzi4K7qoGivVJZSwvqMDHol3PCq',
+    appId: 'com.playrix.township',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=us'
+  },
+  {
+    title: 'Best Fiends - Free Puzzle Game',
+    installs: 50522511,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/CKXiJ6VuSGkzdRNfDvXejmQLS7dqLE3g0u34xkE-609eun6ENML9XT0EMbydIspwNdpI',
+    appId: 'com.Seriously.BestFiends',
+    url: 'https://play.google.com/store/apps/details?id=com.Seriously.BestFiends&hl=en&gl=us'
+  },
+  {
+    title: 'Board Kings™️ - Multiplayer Board Games',
+    installs: 28504260,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/swXeCkyBKZ2GTxy3wsSOmHgDIdY283TtjrvC9EbeCZkeUTkOK_J66A_-cEXYo1nDSJow',
+    appId: 'com.jellybtn.boardkings',
+    url: 'https://play.google.com/store/apps/details?id=com.jellybtn.boardkings&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds 2',
+    installs: 173488955,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/tT8hI9nhKusBlOKM8OWM64PnGsfXf7rC6AtzeTNDGkhicbfHbR7p96YXLw37FkgPz1I',
+    appId: 'com.rovio.baba',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.baba&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Crush Friends Saga',
+    installs: 50600302,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/u5MgF1to7pIw2dsdAE-Y0zzTOLP3ISya-lsDnX7_LyP89shwvCvmUZfS94SufDndQw',
+    appId: 'com.king.candycrush4',
+    url: 'https://play.google.com/store/apps/details?id=com.king.candycrush4&hl=en&gl=us'
+  },
+  {
+    title: 'Farm Heroes Saga',
+    installs: 298806105,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/JJ5zXv997qZ0UNzq5TcetDU1cWRxmCisFIeYNlEpyBE2X9TQzVGRTDhqym-YhaGVL9bl',
+    appId: 'com.king.farmheroessaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.farmheroessaga&hl=en&gl=us'
+  },
+  {
+    title: 'Covet Fashion - Dress Up Game',
+    installs: 41033311,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/-JEnJKG3nYK0Nl2q1GHx2YtmNnKNWv0RMApDRkeum3RdPk6_KUMofc_uwVbnRWerew',
+    appId: 'com.crowdstar.covetfashion',
+    url: 'https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion&hl=en&gl=us'
+  },
+  {
+    title: 'Pet Rescue Saga',
+    installs: 186577117,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/SGgBq-R-pdpVC2soG7aYSVJs0ZPg34b2YP9ryuxlxJMoWaq7Vd619Uv1sFNevOXqPmU',
+    appId: 'com.king.petrescuesaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.petrescuesaga&hl=en&gl=us'
+  },
+  {
+    title: 'Family Island™ - Farm game adventure',
+    installs: 13209051,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Wd4OTgHSHMysoHplUn0BtMKjNT2IVOH2TdY8k7BdFDCfC1lL1qhDR3V9RqcaKtvloWc',
+    appId: 'com.MelsoftGames.FamilyIslandFarm',
+    url: 'https://play.google.com/store/apps/details?id=com.MelsoftGames.FamilyIslandFarm&hl=en&gl=us'
+  },
+  {
+    title: 'Hay Day',
+    installs: 240929552,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/oXMNc6gaZK-bDdP8UfR4utJVcuLD-nzA6x0GSa4aowFW_zQ-8NfrkOJis09DUsoFEQ',
+    appId: 'com.supercell.hayday',
+    url: 'https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=en&gl=us'
+  },
+  {
+    title: 'The Battle Cats',
+    installs: 13814393,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/WZ6STwaXOFyrlCFH9Ls4uHQYVPDhISlUo3jTLpzJNMjpCsnP12yoEYZ8dSKXPFctEZyD',
+    appId: 'jp.co.ponos.battlecatsen',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatsen&hl=en&gl=us'
+  },
+  {
+    title: 'Diner DASH Adventures: a time management game',
+    installs: 3680753,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/53lX4fYSyNBAIsAOAu69w38soM_LMuJFAiCA04uFx28pt9h7FUbdvJlkjHcGZgyvfQ',
+    appId: 'com.glu.dashtown',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.dashtown&hl=en&gl=us'
+  },
+  {
+    title: 'Island King',
+    installs: 5874209,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/DFbFqC5fdZrJzFdgqNB3WeeLkGZ1jJd-EDY2qbl3rcbX9Sjxgy1wRLjUkWPkjKm9DPE',
+    appId: 'com.aladinfun.islandking.android',
+    url: 'https://play.google.com/store/apps/details?id=com.aladinfun.islandking.android&hl=en&gl=us'
+  },
+  {
+    title: 'FarmVille 2: Country Escape',
+    installs: 57162000,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/EAU2PVsVyvB3nSR6alTCNJKXpHBIofZw0W4lw1NfbJ6Y1WOY9KP1bUSMHbS2tYwqVg',
+    appId: 'com.zynga.FarmVille2CountryEscape',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape&hl=en&gl=us'
+  },
+  {
+    title: 'Pirate Kings™️',
+    installs: 46435402,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/UpQEdKfsEoA5OGH7i29eqQESwmmhUwpxUhCP6o05mOXYgNtypWJzq70nZRohAM4bofM',
+    appId: 'com.jellybtn.cashkingmobile',
+    url: 'https://play.google.com/store/apps/details?id=com.jellybtn.cashkingmobile&hl=en&gl=us'
+  },
+  {
+    title: 'Match Masters - Online PVP Match 3 Puzzle Game',
+    installs: 2405983,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/2zYVRORLe-257NamnHrD9jExTwTLWDMhszd0C4oTBFvkNyy7cjD0Wd0RbggroHpJpg',
+    appId: 'com.funtomic.matchmasters',
+    url: 'https://play.google.com/store/apps/details?id=com.funtomic.matchmasters&hl=en&gl=us'
+  },
+  {
+    title: 'Mergical',
+    installs: 1720189,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/GEOg4ug3bmHPL__B5kGbynboxb7IGtvb9NtdICer5sztkQ0UObarX-0c1C93_oQLEEk',
+    appId: 'com.fotoable.mergetown',
+    url: 'https://play.google.com/store/apps/details?id=com.fotoable.mergetown&hl=en&gl=us'
+  },
+  {
+    title: 'Big Farm: Mobile Harvest – Free Farming Game',
+    installs: 18790265,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/xtScsG-iqF64GsrZVIZ6Hu3SWQJzqiAzXDfSmQA3SqCjydpCOWSz3H-E_2WI4OqHxk0',
+    appId: 'com.goodgamestudios.bigfarmmobileharvest',
+    url: 'https://play.google.com/store/apps/details?id=com.goodgamestudios.bigfarmmobileharvest&hl=en&gl=us'
+  },
+  {
+    title: 'My Cafe — Restaurant game',
+    installs: 67465609,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ZxIt18JjxGvo9CPNFvoTN0NtLnWV_4g40xnCJmWyiYVHKs7IwkmtpkgKRVTavHsyUlU',
+    appId: 'com.melesta.coffeeshop',
+    url: 'https://play.google.com/store/apps/details?id=com.melesta.coffeeshop&hl=en&gl=us'
+  },
+  {
+    title: 'Wildscapes',
+    installs: 16096913,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Qj7eh1o_9EtYTD8hGEbd8sw4ezK2cSUslMjZGcz9blY3aaWP0X_YVIRFxIJPHNSlOhs',
+    appId: 'com.playrix.zoo_m3.gplay',
+    url: 'https://play.google.com/store/apps/details?id=com.playrix.zoo_m3.gplay&hl=en&gl=us'
+  },
+  {
+    title: 'Family Farm Seaside',
+    installs: 76975703,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/NOm5nhqI7T5IT_4hct96i_gdU1sp4z_WXgtBb6SIdDJXN29AoDiJa0iKcOEZsVjpU1Y',
+    appId: 'com.funplus.familyfarm',
+    url: 'https://play.google.com/store/apps/details?id=com.funplus.familyfarm&hl=en&gl=us'
+  },
+  {
+    title: 'Best Fiends Stars - Free Puzzle Game',
+    installs: 4055690,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/F9e9256VUxnIXbYXtnRYOtmEm09XUaEqFhec9CLck8fK6EJcy81YtIeq50HN-ekagd8',
+    appId: 'com.Seriously.Phoenix',
+    url: 'https://play.google.com/store/apps/details?id=com.Seriously.Phoenix&hl=en&gl=us'
+  },
+  {
+    title: 'Party in my Dorm: College Life Roleplay Chat Game',
+    installs: 9877212,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Rh8TO-QHeeQ2KBtnJPqNw4d7Ikvd3BuZEFixF4yQIhf1TgklxgJ-6JbY0NT_G30U4bE',
+    appId: 'ata.squid.pimd',
+    url: 'https://play.google.com/store/apps/details?id=ata.squid.pimd&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter',
+    installs: 277097092,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/iFIfwMEwS8dNKynf6vVS0qwPxUquWv7xapqLDzmg3jzdC8uravKzsb8X5PbDDtMrRfo',
+    appId: 'bubbleshooter.orig',
+    url: 'https://play.google.com/store/apps/details?id=bubbleshooter.orig&hl=en&gl=us'
+  },
+  {
+    title: "Townest: Alfred's Adventure",
+    installs: 778673,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/6Ir34VhjBUzjlQx9amGVvB976SI0OV83Hf1iuf3yo8_w7HAWyimHV98Tbq6RMwXnFnE',
+    appId: 'com.fotoable.townest',
+    url: 'https://play.google.com/store/apps/details?id=com.fotoable.townest&hl=en&gl=us'
+  },
+  {
+    title: 'My Home - Design Dreams',
+    installs: 95052793,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/BfDy6sTxBjuEf4SRlR8zXlYqaiZ14bnyMd0PA9FKIClhP_NW7zasrm3MAKGRZU9rChyC',
+    appId: 'com.spacegame.homedesign',
+    url: 'https://play.google.com/store/apps/details?id=com.spacegame.homedesign&hl=en&gl=us'
+  },
+  {
+    title: 'Piggy GO - Clash of Coin',
+    installs: 3802371,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/gi554VYCHjrt14czH7vnL-PsGUuy6WXRwNtjkPMoBy9N4Am9S7KezeWYTbNUxdmI7vrd',
+    appId: 'com.aladinfun.piggytravel.android',
+    url: 'https://play.google.com/store/apps/details?id=com.aladinfun.piggytravel.android&hl=en&gl=us'
+  },
+  {
+    title: 'Vineyard Valley: Match & Blast Puzzle Design Game',
+    installs: 3586316,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/2LUwhd8vDMn1yS86iXZzEUObaYQYYU2F4Y8Uv-A5_nqu_nWkOtdlPH8IQo1n9LOwOMo',
+    appId: 'com.jamcity.superchef',
+    url: 'https://play.google.com/store/apps/details?id=com.jamcity.superchef&hl=en&gl=us'
+  },
+  {
+    title: 'Cat Game - The Cats Collector!',
+    installs: 3553269,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/3mFD-FM7pZrSkwL6CxdtTJPP8ETSaJ-obOXndkcJ3hbFSAOZHARJ0Wc1GnXZS9Lv92s',
+    appId: 'com.minogames.cats.client',
+    url: 'https://play.google.com/store/apps/details?id=com.minogames.cats.client&hl=en&gl=us'
+  },
+  {
+    title: 'Harvest Land: Farm & City Building',
+    installs: 15698830,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/zm7OuRYkQmCaD1_Om1ZUNScGbiIqtK_i1T9KGrd1yP0MhbYSJk6ralGM821TwYT1CY4',
+    appId: 'com.evogames.slavsforvk',
+    url: 'https://play.google.com/store/apps/details?id=com.evogames.slavsforvk&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Witch 2 Saga',
+    installs: 119760471,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/A9aelFQv4TeMBVP8knlb3pj-P_lrnb11SAKLwRLMN8lQk1-M63gwDcIy677_zNR3R60',
+    appId: 'com.midasplayer.apps.bubblewitchsaga2',
+    url: 'https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitchsaga2&hl=en&gl=us'
+  },
+  {
+    title: 'Lost Island - An Epic Match Puzzle & Tile Merge',
+    installs: 14680761,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/30uj2YgADvdz7thHQHZwevlrAjpo035fO4CL8yibOpAyulwgUdbG7KlhRJtQv59sSQ',
+    appId: 'com.plarium.blast',
+    url: 'https://play.google.com/store/apps/details?id=com.plarium.blast&hl=en&gl=us'
+  },
+  {
+    title: 'Farm Heroes Super Saga',
+    installs: 47008912,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/eCKYAU4Qz0siBlxbrjuFybPlna2kbgJ5jlCv8W-vk5s_ve4oa4S_wf3fOS_DXda03wFZ',
+    appId: 'com.king.farmheroessupersaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.farmheroessupersaga&hl=en&gl=us'
+  },
+  {
+    title: "Wonka's World of Candy – Match 3",
+    installs: 2851403,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Q5FB2maC3hHRTy5uDzeMOS842b-EAJxKxM6PF-b1VvTYaWf9lF5xKGMnURPJEC5grqA',
+    appId: 'com.zynga.wonkamatch',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.wonkamatch&hl=en&gl=us'
+  },
+  {
+    title: 'Dice Dreams™️',
+    installs: 747632,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Ech1i4_LmmMVTE-nLt70JsZQlbO_n6klxdq9bwnhorAPDLK21Z2RXkgpoyYg5GVzKEDf',
+    appId: 'com.superplaystudios.dicedreams',
+    url: 'https://play.google.com/store/apps/details?id=com.superplaystudios.dicedreams&hl=en&gl=us'
+  },
+  {
+    title: 'Atlantis Adventure',
+    installs: 280122,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ZoujmzDAUeP8K3G9qlL3pHMPDc8p8rcyAfh9jtfYA1jfjRdo_sgf-JgCrgW32sZLGPxn',
+    appId: 'com.dyhd.game.rcg01.oneinthree',
+    url: 'https://play.google.com/store/apps/details?id=com.dyhd.game.rcg01.oneinthree&hl=en&gl=us'
+  },
+  {
+    title: 'Plants vs. Zombies™ 2 Free',
+    installs: 19477382,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/10axL9ZMum2LZmCsVutZwvwfx0bkYhB-G7c12Qvl1xDexMYxcqwILCYNgnzzcSDbLrAw',
+    appId: 'com.ea.game.pvz2_na',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na&hl=en&gl=us'
+  },
+  {
+    title: 'Tuscany Villa',
+    installs: 2255564,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/sD1hP6K0P1P9YMhZruodflaNXYqpUEC4A3NmswzdY6MwyY-CHAFgc7FpIBg_XjbCNcM',
+    appId: 'com.generagames.toscana.hotel',
+    url: 'https://play.google.com/store/apps/details?id=com.generagames.toscana.hotel&hl=en&gl=us'
+  },
+  {
+    title: 'The Simpsons™: Tapped Out',
+    installs: 17554106,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/5cSHZ76rHxKPrKl9ArGsHz2mwLbFOtnsC9ybY-nHiZ82lLFcm_A6eQdLV8XiAoAKTew',
+    appId: 'com.ea.game.simpsons4_na',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na&hl=en&gl=us'
+  },
+  {
+    title: 'Viva Slots Vegas™ Free Slot Jackpot Casino Games',
+    installs: 4346207,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/XEudRJf1yONG_HqcncXrL0R0VvqIFBdCZ363z-4tl69fZojwhcd9z9r4FQvz3dzdjLY',
+    appId: 'com.RocketGames.ClassicSlots',
+    url: 'https://play.google.com/store/apps/details?id=com.RocketGames.ClassicSlots&hl=en&gl=us'
+  },
+  {
+    title: 'Violas Quest - Marble Blast',
+    installs: 763116,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/502FwJOIEPA3oNHw6PfYOQBTsOGwXbHG-prjOK1dqHA54nATJvY-RNp7JA_xU9XlCA',
+    appId: 'com.twodesperados.violasquest',
+    url: 'https://play.google.com/store/apps/details?id=com.twodesperados.violasquest&hl=en&gl=us'
+  },
+  {
+    title: 'Blossom Blast Saga',
+    installs: 59706467,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/_rRsidWlPPfMk8ObFcphrtAJH9O73Hcywc_u3gsLzX6Jj0SOzDK-hgUsHvH3GfXsEPk',
+    appId: 'com.king.blossomblast',
+    url: 'https://play.google.com/store/apps/details?id=com.king.blossomblast&hl=en&gl=us'
+  },
+  {
+    title: 'SpongeBob: Krusty Cook-Off',
+    installs: 20238899,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/1kmyAQyvzGm5uyX16XeFXfSNiIMms3GMkCjU_3m9latrHZqGsblrMnkMrd3jOfX8GQ',
+    appId: 'com.tiltingpoint.spongebob',
+    url: 'https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Dash',
+    installs: 20612056,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/0mCnWLGtkjXh6-yqxcc3U55Zw1jXJ-IzSxBYMlrd_YfI-yEVDIqh_IMYJ1Aohl7DVIi0',
+    appId: 'com.playfirst.cookingdashx',
+    url: 'https://play.google.com/store/apps/details?id=com.playfirst.cookingdashx&hl=en&gl=us'
+  },
+  {
+    title: 'Virtual Families 3',
+    installs: 137964,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/FsAZP69qdhHE1skue97eaiQ_k2g6byMIUV9ntfWpKKV9Nay5K6on65RXAgNDFGTCsA',
+    appId: 'com.ldw.vf3',
+    url: 'https://play.google.com/store/apps/details?id=com.ldw.vf3&hl=en&gl=us'
+  },
+  {
+    title: 'Horse Haven World Adventures',
+    installs: 9352907,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/BAWz1kFfh-85PnOKoaulJbducE1Vqjbhhf38axFUaDaXuxapBTNLskAXGX4IhE5h0jiS',
+    appId: 'com.ubisoft.horsehaven.adventures',
+    url: 'https://play.google.com/store/apps/details?id=com.ubisoft.horsehaven.adventures&hl=en&gl=us'
+  },
+  {
+    title: 'BTS WORLD',
+    installs: 8590336,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/NTmvsKXWw-JkNC49_rniv8Rhk0nrTBHLUoiiehFoBCdVaghXebAWcXGZoKTcog7_r1U',
+    appId: 'com.netmarble.btsw',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.btsw&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds POP Bubble Shooter',
+    installs: 27389725,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/0Ptnx_i-rmTK8FauDgE5Z39DC78GMdkfUuIRy5DxEXP3iSRv7V6rpG0RVKZVWMg7mg',
+    appId: 'com.rovio.ABstellapop',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.ABstellapop&hl=en&gl=us'
+  },
+  {
+    title: 'Diamond Diaries Saga',
+    installs: 6396636,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/FeffX8QAy1rJaptbBo60XcBELgNqSyuskVV7yuPoKtdBPT7Zk8ZualiqCKG6caQK6tpW',
+    appId: 'com.king.diamonddiariessaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.diamonddiariessaga&hl=en&gl=us'
+  },
+  {
+    title: 'Star Girl Fashion❤CocoPPa Play',
+    installs: 5751465,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/HzpmLaT6VwPC1szduSAmwnwvOZ6Bd4G9uqAhRy_ePbZA7HKCGfHlfToRsBiI7p6oxQA',
+    appId: 'com.unitedfun.prod.apollo',
+    url: 'https://play.google.com/store/apps/details?id=com.unitedfun.prod.apollo&hl=en&gl=us'
+  },
+  {
+    title: 'Box Office Tycoon',
+    installs: 1374934,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/KEuBPZ8FnFdXTwMILWD32frkAcvY4ED7NsWeRtzyCu4TuV2rDoXqHAybHDjCOuHrg1JO',
+    appId: 'com.hotheadgames.android.free.hydrostone',
+    url: 'https://play.google.com/store/apps/details?id=com.hotheadgames.android.free.hydrostone&hl=en&gl=us'
+  },
+  {
+    title: 'RESTAURANT DASH: GORDON RAMSAY',
+    installs: 8662588,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/bD2DNNUuyX7Co54AgvrJByzhoN_hOm0aTVdSiFnGYgl1LSirBKa_L4c-ZIMzv8sFJCY',
+    appId: 'com.glu.gordondashx',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.gordondashx&hl=en&gl=us'
+  },
+  {
+    title: 'Castle Story: Puzzle & Choice',
+    installs: 5962294,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/O4PiCjDEJLXu13Pb62xSuls-lcH3tyoQyvgZjz2NatcTw7GkQhYZzAfR7qUVJw1dv74',
+    appId: 'com.playinfinity.game.castlestory',
+    url: 'https://play.google.com/store/apps/details?id=com.playinfinity.game.castlestory&hl=en&gl=us'
+  },
+  {
+    title: 'Horse Riding Tales - Ride With Friends',
+    installs: 9628423,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/KjKn8x4_8lWhLwbbXmP8qnNwIPyoUwCryxtaXmq-cR4EAkxSNn9FIpvBswH0x0cH3g',
+    appId: 'com.FoxieGames.HorseRidingTales',
+    url: 'https://play.google.com/store/apps/details?id=com.FoxieGames.HorseRidingTales&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter',
+    installs: 6172623,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/qvIxi99D5eNn3G3Shr1QSUKFes4REbZ6ZIFEXmh5VerHRr3Cp0Y5Q9gtQq9jr0vn600',
+    appId: 'linkdesks.pop.bubblegames.bubbleshooter',
+    url: 'https://play.google.com/store/apps/details?id=linkdesks.pop.bubblegames.bubbleshooter&hl=en&gl=us'
+  },
+  {
+    title: 'verydice',
+    installs: 2763634,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/DZukfbW5KDqm35orQoGumZZnAuriSQQVqvhWBbzqBkD-01a5ddHFS1SIz2Y26P4kCuEM',
+    appId: 'com.verydice',
+    url: 'https://play.google.com/store/apps/details?id=com.verydice&hl=en&gl=us'
+  },
+  {
+    title: 'Piggy Boom',
+    installs: 5825118,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/zPmhPfk7YrfVg-q_HTBQMVOIH4YW8P-ko3Y3iQjxIAGgb42FLw1zvc-cMIdcS8CJCf3F',
+    appId: 'com.rafotech.piggyboom',
+    url: 'https://play.google.com/store/apps/details?id=com.rafotech.piggyboom&hl=en&gl=us'
+  },
+  {
+    title: 'Jungle Marble Blast',
+    installs: 41407714,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/jtmCczJAsS4XV_ylcetwbDCgnQpb_hmp3QRp1arr96HzPQ2AXJr6F70wU5sf0qe7sA',
+    appId: 'com.cooyostudio.marble.blast',
+    url: 'https://play.google.com/store/apps/details?id=com.cooyostudio.marble.blast&hl=en&gl=us'
+  },
+  {
+    title: 'Bella Villa',
+    installs: 359542,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/cQZkH05Ok3V3tjbe00IIHbUeJYvO8RWPIiAY82qYh0DYwY_iMyBZmFUPWON6B7flcmGh',
+    appId: 'com.matchrella.bellavilla',
+    url: 'https://play.google.com/store/apps/details?id=com.matchrella.bellavilla&hl=en&gl=us'
+  },
+  {
+    title: 'Chain Cube: 2048 3D merge game',
+    installs: 2101255,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/8dCRIqBUL92gPJTkKJIjMtr_fVK1msVJaoTBuDeewJkg6qRUeQ4B1oFJQfuWU0D0KrjG',
+    appId: 'com.colobolo.chainball',
+    url: 'https://play.google.com/store/apps/details?id=com.colobolo.chainball&hl=en&gl=us'
+  },
+  {
+    title: 'MY LITTLE PONY: Magic Princess',
+    installs: 69293631,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/sucBGZ8Q7E_t_zXVXPEOuXJ4P1sXAD8VQt-8EXKzmVIH-ez2iT68nk3Q53w7u-FhmNQ',
+    appId: 'com.gameloft.android.ANMP.GloftPOHM',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM&hl=en&gl=us'
+  },
+  {
+    title: 'Diamond Digger Saga',
+    installs: 47911288,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ICPDG_wqr0JOJkKlnp-kTTh8Oc0ujCE1HbIYsOT5BS5BrTH9xz8qWB9QxESWOdiubg',
+    appId: 'com.midasplayer.apps.diamonddiggersaga',
+    url: 'https://play.google.com/store/apps/details?id=com.midasplayer.apps.diamonddiggersaga&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter Genies',
+    installs: 40285958,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/bo0f64TErpifdHh4mMkMp96abZoMYgmkCCDRC-M-ze23Z8dniB7kGPE8ivRmk0VwCvo',
+    appId: 'com.linkdesks.bubblegames.bubbleshooter',
+    url: 'https://play.google.com/store/apps/details?id=com.linkdesks.bubblegames.bubbleshooter&hl=en&gl=us'
+  },
+  {
+    title: 'Decurse - Use Magic to Create a Farm Empire',
+    installs: 1610697,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/YSq_kQWVfy_wgKITM1Ry4sM-8aV6snCb-FYl--XS-5o5MXeKWjiEynYE7y8LxR3rwAg',
+    appId: 'com.bigfishgames.tidaltowngooglef2p',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.tidaltowngooglef2p&hl=en&gl=us'
+  },
+  {
+    title: 'My Restaurant Empire - 3D Decorating Cooking Game',
+    installs: 958459,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Pic8hEeJiDZqQEZXB5xIKKGKpLY9VqV_Az9nuIJJvmgTPcjsytByma7Cq8K3O7l_1TcU',
+    appId: 'com.ministone.game.restaurantscapes',
+    url: 'https://play.google.com/store/apps/details?id=com.ministone.game.restaurantscapes&hl=en&gl=us'
+  },
+  {
+    title: 'My Talking Tom 2',
+    installs: 336696180,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/j1Ndw7SN-2zI9YXKT9rzM4j32b24FlTBDKdmHhdIAvR3jSyS1y6xOmfB5aC5NhSE6_s',
+    appId: 'com.outfit7.mytalkingtom2',
+    url: 'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en&gl=us'
+  },
+  {
+    title: 'Royal Farm',
+    installs: 2538051,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/DI3vkSFBpzmhfOx6MGiwfZeSfbBrge26J3lPlAYAhjikxZ9kFnZWI0r-_M1Lj1JcN_k',
+    appId: 'com.ugo.play.free.farm.valley',
+    url: 'https://play.google.com/store/apps/details?id=com.ugo.play.free.farm.valley&hl=en&gl=us'
+  },
+  {
+    title: 'Smash Island-Be the Island King',
+    installs: 1993732,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/F0nlnSsyhoE7ju9PRcks4w0iGLTvSuFbwBde3qFdORujQooeWIVQLLvNBboWugeMZA',
+    appId: 'com.aladinfun.island.android',
+    url: 'https://play.google.com/store/apps/details?id=com.aladinfun.island.android&hl=en&gl=us'
+  },
+  {
+    title: 'Upland - A Virtual Property Trading Game',
+    installs: 48011,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/5cHpg5QAhRChf2xvmqzve0D--xnDnUF0mV580Y_VM0rLpil-R65k8x3MuM1zCyoYqw',
+    appId: 'com.upland.app',
+    url: 'https://play.google.com/store/apps/details?id=com.upland.app&hl=en&gl=us'
+  },
+  {
+    title: 'Bakery Story™',
+    installs: 31233028,
+    genre: 'GAME_CASUAL',
+    icon: 'https://play-lh.googleusercontent.com/8Hw6mStYH7x-ssPnV89mZbjVGnV3HJVSZ16CRcfMb3jtNtFvJAzgu8_RcQDEavKZccTv',
+    appId: 'com.teamlava.bakerystory',
+    url: 'https://play.google.com/store/apps/details?id=com.teamlava.bakerystory&hl=en&gl=us'
+  },
+  {
+    title: 'Toy Story Drop!',
+    installs: 5808610,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/u8hmeTNu3d6Ic3u1s3BlkVGmkp7H8IfQXPRZmNhq_rKji94qcCnl5XU_Tr41-LojeMM',
+    appId: 'com.bigfishgames.toystorydropgoog',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.toystorydropgoog&hl=en&gl=us'
+  },
+  {
+    title: 'Golden Farm : Idle Farming & Adventure Game',
+    installs: 7625786,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/6mRdIju0rVTq2m2CHvOPYRv7v1nkBv-HxofK1XpxEAPOHtt5HXKT7LByZTwnwP58XFo',
+    appId: 'ru.playme8.dachniki',
+    url: 'https://play.google.com/store/apps/details?id=ru.playme8.dachniki&hl=en&gl=us'
+  },
+  {
+    title: 'Crush Crush',
+    installs: 634866,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/O_0IC0izMDfbSZ-lykPMzmPr9K-gEyxcTUhdGDf_siStA-2F8CWJPKO9W2jKxVvDwqQ',
+    appId: 'com.sadpanda.mobile.crushcrush.google',
+    url: 'https://play.google.com/store/apps/details?id=com.sadpanda.mobile.crushcrush.google&hl=en&gl=us'
+  },
+  {
+    title: 'Paradise Island 2: Hotel Game',
+    installs: 7354586,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/foNz9YvpTSRF-paWqxGSpukUm5WAy6Mzxy3w-uvwUQ-2BUXO8VjdEz7Ofnb5MV2v8F_F',
+    appId: 'com.gameinsight.gplay.island2',
+    url: 'https://play.google.com/store/apps/details?id=com.gameinsight.gplay.island2&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Arks: Build at Sea',
+    installs: 14539183,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/qAqSURfDXlQT-XUnwAyaYOX1ml9awzTSPAlqc9yD-DAMQRJOiiF5dekacvzQCWDApog',
+    appId: 'com.xtt.iasurv2',
+    url: 'https://play.google.com/store/apps/details?id=com.xtt.iasurv2&hl=en&gl=us'
+  },
+  {
+    title: 'Hotel Blast',
+    installs: 3517577,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/rSlo-2Tnfr7JG-rbLttiECY1SLg_DhrTvv9q84jjjSvEKD1dAnRI6UeseYRB2MWZICg',
+    appId: 'com.whaleapp.hotelblast',
+    url: 'https://play.google.com/store/apps/details?id=com.whaleapp.hotelblast&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Crush™ - Jewels & Gems Match 3 Legend',
+    installs: 12978476,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/7lWUUJNFD9PvD6EWHh3odQ8Az_NURIqyqbKtXuwjq0lhGp9Gw-AtTA9ErWg6NHI9JIk',
+    appId: 'com.lyoomatch.jewelscrush.princessadventure',
+    url: 'https://play.google.com/store/apps/details?id=com.lyoomatch.jewelscrush.princessadventure&hl=en&gl=us'
+  },
+  {
+    title: 'Castle Story™',
+    installs: 3372524,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/lyV-90-qsLls3YFcxK6SkXHDTFOgVVh6UNc-pUaFHwuyx49c9Ed61Uo0_BrXOfjy_uE',
+    appId: 'com.teamlava.castlestory',
+    url: 'https://play.google.com/store/apps/details?id=com.teamlava.castlestory&hl=en&gl=us'
+  },
+  {
+    title: 'Plants vs. Zombies™ Heroes',
+    installs: 35915796,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/3LwyZ3NidtGEixfOyqBP0HZDuF1J2WBdzDixxxYgk7sNl3FIGaveVjzaQidzBOtzEA',
+    appId: 'com.ea.gp.pvzheroes',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.gp.pvzheroes&hl=en&gl=us'
+  },
+  {
+    title: 'Papa Pear Saga',
+    installs: 55278465,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/_iiCaCYwptQErWCnoPsuJ6K6bSCsoAu9pihRqDrM7LTmUYxBFlis0S9xCmAPT2bZn0o',
+    appId: 'com.midasplayer.apps.papapearsaga',
+    url: 'https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga&hl=en&gl=us'
+  },
+  {
+    title: 'Minion Rush: Despicable Me Official Game',
+    installs: 474082083,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/NHE-zsGu_Gh_7fF9u2owPQKrXvEI0oU6wQCnbTDp20vrggqyMiuAgEtoRwRMf3TJ499C',
+    appId: 'com.gameloft.android.ANMP.GloftDMHM',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM&hl=en&gl=us'
+  },
+  {
+    title: 'Digital Linkz',
+    installs: 87788,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/pXltm34maTk1nrHTfgiAHmFLOnqY0zQ5X163vAXHj61Z1aOm2zTT6ns79FfJQ09iYaU',
+    appId: 'com.dig.linkz.tal',
+    url: 'https://play.google.com/store/apps/details?id=com.dig.linkz.tal&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Home',
+    installs: 88211,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/alKbPk2TPnR4RhIIzEU4kECNKtUhawS9KfQRO_lmCGA_eEvRvKL7r-q6ibhxbD4tnMY',
+    appId: 'com.nutspower.mergegame',
+    url: 'https://play.google.com/store/apps/details?id=com.nutspower.mergegame&hl=en&gl=us'
+  },
+  {
+    title: 'Pet Rescue Puzzle Saga',
+    installs: 6917423,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/t9Jbf8mHSsi7imB-hbwBA17tEseXCdMwbgdXs8rWKg1cMrcLgWMtSRVeWpwnhKxCwNg',
+    appId: 'com.king.petrescuepatrolsaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.petrescuepatrolsaga&hl=en&gl=us'
+  },
+  {
+    title: 'Restaurant Story™',
+    installs: 34702431,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/f08Yg1NKrL7F20bjiskt9ULvzSi4GcShJ7k_mMsNXwen6hkqdTZRqqn3NQNCqLpeV3o',
+    appId: 'com.teamlava.restaurantstory',
+    url: 'https://play.google.com/store/apps/details?id=com.teamlava.restaurantstory&hl=en&gl=us'
+  },
+  {
+    title: 'Bunny adventures',
+    installs: 793,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ROIswTv1ev6iGvoHdY3s4IIUq9E_1WPBl_EkWtf8wZj5tvc9gqyCjBA4TSuWH0N8uVU',
+    appId: 'com.bunnyrat.bunnyadvert',
+    url: 'https://play.google.com/store/apps/details?id=com.bunnyrat.bunnyadvert&hl=en&gl=us'
+  },
+  {
+    title: 'My Talking Angela',
+    installs: 611705588,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/nKJNbFukcegLx8xo92XL75sEGXc0ob04fY-o9bUPiPrtFZHWGimCDCauvFx7Iwtap4_V',
+    appId: 'com.outfit7.mytalkingangelafree',
+    url: 'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter Legend',
+    installs: 52202842,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/S_NA5-GtazKLgzjN3VeTRC723MN6SnzMk703gLrhcfV_tN8RV-YCipVsmbVtl_oojho',
+    appId: 'com.linkdesks.iBubble',
+    url: 'https://play.google.com/store/apps/details?id=com.linkdesks.iBubble&hl=en&gl=us'
+  },
+  {
+    title: 'Judy Blast - Candy Pop Games',
+    installs: 1001865,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/MzpUYUwyyG6hHppFR_1ZQDS24A5hHjHLEprbs6RhFSRBh-LbWzMWOmEGCZ3l7UYl34o',
+    appId: 'com.sweet.candy.splash.judyblast.free',
+    url: 'https://play.google.com/store/apps/details?id=com.sweet.candy.splash.judyblast.free&hl=en&gl=us'
+  },
+  {
+    title: 'Love Island Matchmaker',
+    installs: 17098,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/8m_vo0QPEkeNP0ysBPneiG5ZxCum-2hjzo2Ac2hPWBpA_S5RLoOb2gdlH3QH7BzfPnQ',
+    appId: 'com.fuseboxgames.loveisland.match3.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.fuseboxgames.loveisland.match3.gp&hl=en&gl=us'
+  },
+  {
+    title: 'The Oregon Trail: Settler',
+    installs: 11523082,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/6at095UEaKvZ_JxsbE3kBP4OhDKMvYJNDiQagefCWpHEadU78RgRSWBk1skgSV_AEkw',
+    appId: 'com.gameloft.android.ANMP.GloftTOHM',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftTOHM&hl=en&gl=us'
+  },
+  {
+    title: 'Rodeo Stampede: Sky Zoo Safari',
+    installs: 37257561,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/wtDweOsixW1_8ed3kDZq0iXWj1PgJe-AxsscV7KehUGy7uVlSC8U4lxNuvISewC8dBE',
+    appId: 'com.yodo1.rodeo.safari',
+    url: 'https://play.google.com/store/apps/details?id=com.yodo1.rodeo.safari&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Courier Tycoon - 3D Business Manager',
+    installs: 3366683,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Dhlb9XioUkQk5Yiz4klpwfNWGC4dkfh44V5HC07Il7ctPAg_EUaEFos_1kMLf_2gZQ',
+    appId: 'com.centurygames.idlecourier',
+    url: 'https://play.google.com/store/apps/details?id=com.centurygames.idlecourier&hl=en&gl=us'
+  },
+  {
+    title: 'Kiss Kiss: Spin the Bottle for Chatting & Fun',
+    installs: 27065758,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/YoYWaiEAQvcqcmKMSgoAhNX-aUSr6Suo0fskbolHzagkCpu37UuSjNGeeFt64M3AqA',
+    appId: 'com.topface.kisskiss',
+    url: 'https://play.google.com/store/apps/details?id=com.topface.kisskiss&hl=en&gl=us'
+  },
+  {
+    title: 'Ohana Island: Blast flowers and build',
+    installs: 26923,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/TDcbImRFgDGGAEhT1eKhuCgeNvFL_SYG61rO7-od6DhUCAST_U7mo9j32n1UGWM_1tUh',
+    appId: 'com.ohana.flowers',
+    url: 'https://play.google.com/store/apps/details?id=com.ohana.flowers&hl=en&gl=us'
+  },
+  {
+    title: 'Dream Home Match ★ Renovate Mansion',
+    installs: 3375924,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/RyC2ShpyhSbgYyoxN4jbaSaxuievY6nlme-QjB6WPTlOFUiSrI5HNDsEiSJjxg4HkA',
+    appId: 'com.dreamhomematch.casual.free',
+    url: 'https://play.google.com/store/apps/details?id=com.dreamhomematch.casual.free&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Farm - Happy Ghost Village - Witch Mansion',
+    installs: 7329452,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/AS5EZXLUa8c-zxgH_yKHrksiOWOS6H-nLrToUb_d4E84B7wfPGzxNfgBII5s7af0oQ',
+    appId: 'com.foranj.monsterfarm',
+    url: 'https://play.google.com/store/apps/details?id=com.foranj.monsterfarm&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Crush: New Free Cooking Games Madness',
+    installs: 2311802,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Jkl2_Gs4P6HPzE6Kh1BQyBjKma10MZBQv3O-X32zpLff-6IMgEhpj-bOxpjB4K_1sw',
+    appId: 'com.fme.cooking.crush.food.games',
+    url: 'https://play.google.com/store/apps/details?id=com.fme.cooking.crush.food.games&hl=en&gl=us'
+  },
+  {
+    title: "Smurfs' Village",
+    installs: 30971210,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/iC5HV0avaZ3xnEwPUBUKjQsY5ASBb-l0QHKkf_bHBkzKkKqYNKbpFiXQUVlDqibHiAI',
+    appId: 'com.capcom.smurfsandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.capcom.smurfsandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Island Experiment',
+    installs: 15066184,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/CKmH5BIUe6ZbtvXc7X-VMGxvoqaxB79OM_12fDn6pEGKjXvdapqzgojC2Zb0tUJ1Qds',
+    appId: 'ru.crazybit.experiment',
+    url: 'https://play.google.com/store/apps/details?id=ru.crazybit.experiment&hl=en&gl=us'
+  },
+  {
+    title: 'Sea Merge! Fish Aquarium Game & Ocean Puzzle',
+    installs: 127051,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/pyhbEOBKwtIYcCRM-XYc3kgHZVQuMUdqS1maEaCTiyVBW6Eb3iYMUHGEtVQ0WZyz0Baj',
+    appId: 'com.rodan.fish',
+    url: 'https://play.google.com/store/apps/details?id=com.rodan.fish&hl=en&gl=us'
+  },
+  {
+    title: 'Cats & Magic: Dream Kingdom',
+    installs: 235107,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/JppKQzpQS4tfSHGrxhjyA53mqHcrhPmpO_cM72ClObPaEwCRC2z1-xvaqRJCksWMTjM',
+    appId: 'com.creativemobile.magic.cat.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.creativemobile.magic.cat.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'World Chef 🍰🍔🍝🍓',
+    installs: 21131746,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/l0I8GKkslWB67Vx2KLyVXeOv1YunnlG9VY2tUquZAq7sjsBDm20XeHav00GwHRzcfw',
+    appId: 'es.parrotgames.restaurantcity',
+    url: 'https://play.google.com/store/apps/details?id=es.parrotgames.restaurantcity&hl=en&gl=us'
+  },
+  {
+    title: "Heart's Medicine - Doctor's Oath - Hospital Drama",
+    installs: 5973365,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/L5uRYpd9jaWk-q7TaQVITCieA0bQPrj8eFcm9kL4sX31MoiHhFZrmztJTJFfq4c1xyse',
+    appId: 'com.gamehouse.hm4gp',
+    url: 'https://play.google.com/store/apps/details?id=com.gamehouse.hm4gp&hl=en&gl=us'
+  },
+  {
+    title: 'Food Truck Chef™ 🍕Cooking Games 🌮Delicious Diner',
+    installs: 27019420,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/HasSyU-1yGoPr-jdv1kD6WOtHu8aU6sM4T4Eo0TbkJVbrKqSUHjMmhm17NiRd1Pnnw',
+    appId: 'com.nukeboxstudios.foodtruckchef',
+    url: 'https://play.google.com/store/apps/details?id=com.nukeboxstudios.foodtruckchef&hl=en&gl=us'
+  },
+  {
+    title: 'Coin Beach',
+    installs: 1215128,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/0khgRaXx4NGUA9klrOM8sMEXIT-qS9aDKQwv3ym89IUujACqhTGiDurroTX8ZXndvT0',
+    appId: 'com.goldaxe.coinbeachi',
+    url: 'https://play.google.com/store/apps/details?id=com.goldaxe.coinbeachi&hl=en&gl=us'
+  },
+  {
+    title: 'Big Bonus Slots - Free Las Vegas Casino Slot Game',
+    installs: 1894167,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/oqp0FWVN2w-0maRxckt3bcNMqa3rABQO-pfB2KDwoIHhpd3NBJ2egYH7WDUneVVhbkjN',
+    appId: 'com.RocketGames.BigHitVegas',
+    url: 'https://play.google.com/store/apps/details?id=com.RocketGames.BigHitVegas&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Slayer',
+    installs: 154631,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/jMWAoIrA96b2oPCkxllf15zENOIJdv1_eqixmi0KtfxLlJRrpJKuFmDlwUdS-AYygg',
+    appId: 'com.pabloleban.IdleSlayer',
+    url: 'https://play.google.com/store/apps/details?id=com.pabloleban.IdleSlayer&hl=en&gl=us'
+  },
+  {
+    title: 'Virtual Families 2',
+    installs: 24593861,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/DFHlAL9L4C4CzPvAGRsk2vrYidxoNcCHCsh9jX-X3PE_ald7zDm5xI0crydPEeDwE5xM',
+    appId: 'com.ldw.virtualfamilies2',
+    url: 'https://play.google.com/store/apps/details?id=com.ldw.virtualfamilies2&hl=en&gl=us'
+  },
+  {
+    title: "War Wheels - Like a 1980's Tank Game",
+    installs: 204176,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/IOKvnF0rgFcus141dx9SdE_hEOG_n86tWbvBHzSkrux7A120wwJ_aHU_iY643U_oYIQ',
+    appId: 'com.war.wheels',
+    url: 'https://play.google.com/store/apps/details?id=com.war.wheels&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Master Life :Fever Chef Restaurant Cooking',
+    installs: 958372,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Q7BWWgmPJD9kOhebevfpTbzu1e1O3iOPJPe0baYdhWNwn4EhVzcV0Lbfh3vMsWbFbJ4',
+    appId: 'com.cooking.games.fever.girls.city.craze.chef.master.dream.family',
+    url: 'https://play.google.com/store/apps/details?id=com.cooking.games.fever.girls.city.craze.chef.master.dream.family&hl=en&gl=us'
+  },
+  {
+    title: 'Peggle Blast',
+    installs: 9293395,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/6qKWBJPGW4V8i4nT7sbKZrL66f1Oy6FxUnzs1P6G_Z9_Tfu-wVmyhyix0TWM5RvUcyo',
+    appId: 'com.ea.game.pegglex_row',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.pegglex_row&hl=en&gl=us'
+  },
+  {
+    title: 'Tasty Town - Cooking & Restaurant Game 🍔🍟',
+    installs: 3929405,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/2b1UUmHNj6-FxU51g8prAkmnNdLRWWXDILA_owZ0cM4S6DGXSRovQpUXH3jbodf90Qg',
+    appId: 'es.socialpoint.chefparadise',
+    url: 'https://play.google.com/store/apps/details?id=es.socialpoint.chefparadise&hl=en&gl=us'
+  },
+  {
+    title: 'Traffic Jam Cars Puzzle',
+    installs: 168700,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/nBSf784panywXKUkL4MuJFHtGVv8ppBtHsf3T7xmmjSKB7E6d8CBaqdrO41DrwW-ynk',
+    appId: 'com.gametamin.trafficjamcarspuzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.gametamin.trafficjamcarspuzzle&hl=en&gl=us'
+  },
+  {
+    title: 'My Talking Tom Friends',
+    installs: 131543044,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/hdoAZSg01No2pfqgyh1b6uXC0gcqCwh55Jtl7KrJjiTREcOdr-BYYXQ0tcIQOAgl9Xo',
+    appId: 'com.outfit7.mytalkingtomfriends',
+    url: 'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends&hl=en&gl=us'
+  },
+  {
+    title: 'Fairyland - merge everything in a magic world',
+    installs: 11770,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/zMhVapUANgjtZU-W91i4JI0Fg30L4q1NZUACoooG43cqF1V2H9W281IADL0i2P9q9l4',
+    appId: 'fairyland.merge.puzzle.magic.world',
+    url: 'https://play.google.com/store/apps/details?id=fairyland.merge.puzzle.magic.world&hl=en&gl=us'
+  },
+  {
+    title: 'Spin Voyage: raid coins, build and master attack!',
+    installs: 1384240,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/PxAoaNjl1WU0lA8Qb8z9aH63bwMPll1yUv4UcIUrIkqa3gD7f16-1A-lwN5qSEpzH0o',
+    appId: 'com.truepilots.spinvoyage',
+    url: 'https://play.google.com/store/apps/details?id=com.truepilots.spinvoyage&hl=en&gl=us'
+  },
+  {
+    title: 'Spin the Bottle: Kiss, Chat and Flirt',
+    installs: 6811889,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/hOi_j1Xk7iSDREiZOXy6P5F6ag39dACg-oGNzWhEKeVz0wj4lveYBRxNVw_tEsD0VGI',
+    appId: 'com.ciliz.spinthebottle',
+    url: 'https://play.google.com/store/apps/details?id=com.ciliz.spinthebottle&hl=en&gl=us'
+  },
+  {
+    title: 'Masters of Madness',
+    installs: 115594,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/diEPU2OlCOLACYpcD31sLlPD2yL_osNJpiGgC_P6gBVYbxsxBpFxQcA5cksEF0l6Lg',
+    appId: 'com.antiway.mastersofmadness',
+    url: 'https://play.google.com/store/apps/details?id=com.antiway.mastersofmadness&hl=en&gl=us'
+  },
+  {
+    title: 'LoveBox Mobile',
+    installs: 85914,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/-aKHyqOj1ZwgY2yJ_uhJLLmWGFY3TVG2PgL6fyiEV-7_4Xb7b-8CB95Nny_v01cEw68',
+    appId: 'com.chinesegamer.lbman',
+    url: 'https://play.google.com/store/apps/details?id=com.chinesegamer.lbman&hl=en&gl=us'
+  },
+  {
+    title: 'Farmdale: farming games & township with villagers',
+    installs: 6786260,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/pnTpPDDT3mOYBTkB5Dwib19fE9qv8w6i3lmZGOTLBDkJWoefTHc25rkI_X1hV0McWg',
+    appId: 'com.gamegarden.fd',
+    url: 'https://play.google.com/store/apps/details?id=com.gamegarden.fd&hl=en&gl=us'
+  },
+  {
+    title: 'ColorPlanet® Oil Painting Color by Number Free',
+    installs: 3650922,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/s2apERDiw_UhNZJKe-BzzdsQj8BvrwAKqYLL9sj-MWLjFNV8wGnOXyxMp4_u9WqUbEo',
+    appId: 'art.color.planet.oil.paint.canvas.number.free',
+    url: 'https://play.google.com/store/apps/details?id=art.color.planet.oil.paint.canvas.number.free&hl=en&gl=us'
+  },
+  {
+    title: 'Tag with Ryan',
+    installs: 12301134,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/wWfhpkfhOgGfOb98xNFfeVEd4j4tTPSIk_2OGRlSFiFGcVOPM8lxctL_GJT363tQGQ',
+    appId: 'com.WildWorks.RyansTag',
+    url: 'https://play.google.com/store/apps/details?id=com.WildWorks.RyansTag&hl=en&gl=us'
+  },
+  {
+    title: 'Cooking Dream: Crazy Chef Restaurant Cooking Games',
+    installs: 8422545,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/xhP4lKOms0Lh_6DDU5xU13hON4IqbSfkovDol42GVkHgU3YWthD3V5jyXAFVQkXLWs4',
+    appId: 'com.cooking.games.fever.food.city.craze.dream',
+    url: 'https://play.google.com/store/apps/details?id=com.cooking.games.fever.food.city.craze.dream&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Land - Free Merge and Match Puzzle Game',
+    installs: 389255,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/LAKGjOkUWgD-oaLv5v7EPnv9QPk9DnH-3kxJoBZ1pm7BR9MOo67Rbw5iUzSALjM7tq4',
+    appId: 'com.FMG.LandOfTheDragon',
+    url: 'https://play.google.com/store/apps/details?id=com.FMG.LandOfTheDragon&hl=en&gl=us'
+  },
+  {
+    title: 'Flutter: Starlight',
+    installs: 1454413,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Ry7Z-KElZ-Teg1urEwKLfcCKDO0AttwL9_v7nE5tlL3lHOPIKNizl68agJ5UoffOq60',
+    appId: 'com.runawayplay.starlight',
+    url: 'https://play.google.com/store/apps/details?id=com.runawayplay.starlight&hl=en&gl=us'
+  },
+  {
+    title: 'Star Chef™ : Cooking & Restaurant Game',
+    installs: 8803794,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/hhWYsEbF28kdeEe8Ih24-w1D-oz79L3yMvm4yR1dfZMDSJp2t4WrgEFn_nd0HOI7EQ',
+    appId: 'com.NNGames.starchef_android',
+    url: 'https://play.google.com/store/apps/details?id=com.NNGames.starchef_android&hl=en&gl=us'
+  },
+  {
+    title: 'Fashion Story™',
+    installs: 25924452,
+    genre: 'GAME_CASUAL',
+    icon: 'https://play-lh.googleusercontent.com/MEkFdMC1n1fnED405cd2OX4Nx3-kiTSABhVhCYMyBKNiHgCmy9QMLvH2p1HehcwLCA0',
+    appId: 'com.teamlava.fashionstory',
+    url: 'https://play.google.com/store/apps/details?id=com.teamlava.fashionstory&hl=en&gl=us'
+  },
+  {
+    title: 'Farm City : Farming & City Building',
+    installs: 6864701,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/xFpiuJW9lKioe0mt5lk5cJTn1cPDP6Uxjq0BL9IT5avX-yXiL3Jb6GvVh1fQTLgbmuhG',
+    appId: 'com.citybay.farming.citybuilding',
+    url: 'https://play.google.com/store/apps/details?id=com.citybay.farming.citybuilding&hl=en&gl=us'
+  },
+  {
+    title: "PewDiePie's Tuber Simulator",
+    installs: 24965920,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/4_VurE5VVphJ4tFrLVRpqt9IYXXqa1FsS5gXSDyeMN0UxAM7woex5B-W4dfxFpaYndQ',
+    appId: 'com.outerminds.tubular',
+    url: 'https://play.google.com/store/apps/details?id=com.outerminds.tubular&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Army Base',
+    installs: 7892273,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/396vSZKtWXGUWow4jyu27Gp-pEXz3YQnM6wZvnf1E7mzHEKhsYjf-bSnoqpzHWbWhw',
+    appId: 'com.neonplay.casualidlearmybase',
+    url: 'https://play.google.com/store/apps/details?id=com.neonplay.casualidlearmybase&hl=en&gl=us'
+  },
+  {
+    title: 'Chef Town: Cooking Simulation',
+    installs: 2720930,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/sZySqGS8JDt6n1RYGQxNryFl9tkA5N0wJdTCP0AgDrmbKUtjJ39T9YETCfK-ISG6XLbx',
+    appId: 'org.nanobit.cheftown',
+    url: 'https://play.google.com/store/apps/details?id=org.nanobit.cheftown&hl=en&gl=us'
+  },
+  {
+    title: 'Fish Mania',
+    installs: 4457793,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/E3STgX32_woBjj3ocznypnboUKEFquHLKMWflxwbzW5U_w01J-nFR_sqzEMzktWMffs',
+    appId: 'com.spacegame.fish',
+    url: 'https://play.google.com/store/apps/details?id=com.spacegame.fish&hl=en&gl=us'
+  },
+  {
+    title: 'Zen Koi 2',
+    installs: 4848344,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/MTwqCJ1S2G9sITbhHf9Jf9AZW7aA3x4ZKp5lM4g8UXQRAoNUF9GuBhgCfJ_aN_Eyz5w',
+    appId: 'com.landsharkgames.zenkoi2.android',
+    url: 'https://play.google.com/store/apps/details?id=com.landsharkgames.zenkoi2.android&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Hunter - Free Match 3 Games',
+    installs: 2148846,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ARnPtzu9oCy5Zmdb-hAMq7T_bWyCVtZEknBXkHTjPznX_AWyivtEDOk38XcfoGa7wgS_',
+    appId: 'com.phonemaster.jewelhunter',
+    url: 'https://play.google.com/store/apps/details?id=com.phonemaster.jewelhunter&hl=en&gl=us'
+  },
+  {
+    title: 'Flutter: Butterfly Sanctuary - Calming Nature Game',
+    installs: 1408078,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/R2Qc3KbgfbwTue62RRtNpgnyYTGtW7L_KiBjN1x-aQFNJfT1hi-B-MjocAtgUIFn8LRd',
+    appId: 'com.runawayplay.flutter',
+    url: 'https://play.google.com/store/apps/details?id=com.runawayplay.flutter&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Shooter',
+    installs: 3596937,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/lsmSN6YdkfqMzH693oER38ce8gB_9uSLtkepCg9rN6U2K8MvOaA5eWP-03Iz3Cb_jA',
+    appId: 'bubble.shooter.ot',
+    url: 'https://play.google.com/store/apps/details?id=bubble.shooter.ot&hl=en&gl=us'
+  },
+  {
+    title: '貓咪大戰爭',
+    installs: 3042798,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Xh68CuYLkubn6EIjbeWAO8AYOOFSHrxm1fwEfovU7NenpHB8XgxqUwaXx8yQ7Rckr_9I',
+    appId: 'jp.co.ponos.battlecatstw',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatstw&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Mystery - Match 3 Story Adventure',
+    installs: 794946,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/apN_cgbkLwdwJXdinUGwIw04cC35wj8eIzAhnA1LSXdxwNMhEHD2mJIw9m_bLcwzFg',
+    appId: 'com.ivy.jewel.mystery',
+    url: 'https://play.google.com/store/apps/details?id=com.ivy.jewel.mystery&hl=en&gl=us'
+  },
+  {
+    title: 'Mow Zombies',
+    installs: 4280034,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/DTOESWPh2zuntlEcFB5RrQV62FndGu1ScXESCcJFCSfv5XPjUVEFQ5tp60_PqLm-mYE',
+    appId: 'com.BlueShark.gp.MZombies',
+    url: 'https://play.google.com/store/apps/details?id=com.BlueShark.gp.MZombies&hl=en&gl=us'
+  },
+  {
+    title: "Let's Create! Pottery 2",
+    installs: 1561049,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/OVuc6MA1c96-9zvn_LRplcqIYTU8ntbE4U-_TqIkFL7Rcyq9AcC1NXFBDEtygQfiwfw',
+    appId: 'pl.idreams.pottery2',
+    url: 'https://play.google.com/store/apps/details?id=pl.idreams.pottery2&hl=en&gl=us'
+  },
+  {
+    title: 'YoWorld Mobile Companion App',
+    installs: 137769,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ljfs8VLZEAJOqOsxwaRtcZKoAHSKqhp9vdV8SWCXIi6HogcKcxGWA64KxfjcHyRtdDKr',
+    appId: 'com.bigvikinggames.YoMo',
+    url: 'https://play.google.com/store/apps/details?id=com.bigvikinggames.YoMo&hl=en&gl=us'
+  },
+  {
+    title: 'Lady Popular: Fashion Arena',
+    installs: 3078216,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/9qzzewOGKYFcR-FlfpE9-GjpQEa8RhLlwE_6DwL1aFBze-r_ABsENBwRP3-OkSYFjnI',
+    appId: 'bg.xssoftware.ladypopular.fashionarena',
+    url: 'https://play.google.com/store/apps/details?id=bg.xssoftware.ladypopular.fashionarena&hl=en&gl=us'
+  },
+  {
+    title: 'My Talking Tom',
+    installs: 849059057,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/THsBUzB2LFP5-cXkwMyW8n_2PjDH-4YHufiH-3qKvYtJEJMUOJ30dOiDJr2NRs7Wo2-r',
+    appId: 'com.outfit7.mytalkingtomfree',
+    url: 'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=en&gl=us'
+  },
+  {
+    title: 'Crazy Coin 💰- Spin Master',
+    installs: 612151,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/gaqVGMoZ5s6wwqsSd1KD5oU7BEw70sfGbSzQMWyVS-9Jn1UE3eAzC3MEmX37J7oaD9Q',
+    appId: 'com.superant.crazygod',
+    url: 'https://play.google.com/store/apps/details?id=com.superant.crazygod&hl=en&gl=us'
+  },
+  {
+    title: 'SLOTS! Deluxe Free Slots Casino Slot Machines',
+    installs: 1974550,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/olqdtrrU4WIuRGD36fwAkbt69VEiwzvH-0jhu00hYE8uvTZcCpS08_ZEPmHA15nG1zA',
+    appId: 'com.RocketGames.ClassicDeluxe',
+    url: 'https://play.google.com/store/apps/details?id=com.RocketGames.ClassicDeluxe&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Tap: Color by Number',
+    installs: 423738,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/RpDJ23us5d4GoUMI1cgv_I0VSK-t_88ZNx1vbBjte0wnBJ3pfWzNwpfmzM7swOiovQ',
+    appId: 'com.inertiasoftware.pixelworld',
+    url: 'https://play.google.com/store/apps/details?id=com.inertiasoftware.pixelworld&hl=en&gl=us'
+  },
+  {
+    title: 'AirConsole - Multiplayer Game Console',
+    installs: 6956640,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/510-5jRbV1bhBB4vQ3qic6DDKuj-UN8-4QQwhR0kY9qcSojFv5y0jlDJVfdYke7DV4s',
+    appId: 'com.airconsole.controller',
+    url: 'https://play.google.com/store/apps/details?id=com.airconsole.controller&hl=en&gl=us'
+  },
+  {
+    title: 'Cafe Panic: Cooking Restaurant',
+    installs: 8084838,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/FSn_FqcnpayNiAUVFJT8PTfomrm6b4O0wYoaOahRmGzgXPFG_RheeWR8Lmb7S861zcot',
+    appId: 'com.Boomware.CafePanic',
+    url: 'https://play.google.com/store/apps/details?id=com.Boomware.CafePanic&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Witch - Match 3 Puzzle Free Games',
+    installs: 9171493,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/J2puXypoHMsRoyIDcUzKhJtBPa6xhItouR9j75XY7HD22t-GorekwZ5b_cbrw7dA37Yf',
+    appId: 'com.game.candywitch.cookie.stars.free',
+    url: 'https://play.google.com/store/apps/details?id=com.game.candywitch.cookie.stars.free&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Heroes - World match 3 game!',
+    installs: 777291,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/qENg9lT2apJWygTL-ZXjdyPjRkDa8NUaibohMV6I8RlTzVfTgtsFPR7j4xNj7D97sEzZ',
+    appId: 'com.cleverapps.heroes',
+    url: 'https://play.google.com/store/apps/details?id=com.cleverapps.heroes&hl=en&gl=us'
+  },
+  {
+    title: "It's Literally Just Mowing",
+    installs: 2496784,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/JgL8cuGRTenLK-czqgEEEXl6sxLmAnhb4E2oFS61uOfXnL-tZWWHULHrnjM7v76Kp6U',
+    appId: 'com.protostar.mowing',
+    url: 'https://play.google.com/store/apps/details?id=com.protostar.mowing&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Egypt Tycoon',
+    installs: 332192,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/yPOddyk78Q8eViGz7kk8E0g1PSIimy3zTCPI9K6NQ6EHzdAOZOgBAO6bnLNQ05uP9g',
+    appId: 'com.neonplay.casualidleegypttycoon',
+    url: 'https://play.google.com/store/apps/details?id=com.neonplay.casualidleegypttycoon&hl=en&gl=us'
+  },
+  {
+    title: 'Cross-Stitch Masters',
+    installs: 1190366,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/7eRu5M_1LPhOXVNVzuz5JFeFQ5sgOEzQjdjsQin2pQ8vnap-uvYanKRHnU08x0hD1gQ',
+    appId: 'com.tapclap.crossstitch',
+    url: 'https://play.google.com/store/apps/details?id=com.tapclap.crossstitch&hl=en&gl=us'
+  },
+  {
+    title: 'Design My Home Makeover: Words of Dream House Game',
+    installs: 391203,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/fcnPPIRc8TFyH8YCVM7gzx_bIBAbE_PFn0TmZygwsYePQ6rU2nZ65nOdW8pd5C_7mQ',
+    appId: 'com.holycowstudio.design.my.home.makeover.word.life',
+    url: 'https://play.google.com/store/apps/details?id=com.holycowstudio.design.my.home.makeover.word.life&hl=en&gl=us'
+  },
+  {
+    title: 'Cake Jam Drop',
+    installs: 459458,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/M81r01h2WXVX6DLC2RIDQsRzJbNpg5VqMs-klT9TcTOmEnBmidx6cjqPSANBPcqU2w',
+    appId: 'com.cakejamdrop.casual.puzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.cakejamdrop.casual.puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'My Little Pony: Harmony Quest',
+    installs: 22181103,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/SafZJj7VCu5B4iRDBWEDZijuSj0yB4a8UWFPIKpG5B3Ap7CujkOpGfavgNtVZ5rHQw',
+    appId: 'com.budgestudios.MyLittlePonyHarmonyQuest',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.MyLittlePonyHarmonyQuest&hl=en&gl=us'
+  },
+  {
+    title: 'Jungle Marble Blast 2',
+    installs: 7023924,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/BU6x9CouNnFr0w7WWzyCiNhrthBhQwUZwcv93T4odHdSKOtPymh9T-NoWBqQ1SoHC5o',
+    appId: 'com.cooyostudio.marble.blast2',
+    url: 'https://play.google.com/store/apps/details?id=com.cooyostudio.marble.blast2&hl=en&gl=us'
+  },
+  {
+    title: 'Ball Sort Puzzle',
+    installs: 29012976,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/8c1fMmv4L607UfhRy4VWNoBZGo3l95f6C-6W7gBDILL1vummSSmLrnrWeStYIYUEzyQ',
+    appId: 'com.GMA.Ball.Sort.Puzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.GMA.Ball.Sort.Puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Midnight Castle: Hidden Object',
+    installs: 687873,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/r_GIzWag1bZk8r7qR4r__eDSR9-zGI-VPTzZh-KNQ78bW3lYQffSEs46BK-ri2poUUY',
+    appId: 'com.bigfishgames.mcgooglef2p',
+    url: 'https://play.google.com/store/apps/details?id=com.bigfishgames.mcgooglef2p&hl=en&gl=us'
+  },
+  {
+    title: 'Bubble Bird Rescue 2 - Shoot!',
+    installs: 2542736,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/t4Q1NbpSJMwIRdtw2l3FWmka7vbfYrSrN5KrU5GYuUamsFp5qsZdFIRTo4npHwCkP2A',
+    appId: 'com.ezjoynetwork.bubblebirdRescue2',
+    url: 'https://play.google.com/store/apps/details?id=com.ezjoynetwork.bubblebirdRescue2&hl=en&gl=us'
+  },
+  {
+    title: 'Bling Crush: Free Jewel & Gems Blast Match 3 Games',
+    installs: 1369216,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/dYy9CgI6zolkT2ZuIVbSTKRumJ4WByYZd7eqnsEXSGMbu1YFKK1haJkA6oKmztBy5WRI',
+    appId: 'bling.crush.match3.free.android',
+    url: 'https://play.google.com/store/apps/details?id=bling.crush.match3.free.android&hl=en&gl=us'
+  },
+  {
+    title: 'Shooting Range Sniper: Target Shooting Games Free',
+    installs: 1128107,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/XEfnMSFjJz0E8zLOlTkkkomoxMCdbqV59CgVTP7LKLmleTLSyOxS5XQa2sn1csO25hg',
+    appId: 'com.free.snipers.shooting.gun.shooters.games',
+    url: 'https://play.google.com/store/apps/details?id=com.free.snipers.shooting.gun.shooters.games&hl=en&gl=us'
+  },
+  {
+    title: 'Jewel Water World',
+    installs: 573506,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/G1_2ML1kU9P7zJ6UZv1ta-0DdHc9wZ6HftmVv6k3bIUt5ygcYmFAQgmGYA3TfbcoavM',
+    appId: 'com.v2r.waterworld.google',
+    url: 'https://play.google.com/store/apps/details?id=com.v2r.waterworld.google&hl=en&gl=us'
+  },
+  {
+    title: 'Make More! – Idle Manager',
+    installs: 30726762,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/bpWp1prxEgn2JQ7TUmYMvnhNZEiszGXP44QACbvWGDMI5A7qU3ulzvfhVpLgfYWokFor',
+    appId: 'com.fingersoft.makemore',
+    url: 'https://play.google.com/store/apps/details?id=com.fingersoft.makemore&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Lumberjack 3D',
+    installs: 11407272,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/vgh5Hqja9VcuBJ3FexfecrrHF8lD-lAsslRTkNGcq6Q092Jwyr0cJrbRxb-XxYjwy_U',
+    appId: 'by.hitbox.magicwoods',
+    url: 'https://play.google.com/store/apps/details?id=by.hitbox.magicwoods&hl=en&gl=us'
+  },
+  {
+    title: 'Garden Blast New 2020! Match 3 in a Row Games Free',
+    installs: 212215,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/nUGeSm4D73Xgr0Kq6Nj98AK9U-WJzncLidJTp-Wfn0YML1yVD3pruxBwQ4rSQdqZfA',
+    appId: 'com.skillgames.gardenblast',
+    url: 'https://play.google.com/store/apps/details?id=com.skillgames.gardenblast&hl=en&gl=us'
+  },
+  {
+    title: 'Chef Papa - Restaurant Story',
+    installs: 3830654,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/zdy1hStw6-wgNkgZ2SELVJ8ysonldeZGkndGH3OtbrxeLqmNdbfNWpIDjbeAFqwKu9o9',
+    appId: 'com.cookinggame.chef.restraunt',
+    url: 'https://play.google.com/store/apps/details?id=com.cookinggame.chef.restraunt&hl=en&gl=us'
+  },
+  {
+    title: 'Hell’s Cooking: crazy burger, kitchen fever tycoon',
+    installs: 4871331,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/IAO9yr6qyDI0W2YmglPAQHYjmId4a3ltMQ0WZwHJBlEMlpoebIAx5PELAC6tF6tNwKk',
+    appId: 'hells.cooking.crazy.chef.burger.kitchen.fever.food',
+    url: 'https://play.google.com/store/apps/details?id=hells.cooking.crazy.chef.burger.kitchen.fever.food&hl=en&gl=us'
+  },
+  {
+    title: 'Thomas & Friends Minis',
+    installs: 12921087,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/T1pTy3Far4qqTIG-tNZ5ZuHxymmSreJK8LQNS3jCc74NlQCe__HvnFZSrBTuXfLMoEE',
+    appId: 'com.budgestudios.googleplay.ThomasAndFriendsMinis',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.ThomasAndFriendsMinis&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Space Farmer - Waifu Manager Simulator',
+    installs: 712929,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/97DQC3PcI_j1I4IViwKwh0SWhiNNf_4nUZCgmBOFP3lIYOwGERV7CN0hScgNeRWlaQ',
+    appId: 'com.anxiousottergames.spacefarmer',
+    url: 'https://play.google.com/store/apps/details?id=com.anxiousottergames.spacefarmer&hl=en&gl=us'
+  },
+  {
+    title: 'Coin Tycoon',
+    installs: 47508,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/NRx4DfcUMjuwwxMtGyQchgrBl5I62N-E6bjuAUWl_OtFyDtnZWp52VluZ-GXgWv0-53T',
+    appId: 'com.linekong.idlecointycoon',
+    url: 'https://play.google.com/store/apps/details?id=com.linekong.idlecointycoon&hl=en&gl=us'
+  },
+  {
+    title: 'Little Big Snake',
+    installs: 10371833,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/cSE0hjQzDi5-EitIhsBCa6731tPBWS_-JGgTLNfTlv-BmDXV177DSZxGoYVqQmZQLA',
+    appId: 'air.com.littlebigsnake.littlebigsnake',
+    url: 'https://play.google.com/store/apps/details?id=air.com.littlebigsnake.littlebigsnake&hl=en&gl=us'
+  },
+  {
+    title: 'Ice Age Village',
+    installs: 71408859,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/ud0N4uqdZd9xKXn2_6q6kBvSb7VTEnXoBhr2Jxm1OrjcldP9rZ-pVYUUFZCQCBJ8mVRF',
+    appId: 'com.gameloft.android.ANMP.GloftIAHM',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftIAHM&hl=en&gl=us'
+  },
+  {
+    title: 'Minesweeper JAZZ',
+    installs: 25254,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/1wf-cipMkjPJvfFcK_VmIBoI0zIYrJHoXwRqxonjqXGZPqP-ycNU7-uQ3I_aj9khrA',
+    appId: 'com.gs.msjazz',
+    url: 'https://play.google.com/store/apps/details?id=com.gs.msjazz&hl=en&gl=us'
+  },
+  {
+    title: 'Good Pizza, Great Pizza',
+    installs: 68177399,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/iNe6bJRnmf-CDKsYL1NU_ahtnoHVD3-y-EZl-ZFn8lZ_o9HT8Kfqiw_itsogVseQFDg',
+    appId: 'com.tapblaze.pizzabusiness',
+    url: 'https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en&gl=us'
+  },
+  {
+    title: 'Tap Galaxy-Build your space world',
+    installs: 552151,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/q8ZoGAtQgloRfptLDvFeMx_jgSfNSBNGzAKRaIxyb8Lhj8Dj4IZpfIR1hIzn4UTokA',
+    appId: 'com.idle.tapgalaxy.tycoon',
+    url: 'https://play.google.com/store/apps/details?id=com.idle.tapgalaxy.tycoon&hl=en&gl=us'
+  },
+  {
+    title: 'Blast Fever - Tap to Crush & Blast Cubes',
+    installs: 512808,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Lw5EdpmqsPXR54w1pDsFBg5Lvhz0c7kPrybhF-vupV2dCGladF03nCXClABrpDltRwg',
+    appId: 'com.tapmatch.blastfever.free',
+    url: 'https://play.google.com/store/apps/details?id=com.tapmatch.blastfever.free&hl=en&gl=us'
+  },
+  {
+    title: 'Candy Craze 2020: Match 3 Games Free New No Wifi',
+    installs: 586600,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/Pb8WCedRT1V-QBN2xkaVHxGESbR5uTtPY0OlEU02NPb1prt4XRqvYBC6pcyLvYweI873',
+    appId: 'com.skillgames.JewelMatchJourney',
+    url: 'https://play.google.com/store/apps/details?id=com.skillgames.JewelMatchJourney&hl=en&gl=us'
+  },
+  {
+    title: 'Coin Kingdom',
+    installs: 1160855,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/2RJAkevh-e-XCxHUfAZvs4q_2I9AxOTTtXe8_Ft6BCYuA6GRNp5h-lJoZ8IVbEazqw',
+    appId: 'com.skyfox.coinkings',
+    url: 'https://play.google.com/store/apps/details?id=com.skyfox.coinkings&hl=en&gl=us'
+  },
+  {
+    title: 'Scrubby Dubby Saga',
+    installs: 11726113,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/TeckoSzs1eLSWDgSUH2Lo8M1Y6-Wjb-wmFIDqRIzZGSq1VU2uSL5paUmlv1DUUMBWaQ',
+    appId: 'com.king.scrubbydubbysaga',
+    url: 'https://play.google.com/store/apps/details?id=com.king.scrubbydubbysaga&hl=en&gl=us'
+  },
+  {
+    title: 'Cookie Amazing Crush 2020 - Free Match Blast',
+    installs: 3003471,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/TNrRXzlOkUlG_D9Ag49ODHv5uFhbKNE1orZogNdfeBh82Qv6v9-1dR8yhpft_Rtmpjx3',
+    appId: 'com.muji.sweet.candy.cookie',
+    url: 'https://play.google.com/store/apps/details?id=com.muji.sweet.candy.cookie&hl=en&gl=us'
+  },
+  {
+    title: 'My Little Pony Rainbow Runners',
+    installs: 22986055,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/qVRGcEtv9Y1ktNkmSTHqfaeiULb18NkCVs2M0WkIo0KA6R9GQo3q4626CLzedQBrUNE',
+    appId: 'com.budgestudios.googleplay.MyLittlePonyRainbowRunners',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.MyLittlePonyRainbowRunners&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Air Force Base',
+    installs: 1038578,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/FPpF_lRjYLHO6SLyybIUoPukhXb_JTflUY2mGSVAPEkXtW0iKR1C1UMmRaoRyvbsQ_0',
+    appId: 'com.neonplay.casualidleairforcebase',
+    url: 'https://play.google.com/store/apps/details?id=com.neonplay.casualidleairforcebase&hl=en&gl=us'
+  },
+  {
+    title: 'DDTank Mobile',
+    installs: 1978592,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/AYqXlyrKoLJaF56IsQaQtQ8wCtI7BGHI2THMeTwiY-D_XUJgBo9aP0zRHIJyzuYLdA',
+    appId: 'com.wan.ddten',
+    url: 'https://play.google.com/store/apps/details?id=com.wan.ddten&hl=en&gl=us'
+  },
+  {
+    title: 'My Little Pony Color By Magic',
+    installs: 2707115,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/YZ25JqNLXOTggKfyBoIIOYIDQVvrmRDSPQAxdt3oGNcJSoFQ2s_WRrkYEqwjk9CjcxI',
+    appId: 'com.budgestudios.googleplay.MyLittlePonyColoring',
+    url: 'https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.MyLittlePonyColoring&hl=en&gl=us'
+  },
+  {
+    title: 'Candy House Fever - 2020 free match game',
+    installs: 245562,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/gmA4pUqOjBT8PZ96JGd13-BO6ECeReKcgIv5aseuCuuR85D4TRg1xlK8ChUAlHFTHcc',
+    appId: 'com.candyhousefever.free',
+    url: 'https://play.google.com/store/apps/details?id=com.candyhousefever.free&hl=en&gl=us'
+  },
+  {
+    title: 'My Tamagotchi Forever',
+    installs: 5385408,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/n-mEiGoScsyG99W904YWPmsUcOy2DGh91WItHBI4nI6tLHM3vX7xJQXnVSYluDHPz21m',
+    appId: 'eu.bandainamcoent.mytamagotchiforever',
+    url: 'https://play.google.com/store/apps/details?id=eu.bandainamcoent.mytamagotchiforever&hl=en&gl=us'
+  },
+  {
+    title: 'Munchkin Match: Magic Home Building',
+    installs: 2737758,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/M1oMeKOSl2MYkL3QxQzuh9ACLjwDdaaNwThxAl15FNlvOmIoHNExXAwvmwYftQNW53c',
+    appId: 'com.microfun.munchkin',
+    url: 'https://play.google.com/store/apps/details?id=com.microfun.munchkin&hl=en&gl=us'
+  },
+  {
+    title: 'iCá - Bắn Cá ZingPlay VNG',
+    installs: 17773193,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/g5eL5mA82ajPQOeAMM1NWLirS1hNq4mfa8Rsh9WHDj6ecf0_c9xPYvBa01w5Hy5R6KQ',
+    appId: 'com.twincorp.bancaonline',
+    url: 'https://play.google.com/store/apps/details?id=com.twincorp.bancaonline&hl=en&gl=us'
+  },
+  {
+    title: 'Kitchen Scramble 2: World Cook',
+    installs: 1574723,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/oUi5bHzh7V7xW4E5_ooG8Ix1dFPwKW8tfqFzDXtNlTd1dEPTMIi-xthAddwtHn9RezY',
+    appId: 'com.popreach.kitchenscramble2',
+    url: 'https://play.google.com/store/apps/details?id=com.popreach.kitchenscramble2&hl=en&gl=us'
+  },
+  {
+    title: 'Happy Fish',
+    installs: 1710913,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/93QydHvwvMjl1uOODkaqarlfUFO48p67LdYlLR-SmZEe5ZPQr_h0_2HIzYGztAehUQ',
+    appId: 'com.happyelements.happyfishml',
+    url: 'https://play.google.com/store/apps/details?id=com.happyelements.happyfishml&hl=en&gl=us'
+  },
+  {
+    title: 'Solitaire Garden - TriPeaks Story',
+    installs: 1764211,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/VCHrEt9y334RWJyrP4B5alXWXyEBuptWAvkHlbRgCZe6kELGF0oq7pnhHbpmRQeOaA',
+    appId: 'com.solitaire.garden.tripeaks',
+    url: 'https://play.google.com/store/apps/details?id=com.solitaire.garden.tripeaks&hl=en&gl=us'
+  },
+  {
+    title: "Delicious - Emily's Road Trip",
+    installs: 677119,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/2XYotK7we5wU0lXqbzmouCmMWR2omTizQuVJDzJ9hWbkNK84Z-opOSP9eDhfqcxpV34h',
+    appId: 'com.gamehouse.delicious17',
+    url: 'https://play.google.com/store/apps/details?id=com.gamehouse.delicious17&hl=en&gl=us'
+  },
+  {
+    title: 'Farm Craft: Township & farming game',
+    installs: 209431,
+    genre: 'GAME_CASUAL',
+    icon: 'https://lh3.googleusercontent.com/bezB2fI6o6NlK8xL59Ub-GtRCL9wlU69gP4NiDyMENnT5SCFGctzF8h4_tdf16BryQ',
+    appId: 'air.com.fiftyfivepixels.cratercraft',
+    url: 'https://play.google.com/store/apps/details?id=air.com.fiftyfivepixels.cratercraft&hl=en&gl=us'
+  }
+]

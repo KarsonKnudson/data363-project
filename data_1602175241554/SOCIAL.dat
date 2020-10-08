@@ -1,0 +1,1594 @@
+[
+  {
+    title: 'BIGO LIVE–Live Stream, Live Video, Live Chat',
+    installs: 336578921,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/UMdj2u413EpQONRhwxEJrkDBSNCu78VwzPK6VkChFgwE9hzKMfoZoPLPisBckbtnSw',
+    appId: 'sg.bigo.live',
+    url: 'https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=us'
+  },
+  {
+    title: 'Facebook',
+    installs: 6030068516,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg',
+    appId: 'com.facebook.katana',
+    url: 'https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=us'
+  },
+  {
+    title: 'Tango - Live Video Broadcasts and Streaming Chats',
+    installs: 282099515,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/WDy0OxraYPwUSuFVIcHT7z7A8JZVgMI8_mFs_1NoAKhksoptjQ1e__o0scl_YN2Py6U',
+    appId: 'com.sgiggle.production',
+    url: 'https://play.google.com/store/apps/details?id=com.sgiggle.production&hl=en&gl=us'
+  },
+  {
+    title: 'TikTok - Trends Start Here',
+    installs: 1312650328,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA',
+    appId: 'com.zhiliaoapp.musically',
+    url: 'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=us'
+  },
+  {
+    title: 'MeetMe: Chat & Meet New People',
+    installs: 78257556,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/iCqsm7cH0HX2rNHu298w-dGKEYY4M5krj6yuy322nvY7cC0QG-A2V8aYJ6Euod5zT30',
+    appId: 'com.myyearbook.m',
+    url: 'https://play.google.com/store/apps/details?id=com.myyearbook.m&hl=en&gl=us'
+  },
+  {
+    title: 'Tagged - Meet, Chat & Dating',
+    installs: 41710075,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8',
+    appId: 'com.taggedapp',
+    url: 'https://play.google.com/store/apps/details?id=com.taggedapp&hl=en&gl=us'
+  },
+  {
+    title: 'Grindr - Gay chat',
+    installs: 35355256,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/8sTpBWyCCpQGdsrTu_NLRQLwt4zibVidrYeCcEWiVwGRHdhcnwIg_ZicU2XlD9UfxW4',
+    appId: 'com.grindrapp.android',
+    url: 'https://play.google.com/store/apps/details?id=com.grindrapp.android&hl=en&gl=us'
+  },
+  {
+    title: 'IMVU: Virtual Life! Style, Avatar 3D, social Chats',
+    installs: 25359282,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/mKfZrYk1y5u2oEgFOcA1H7wpgkqSAb60ioZ_e6JY2Yms869L5Lhpt8BdbuMi6nZHDRE',
+    appId: 'com.imvu.mobilecordova',
+    url: 'https://play.google.com/store/apps/details?id=com.imvu.mobilecordova&hl=en&gl=us'
+  },
+  {
+    title: 'SKOUT - Meet, Chat, Go Live',
+    installs: 70057180,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/j0kf7e-R8JVxwoh3nSzxGRTjaHd4GrtecgLGgKhQTkfBTA5xtGH4qnSjs6K0EYuk8G8S',
+    appId: 'com.skout.android',
+    url: 'https://play.google.com/store/apps/details?id=com.skout.android&hl=en&gl=us'
+  },
+  {
+    title: 'HAGO - Hangout Virtually: Game, Chat, Live',
+    installs: 215374404,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/z-1fFo5WMRgxSkHWX3JK2kk0LHnA_btGx4rzKfQmS3coBeUdzpjPJrO2AbBCW6-t4cM',
+    appId: 'com.yy.hiyo',
+    url: 'https://play.google.com/store/apps/details?id=com.yy.hiyo&hl=en&gl=us'
+  },
+  {
+    title: 'Joi - Video Chat',
+    installs: 2656937,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/sR1BQiwJzm3xpg4gwzWNVzM7ntbOW-EP1Jq6X4Un62KRUaR9aPLeTdlj8iStAfMYFw',
+    appId: 'video.chat.joi',
+    url: 'https://play.google.com/store/apps/details?id=video.chat.joi&hl=en&gl=us'
+  },
+  {
+    title: 'WHO - Live video chat & Match & Meet me',
+    installs: 22557229,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/L9ORRk9D8WUX4sqd0Za0CTI7hpDdDmZSGlBpI9tR8c4GuP-6lML5Mk0UyqP5O5QyGcg',
+    appId: 'com.scorp.who',
+    url: 'https://play.google.com/store/apps/details?id=com.scorp.who&hl=en&gl=us'
+  },
+  {
+    title: 'cake live stream video chat',
+    installs: 1843565,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/_HMsRVET7gcJBhEuiOB973LGNxyz7E9T0w1QsYTjQPHnOBDrd3i5DYOkPGxlD7hgcw',
+    appId: 'com.tangerine.live.cake',
+    url: 'https://play.google.com/store/apps/details?id=com.tangerine.live.cake&hl=en&gl=us'
+  },
+  {
+    title: 'Taimi - LGBTQ+ Dating, Chat and Social Network',
+    installs: 4229075,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/T17vvKWN5LV07bZFoP8i3D0u-PV912pXwfe-i6gtwXNkZRLvN2o8pywWWKV85bFAFpw',
+    appId: 'com.takimi.android',
+    url: 'https://play.google.com/store/apps/details?id=com.takimi.android&hl=en&gl=us'
+  },
+  {
+    title: 'LiveMe Pro - Live Stream, Video Chat&Go Live!',
+    installs: 149707,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/N3N_DSwDGqyCrf1vhc6WLCmpL1pPA-_aExHUKn82TIRH-V4hSUsZn4oA96pkAFFguKGB',
+    appId: 'com.europe.live',
+    url: 'https://play.google.com/store/apps/details?id=com.europe.live&hl=en&gl=us'
+  },
+  {
+    title: 'LIVIT - Live Streaming',
+    installs: 12496889,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/bIpsp4PLgz-Ou2BMZwvdeBDS6WMQkZF9Y-4JE3G1dFuWYZtRikMQaHcnYpZBCA0G6fI',
+    appId: 'com.machipopo.media17',
+    url: 'https://play.google.com/store/apps/details?id=com.machipopo.media17&hl=en&gl=us'
+  },
+  {
+    title: 'Badoo — Dating App to Chat, Date & Meet New People',
+    installs: 263284064,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/n-L_egXxB8eY4EQxl3ymo-ZyV-fVqMJqsiYA9hXR1-ZMcFcMki7Hbst4U3ILW9AnHNM',
+    appId: 'com.badoo.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.badoo.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Wink Fun video chat',
+    installs: 8723752,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Y9c-fiOqM71Yx7WgBEHe6qHu-D5B7KhkS4eft4K9TmX6cl2hCvegbZ8AoasS3gTFpqmk',
+    appId: 'com.match.zhayan',
+    url: 'https://play.google.com/store/apps/details?id=com.match.zhayan&hl=en&gl=us'
+  },
+  {
+    title: 'YouNow: Live Stream Video Chat - Go Live!',
+    installs: 22170302,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/N71vAyC7rR2b37QDIvFOHF-sMhzt4A75hzb0UoY1t3dbAYROWWkteY-BIjqaBjF6qhg',
+    appId: 'younow.live',
+    url: 'https://play.google.com/store/apps/details?id=younow.live&hl=en&gl=us'
+  },
+  {
+    title: 'FaceCast:Make New Friends - Meet & Chat Livestream',
+    installs: 3239696,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/sBPNF38i_HdcIfbFqc7EE4xJhplkvQI54Nd7SKViqp7oYoXMyqw1LAsCh6bOc8O5XQ',
+    appId: 'com.guochao.faceshow',
+    url: 'https://play.google.com/store/apps/details?id=com.guochao.faceshow&hl=en&gl=us'
+  },
+  {
+    title: 'Chamet - Live Video Chat & Meet & Party Rooms',
+    installs: 2967947,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/WwDbpgLwnB4A5fg-gn-ayN3opM8NvDz21PMGdQAtFJ7XLQlZn8esRsNMgHN2iMPFYg',
+    appId: 'com.hkfuliao.chamet',
+    url: 'https://play.google.com/store/apps/details?id=com.hkfuliao.chamet&hl=en&gl=us'
+  },
+  {
+    title: 'Kumu - Live Videos, Games, Chat, and Messenger',
+    installs: 4234782,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/pc5dTNGpnrFGSuA7en8wyfRwgGqIGu2xVuWMVCnIYwpP04K_Fzkje-L_Hp0FAd5jymQ',
+    appId: 'im.kumu.ph',
+    url: 'https://play.google.com/store/apps/details?id=im.kumu.ph&hl=en&gl=us'
+  },
+  {
+    title: 'HOLLA - Live Random Video Chat',
+    installs: 22068694,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/brWB0pRz-ovWS_QYOJlQP0oBhknWSRPiGYScnRgB5sKQw6LJCE0S2fJFfslNSatrfQ',
+    appId: 'com.exutech.chacha',
+    url: 'https://play.google.com/store/apps/details?id=com.exutech.chacha&hl=en&gl=us'
+  },
+  {
+    title: 'PokerBROS: Play Texas Holdem',
+    installs: 306222,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Q2b30CCuni1yGZVFd73VFZA2q6n43xYhmImShTF2doyZBer-Snc6I8k9x7nU5Tgz1g',
+    appId: 'com.kpgame.PokerBros',
+    url: 'https://play.google.com/store/apps/details?id=com.kpgame.PokerBros&hl=en&gl=us'
+  },
+  {
+    title: 'Omega – random video chat',
+    installs: 2243153,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/gJvoHM_IDkkn3Bn5Ny4C0q2Pfh9ZscoC6uks-U72yUW2gkuT07yZ5HMIWwCayN-hbiPP',
+    appId: 'ly.omegle.android',
+    url: 'https://play.google.com/store/apps/details?id=ly.omegle.android&hl=en&gl=us'
+  },
+  {
+    title: 'MICO: Make Friends, Live Chat and Go Live Stream',
+    installs: 53741531,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MertefuolIEUhorjdOxDtX74K1UHYhRBC3MAA1dRUe5RmjmTxEw8xrUaySJIBR6HCMs',
+    appId: 'com.mico',
+    url: 'https://play.google.com/store/apps/details?id=com.mico&hl=en&gl=us'
+  },
+  {
+    title: 'WAKA - Group Voice Chat with Real People',
+    installs: 4380064,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/1ml5PynISb2k9oBWcURlP-1-XjysaM4_rHK7hEmY5qY7IAhDxokTLwfIfJIAhp4Y40L3',
+    appId: 'com.voicechat.live.group',
+    url: 'https://play.google.com/store/apps/details?id=com.voicechat.live.group&hl=en&gl=us'
+  },
+  {
+    title: 'LivU: Meet new people & Video chat with strangers',
+    installs: 40167847,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/iuh2PsEq4VpL1NckRE7a-MwrzADBjGSP6s93q3yAdrt0hCkiCVvcsQKLhTs_vTjjXYU',
+    appId: 'com.videochat.livu',
+    url: 'https://play.google.com/store/apps/details?id=com.videochat.livu&hl=en&gl=us'
+  },
+  {
+    title: 'Waplog - Dating App to Chat & Meet New People',
+    installs: 41563474,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/zniZBkoW-x-yAJ82rwjCHZRRR5_2Y_NyzY41kXpW-bV7fRYrMU9TBxn42p9OLhY60A',
+    appId: 'com.waplog.social',
+    url: 'https://play.google.com/store/apps/details?id=com.waplog.social&hl=en&gl=us'
+  },
+  {
+    title: 'SoLive',
+    installs: 6739398,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Z6DB1yPkLQcsH03Osq3FWBcnz5RUSbfyqpgKhAYyyMz033e1ywPVybMj_ZloYlLQ-OjD',
+    appId: 'com.matchtech.solive',
+    url: 'https://play.google.com/store/apps/details?id=com.matchtech.solive&hl=en&gl=us'
+  },
+  {
+    title: 'Text Me: Text Free, Call Free, Second Phone Number',
+    installs: 33383522,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/JI1Fn4O_kO-JfSff3hGewQFK1_xXBxt8f0IxZyvRPT6smA56mIDYBsQP0lCQPUmZyik',
+    appId: 'com.textmeinc.textme',
+    url: 'https://play.google.com/store/apps/details?id=com.textmeinc.textme&hl=en&gl=us'
+  },
+  {
+    title: 'Free phone calls, free texting SMS on free number',
+    installs: 34024384,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/LYB8sP6nIPRJmcYzZv3nu2n_sirkbbmXRWOmoj3Z7-23UAYbAnQM4DqEG3fvCOhVGw',
+    appId: 'me.dingtone.app.im',
+    url: 'https://play.google.com/store/apps/details?id=me.dingtone.app.im&hl=en&gl=us'
+  },
+  {
+    title: 'Linduu, and you?',
+    installs: 60749,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/f6zZ03RDQlZ92wYzJfy5nwOCxhL9Uos40qwaXSGquk4YZ7Vy9aBTd5fBG81ZsMUwX5Q',
+    appId: 'app.linduuus',
+    url: 'https://play.google.com/store/apps/details?id=app.linduuus&hl=en&gl=us'
+  },
+  {
+    title: 'Uplive - Live Video Streaming App',
+    installs: 50004232,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/v5pjTY7wbu367W3EB-qpbRSdD9B7K7GQURDddy4yEfy441-zV9NM1twYrM_CYAtAJdr0',
+    appId: 'com.asiainno.uplive',
+    url: 'https://play.google.com/store/apps/details?id=com.asiainno.uplive&hl=en&gl=us'
+  },
+  {
+    title: 'Text Free: Free Text Plus Call',
+    installs: 34202424,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/1an3hokQcMnO-N0d-qgt0OoxnuwhbgKZ_-9UJ5WtoD-jNGF6x33A7wZhu_kkSDQFJmVl',
+    appId: 'com.pinger.textfree',
+    url: 'https://play.google.com/store/apps/details?id=com.pinger.textfree&hl=en&gl=us'
+  },
+  {
+    title: 'Yubo: Make New Friends',
+    installs: 14223385,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Z6EahmFrnbnCWUYHw73P_20_3IFinoA5B0b43kNDXg22FR7Ze9aP6HmbBe4LyluBmg',
+    appId: 'co.yellw.yellowapp',
+    url: 'https://play.google.com/store/apps/details?id=co.yellw.yellowapp&hl=en&gl=us'
+  },
+  {
+    title: 'MeMe直播-看直播、交朋友、來一起玩遊戲吧',
+    installs: 12663974,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/r1io8epEG0RDQLGzt410JpddMWRxemnPdSgtiph0XHhRDZCDJWFnO6rdVYAfZ_PqLXA',
+    appId: 'chat.meme.inke',
+    url: 'https://play.google.com/store/apps/details?id=chat.meme.inke&hl=en&gl=us'
+  },
+  {
+    title: 'Olive: Live Video Chat, Meet New People',
+    installs: 1516659,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/l9Z7AiI2cMVZxZuajhYdvbKFdDAMOHq2v-fDgXbjlOy-dVqbAZmdJnmiz9obB--qr4Y',
+    appId: 'com.videochat.olive',
+    url: 'https://play.google.com/store/apps/details?id=com.videochat.olive&hl=en&gl=us'
+  },
+  {
+    title: 'OmeTV Video Chat - Meet strangers, make friends',
+    installs: 36798626,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/dqXfJhXmJRvQNU-6ExVKC1QchVfscm1VpmZO16IAjAF0eN6YwWIUjdOSPSdBgK1gRQ',
+    appId: 'omegle.tv',
+    url: 'https://play.google.com/store/apps/details?id=omegle.tv&hl=en&gl=us'
+  },
+  {
+    title: 'Famy-غرفة الدردشة الصوتية المجانية مع أناس حقيقين',
+    installs: 5159182,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/_x74ctXUzHXFX1fJi4W5b0U1cAmwm9sRCG1yEbQrEv8XMSteDjT5__JtYt1K5RGCtbM',
+    appId: 'com.SimpleDate.FaMy',
+    url: 'https://play.google.com/store/apps/details?id=com.SimpleDate.FaMy&hl=en&gl=us'
+  },
+  {
+    title: 'StreamKar - Live Streaming, Live Chat, Live Video',
+    installs: 33698478,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/zBd96feiWRDPlLTNmKkEWw1Gdkh9-pm5mdhBv0DK_eITxFpRpd1r-_Rd474weOEOzviA',
+    appId: 'com.thankyo.hwgame',
+    url: 'https://play.google.com/store/apps/details?id=com.thankyo.hwgame&hl=en&gl=us'
+  },
+  {
+    title: 'LINE PLAY - Our Avatar World',
+    installs: 38764820,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Wir0NhOc9NC-JCBLUCpj-TDp16UPsCHZIVepTok5uqZ29ssoMxhzw4kt55ikmSpIgSJo',
+    appId: 'jp.naver.lineplay.android',
+    url: 'https://play.google.com/store/apps/details?id=jp.naver.lineplay.android&hl=en&gl=us'
+  },
+  {
+    title: 'GROWLr: Gay Bears Near You',
+    installs: 2539418,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/pP3iMJxifboYsxy6-zvtK3cJIlgA2gFXYmryQmn8nY4kaqPZCMoM33SKTrrNZ-rN-A',
+    appId: 'com.initechapps.growlr',
+    url: 'https://play.google.com/store/apps/details?id=com.initechapps.growlr&hl=en&gl=us'
+  },
+  {
+    title: 'BothLive-Global Live&Video Chat Platform',
+    installs: 352650,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/UYwo0p2v-BWe8G5ZhlNYZeIJHyoJsvLDzQW8PnKkXYWQybB9Iffky7TqUEF-DPqGGw',
+    appId: 'com.haiwaizj.chatlive',
+    url: 'https://play.google.com/store/apps/details?id=com.haiwaizj.chatlive&hl=en&gl=us'
+  },
+  {
+    title: 'SCRUFF',
+    installs: 7616245,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/IB5uK8Z2717RE4pvroPtUT9U3i-ue5dD4E644LMYoYxsggxpGAGM3dDiodjIhBnf89E',
+    appId: 'com.appspot.scruffapp',
+    url: 'https://play.google.com/store/apps/details?id=com.appspot.scruffapp&hl=en&gl=us'
+  },
+  {
+    title: 'Amino: Communities and Chats',
+    installs: 25484428,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/4cGwTOpzG3kYz2KugPyVAMVc0icUNPeUQEbX5tKo7RzefXkvVLAcxERMnJKC8bMgVFU',
+    appId: 'com.narvii.amino.master',
+    url: 'https://play.google.com/store/apps/details?id=com.narvii.amino.master&hl=en&gl=us'
+  },
+  {
+    title: 'Blued：live gay dating，chat，video call to guys',
+    installs: 22808340,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/adj8QC320ITptys00BmGwP4BvLPi2k65Hp4KLvxCraxtvjg6dNkSzoLReBJ6l03RZQ',
+    appId: 'com.blued.international',
+    url: 'https://play.google.com/store/apps/details?id=com.blued.international&hl=en&gl=us'
+  },
+  {
+    title: 'WHO Lite - Live video chat & Match & Meet me',
+    installs: 2263947,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/ZRVFV0SyDlCgR-q-FKzLMNA8DlI75vF1yEWMSiVF2JRcdxQWYdfCu6Tfc0jDyQ9R8w',
+    appId: 'com.scorp.wholite',
+    url: 'https://play.google.com/store/apps/details?id=com.scorp.wholite&hl=en&gl=us'
+  },
+  {
+    title: 'Hello Yo – Free Voice Chat Rooms',
+    installs: 23946050,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/2W4K-OZodVSQl_SYhtbjT_SYfv52qptt0VVrAU975qp_VPCmWzTu4raQHcgCrHvUZrY',
+    appId: 'sg.bigo.hellotalk',
+    url: 'https://play.google.com/store/apps/details?id=sg.bigo.hellotalk&hl=en&gl=us'
+  },
+  {
+    title: 'Fachat: video chat with new people online',
+    installs: 9971084,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/QoDVnuAPCcovo-ky1Du3g6GmH4dK73yUVx6g5UdaApKXu8zIeUDEgd7Qu3Ra1MsvNdU',
+    appId: 'com.fachat.freechat',
+    url: 'https://play.google.com/store/apps/details?id=com.fachat.freechat&hl=en&gl=us'
+  },
+  {
+    title: 'Peach-casual meet real people',
+    installs: 100095,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/AKUZ7iiWo-TOibPiIczU6kZxNCRRqPqddiRzmXtwzJJJyC9BTsFmMBOMpTsff2k8-Q',
+    appId: 'com.fireteam.firelight',
+    url: 'https://play.google.com/store/apps/details?id=com.fireteam.firelight&hl=en&gl=us'
+  },
+  {
+    title: 'FindNow',
+    installs: 45931538,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/03gSHSP_447NsytXGYBCYupm49vd6x17RDOhIOFdYx50-jWe_vi67I1lUwtOihEzh3c',
+    appId: 'com.ratelekom.findnow',
+    url: 'https://play.google.com/store/apps/details?id=com.ratelekom.findnow&hl=en&gl=us'
+  },
+  {
+    title: 'hi5 - meet, chat & flirt',
+    installs: 10772787,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/HjR5Zko21KQ5bhNYh5DUwqm96W7rbmOIs7ZVp36O1UOYaRqHZUO9EZartIqA4dZXqqAJ',
+    appId: 'com.hi5.app',
+    url: 'https://play.google.com/store/apps/details?id=com.hi5.app&hl=en&gl=us'
+  },
+  {
+    title: 'Live chat video call with strangers-Whatslive',
+    installs: 2979400,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/LkvxKfA3DF5vOSOpts9guIXFzt4JcjT_5NACSHe-94Ohmjl-EtXNXbXg92pKgiDZXA',
+    appId: 'com.download.funny.online',
+    url: 'https://play.google.com/store/apps/details?id=com.download.funny.online&hl=en&gl=us'
+  },
+  {
+    title: 'QR Scanner Pro - AiScan',
+    installs: 2474501,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/D-DHg6GQ_Onhvid5y6UbUkNP2YFUiG4yETQx-mjXWYwGvr3e88JlFRQfOSJJbkW6Iw',
+    appId: 'com.aiscan',
+    url: 'https://play.google.com/store/apps/details?id=com.aiscan&hl=en&gl=us'
+  },
+  {
+    title: 'Find Friends, Meet New People, Cuddle Voice Chat',
+    installs: 904893,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/8DAjO1Q_AwT3FegO0JWg-gQ-r6CqJVL4Uo40cOMa2WXlZyNWsg8uxXC6aquavkC7oAU',
+    appId: 'live.stream.audio.voice.chat.cuddle',
+    url: 'https://play.google.com/store/apps/details?id=live.stream.audio.voice.chat.cuddle&hl=en&gl=us'
+  },
+  {
+    title: 'VoChat - Group Voice Chat Rooms',
+    installs: 131985,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/PH1EskoCmoMRmADwU8oaFwJTuoxnzONSuHLv2953W_dyUmFDKF1BE7FvHXT_JQrFrz0',
+    appId: 'com.juhaoliao.vochat',
+    url: 'https://play.google.com/store/apps/details?id=com.juhaoliao.vochat&hl=en&gl=us'
+  },
+  {
+    title: 'Donut: online meet people',
+    installs: 51796,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/3i23ewtPo6kX_4N8Rp_LwvDOAYn8myNm0p3QCMvrGFnT-qZqLl42A5luu6Givkg_xYU',
+    appId: 'com.appdonut.donut',
+    url: 'https://play.google.com/store/apps/details?id=com.appdonut.donut&hl=en&gl=us'
+  },
+  {
+    title: 'Tantan',
+    installs: 47446259,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/6CU9ZZ7yu26Xv3-YqtbG8SgxcZJ9qWrXtx1jnKswBd0kButU5mk4Bb2MmUBBtDjUa68',
+    appId: 'com.p1.mobile.putong',
+    url: 'https://play.google.com/store/apps/details?id=com.p1.mobile.putong&hl=en&gl=us'
+  },
+  {
+    title: 'TopTop-Online Mak-ha',
+    installs: 4704002,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/2kILAEr-JOA-UbuwOh-edUPwusjMxHBKZlTW4ql4dRfBTFEFR7ZsN5JVwwf88c2qdE0',
+    appId: 'com.game.friends.android',
+    url: 'https://play.google.com/store/apps/details?id=com.game.friends.android&hl=en&gl=us'
+  },
+  {
+    title: 'Minder',
+    installs: 458561,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/7SlVkFXQsnXGNQmlXtP2P2F1HJ4cdG_3a6MRY9DiI6EqqW5BLtZJPU9a7c43vZN7Fg',
+    appId: 'com.minderapps.minder',
+    url: 'https://play.google.com/store/apps/details?id=com.minderapps.minder&hl=en&gl=us'
+  },
+  {
+    title: 'PLINK - Connecting Gamers',
+    installs: 1485005,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/yjWeWNylWFFRpoLgQUVyPxDfqq3O9dYRdTPZuGJDCjwwvEkrzxOBN5oUuC_igxwX6w',
+    appId: 'tech.plink.PlinkApp',
+    url: 'https://play.google.com/store/apps/details?id=tech.plink.PlinkApp&hl=en&gl=us'
+  },
+  {
+    title: 'Frill Live-Live Stream, Make Friends, Video Chat',
+    installs: 2007024,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/rbezwUIbcqySnzet0DOMoVy2SJoxpQ8r9qLKrkIdTGSzJjCHOzgV2HV3b4E2FhAr_rw',
+    appId: 'com.aaalive.live',
+    url: 'https://play.google.com/store/apps/details?id=com.aaalive.live&hl=en&gl=us'
+  },
+  {
+    title: 'PopLive - All Your LiveMe Friends Are Here',
+    installs: 344895,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/fMDOuR2JSFLasgCo1b3c5q83n5sT2FW7YLCYBp_RVqgR9d2BSkjmLEOlr_rSJE3KCicI',
+    appId: 'com.alive.android',
+    url: 'https://play.google.com/store/apps/details?id=com.alive.android&hl=en&gl=us'
+  },
+  {
+    title: 'Lamour Love All Over The World',
+    installs: 43379814,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/saKbbYXFc7d5_nJVKP0aF369SY0lXoTetfYo077SfWB7XG7d6qEGEjGB0ZrYbE7p51Q8',
+    appId: 'com.asiainno.uplive.aiglamour',
+    url: 'https://play.google.com/store/apps/details?id=com.asiainno.uplive.aiglamour&hl=en&gl=us'
+  },
+  {
+    title: 'Monkey',
+    installs: 6588886,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/IlnBc1ca_20U3qacgXrkXM_opQK9gvTXryaPSCCPCanD_o_hPdgPQkhQ6-DcsfSZ9PU9',
+    appId: 'cool.monkey.android',
+    url: 'https://play.google.com/store/apps/details?id=cool.monkey.android&hl=en&gl=us'
+  },
+  {
+    title: 'Moco: Chat & Meet New People',
+    installs: 18818936,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/yUej5r40NtPFJj_oxztZaRvVE5QxY76iTN7Kc6RQfrV4-fohtxHCwJyHsDjOcSjibVg',
+    appId: 'com.jnj.mocospace.android',
+    url: 'https://play.google.com/store/apps/details?id=com.jnj.mocospace.android&hl=en&gl=us'
+  },
+  {
+    title: 'Lysn',
+    installs: 909681,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/BbtkkT27IsdCt-VBPE4VAY_cmbWubxyobZUoIx68dgx6dWGtyQxxcKves8vVA-5BPQQ',
+    appId: 'com.everysing.lysn',
+    url: 'https://play.google.com/store/apps/details?id=com.everysing.lysn&hl=en&gl=us'
+  },
+  {
+    title: 'Her - Lesbian Dating, Free Chat & Meet with LGBTQ+',
+    installs: 1293850,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/mJIrnHL_fo6QWuW7-dRnADuL0VALyARLWTTgkpFiO9DoCfx4A2_GHNrtMqJkeSRC9bo',
+    appId: 'com.weareher.her',
+    url: 'https://play.google.com/store/apps/details?id=com.weareher.her&hl=en&gl=us'
+  },
+  {
+    title: 'ZAKZAK Pro - Live chat & video chat online',
+    installs: 11297731,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/OqLgaKKX59_dWvAJe3Gh6VTQ5ZXYjXm4gN6Y3zPcPrNdMYehSi89spQjfjSSJTiYVw',
+    appId: 'com.live.videochat.india',
+    url: 'https://play.google.com/store/apps/details?id=com.live.videochat.india&hl=en&gl=us'
+  },
+  {
+    title: 'Camsurf: Chat Random & Flirt',
+    installs: 2911737,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Q-kxQjmmnKPrq8W-qFOLL7XRSY1-3jvx9Cm8RPZ0fuq9zPgf_zB3QrxI5acQYCkvZJp9',
+    appId: 'camsurf.com',
+    url: 'https://play.google.com/store/apps/details?id=camsurf.com&hl=en&gl=us'
+  },
+  {
+    title: 'Chat Alternative — android app',
+    installs: 13647539,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/VwWEhY_gB-16uR_5H0UT5aqZxbYH_iBdy-nHPIZHagGLsr5abHvrz_0-NPOIGuvYLQc',
+    appId: 'com.chatroullete.alternative',
+    url: 'https://play.google.com/store/apps/details?id=com.chatroullete.alternative&hl=en&gl=us'
+  },
+  {
+    title: 'FreeTone Free Calls & Texting',
+    installs: 7310449,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/CJSOBzTTX4ktC9ajS1cATCHz1Ie2W5j1y-hJ-LIpXWfndusRUFX2NtjyHIJWFFEFwxA',
+    appId: 'com.textmeinc.freetone',
+    url: 'https://play.google.com/store/apps/details?id=com.textmeinc.freetone&hl=en&gl=us'
+  },
+  {
+    title: 'Chatous',
+    installs: 19667333,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/leJzutO9qHrsfiR-mckcISq6vX71D-LmTBOjBZIa--hBXQeSalkteV4UOm45Yt7A-w',
+    appId: 'com.chatous.chatous',
+    url: 'https://play.google.com/store/apps/details?id=com.chatous.chatous&hl=en&gl=us'
+  },
+  {
+    title: 'LANG Live Streaming -The Dream Fulfilling Platform',
+    installs: 1588874,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/uDyR25DL_t7m3nDN_gkIQpH_JM0KTIbw3Gyf2Wlc7zpNjuWA5OtghWBYH95bofgC6ew',
+    appId: 'com.lang.lang',
+    url: 'https://play.google.com/store/apps/details?id=com.lang.lang&hl=en&gl=us'
+  },
+  {
+    title: 'Camsea: Live Chat & Make New Friends',
+    installs: 406567,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/2X_oNQAUICZ3nl6s2O6yX_5NVu4ewc8W7mBgh6ebUVM8D2VJar66SPhCczZlXUm3BCNX',
+    appId: 'com.camsea.videochat',
+    url: 'https://play.google.com/store/apps/details?id=com.camsea.videochat&hl=en&gl=us'
+  },
+  {
+    title: 'Jack’d - Gay Chat & Dating',
+    installs: 5707588,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/8ygF7TJt7NQjyq2pCivf5rOwNN7uBoWjLfG3w2CJEgHuYNxxeT_TT46VXOmFUUzSYsg',
+    appId: 'mobi.jackd.android',
+    url: 'https://play.google.com/store/apps/details?id=mobi.jackd.android&hl=en&gl=us'
+  },
+  {
+    title: 'MeWe',
+    installs: 4033343,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/MXxTMo9fY9vq7gpXCR6wNgl9wwthyVr0j3qxYAUFxODn54-T4LqN3c8r7cIqHwfvdS8',
+    appId: 'com.mewe',
+    url: 'https://play.google.com/store/apps/details?id=com.mewe&hl=en&gl=us'
+  },
+  {
+    title: 'pixiv',
+    installs: 5115134,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/8pFuLOHF62ADcN0ISUAyEueA5G8IF49mX_6Az6pQNtokNVHxIVbS1L2NM62H-k02rLM',
+    appId: 'jp.pxv.android',
+    url: 'https://play.google.com/store/apps/details?id=jp.pxv.android&hl=en&gl=us'
+  },
+  {
+    title: 'Likes and Followers on Instagram',
+    installs: 1021363,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/whe_nnPsHpsWLBzlcYX6VDVCvV-zv6_zjj4uvzVL0sJwliuYJTQSCJCRvopjlDeRUZ_b',
+    appId: 'tip.mrit',
+    url: 'https://play.google.com/store/apps/details?id=tip.mrit&hl=en&gl=us'
+  },
+  {
+    title: 'LMK: Q&A and Make Friends',
+    installs: 1079048,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/V3tQSnvUIUtlPJHuadNYfV_IbFHS8KcNMeWqBg2LqyA--QtmITKzFJ5hP2LASdx61A',
+    appId: 'com.lightspace.lmk',
+    url: 'https://play.google.com/store/apps/details?id=com.lightspace.lmk&hl=en&gl=us'
+  },
+  {
+    title: 'Para Me: Live Video Chat & Make Friends',
+    installs: 6542761,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/OuhJuXNID4jM76OLulKtCWEAdX-iXu75dw1ymMkJSuf_0WZxRxIcRu8jhYLWVH1s3mE',
+    appId: 'com.parame.live.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.parame.live.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Noondate - No. 1 Single Community',
+    installs: 3257890,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Lwf7wsenpoSoKi49pPDGm01H8UY-NvznoM99DzzrmCDn1QIS-klLRqIw4GeFV6lbz1g',
+    appId: 'com.NoonDate',
+    url: 'https://play.google.com/store/apps/details?id=com.NoonDate&hl=en&gl=us'
+  },
+  {
+    title: 'ParaU: video chat & make friends',
+    installs: 12798249,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/T17iYwcOvsIg6M1fqqavzWK2pKhJqSrNJ1GjZ6fR4guR_wFrrzK_DR8IJ-lrO5H0MA',
+    appId: 'com.parau.videochat',
+    url: 'https://play.google.com/store/apps/details?id=com.parau.videochat&hl=en&gl=us'
+  },
+  {
+    title: 'Adam4Adam - Gay Chat & Dating App - A4A - Radar',
+    installs: 1127841,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Bq1LKDoQ5AJSC0TWR-B0CM1N1yGf-nCb4cOi66JmqhjNVdGZyOtQKat-YPlRT6akIgw',
+    appId: 'com.adam4adam.radar2.ui',
+    url: 'https://play.google.com/store/apps/details?id=com.adam4adam.radar2.ui&hl=en&gl=us'
+  },
+  {
+    title: 'USPOT',
+    installs: 21831,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Hh2gBxP2qyH4eMtStgv1t8GQ6wpoG-tcXDS8c3gs0dx205TNUJNS3Q4HxgwImXxj1FA',
+    appId: 'com.i.uspot.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.i.uspot.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Hippo - Live Random Video Chat',
+    installs: 318592,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/KB_XVmZEaZPexDVq_pcu3dUicsAmBY-K95zSnsSHEJgm-sYSfEq4TNpLU2If5FerkYI',
+    appId: 'com.newellmediallc.live.hippo',
+    url: 'https://play.google.com/store/apps/details?id=com.newellmediallc.live.hippo&hl=en&gl=us'
+  },
+  {
+    title: 'MLiveU : Hot Live Show',
+    installs: 7419519,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/EWAW9lWFpywy-H4Ljx-PRsy4POl1gidHISCpO-z-cBUgPSqZI0WUuYHM65ECs8u6xjk',
+    appId: 'com.mlive.mliveapp',
+    url: 'https://play.google.com/store/apps/details?id=com.mlive.mliveapp&hl=en&gl=us'
+  },
+  {
+    title: 'Trans - #1 Transgender, Kinky, Crossdresser Dating',
+    installs: 1382316,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/HusOPhaoCkSIjdzwKDZPOs0mxBFXf-eTRK2QxV4eWm1SW2KE1LHTfKt1GaAC5pWYrw',
+    appId: 'biz.trans',
+    url: 'https://play.google.com/store/apps/details?id=biz.trans&hl=en&gl=us'
+  },
+  {
+    title: 'Olive Lite - Live Video Chat to Meet New People',
+    installs: 329024,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/CqqqjB-uvEymGIvYVJmWcCYm42fZrbRwIfUGfGQOqiqY5uvMLl7NNSoct1k42RRVIYW_',
+    appId: 'com.videochat.olivelite',
+    url: 'https://play.google.com/store/apps/details?id=com.videochat.olivelite&hl=en&gl=us'
+  },
+  {
+    title: 'PokeRaid - Worldwide Remote Raids',
+    installs: 224573,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/O8AdTA1BxzaOcn3DAyAKF3tyeO05DVIdM8W8A6y0LTb-5UTAuAmJDSVl4W9MGqJKGbY',
+    appId: 'me.pokeraid',
+    url: 'https://play.google.com/store/apps/details?id=me.pokeraid&hl=en&gl=us'
+  },
+  {
+    title: 'Helwa-Live Chat Online & Video Chat',
+    installs: 532882,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/ZRnYmdKmxEIOhlwBw32zPYt8bGdKrJguTgEi5WlsMM0GPl-GZEcV8s9oVJTpiUkX18g',
+    appId: 'com.honeychat.arabic',
+    url: 'https://play.google.com/store/apps/details?id=com.honeychat.arabic&hl=en&gl=us'
+  },
+  {
+    title: 'Berry - easy to meet',
+    installs: 29524,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/OXQN20P459-4JUuT-gZSk5GStMEsFr3xtxBjPpy2ZI6j3QUHud7bY4dw3siOehgm87r3',
+    appId: 'com.reserve.zhang',
+    url: 'https://play.google.com/store/apps/details?id=com.reserve.zhang&hl=en&gl=us'
+  },
+  {
+    title: 'Yo Live',
+    installs: 1182946,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/QmM1LWWvdTYsioIF6gH7qYCZQ93Th04mvrLU_UpVB2W47MmEaVd2keOEf7eMW4kwlg',
+    appId: 'com.loft.ding',
+    url: 'https://play.google.com/store/apps/details?id=com.loft.ding&hl=en&gl=us'
+  },
+  {
+    title: 'Qpid Network: International Dating App',
+    installs: 140723,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/aiuCxS37I-41N0xPJaMAqwaM0Cb4wpZxYTszkdj9XNOtf9Mb5a9D-imNAPL4tV8SNeXl',
+    appId: 'com.qpidnetwork.dating',
+    url: 'https://play.google.com/store/apps/details?id=com.qpidnetwork.dating&hl=en&gl=us'
+  },
+  {
+    title: 'TikFame - Get TikTok followers & Tik like & fans',
+    installs: 749942,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/glldekWV11HWdc5tqVOKN7I9NVK72j1QfzOmmohgiAwgK89owKyB5eZ1CeuPVX5EPJ8',
+    appId: 'com.tik.tok.tiktok.follower.fans.fan.like.analysis.app',
+    url: 'https://play.google.com/store/apps/details?id=com.tik.tok.tiktok.follower.fans.fan.like.analysis.app&hl=en&gl=us'
+  },
+  {
+    title: 'Weverse',
+    installs: 7251307,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Qgv-Ui1OXodpjWjgxbC85QPM6jkLnuEBjC0qK4SjtunnNw_m09V_kOXvToaJhsHLwGaT',
+    appId: 'co.benx.weverse',
+    url: 'https://play.google.com/store/apps/details?id=co.benx.weverse&hl=en&gl=us'
+  },
+  {
+    title: 'Text Free: WiFi Calling App 🆓',
+    installs: 10120141,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/QwO0o7SeGCCEBkSlw4vAumC9BSeKXLKmGSnlcJqn4OAM9e1vamqorvtSHObC1R8h_A',
+    appId: 'com.pinger.textfree.call',
+    url: 'https://play.google.com/store/apps/details?id=com.pinger.textfree.call&hl=en&gl=us'
+  },
+  {
+    title: 'Veego: Live chat online & video chat with friends',
+    installs: 9425135,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/hypWjpn4jipiCyOJEsw-mzw9ef1chDT6xixvBrp-_SuwkGG75jjMDdECIRMfnawsvIJS',
+    appId: 'com.wegochat.happy',
+    url: 'https://play.google.com/store/apps/details?id=com.wegochat.happy&hl=en&gl=us'
+  },
+  {
+    title: 'Zoe: Lesbian Dating & chat',
+    installs: 1478896,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/rj-Sjj7EGldVxa3dgyfy1BoI3j9vvN98ji7eNbITfGyksUqYrv8s6JdvCVzQ1Vl8aO0',
+    appId: 'com.surgeapp.zoe',
+    url: 'https://play.google.com/store/apps/details?id=com.surgeapp.zoe&hl=en&gl=us'
+  },
+  {
+    title: 'Video Chat W-Match : Dating App, Meet & Video Chat',
+    installs: 22367462,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/IeVy7oJW7qHCZc5XCiTEeO_ICivXZ7l77zL10CaDn60XYNfBlLvN5gWNZAnJmIYBhlQ',
+    appId: 'com.waplogmatch.social',
+    url: 'https://play.google.com/store/apps/details?id=com.waplogmatch.social&hl=en&gl=us'
+  },
+  {
+    title: 'Chatrandom - Live Cam Video Chat With Randoms',
+    installs: 3048780,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/XYyjdAt5SBbcsGQbe9TE8n0mptQ8cfjxN5EkcAWbDHRRFJdIRur5s---7akHEBkAlA',
+    appId: 'com.Chatrandom',
+    url: 'https://play.google.com/store/apps/details?id=com.Chatrandom&hl=en&gl=us'
+  },
+  {
+    title: 'VK — live chatting & free calls',
+    installs: 281602296,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/bgAuxUGArC8zH3NLJip3hn7CJur37IRotIqB5Xly--Zind-JD9r-ndCj30b1Wec7aOQ',
+    appId: 'com.vkontakte.android',
+    url: 'https://play.google.com/store/apps/details?id=com.vkontakte.android&hl=en&gl=us'
+  },
+  {
+    title: 'SayHi Chat, Meet New People',
+    installs: 39155321,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/yKv2MboXS8SXZsfo_6sw0ajTmCPkbMlI7JNDELqmaqgE2Z9zw6E9fsfSSFOqWW3wQ2o',
+    appId: 'com.unearby.sayhi',
+    url: 'https://play.google.com/store/apps/details?id=com.unearby.sayhi&hl=en&gl=us'
+  },
+  {
+    title: 'Tok- دعنا نتحدث معا',
+    installs: 1406087,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/QqBlHPWOG2uwynurSKwNsjzRXqyGSl2cvUpSUd57GzaepoxbBLAJVA0p-qe4k6Q0LQ',
+    appId: 'com.simple.tok',
+    url: 'https://play.google.com/store/apps/details?id=com.simple.tok&hl=en&gl=us'
+  },
+  {
+    title: 'ZAKU live - random video chat',
+    installs: 700501,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/wJlqcZiCQX4CZnBYfPP7EENpwQy6JktGvUqVIEhlF2J4qpjmu4aSk8fKcEHFXUyrs58',
+    appId: 'com.zaku.live.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.zaku.live.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Periscope - Live Video',
+    installs: 59118073,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/bqeMtrn1ZqWaoB84VP-2-ZOIZmEpjVoIQfbF4ULtGzeAriDFVaQLobcvh0puuTaOlA',
+    appId: 'tv.periscope.android',
+    url: 'https://play.google.com/store/apps/details?id=tv.periscope.android&hl=en&gl=us'
+  },
+  {
+    title: 'FancyU - Video Chat App',
+    installs: 6724125,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/0s0rHSB50bGuVftPnRPtrFQHRJV5eCk6c8jx6W-_Qfk6QCvjb3YIRepYE8FaF1Ta0eM',
+    appId: 'com.fancyu.videochat.love',
+    url: 'https://play.google.com/store/apps/details?id=com.fancyu.videochat.love&hl=en&gl=us'
+  },
+  {
+    title: 'Honeycam Chat - Live Video Chat & Meet',
+    installs: 392876,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/C6UGUiBRve428W-RK55tA3uvU2a4TyEvjMNMKd1XxOl1scUa51xeIatoG-X2p_ujE-8',
+    appId: 'com.honeycam',
+    url: 'https://play.google.com/store/apps/details?id=com.honeycam&hl=en&gl=us'
+  },
+  {
+    title: 'Phone Tracker By Number',
+    installs: 57335549,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/XpdpQtvCj-ybv9ubF4ZQQ5Q3B_ovm9csC1eew-G_x-H5V0YV2i4KDvp6fsK5-JSqf0o',
+    appId: 'mg.locations.track5',
+    url: 'https://play.google.com/store/apps/details?id=mg.locations.track5&hl=en&gl=us'
+  },
+  {
+    title: 'imo live',
+    installs: 159375,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/AA-M5QinbrxEnX_VS6Ob8Jyd0JrT4tD5ytaFnWgNFCneVJKeZe78THDzEZdJKqSelYU',
+    appId: 'co.babypenguin.androidlive',
+    url: 'https://play.google.com/store/apps/details?id=co.babypenguin.androidlive&hl=en&gl=us'
+  },
+  {
+    title: 'Chatspin - Random Video Chat, Talk to Strangers',
+    installs: 2813889,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/YPzhcLcnSxeqWtUivdRvsWI_xvNvXO09YfAO6BX44zWg-rEQnF8gx_Pz_s2FAH24zvM',
+    appId: 'com.Chatspin',
+    url: 'https://play.google.com/store/apps/details?id=com.Chatspin&hl=en&gl=us'
+  },
+  {
+    title: 'ポケコロ かわいいアバターをお洒落に着せ替えよう！ともだちと楽しむかわいいアバター着せ替えゲーム',
+    installs: 3215227,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Vw3_FtDvDbQpFUsvaDawk8tA4o2ukfo3ar48lXoJ2OcCV9NF2gngoP0-4JSjw7Q6TpE',
+    appId: 'jp.cocone.pocketcolony',
+    url: 'https://play.google.com/store/apps/details?id=jp.cocone.pocketcolony&hl=en&gl=us'
+  },
+  {
+    title: 'YoYo - Live Voice&Video Group Chat',
+    installs: 2194100,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/PBL2jU_rShyu0NfJ8UhYTPRg8jm9h9BoWdLtwRBlYgRolVNxACyQIjhu55-_CUFaEEk',
+    appId: 'com.fyxtech.yoyolive',
+    url: 'https://play.google.com/store/apps/details?id=com.fyxtech.yoyolive&hl=en&gl=us'
+  },
+  {
+    title: 'GOGO LIVE',
+    installs: 2793447,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/rr3DRLVzGzSeGse1h7cEgPbcjujmgiJI8COIanOLYknMYR2q4Ych6X-bLRSlocVA_Sk',
+    appId: 'com.gogolive',
+    url: 'https://play.google.com/store/apps/details?id=com.gogolive&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Love-Online Live & Video Chat',
+    installs: 257213,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/lhurdyPC4xrMbYa0N6UdU2PsNrEr6RXmdrCduyN6plM3mDqUcAI17wk70BxLa3AoFqs',
+    appId: 'com.mobi.ensugar',
+    url: 'https://play.google.com/store/apps/details?id=com.mobi.ensugar&hl=en&gl=us'
+  },
+  {
+    title: 'Secret - Dating Nearby for Casual encounters',
+    installs: 1239139,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/xH1zuS98PPOLC2qqiM7gr1SyDVnh1BYnXwwA823lYdNZ9Ol7mXbz7TWMVTPcrE0nxQ',
+    appId: 'ru.taboo.app',
+    url: 'https://play.google.com/store/apps/details?id=ru.taboo.app&hl=en&gl=us'
+  },
+  {
+    title: 'MeowChat : Live video chat & Meet new people',
+    installs: 989939,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/nU2rokU70ymJYBmLaBctlHqSr0BfBHVS5vNG8_IUn83uOh9RTNuwyFleAKTI-CxqAkUi',
+    appId: 'com.minus.app',
+    url: 'https://play.google.com/store/apps/details?id=com.minus.app&hl=en&gl=us'
+  },
+  {
+    title: 'Evite: Free Virtual Invitations & Video Chat',
+    installs: 1585099,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/v8xioecILQAP1qSjtRWGiv2_ngZndANIKz9qZd8aLFwoNw5OkPLiu1wmdJX-QcPvkw',
+    appId: 'com.evite',
+    url: 'https://play.google.com/store/apps/details?id=com.evite&hl=en&gl=us'
+  },
+  {
+    title: 'JustU - Social chat  &  Live video call',
+    installs: 92321,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/o2yB88aOgVd24OTgGtZj8YLiciUuv2EV7KavAv47iu6Mqppc6iIm548D74fppn9le22z',
+    appId: 'com.justu.msrvideo',
+    url: 'https://play.google.com/store/apps/details?id=com.justu.msrvideo&hl=en&gl=us'
+  },
+  {
+    title: 'Chatruletka – Video Chat',
+    installs: 18292356,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/fcQMKB2JV7lpS1CvuxwEZVPGqDbquwDgNqs_4z-Od-lHboOMfTxtVGF6fyh8u6NbtA',
+    appId: 'com.chat.ruletka',
+    url: 'https://play.google.com/store/apps/details?id=com.chat.ruletka&hl=en&gl=us'
+  },
+  {
+    title: 'Talk To Strangers in Anonymous Chat Rooms: Paltalk',
+    installs: 7380489,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/nMa5Bsk1TCCtQOfJwRfGlqqMYIY-q011KMspJvQlH_iN98V-0R8HBu-_MGMyZdMty2YG',
+    appId: 'com.paltalk.chat.android',
+    url: 'https://play.google.com/store/apps/details?id=com.paltalk.chat.android&hl=en&gl=us'
+  },
+  {
+    title: 'Meetchat-Social Chat & Video Call to Meet people',
+    installs: 1908071,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/xEbUMcGPta6IY_2A552lWGljK8zvUXdvUCD9ce8kFy_YD0BAUhUx7EsXnThUvEW0WTxP',
+    appId: 'com.vichat.im',
+    url: 'https://play.google.com/store/apps/details?id=com.vichat.im&hl=en&gl=us'
+  },
+  {
+    title: 'Peachat - Live Video Chat',
+    installs: 203141,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/SCCOFbjHHhAJWI7XuRNivUKmBjJ6no-cTdd-QkYYCLJYyKrfjoqwGxqEsnsyTx7EI792',
+    appId: 'video.chat.peachat',
+    url: 'https://play.google.com/store/apps/details?id=video.chat.peachat&hl=en&gl=us'
+  },
+  {
+    title: 'Luxy - Elite Millionaire Dating App to Chat & Date',
+    installs: 551910,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/tihM1co_7gaCyGJELn0pcbbhfeBY8o1VyL2m1EelTrmQZYY7_8jUdbTRPSaQSJvcqVc',
+    appId: 'com.luxy',
+    url: 'https://play.google.com/store/apps/details?id=com.luxy&hl=en&gl=us'
+  },
+  {
+    title: 'Reposter for Instagram: Download & Save',
+    installs: 10430176,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/c2u5U_1cp3Jlx0aBhgqYRPl_xlo17ByfxX0vRTwO4m4wzlsdPg_01N9autxmK6f6B8I',
+    appId: 'com.repost',
+    url: 'https://play.google.com/store/apps/details?id=com.repost&hl=en&gl=us'
+  },
+  {
+    title: 'Topface - Dating Meeting Chat',
+    installs: 26510921,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/79LHkswAhFgz1103jmQKPErG0D0Oiue6tWa2kQWm_pXdhWWPF62GQmIUgd2occPBfU0',
+    appId: 'com.topface.topface',
+    url: 'https://play.google.com/store/apps/details?id=com.topface.topface&hl=en&gl=us'
+  },
+  {
+    title: 'LuluChat-meet livu lovely friends, live video chat',
+    installs: 1134645,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/qB6h1q1mk3sNACMFq4GqjQaGEBJQAIPmBPmiBRn3D9Xh28VfQAIor3r3bF695j9n3OA',
+    appId: 'com.gokoo.luluchat',
+    url: 'https://play.google.com/store/apps/details?id=com.gokoo.luluchat&hl=en&gl=us'
+  },
+  {
+    title: 'Hoogo: Meet New People in Online Video Chat',
+    installs: 4070184,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/0HuHprjzQHwV5x_vnTegGgu_l8nND3QcYjK6TgDs1mrqoERIBEWYJBOK_Av_m6pjV3UB',
+    appId: 'com.hoogo.hoogo',
+    url: 'https://play.google.com/store/apps/details?id=com.hoogo.hoogo&hl=en&gl=us'
+  },
+  {
+    title: 'MuMu: Popular random chat with new people',
+    installs: 4355489,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/U8BnooNvAVuT1ggQB64-mldIbmDcE7en_n742R0ukvOwfDhGJgLsoh0LOQtBN6y-feFI',
+    appId: 'com.mumu.videochat',
+    url: 'https://play.google.com/store/apps/details?id=com.mumu.videochat&hl=en&gl=us'
+  },
+  {
+    title: 'ZAKZAK LIVE: live-streaming & video chat app',
+    installs: 4581703,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/039lEvYRAEPErS-owTJ1ieEJNKAtS0_vuN9HO2tVfNZOwYsxGX9kMPnGxC9dV2kLQYQ',
+    appId: 'com.zakzak.live.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.zakzak.live.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Chat Rooms - Find Friends',
+    installs: 3609074,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/-jy4Cj8eEn3Ww0p3glvumj-9W7LtQGbRuvRkFR-BH_pE8DPLr7jJKDzTAr2YK_KpGaU',
+    appId: 'com.chatgum.chat.rooms',
+    url: 'https://play.google.com/store/apps/details?id=com.chatgum.chat.rooms&hl=en&gl=us'
+  },
+  {
+    title: 'QR & Barcode Scanner',
+    installs: 4219626,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MLygyi5VUUiE_Hzf-jFMcopj9dj0EQw508kfOR7_3WcDsm8QkYyzWh74GdrrQEByynA',
+    appId: 'com.appland.qrscanner',
+    url: 'https://play.google.com/store/apps/details?id=com.appland.qrscanner&hl=en&gl=us'
+  },
+  {
+    title: 'JAUMO Dating – Flirt With Local Singles',
+    installs: 52246020,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/-vsIzb8DBwmXMH-ZNNpvOY3wyflJfr_F-CUeDwS_dTJ448moErRpLRX7MOWcC8nbV3E',
+    appId: 'com.jaumo',
+    url: 'https://play.google.com/store/apps/details?id=com.jaumo&hl=en&gl=us'
+  },
+  {
+    title: 'textPlus: Free Text & Calls',
+    installs: 43522461,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O',
+    appId: 'com.gogii.textplus',
+    url: 'https://play.google.com/store/apps/details?id=com.gogii.textplus&hl=en&gl=us'
+  },
+  {
+    title: '1024Live—華人视频聊天互动直播APP',
+    installs: 1191287,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/aOw_2BU_KGbzGpdEGwLNGK5b2IxR187w9fszmRmgcufeg336DiW9qEEmBeXWMf-cIPbo',
+    appId: 'com.ggls.perform.show.yleslive',
+    url: 'https://play.google.com/store/apps/details?id=com.ggls.perform.show.yleslive&hl=en&gl=us'
+  },
+  {
+    title: 'Chatbox- Chat,Call,Meet Her',
+    installs: 287472,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/6TqgdF0jJex4dJQ9t-mw6cUiJs45jGLIA1e-Q9O1lrzw8ZBNV5ik3JymkrEk3oJgznE',
+    appId: 'com.chatbox.me',
+    url: 'https://play.google.com/store/apps/details?id=com.chatbox.me&hl=en&gl=us'
+  },
+  {
+    title: 'ParaU Pro: Most Popular Social App & Make Friends',
+    installs: 9677108,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/SWzcns6h8nZAtpaZVmDMXAOWZarVyWJ0nxVnYKomm6YsOTS12gUuiXQ5cK_Ydt36Yg',
+    appId: 'com.parau.pro.videochat',
+    url: 'https://play.google.com/store/apps/details?id=com.parau.pro.videochat&hl=en&gl=us'
+  },
+  {
+    title: 'Ola Party - Live, Chat, Game & Party',
+    installs: 1227145,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/gZRThd-2u0-u7X5CSPtwGun-JURGiP2NJLkgZqida87eq_bBjrmZ5Ly1TtVIol_mlw',
+    appId: 'com.live.party',
+    url: 'https://play.google.com/store/apps/details?id=com.live.party&hl=en&gl=us'
+  },
+  {
+    title: 'Group Voice Chat Room - Cuddle Chat Room',
+    installs: 10494,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/nOitENReFzALHBPbz7N9bBWK90aHmc1cOZp6YzZ7nxH7_SaKEhDZbUnaRYejariObz0',
+    appId: 'live.stream.audio.voice.chat.cuddle.chatroom',
+    url: 'https://play.google.com/store/apps/details?id=live.stream.audio.voice.chat.cuddle.chatroom&hl=en&gl=us'
+  },
+  {
+    title: 'MatchAndTalk – Live Video Chat with Strangers',
+    installs: 3794426,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/ZONksY4TfLDbJWNjxRt8OpEFpTH-rigUHXvToP64vZROQ-5OXqVMoOVjTve03kN_jUkb',
+    appId: 'go.dev.matchandtalk',
+    url: 'https://play.google.com/store/apps/details?id=go.dev.matchandtalk&hl=en&gl=us'
+  },
+  {
+    title: 'BeeLive - Global Live Stream&Live Video Chat',
+    installs: 2021447,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/qcYRqfRQ_McSZQCwO_6SJX6aqgTIlgexPzDDFagUDwZX7Tu_fE0_exwJn0YjElZTKDgT',
+    appId: 'com.holalive.ui',
+    url: 'https://play.google.com/store/apps/details?id=com.holalive.ui&hl=en&gl=us'
+  },
+  {
+    title: 'TikPlus: real fans, likes & followers for TikToker',
+    installs: 299561,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/rqkEm9taS9l7mo7eaLze2QRIiMQFwSLNdust2uFnsyHDG0MIheKH-dcSw4ZUePR-Sxs',
+    appId: 'com.hooza.tikplus',
+    url: 'https://play.google.com/store/apps/details?id=com.hooza.tikplus&hl=en&gl=us'
+  },
+  {
+    title: 'Arousr - Chat, Talk & Video Call',
+    installs: 17094,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/_0DCDtGqPCi1pO5sqKxXL6gCIpVKHKPqSeZbUWtu11F6DcLBinEZXW4zowduniZiiPg',
+    appId: 'arousr.chat',
+    url: 'https://play.google.com/store/apps/details?id=arousr.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Vibie Live - Best of live streams community',
+    installs: 1142261,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/YHu5UGZZzLxO7JlTinmUbYtVTQ9lMIfPJ-EAYd2Ls7vOKXUOEulgWhsChQ-np0GOLA',
+    appId: 'com.donutsbkk.vibie',
+    url: 'https://play.google.com/store/apps/details?id=com.donutsbkk.vibie&hl=en&gl=us'
+  },
+  {
+    title: 'Surge: Gay Dating & Chat',
+    installs: 3279999,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Y8jcA8Phs1jUSAsd43YYORJlJl2_eRY-7D8ZlgukaGPomddMstJUgx-W6l260pwx5w',
+    appId: 'com.lavendrapp.lavendr',
+    url: 'https://play.google.com/store/apps/details?id=com.lavendrapp.lavendr&hl=en&gl=us'
+  },
+  {
+    title: 'Connected2.me Chat Anonymously',
+    installs: 16134676,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/R-L05nHOF7Tj1HkwsFH6pbrsfpMlyhKp3srq2O8vbIalY8nnaMJox_CjbysWBg-EXLsG',
+    appId: 'com.connected2.ozzy.c2m',
+    url: 'https://play.google.com/store/apps/details?id=com.connected2.ozzy.c2m&hl=en&gl=us'
+  },
+  {
+    title: 'Moco+: Chat & Meet New People',
+    installs: 24273,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/ol8xWPlxUSY7Zrrm4EEYe4uZI3hbYiEdN_RAoBAamRyM_AKCTRrK6KBmmBoyYAi6AA',
+    appId: 'com.jnj.mocospace.android.plus',
+    url: 'https://play.google.com/store/apps/details?id=com.jnj.mocospace.android.plus&hl=en&gl=us'
+  },
+  {
+    title: 'Alloallo',
+    installs: 97169,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/-BiUpi0YMaQ2lb286a1OUashwmLI98ynwYYy0vCOoFqKF-1aleGraJpla8rgvcTayg',
+    appId: 'com.yizhuan.allo',
+    url: 'https://play.google.com/store/apps/details?id=com.yizhuan.allo&hl=en&gl=us'
+  },
+  {
+    title: 'Grokio Communities: Grommr, Feabie, Chasabl, Ferzu',
+    installs: 53845,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/JF6p63wdu8f9ZtzUSLuA9rAizfla0luv20G7gGupz2NGrD2PqTtq3Tuw6IIdQHlcbg',
+    appId: 'com.grokiolabs.Grokio',
+    url: 'https://play.google.com/store/apps/details?id=com.grokiolabs.Grokio&hl=en&gl=us'
+  },
+  {
+    title: 'Followers for Instagram and Likes for Ig : Tagtup+',
+    installs: 186215,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/297dA_QRmbw_npZMuah2GmXNcpxNHcQw-oXgF55uA876vN2Gb_AMtrQrIj5Y39-VoQ0',
+    appId: 'com.hamiddev.hashtag2',
+    url: 'https://play.google.com/store/apps/details?id=com.hamiddev.hashtag2&hl=en&gl=us'
+  },
+  {
+    title: 'Instagram',
+    installs: 3135237027,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw',
+    appId: 'com.instagram.android',
+    url: 'https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=us'
+  },
+  {
+    title: 'UKing - Video chat & Make friends',
+    installs: 168621,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/N6aiIvdh20Jul1qT31Nisigam0fpabQ5Oq3cZ9z2gvOFnEW45h0jWBiV4-uSzEJiEQU',
+    appId: 'com.yhmedia.uking',
+    url: 'https://play.google.com/store/apps/details?id=com.yhmedia.uking&hl=en&gl=us'
+  },
+  {
+    title: 'Twoo - Meet New People',
+    installs: 34094683,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/96rL9ozRVUs3BZXX7KrjvzQovuhZ2VYa-Bbh3Fa9oEx6Kgma0fVXXch7TrcCBUKH-vU',
+    appId: 'com.twoo',
+    url: 'https://play.google.com/store/apps/details?id=com.twoo&hl=en&gl=us'
+  },
+  {
+    title: 'CinchShare',
+    installs: 37639,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/aaf4-raZ2EJxH92qO32wkapRB0W4aSU14wIKIpYQy5tEP1tW8Ng4gXfWPwYP2NyhlzdD',
+    appId: 'com.cinchshare',
+    url: 'https://play.google.com/store/apps/details?id=com.cinchshare&hl=en&gl=us'
+  },
+  {
+    title: 'Camfrog: Chat Flirt Video, w/ Strangers & Friends',
+    installs: 18727467,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/qmvmNBNtY-YXkxw5HaGqOeMV9yJnx0PaOsYA1Bn_cM1XlRxd5-mHkXlzb0omKQyphpdV',
+    appId: 'com.camshare.camfrog.android',
+    url: 'https://play.google.com/store/apps/details?id=com.camshare.camfrog.android&hl=en&gl=us'
+  },
+  {
+    title: 'Hola - Random Video Chat',
+    installs: 2975027,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/4Ol9d1aURIWYikfD1SHp9FeBdGpzlc9x3NF_KO5kDpcPH7Cp7REnGl_OjGd9DwSZlGps',
+    appId: 'com.skylb.hola.app',
+    url: 'https://play.google.com/store/apps/details?id=com.skylb.hola.app&hl=en&gl=us'
+  },
+  {
+    title: 'Sawa',
+    installs: 1257456,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MfY5r9GgjDVMI0W-BMuWi96h7b_QCYM1hu9Ycv1Aa-adJ-vJCiKq8_0jNg7KAadVsRY',
+    appId: 'com.badambiz.pk.arab',
+    url: 'https://play.google.com/store/apps/details?id=com.badambiz.pk.arab&hl=en&gl=us'
+  },
+  {
+    title: 'JOY - Live Video Call',
+    installs: 648314,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/nuCTOnv5LwlzIcMe_vxBX7lgwHK7dDQIqbGvx06c0AJPMpZoX993RytxCxBBu5dswuE',
+    appId: 'com.joyme.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.joyme.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Zaky - Crush Radar&Paper Plane',
+    installs: 1228721,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/pTyfw9a0gID1CKla2bKwLycjp9wNhXv9X_g-AHdMHFt8dSi3YtsEM1cfuTh41D1BQo8',
+    appId: 'com.shujiu.Zaky',
+    url: 'https://play.google.com/store/apps/details?id=com.shujiu.Zaky&hl=en&gl=us'
+  },
+  {
+    title: 'Livestar - Live Streaming App',
+    installs: 15914,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/hrFOI53tXoXw24UAN7DV3_XjHfdsHZKjUJQDsnLDO8l2v-DHCig18eR99AK3iA86nA',
+    appId: 'com.livestar.livestreaming',
+    url: 'https://play.google.com/store/apps/details?id=com.livestar.livestreaming&hl=en&gl=us'
+  },
+  {
+    title: 'Live Up',
+    installs: 224100,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/eRxpzOsAQlHPluDQ_xJpWSwNnOuE1J34UKCKNA9S6ssjiT71spPF_SzdPDgF-RvXVNs',
+    appId: 'com.shejiao.liveup',
+    url: 'https://play.google.com/store/apps/details?id=com.shejiao.liveup&hl=en&gl=us'
+  },
+  {
+    title: 'Plato - Games & Group Chats',
+    installs: 15335951,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MXQTJw6HNaI8uiGPYHYpuNpk1q9TI0AInRqxvx5GOcr2bZVL7NsAdut8UGMx45yRdtVO',
+    appId: 'com.plato.android',
+    url: 'https://play.google.com/store/apps/details?id=com.plato.android&hl=en&gl=us'
+  },
+  {
+    title: 'Yippi',
+    installs: 995657,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/BzY6_au7qmYT-ahIKrQgucSSlh3zumLJrE4IK2w4j1wWUIKY0y6k1rpJIHkAuSEnhQ',
+    appId: 'com.toga.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.toga.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Hooya: video chat & live call',
+    installs: 483762,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/yyNioaUHEEw-LPOFM0fKDMETKXfhiqL0NpItYJpC4YyO5Wf5Eg6u5I8KZoF04DmlD6kM',
+    appId: 'com.cherru.video.live.chat',
+    url: 'https://play.google.com/store/apps/details?id=com.cherru.video.live.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Mamba - Online Dating App: Find 1000s of Single',
+    installs: 32727612,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/5NJAyR-o9qbGT_TKcyFPzobDier3z3S_-CHlnyT9s0bzEXgkbkZBQnODKxtpZAzCCqg',
+    appId: 'ru.mamba.client',
+    url: 'https://play.google.com/store/apps/details?id=ru.mamba.client&hl=en&gl=us'
+  },
+  {
+    title: 'Sango -  Live Free  Group Voice Chat Room',
+    installs: 1529508,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/UYS6bIs4EuNALAwcjKCj3ipmt7zz1b2CABL9V5X2ly9yKnF8Zz--ERj0VjuwPoGxVBc',
+    appId: 'com.meiqijiacheng.sango',
+    url: 'https://play.google.com/store/apps/details?id=com.meiqijiacheng.sango&hl=en&gl=us'
+  },
+  {
+    title: 'ThaiFriendly',
+    installs: 860436,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/VUxI2KQfHwrvu5fNtkSY6lvuC-j8OU1q4sheawQTWdNY41jURYp3aZMzrxkVnLyBaBM',
+    appId: 'com.thaifriendly.app',
+    url: 'https://play.google.com/store/apps/details?id=com.thaifriendly.app&hl=en&gl=us'
+  },
+  {
+    title: 'Daddyhunt: Fun Gay Dating',
+    installs: 1337805,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/yul3y3TIyol3Fg1DL_YKVnrbgQ9lqwp4e1nhOxLdox8rPlU-bDolM3cmfv5EQrrNkA',
+    appId: 'com.dhservices.daddyhunt',
+    url: 'https://play.google.com/store/apps/details?id=com.dhservices.daddyhunt&hl=en&gl=us'
+  },
+  {
+    title: 'fubar',
+    installs: 878296,
+    genre: 'SOCIAL',
+    icon: 'https://play-lh.googleusercontent.com/k7pUaGDdYNzAGPTBIytnM3AFOgyaXwaPwYytryis0u2n1jk0xBjIkLUH1U7fJNbSJac',
+    appId: 'com.fubar.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.fubar.mobile&hl=en&gl=us'
+  },
+  {
+    title: '百变大侦探-剧本杀扮演明星犯罪推理破案游戏',
+    installs: 50415,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/fOWAYnUG5q_WPkuV3sE18W6dB-obdviVNP3OFbUPOvUGYGziCdLLSbS9AUqdJ1jXDb0',
+    appId: 'com.mszmapp.detective',
+    url: 'https://play.google.com/store/apps/details?id=com.mszmapp.detective&hl=en&gl=us'
+  },
+  {
+    title: 'magicApp Calling & Messaging',
+    installs: 21670026,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/B56fjqri3ESwIs6jeed0br8ZXqwFsJr0ewSKcAoKbHH6iLGeQY3WU8yG_WIqnq7g4UI',
+    appId: 'com.magicjack',
+    url: 'https://play.google.com/store/apps/details?id=com.magicjack&hl=en&gl=us'
+  },
+  {
+    title: 'Locals.com',
+    installs: 10151,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/4I0C8aNwfMwsqJMcmPH0wStypzfr9IqPEC_kpbPuvaWHoqoJuoUdlmQIOyK3ca0HYrhR',
+    appId: 'com.locals.localsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.locals.localsapp&hl=en&gl=us'
+  },
+  {
+    title: 'SoulChill - Find Soulmate and Group Voice Chat',
+    installs: 1254007,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/o6tIvuF8EYUwY-tJbNuID4t3NjEOupZU3UFrUtkcBfKTM5cUuB1tqIAZeHLjOOexag',
+    appId: 'com.live.soulchill',
+    url: 'https://play.google.com/store/apps/details?id=com.live.soulchill&hl=en&gl=us'
+  },
+  {
+    title: 'F3 - Make new friends, Anonymous questions, Chat',
+    installs: 14935112,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/csNhCMKLEAWeoqOjJW9b-GCeIOzv_DFRHq9NZiYmzXC1TvjmGrqVe5Bdtkfc0p0r_fc',
+    appId: 'cool.f3',
+    url: 'https://play.google.com/store/apps/details?id=cool.f3&hl=en&gl=us'
+  },
+  {
+    title: 'ARGO - Social Video Chat',
+    installs: 4954809,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/F_OEbTS5TEpqjA2fnxzLsbkyP_BTARoAJo8ISqzJnf7VGyrvwFNCrNyRIB5BunG4BzY',
+    appId: 'com.probits.argo',
+    url: 'https://play.google.com/store/apps/details?id=com.probits.argo&hl=en&gl=us'
+  },
+  {
+    title: 'Tiya - Voice Chat & Match',
+    installs: 3612152,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/yVJqu__nxZV9WFfxwWUQ9VtHSTT2kmUXjzIYwa8-Sd-eJmIfCQPCV793Qy_5XalidbM',
+    appId: 'com.huanliao.tiya',
+    url: 'https://play.google.com/store/apps/details?id=com.huanliao.tiya&hl=en&gl=us'
+  },
+  {
+    title: 'FollowMeter - Unfollowers Analytics for Instagram',
+    installs: 4328491,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MFXlWvgUNjRC-y8gcgzviCFboQILneUvmzOwnmJgqHuuh-GQBSnrSn4W-Qvi6XdCiw',
+    appId: 'com.beakerapps.instameter2',
+    url: 'https://play.google.com/store/apps/details?id=com.beakerapps.instameter2&hl=en&gl=us'
+  },
+  {
+    title: 'OK',
+    installs: 182963321,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/MXiDx8ELb7pJl32MDUGr9zufJlk_gwvJYRzyP4WcVx2a7vpj9x57OJxOz00giHKh1pM',
+    appId: 'ru.ok.android',
+    url: 'https://play.google.com/store/apps/details?id=ru.ok.android&hl=en&gl=us'
+  },
+  {
+    title: 'MIKA: Live Streaming Chat and Make New Friends',
+    installs: 1031055,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/mVhieS9H-_UX_StqN1uo_FOr4ag6KYCI5fAOGWOTzLNHSUUaESctvZm8yrl9iH2zjg',
+    appId: 'com.mikaapp.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mikaapp.android&hl=en&gl=us'
+  },
+  {
+    title: 'InMyStalker - Who Viewed My Profile Instagram',
+    installs: 477361,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/xvQ8p8NaKwR7qeGN6RM9GCUacbaDKXnltodG87_n2Q4YSz-z33wGtbMGnX2050Z6pPM',
+    appId: 'com.mystalker.profile',
+    url: 'https://play.google.com/store/apps/details?id=com.mystalker.profile&hl=en&gl=us'
+  },
+  {
+    title: 'Bloomy: Dating Messenger App',
+    installs: 3873927,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Y1fTJrRj56S8or6nsbQlO-0RZM1i511wMCUT6-0yIx_SgSVDT-b1Rl7yLA3_M8vXcJEj',
+    appId: 'com.bloomyapp',
+    url: 'https://play.google.com/store/apps/details?id=com.bloomyapp&hl=en&gl=us'
+  },
+  {
+    title: 'Find My Devices',
+    installs: 6696694,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/0KS9hxakVyDvCw06E11EucDIDlHTVb5jj88yPfxgcZIAFtyEMApGu6fMHasUAUFceP8',
+    appId: 'net.cybrook.trackview',
+    url: 'https://play.google.com/store/apps/details?id=net.cybrook.trackview&hl=en&gl=us'
+  },
+  {
+    title: 'Kinkoo: BDSM, Fetish & Kink Dating for Kinky Life',
+    installs: 131026,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/oo9R-bBXwVXY7y7odpKYp2s1cV4--efP4mXC6Q4pc9qkM36d1cGZdRywNexClbBQt5I',
+    appId: 'com.jdating.kinkoo',
+    url: 'https://play.google.com/store/apps/details?id=com.jdating.kinkoo&hl=en&gl=us'
+  },
+  {
+    title: 'Hootsuite: Schedule Posts for Twitter & Instagram',
+    installs: 5328419,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/kgaj85DdhTfGNw-gyX3Mgbmu5FIdiwbvZA0ub-_7TUsrffrADsPyZrb5W-UIBIYKTw',
+    appId: 'com.hootsuite.droid.full',
+    url: 'https://play.google.com/store/apps/details?id=com.hootsuite.droid.full&hl=en&gl=us'
+  },
+  {
+    title: 'SPICY 🌶 Lesbian Chat & Dating',
+    installs: 6086922,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/emD-jeSXuknQTB-kLJhLtuHOIepSGr4DMZI_SJZxzmN9tKApaqUVEsA_Y1ReuyJeg9M',
+    appId: 'com.jaumo.lesbian',
+    url: 'https://play.google.com/store/apps/details?id=com.jaumo.lesbian&hl=en&gl=us'
+  },
+  {
+    title: 'Recon Profiles for Men',
+    installs: 67679,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/V8uU6YEM2MotB9s0LCC830mfUfWvqx2bp1Zl0ikbXIgcGUg_hVtq9dQjWMN4GKrJGXQf',
+    appId: 'com.t101.android3.recon.play',
+    url: 'https://play.google.com/store/apps/details?id=com.t101.android3.recon.play&hl=en&gl=us'
+  },
+  {
+    title: 'Between - Private Couples App',
+    installs: 12085891,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/lhKuPDM8sjFrRH7RFqgx31rjpwy7TzxA36vcrzqT-3dSFwx7nxUi4tWIqtokX6QVUrZ3',
+    appId: 'kr.co.vcnc.android.couple',
+    url: 'https://play.google.com/store/apps/details?id=kr.co.vcnc.android.couple&hl=en&gl=us'
+  },
+  {
+    title: '維納斯',
+    installs: 38929,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/LEazJL0qnvVY5kLrm3_i-Kq2fW7f236UUB1qKrvRNoRvsiHH_v7zz8rJvhVwVdkanY8',
+    appId: 'com.venuslive.liveapp',
+    url: 'https://play.google.com/store/apps/details?id=com.venuslive.liveapp&hl=en&gl=us'
+  },
+  {
+    title: 'Funchat-Fun video chat',
+    installs: 143533,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/njpkszFnikRc69eKwG1vTqN3COygWHdgC7ZRSlRFUOcn9QZVLLrgkP3SHW-m76W18Q',
+    appId: 'com.matchvideo.funchat',
+    url: 'https://play.google.com/store/apps/details?id=com.matchvideo.funchat&hl=en&gl=us'
+  },
+  {
+    title: 'DIDO - Free Group Voice Chat & Friends',
+    installs: 168377,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/PgzCXxsw9ad6Fu_WHO3VmQwgBZqrb7jGtg8-YWcVMP3h7oe5nq49JKh9z23EqpXUMh4s',
+    appId: 'com.dido',
+    url: 'https://play.google.com/store/apps/details?id=com.dido&hl=en&gl=us'
+  },
+  {
+    title: 'Pernals🔥FWB Hookup & Casual Dating App for Adults',
+    installs: 143259,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/SCQzkc6-RxTvyPueaQT7-GKmrgrYwKNPBaRmGmK1tJwdHwpNwZul9eYgLUo-ugaPbfU',
+    appId: 'com.xbasetech.cragly',
+    url: 'https://play.google.com/store/apps/details?id=com.xbasetech.cragly&hl=en&gl=us'
+  },
+  {
+    title: 'OYE Chat -Random Chat, Whisper In Live Video Call',
+    installs: 165569,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/2tNH_PbuXEUoIsoqpqzxKnZMuJeF2PLQLCqECX3ZTl4zj0iIFQAct0t-gQbhlIBTDA',
+    appId: 'com.oye.flipchat',
+    url: 'https://play.google.com/store/apps/details?id=com.oye.flipchat&hl=en&gl=us'
+  },
+  {
+    title: 'Vent - Express yourself freely',
+    installs: 1097595,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/irCKdYt7yTkBngsXhwuXuVaYRX8-v1JL6WEDBaHCj-cA_BsaBVfuarMwGvsjeXevclo',
+    appId: 'com.vent',
+    url: 'https://play.google.com/store/apps/details?id=com.vent&hl=en&gl=us'
+  },
+  {
+    title: 'Gaga Lite',
+    installs: 2743709,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/1iFn-uY9UMYODHmjfWyMcrAeH5cIEPc58hSBn4Oetyk2HunAFIZmQAJaMmW4PxxtnpQ',
+    appId: 'com.gagalite.live',
+    url: 'https://play.google.com/store/apps/details?id=com.gagalite.live&hl=en&gl=us'
+  },
+  {
+    title: 'TubeBuddy',
+    installs: 1734784,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/Dw0EhIXzf1KweXeRxvoOBJcglPQEJr0FsiQY5uXTBuer08cRuD9yfvSck1mOmSoH0Q',
+    appId: 'com.tubebuddy.tubebuddy_mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.tubebuddy.tubebuddy_mobile&hl=en&gl=us'
+  },
+  {
+    title: 'Sarman Instagram Blockers, Story, Follower Reports',
+    installs: 1039785,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/FPNHSQY-AMG-2J-c7iEpEP4LcTDIgsC5GCnx7sWvtS4H_MIQ4tElbRKCgDl1AwzlKSI',
+    appId: 'com.scuderia.sarman',
+    url: 'https://play.google.com/store/apps/details?id=com.scuderia.sarman&hl=en&gl=us'
+  },
+  {
+    title: 'Loops - يجمع العرب',
+    installs: 4853479,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/VzMfbIhqzhxiB05rKiN9WRKcr3LQyUXHGh-uOmFXxgWGY8SNTo9_Y__1RPkRXFgyo0A',
+    appId: 'mozat.rings.loops',
+    url: 'https://play.google.com/store/apps/details?id=mozat.rings.loops&hl=en&gl=us'
+  },
+  {
+    title: 'CooLLive - بث مباشر كول لايف',
+    installs: 157798,
+    genre: 'SOCIAL',
+    icon: 'https://lh3.googleusercontent.com/oBqDdSUqfEbBAN7bKQJHq4ADb1pf-rYSMS6dazTYFNEMpjCAjE9YkNGxU1kRXUgMlcc',
+    appId: 'com.coollive.phonelive',
+    url: 'https://play.google.com/store/apps/details?id=com.coollive.phonelive&hl=en&gl=us'
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'MARVEL Strike Force - Squad RPG',
+    installs: 21898174,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Ql3xzeRYVEqsOleQEltZSpK2bxo63VUn51iLllfdTk3BqSV7fkkrAbD4v_x0tdvTVSk',
+    appId: 'com.foxnextgames.m3',
+    url: 'https://play.google.com/store/apps/details?id=com.foxnextgames.m3&hl=en&gl=us'
+  },
+  {
+    title: 'RAID: Shadow Legends',
+    installs: 29007393,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg',
+    appId: 'com.plarium.raidlegends',
+    url: 'https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en&gl=us'
+  },
+  {
+    title: 'Summoners War',
+    installs: 67598989,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/UbdpbnAWSOFU_35tULIOPLmV5ey0bq6NTL59Ko7nNfig8WqNPbO3xAHsoQA9Sk8-_V0',
+    appId: 'com.com2us.smon.normal.freefull.google.kr.android.common',
+    url: 'https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common&hl=en&gl=us'
+  },
+  {
+    title: 'AFK Arena',
+    installs: 17901391,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aLqZ38FCV7T_04dAGAU3styoW4kkmTxvJhkOtQwz7ctVbg-VgkOwisDQKCu5uMNjxmM',
+    appId: 'com.lilithgame.hgame.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Star Wars™: Galaxy of Heroes',
+    installs: 50789503,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/zH_95Rqd41d8OCTb34-_zK8sCQ7btdS3hKN7tIPDKgILZ3n-FfBB51kJoMBW4oJDIyY',
+    appId: 'com.ea.game.starwarscapital_row',
+    url: 'https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Thrones: Conquest ™ - Strategy Game',
+    installs: 18582785,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/_MznTommnOrXKavQ2A5MHA_9CuTMVn-SffyUq9lLpaOtgPHrD1ME7VzxPtd_65FxEQ',
+    appId: 'com.wb.goog.got.conquest',
+    url: 'https://play.google.com/store/apps/details?id=com.wb.goog.got.conquest&hl=en&gl=us'
+  },
+  {
+    title: 'Hero Wars – Hero Fantasy Multiplayer Battles',
+    installs: 47836714,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yCfZ99P3rHwCHssMWdGOnZrJFK8k-XGiou4h8VemzwFCTvZkSOku9Gl9K9hmOeVXSrzk',
+    appId: 'com.nexters.herowars',
+    url: 'https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Sultans',
+    installs: 25455772,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/SKieEU03mhu98ZZjuKo5xJT-pyW23JyXmZY6lLE-0K9BP1S714bzrRm70AcFcvqC2Hw',
+    appId: 'com.dc.hwsj',
+    url: 'https://play.google.com/store/apps/details?id=com.dc.hwsj&hl=en&gl=us'
+  },
+  {
+    title: 'The Seven Deadly Sins: Grand Cross',
+    installs: 8875178,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/H6P94BqBQcopEw6BX3BIpPe8gD3jt1Pb_KYwhmcSmzETPX0SWpHqebbvEFzECnYFyjCr',
+    appId: 'com.netmarble.nanagb',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.nanagb&hl=en&gl=us'
+  },
+  {
+    title: 'Epic Seven',
+    installs: 5035748,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/qh_Kgftlf9UKgja5X9sB0HA_bfAQTjMjgkj3CBMaeqtIbX9e-Wve8NX5nmAu4wXmDq8',
+    appId: 'com.stove.epic7.google',
+    url: 'https://play.google.com/store/apps/details?id=com.stove.epic7.google&hl=en&gl=us'
+  },
+  {
+    title: 'WWE Champions 2020',
+    installs: 39029106,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/r6k39U2FXRm_9_4HPoopPE6Okd4qaEUEX1MeEIDWRK7AH1foaltdBCONxxJrbi7iaoPm',
+    appId: 'com.scopely.whiplash',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.whiplash&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Heroes',
+    installs: 23692425,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/m1bGvQ1JMuiYAOMA37H92YOVE3TNU4d8duKLyastAUQq1MvL7yx0YVFKg_Tz32erkw',
+    appId: 'com.droidhang.ad',
+    url: 'https://play.google.com/store/apps/details?id=com.droidhang.ad&hl=en&gl=us'
+  },
+  {
+    title: 'Guardian Tales',
+    installs: 2883061,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/IEiEV6UZ7Wy3DzF4mReTGowQw0jGiXoAi0Oag701YlI4G6FhNDdRa4aySDs0mi6gggDc',
+    appId: 'com.kakaogames.gdts',
+    url: 'https://play.google.com/store/apps/details?id=com.kakaogames.gdts&hl=en&gl=us'
+  },
+  {
+    title: 'Fate/Grand Order (English)',
+    installs: 1966497,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/WRixOqWRZQHfCgFhqfWbjCh6myA4hO4bOPQ_KJJEKrB_G8KZvl0IvNEUmRuxnfx8Tbw',
+    appId: 'com.aniplex.fategrandorder.en',
+    url: 'https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en&hl=en&gl=us'
+  },
+  {
+    title: 'Black Desert Mobile',
+    installs: 9129944,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/T_LE3trRpm2KeLb1tvwJDxid2BCYpZx2MI2Fecq-y7r7OvJAOc8_BYARaOgT4kSFkrq2',
+    appId: 'com.pearlabyss.blackdesertm.gl',
+    url: 'https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm.gl&hl=en&gl=us'
+  },
+  {
+    title: 'Dragalia Lost',
+    installs: 2055642,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/6Q9KAz2oHcl3ispi8uD9shmU0hc4mKNetb6xBmq1th_1_cWCejMS2kEpWRmMM6hBWQ',
+    appId: 'com.nintendo.zaga',
+    url: 'https://play.google.com/store/apps/details?id=com.nintendo.zaga&hl=en&gl=us'
+  },
+  {
+    title: 'MARVEL Puzzle Quest: Join the Super Hero Battle!',
+    installs: 17031826,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/h2JcX6uU6FilF0ezkdI53MWZM4ueoeZKZr63NC5aCYBlTUJbu6iM4s4yrjuC-doEschr',
+    appId: 'com.d3p.mpq',
+    url: 'https://play.google.com/store/apps/details?id=com.d3p.mpq&hl=en&gl=us'
+  },
+  {
+    title: 'LifeAfter',
+    installs: 16941170,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/weju3k4GoZeSnILLw4KbkXMUrh5g5xHoKHsmCT_u1bUJQroHSAk88R-xhC_9WBYh9ZeK',
+    appId: 'com.netease.mrzhna',
+    url: 'https://play.google.com/store/apps/details?id=com.netease.mrzhna&hl=en&gl=us'
+  },
+  {
+    title: 'FINAL FANTASY  BRAVE EXVIUS',
+    installs: 10734369,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/UGy3rAIltzVQb5n_yd0euA8EftzpbYAO7ZhFga4Y7U4aTLKtpcZx6vpkGoHfeXOZ',
+    appId: 'com.square_enix.android_googleplay.FFBEWW',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW&hl=en&gl=us'
+  },
+  {
+    title: 'MARVEL Future Fight',
+    installs: 91107950,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/AIUVISSoSgqUCctn2222QMiWmc5DzajKM2OsGOlcmn5lwpZqiwiO7STsPuLDyHrsdv4',
+    appId: 'com.netmarble.mherosgb',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.mherosgb&hl=en&gl=us'
+  },
+  {
+    title: 'Love Nikki-Dress UP Queen',
+    installs: 16301023,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/2ZyiBChPwnOLTeg07nVcFGoooQzR6WrUlwR4Vn0gW97tbJgUZFGoceUeDvjxSyOC71E',
+    appId: 'com.elex.nikkigp',
+    url: 'https://play.google.com/store/apps/details?id=com.elex.nikkigp&hl=en&gl=us'
+  },
+  {
+    title: "Disney Sorcerer's Arena",
+    installs: 3404119,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/92DMmiP-RR1PWpuH9Z4bp7SAO8rkxqCc7aFEHvULVv9Bb49N1dpgbglowUQn5rH5iZ4',
+    appId: 'com.glu.disneygame',
+    url: 'https://play.google.com/store/apps/details?id=com.glu.disneygame&hl=en&gl=us'
+  },
+  {
+    title: 'Looney Tunes™ World of Mayhem - Action RPG',
+    installs: 19205492,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/fW2W-agvA7NALIW5XgkQHJCGxBjv-BhoGPHL20iQxTzBy3c6JATtAERalE6rw_ks1VA',
+    appId: 'com.aqupepgames.projectpepe',
+    url: 'https://play.google.com/store/apps/details?id=com.aqupepgames.projectpepe&hl=en&gl=us'
+  },
+  {
+    title: 'The Walking Dead: Road to Survival',
+    installs: 40213810,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/lM1AQwpzvVcamum_P6kTSYNK29KOsM7tmtEcI9sphM9sUfNIHXdJq_uAKZAensbNBQ',
+    appId: 'com.scopely.headshot',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.headshot&hl=en&gl=us'
+  },
+  {
+    title: 'EVE Echoes',
+    installs: 1809836,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yIwvLsGmV4U0RPNY22CU45gRx2X7eOvnJLTibZ2JBDenJaxhl2rlpGQJJ1Ph2erS4eEq',
+    appId: 'com.netease.eve.en',
+    url: 'https://play.google.com/store/apps/details?id=com.netease.eve.en&hl=en&gl=us'
+  },
+  {
+    title: 'ONE PIECE TREASURE CRUISE',
+    installs: 8321585,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/OSzDl1eioNEorqOTYtqZbGQkMjYX_r6UA7zQ8kojkQL3oLuB5bRZWl3Ar0aMWKAZtQ-r',
+    appId: 'com.namcobandaigames.spmoja010E',
+    url: 'https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010E&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzles & Survival',
+    installs: 970370,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/6wa3U0mYOwVt0SFx8mH1mnftjqK3O_pahnTMshAfd3xJJCHzgAB8iE-wtROoiBRiGw',
+    appId: 'com.global.ztmslg',
+    url: 'https://play.google.com/store/apps/details?id=com.global.ztmslg&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzles & Conquest',
+    installs: 1611667,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/hBpjOPVbQJOw8__HrsOdq_UEWIkz4dxwFYcsvgAF0tLo2bYpbjUBpGiZUfIeezLnS4w',
+    appId: 'com.global.tmslg',
+    url: 'https://play.google.com/store/apps/details?id=com.global.tmslg&hl=en&gl=us'
+  },
+  {
+    title: 'SINoALICE',
+    installs: 998620,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/B2AZPawkXz2HiPv1NhbSThRKeQGNROZOIwqn5-f0bsvcca7htOBwIWBVOHH6RGyWnUPj',
+    appId: 'com.nexon.sinoalice',
+    url: 'https://play.google.com/store/apps/details?id=com.nexon.sinoalice&hl=en&gl=us'
+  },
+  {
+    title: "King's Throne: Game of Lust",
+    installs: 2704944,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aUfysjzSsIUcRS2sIMKiNKbrwrvr3HhzzFldj_2y01GwTrgVQVt2WMpkFKDV1ZUsLdhg',
+    appId: 'com.ksrgland.goat',
+    url: 'https://play.google.com/store/apps/details?id=com.ksrgland.goat&hl=en&gl=us'
+  },
+  {
+    title: 'Mobile Legends: Adventure',
+    installs: 15174521,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/0SCI8i6tqM670aeUhRqHJgb4DiuPKz2FQfYT6845XhvSlV547ndgxCfklPyutPnyMgE',
+    appId: 'com.moonton.mobilehero',
+    url: 'https://play.google.com/store/apps/details?id=com.moonton.mobilehero&hl=en&gl=us'
+  },
+  {
+    title: '叫我官老爺 - 原創宮廷模擬當官手遊',
+    installs: 1361305,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/PidSgImVDPoVkzEIjUQG-15K0zLAdkmyIRjj6Yho1fOC3auzZTriAp2afU3kspVV0g',
+    appId: 'com.szckhd.jwgly.azfanti',
+    url: 'https://play.google.com/store/apps/details?id=com.szckhd.jwgly.azfanti&hl=en&gl=us'
+  },
+  {
+    title: 'Ulala: Idle Adventure',
+    installs: 2797308,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/K2mvB7oPI42PBaXtvsFahGqlEo-u7x_NNMGxZCA4XazlkidPtfvgNMPcTiy4SMtSA9w',
+    appId: 'com.xdg.and.wll',
+    url: 'https://play.google.com/store/apps/details?id=com.xdg.and.wll&hl=en&gl=us'
+  },
+  {
+    title: 'Legendary: Game of Heroes - Fantasy Puzzle RPG',
+    installs: 8835509,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/MfMiN3x3743F6bjd7yTJO6i0gSG-hVTpuBmvxV9via4fpUiZCSqxfTriPvWkrAiu7Fk',
+    appId: 'com.n3twork.legendary',
+    url: 'https://play.google.com/store/apps/details?id=com.n3twork.legendary&hl=en&gl=us'
+  },
+  {
+    title: 'Avakin Life - 3D Virtual World',
+    installs: 76462755,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/W9A_DsiCT0LrRU4WJGqmmWYCBkFIH1tphp4RNp11LE8ywW1xxpMfDJvEN1oKsRqVgA',
+    appId: 'com.lockwoodpublishing.avakinlife',
+    url: 'https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife&hl=en&gl=us'
+  },
+  {
+    title: 'Exos Heroes',
+    installs: 2229878,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/CbpE5OEUw6Rgj5MBrvkos0ZSi8Jo9VXSP5Vkb_-q1qbn1-ZB2QHzAeNEN3S5NkczWb43',
+    appId: 'com.linegames.exos',
+    url: 'https://play.google.com/store/apps/details?id=com.linegames.exos&hl=en&gl=us'
+  },
+  {
+    title: 'Lovelink™- Chapters of Love',
+    installs: 404396,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/UvXbM45KhPIbb53N8KGpPG2QMaHd38NjJ7FZtQMahv4oJVYHfTHjAktK_URR3a6yoQ',
+    appId: 'com.ludia.lovelink',
+    url: 'https://play.google.com/store/apps/details?id=com.ludia.lovelink&hl=en&gl=us'
+  },
+  {
+    title: 'Bleach: Immortal Soul',
+    installs: 3170955,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/PUmaUJCY95PNrtLfK_c2ZowlDUZHTiDhUYCPf7zGjFlP9Bm5W5vAK9wfXEK7ulboQ21l',
+    appId: 'com.ttlike.mbsaen.android',
+    url: 'https://play.google.com/store/apps/details?id=com.ttlike.mbsaen.android&hl=en&gl=us'
+  },
+  {
+    title: 'Be The King: Judge Destiny',
+    installs: 2242754,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/z3U5m_RLtECKZpQLWMGzHEVwxGMdzTzFiKnrsoiWVesXUmzh1pcEnSm3FJl10lr7rQ',
+    appId: 'com.szckhd.jwgly.azyw',
+    url: 'https://play.google.com/store/apps/details?id=com.szckhd.jwgly.azyw&hl=en&gl=us'
+  },
+  {
+    title: 'DISSIDIA FINAL FANTASY OPERA OMNIA',
+    installs: 2299551,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/23jwNNBduUlfNAbEZ3FSG-iHjdtxFB5oHKXFPHnEDQM3dZM_-w5gFSqGHCzaiFHi70w',
+    appId: 'com.square_enix.android_googleplay.DFFOperaOmnian',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.DFFOperaOmnian&hl=en&gl=us'
+  },
+  {
+    title: 'FINAL FANTASY Record Keeper',
+    installs: 3468735,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ebaizQo-Teak0f8KgC_7go1tKIq35VMeDlNfvRSRvtacy-2KiGYfN0I822_SbJQdN90',
+    appId: 'com.dena.west.FFRK',
+    url: 'https://play.google.com/store/apps/details?id=com.dena.west.FFRK&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Raja',
+    installs: 3721674,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/uQPCfJivd-mPRDqh2EyNrTGzcvbQNRYsncddKHtbZzR9OxMTOVmv-OdaDy3skY6GYw',
+    appId: 'com.zloong.eu.dr.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.zloong.eu.dr.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Sky: Children of the Light',
+    installs: 7376970,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yB3CKpo4Pqx5pJVF15mWpvW6gPO5upbxtD159DchL_5mKIamGoNhk1oCw9nXTuyWo1xZ',
+    appId: 'com.tgc.sky.android',
+    url: 'https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en&gl=us'
+  },
+  {
+    title: 'Hustle Castle: Medieval games in the kingdom',
+    installs: 45210206,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/7xoyfdsRlUeSUc7QM_ePRAHylHotweEeTxvU8LA0OwoIQBbArxb53Mz0F5YmdaKw-w',
+    appId: 'com.my.hc.rpg.kingdom.simulator',
+    url: 'https://play.google.com/store/apps/details?id=com.my.hc.rpg.kingdom.simulator&hl=en&gl=us'
+  },
+  {
+    title: 'Perfect World Mobile',
+    installs: 2788188,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/D3IqO5S-DTb9Fn_fX5n0BdE8O7iMQ0avMrKcqNrhnBk-930rNjHgmVrcDZm8jvJsGP0',
+    appId: 'com.pwrd.pwm',
+    url: 'https://play.google.com/store/apps/details?id=com.pwrd.pwm&hl=en&gl=us'
+  },
+  {
+    title: 'Call me a Legend - Game of Battle & Love',
+    installs: 2232053,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/sD-7ISHYrj1waDWTlLr5w9Uj9k_zRCbgZAHSno7Ekr1KMFNy87ErZfEbsuTtjZFSTA',
+    appId: 'com.sixwaves.cml',
+    url: 'https://play.google.com/store/apps/details?id=com.sixwaves.cml&hl=en&gl=us'
+  },
+  {
+    title: 'Pokémon Masters EX',
+    installs: 14130711,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/1giVw5iSV-Ee8Q9a5PCiYeKEIOEvYpeS1Z5v1j9B_SoIECRnoVLgvIgajpellmzq9FcP',
+    appId: 'com.dena.a12026418',
+    url: 'https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=en&gl=us'
+  },
+  {
+    title: 'Might & Magic: Era of Chaos',
+    installs: 1604775,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yWH1KKdpjs_aLBRbutFAMnSTgS8MrQNeSZhem0lJFQLhxKndr8st7L6se2PlJgCoU6pn',
+    appId: 'com.ubisoft.might.magic.heroes.fantasy.rpg',
+    url: 'https://play.google.com/store/apps/details?id=com.ubisoft.might.magic.heroes.fantasy.rpg&hl=en&gl=us'
+  },
+  {
+    title: 'MythWars & Puzzles: RPG Match 3',
+    installs: 3938362,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/s0oVuSIIlUde8s8REKdBA3xiTIWnY3tPsSuKyh1b5ufcjN2W_HrcypSPc2QhmfJAWQ',
+    appId: 'com.karma.mythwarspuzzles',
+    url: 'https://play.google.com/store/apps/details?id=com.karma.mythwarspuzzles&hl=en&gl=us'
+  },
+  {
+    title: 'KING`s RAID',
+    installs: 8866781,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/0AqksYUejQ8WnWm5k_9tavWZXarnqVnfnglundsrGrcAkyXGJGnDlCUNUrUqbrRtHws',
+    appId: 'com.vespainteractive.KingsRaid',
+    url: 'https://play.google.com/store/apps/details?id=com.vespainteractive.KingsRaid&hl=en&gl=us'
+  },
+  {
+    title: 'MapleStory M - Open World MMORPG',
+    installs: 4160106,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/3Jm2H2iC9-adQbHxCaiO3NK8CHc97K5SkkyZSGAOV6XWhQ1dZSeMXeo9_doPkoczRA',
+    appId: 'com.nexon.maplem.global',
+    url: 'https://play.google.com/store/apps/details?id=com.nexon.maplem.global&hl=en&gl=us'
+  },
+  {
+    title: 'Obey Me! - Otome Dating Sim / Romance Anime Story',
+    installs: 1470067,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/7UEmoMx68FzB9u2ArAi3F90eeAjTI4xqjnJkjNUY45f-NaVqVJLCP-SFjaUT1KwzDDY',
+    appId: 'com.nttsolmare.game.android.obeyme',
+    url: 'https://play.google.com/store/apps/details?id=com.nttsolmare.game.android.obeyme&hl=en&gl=us'
+  },
+  {
+    title: 'Tales of Wind',
+    installs: 5443236,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/cGBYr4ctAmMfhYdvYNKfelXMBPJd1Amsib8Xn355E2tkGRBkFLcDYJ-sZ1JXg5lvDSg',
+    appId: 'com.emagroups.ic2',
+    url: 'https://play.google.com/store/apps/details?id=com.emagroups.ic2&hl=en&gl=us'
+  },
+  {
+    title: 'One-Punch Man: Road to Hero 2.0',
+    installs: 2252756,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/BkNoflAksB0-5vxuBcibOWzmPG7J-IOxl8sClDfs1hx9tro4afcRsmGzi51zOMK5jDI',
+    appId: 'com.alpha.mpsen.android',
+    url: 'https://play.google.com/store/apps/details?id=com.alpha.mpsen.android&hl=en&gl=us'
+  },
+  {
+    title: 'Ragnarok M: Eternal Love(ROM)',
+    installs: 1551620,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/D2COIEBnxJkLuGjnKZk9rdZUgrNGd3tHoV0RkKEA-g4PiBcv80_hiDW_-CC8kudLXhc',
+    appId: 'com.gravity.romNAg',
+    url: 'https://play.google.com/store/apps/details?id=com.gravity.romNAg&hl=en&gl=us'
+  },
+  {
+    title: 'Girls X Battle 2',
+    installs: 8489390,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/dDnI7C27kDo17NHxcX7Oqg_hwCM9vja6UBmxngg0afhkv6z1ZOLmdCvNeclaEtygVqI',
+    appId: 'com.carolgames.moemoegirls',
+    url: 'https://play.google.com/store/apps/details?id=com.carolgames.moemoegirls&hl=en&gl=us'
+  },
+  {
+    title: 'Grand Summoners - Anime Action RPG',
+    installs: 1767923,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/FxepvQl0RdNnvokzk_xXG0b-mPFPE4Y-yx7fAbOpm0j00V82EmnHP_3sBCzBPDbyYA',
+    appId: 'jp.goodsmile.grandsummonersglobal_android',
+    url: 'https://play.google.com/store/apps/details?id=jp.goodsmile.grandsummonersglobal_android&hl=en&gl=us'
+  },
+  {
+    title: 'Taptap Heroes',
+    installs: 6979099,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Uv16y7I_ETktU9PDo4zka1AnjkUkQ0QfCODGRj1jenvAMEa8R3juetGPd9Vgyd92GQ',
+    appId: 'com.westbund.heros.en',
+    url: 'https://play.google.com/store/apps/details?id=com.westbund.heros.en&hl=en&gl=us'
+  },
+  {
+    title: 'Knighthood',
+    installs: 3579148,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/KNJP4u-hBye36C08r9xQ7422vAYl8o7fw5Flc763apoa27EZhTKtNGTBc4kGQb2XM04',
+    appId: 'com.king.knightsrage',
+    url: 'https://play.google.com/store/apps/details?id=com.king.knightsrage&hl=en&gl=us'
+  },
+  {
+    title: 'TMNT: Mutant Madness',
+    installs: 284376,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/vRZuxNRE0q5cmq7kO1Wc7CW3qbln1CYtCTVbrqynsUORwigLOAKwBQ-K6qePPH_AflI',
+    appId: 'com.kongregate.mobile.tmnt.google',
+    url: 'https://play.google.com/store/apps/details?id=com.kongregate.mobile.tmnt.google&hl=en&gl=us'
+  },
+  {
+    title: 'DC Legends: Fight Superheroes',
+    installs: 28664110,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/g1ryHZeIHB4sVcWH3rho7V8IkaqBn_gtraT-sC5gdkoHun79U_IINaHvnjrfPOKZ38g',
+    appId: 'com.wb.goog.dc.legends',
+    url: 'https://play.google.com/store/apps/details?id=com.wb.goog.dc.legends&hl=en&gl=us'
+  },
+  {
+    title: 'Art of Conquest: Dark Horizon',
+    installs: 17625858,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/hKxGt45x4aCbb3u_iu4lT9pPs8c6OkebkrwVTP4oADhM_n0LJjYBsrT1Tx14rqFxrA',
+    appId: 'com.lilithgame.sgame.gp.oss',
+    url: 'https://play.google.com/store/apps/details?id=com.lilithgame.sgame.gp.oss&hl=en&gl=us'
+  },
+  {
+    title: 'Puzzle Combat: Match-3 RPG',
+    installs: 936991,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/eutfmzgD3dd2YfYZ45TrpAzs7LYkYkAykmQnmtA_QKAfntRbjfuNM3epZgImH4PiH2w',
+    appId: 'com.smallgiantgames.combat',
+    url: 'https://play.google.com/store/apps/details?id=com.smallgiantgames.combat&hl=en&gl=us'
+  },
+  {
+    title: 'Dress up! Time Princess',
+    installs: 458686,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/LPLBtqI8746ax2bNKawlrRlGPNJcTq7efqomiq1Wb2d1TJdhRekqJLLiC7awH41BKA',
+    appId: 'com.igg.android.dressuptimeprincess',
+    url: 'https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=en&gl=us'
+  },
+  {
+    title: 'RuneScape Mobile',
+    installs: 1339821,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/V6a5Q5LXu1NuN9cFAepZOvMsjgNqdqfhnHG97z88A6Fih5EAOd-_vn0C5BxFPnz-FQ',
+    appId: 'com.jagex.runescape.android',
+    url: 'https://play.google.com/store/apps/details?id=com.jagex.runescape.android&hl=en&gl=us'
+  },
+  {
+    title: 'Goddess: Primal Chaos - Free 3D Action MMORPG Game',
+    installs: 2630856,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/tGJ_MBr3181_9rti30uQhmUmZ5YqWXJghSaSrqj3UZ7j1l4SubF0oh4_fbHiEz4BtQ',
+    appId: 'com.heroesofchaos.ggplay.koramgame.na',
+    url: 'https://play.google.com/store/apps/details?id=com.heroesofchaos.ggplay.koramgame.na&hl=en&gl=us'
+  },
+  {
+    title: 'Lineage 2: Revolution',
+    installs: 9060160,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/OzuWnpa-5kqbIsWzqu4KaKC0wEqLzQLAKdgqcGsEYeUiE4HljQt2TDjaz85oEwBR9xC8',
+    appId: 'com.netmarble.lin2ws',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.lin2ws&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Arena: Evolution Legends',
+    installs: 687996,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/3MesGMcU4JolUOj89O8HOjo2jb5lrUuzI_JZlDfTKYcn0NwDk-NJqQ9fR0xH3DHEM58',
+    appId: 'com.herogame.gplay.idlearena2',
+    url: 'https://play.google.com/store/apps/details?id=com.herogame.gplay.idlearena2&hl=en&gl=us'
+  },
+  {
+    title: 'Age of Magic: Turn-Based Magic RPG & Strategy Game',
+    installs: 6079404,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/5b1ziDgbGoXz20UbkGx6fAK0k4bm_wsLEM_ULhRFhaUMh5FclNRExAY31_4RdGJ9Ng',
+    appId: 'com.playkot.ageofmagic',
+    url: 'https://play.google.com/store/apps/details?id=com.playkot.ageofmagic&hl=en&gl=us'
+  },
+  {
+    title: 'Date A Live: Spirit Pledge - Global',
+    installs: 477773,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/jJRUcxFYDX0mXvbDY99Hs434Ytp8RmkOLvuX79kemDU85JuVFb9zTGHGmdQHtwXy2zE',
+    appId: 'com.en.datealive.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.en.datealive.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Lord of Heroes',
+    installs: 1959351,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/deKhMGJsTWg0Nm0jfhPqVcJy5BuEBNT4QG-RGHbB679DHbqshPRLB9jSh6ggrNPkb-Vf',
+    appId: 'com.clovergames.lordofheroes',
+    url: 'https://play.google.com/store/apps/details?id=com.clovergames.lordofheroes&hl=en&gl=us'
+  },
+  {
+    title: 'Darkness Rises',
+    installs: 26765415,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/L8qcBtQUYar9rjAldJnK1OUnuoF4nly0-buj2dEDss5FHzKC4OO3zUBoAQjNS_imJX0',
+    appId: 'com.nexon.da3.global',
+    url: 'https://play.google.com/store/apps/details?id=com.nexon.da3.global&hl=en&gl=us'
+  },
+  {
+    title: 'Idle Angels',
+    installs: 486357,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4l59GCavtaPavbQExL2YbZyO806vAU2Wa1unpiFT0gHGcw6xXlYcvvD8qB_AmZvDx4p4',
+    appId: 'com.mujoysg.hxbb',
+    url: 'https://play.google.com/store/apps/details?id=com.mujoysg.hxbb&hl=en&gl=us'
+  },
+  {
+    title: 'World of Kings',
+    installs: 1653549,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/THUcJz24ZOTStrzo3oyauukdHG6dR2jJn9rcof0xY1a-aTbNMaCShdiAMLJLaNY35_M',
+    appId: 'com.zloong.eu.wok',
+    url: 'https://play.google.com/store/apps/details?id=com.zloong.eu.wok&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Storm Fantasy',
+    installs: 1681455,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/FmeuRtXlx6luv_P1MJR7D19OMITrsP2WRqsdLw3LN2mgmtZisQMSitdlFO-6SrdnTwe5',
+    appId: 'com.dsfgland.goat',
+    url: 'https://play.google.com/store/apps/details?id=com.dsfgland.goat&hl=en&gl=us'
+  },
+  {
+    title: 'Tap Titans 2: Legends & Mobile Heroes Clicker Game',
+    installs: 14363728,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/9_B38bhuCedryAgj-YRPwsNTgDRaOKHAvlBqMU38G51FAZ4XCngUdI_nGxKkOAc78XU',
+    appId: 'com.gamehivecorp.taptitans2',
+    url: 'https://play.google.com/store/apps/details?id=com.gamehivecorp.taptitans2&hl=en&gl=us'
+  },
+  {
+    title: 'Saint Seiya Awakening: Knights of the Zodiac',
+    installs: 8089376,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/TkxqyMvBSLO_dZPxpU53Omtaz5SV1Ok0kUFznaM9Zki7U8xHNMXEAC5EgUEBc7qmrVo',
+    appId: 'com.tencent.tmgp.sskeus',
+    url: 'https://play.google.com/store/apps/details?id=com.tencent.tmgp.sskeus&hl=en&gl=us'
+  },
+  {
+    title: 'LAST CLOUDIA',
+    installs: 368852,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ptGl2MhEUlYRqnfdjbu05YFeQIp3PQ1JbcJBGnjveu64jiamKhe96qEFlCUWnAV6MjRW',
+    appId: 'com.aidis.lastcloudiaen',
+    url: 'https://play.google.com/store/apps/details?id=com.aidis.lastcloudiaen&hl=en&gl=us'
+  },
+  {
+    title: '少年三国志2新马版',
+    installs: 166821,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/rVz4nGys7kRXsD6sMWpWLBKim867MrfhACUItHqpbJkCnp3ZyiQ4ha5CMTAqHWo74Q',
+    appId: 'com.yoozoogames.ss2game',
+    url: 'https://play.google.com/store/apps/details?id=com.yoozoogames.ss2game&hl=en&gl=us'
+  },
+  {
+    title: 'Sword Art Online Alicization Rising Steel',
+    installs: 2018505,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/XAq0NG9-QR8jAQBQLuXeWW1xdDHqN0ii6qMCugAvK3ay8MsAcz1uBVmGMbFobLHEq9k',
+    appId: 'com.bandainamcoent.saoars',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.saoars&hl=en&gl=us'
+  },
+  {
+    title: 'Royal Chaos',
+    installs: 1872524,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/hbHZJfVFeSrBnZ8syt8uLYT3SURmM-D0phVpImgScg6h82xOlHIWntXKkecgtrxmr88o',
+    appId: 'com.GF.apcguscn.hwyad.google',
+    url: 'https://play.google.com/store/apps/details?id=com.GF.apcguscn.hwyad.google&hl=en&gl=us'
+  },
+  {
+    title: 'KINGDOM HEARTS Uχ Dark Road',
+    installs: 4061646,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/NNL96YLdXSOejhwdccm6B-mcl8A4tkRL1_B6IsYX5csl-Zy-XOeElKB6E0J8hlh6nSc',
+    appId: 'com.square_enix.android_googleplay.khuxww',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxww&hl=en&gl=us'
+  },
+  {
+    title: 'Unison League',
+    installs: 3881479,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/dryyZAj3bOYX1o2D4uae76pu_rAZZPjg5JcxcReMHA-CryHXNt9M-rZ0Ndz8i9FQdv8e',
+    appId: 'en.co.atm.unison',
+    url: 'https://play.google.com/store/apps/details?id=en.co.atm.unison&hl=en&gl=us'
+  },
+  {
+    title: 'TALES OF CRESTORIA',
+    installs: 468696,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/scxHvtK9xWkhAuD0F67EQ8LyDJstM2RYi_NUsTn4hwqmpfjgYsrU6mfTQcFFQIQ9FTo',
+    appId: 'com.bandainamcoent.crestoria_ww',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.crestoria_ww&hl=en&gl=us'
+  },
+  {
+    title: 'V4',
+    installs: 1175450,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/BgApMwbD3StQjCPmAZLmAStE13BrRnfDPCYHClisFu6EA3SUtx7Pf7qQjoBFtln2Xg',
+    appId: 'com.nexon.v4gb',
+    url: 'https://play.google.com/store/apps/details?id=com.nexon.v4gb&hl=en&gl=us'
+  },
+  {
+    title: 'Crush Them All',
+    installs: 4461960,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/3NXqFDy4GxFSJ2jFjoOVJzLrRgvrdlgnCbSerOvVX-Xo3AfxRbrjCejpuw_Ne3OrAE53',
+    appId: 'com.godzilab.idlerpg',
+    url: 'https://play.google.com/store/apps/details?id=com.godzilab.idlerpg&hl=en&gl=us'
+  },
+  {
+    title: 'MASS FOR THE DEAD',
+    installs: 374931,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/AcbmdPl6o16oOb_Gx6_bOXC2hHqIp2mbKxslnJEugd3J7I3XpHLkccKPIzGTW1_FnQWR',
+    appId: 'com.overlord_game.english',
+    url: 'https://play.google.com/store/apps/details?id=com.overlord_game.english&hl=en&gl=us'
+  },
+  {
+    title: 'THE ALCHEMIST CODE',
+    installs: 3436466,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/FKAgzGDibGg4W4hSG9CGTXncKN6qL4FREyW7efTZ-JpqcLCld9lQYXUt1ODp09cTReI',
+    appId: 'sg.gumi.alchemistww',
+    url: 'https://play.google.com/store/apps/details?id=sg.gumi.alchemistww&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Champions',
+    installs: 807898,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/8En_vxBLSSgBwFeS79QsPqfK6-iBFsiCTO_CubPMCoDoc57AfIWDvV1HtnrcQ2_PWQ',
+    appId: 'com.playquantum.battler',
+    url: 'https://play.google.com/store/apps/details?id=com.playquantum.battler&hl=en&gl=us'
+  },
+  {
+    title: 'Dynasty Heroes: Legend of SamKok',
+    installs: 837879,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/u2M1IlCqX5GA20pPnnok7QfZY6rdBI0TTbdEHQUQEGz_K4ar7AbTgH0vkMisQv4m1co',
+    appId: 'com.dynasty.hero.an',
+    url: 'https://play.google.com/store/apps/details?id=com.dynasty.hero.an&hl=en&gl=us'
+  },
+  {
+    title: 'Gaia Odyssey',
+    installs: 779044,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/-OCAIewmnNhsDs_eWG2-wXGDRBmTTKRIVsYTggbNZSSqmU_fCfOHf-FlfOQj5ZZ9GqE',
+    appId: 'com.eyougame.xjhx.en',
+    url: 'https://play.google.com/store/apps/details?id=com.eyougame.xjhx.en&hl=en&gl=us'
+  },
+  {
+    title: 'DIGIMON ReArise',
+    installs: 2066058,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/o1N7J0O1XPhyBKYCj8kx-HsemBvShmaFu9Ee7ezs5IHEfs-JGVj79aohP93Dn6ROgwU',
+    appId: 'com.bandainamcoent.digimon_rearise_ww',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.digimon_rearise_ww&hl=en&gl=us'
+  },
+  {
+    title: 'Destiny Child',
+    installs: 1886744,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Igr_DX14nrGU_owNXPdW9Wyxl3R5lgaSx6_eJonG5bLifgBoeRhZH0ADEcDJoedQkK73',
+    appId: 'com.linegames.dcglobal',
+    url: 'https://play.google.com/store/apps/details?id=com.linegames.dcglobal&hl=en&gl=us'
+  },
+  {
+    title: 'Eternal Sword M',
+    installs: 1550298,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/uCu_2HwoYvcWBva3B2OVV9fEimeKctrIxDMzZNolcmB6OUXlqv773dUbm0IVdF84zA',
+    appId: 'com.emagroups.ea2',
+    url: 'https://play.google.com/store/apps/details?id=com.emagroups.ea2&hl=en&gl=us'
+  },
+  {
+    title: 'Emperor and Beauties',
+    installs: 1595245,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/vvRiXbtLyF_e-hlO7b3K5MM-JeCu7faUoyn5IzZy1-0ZXtUGzxE3hZCODQ74x02ckQ',
+    appId: 'com.heyyogame.gden',
+    url: 'https://play.google.com/store/apps/details?id=com.heyyogame.gden&hl=en&gl=us'
+  },
+  {
+    title: 'Warriors of Waterdeep',
+    installs: 1331103,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Gpe96QtyoVgVKP2nl9moCHaTuqMSKfqQoZ6SEbAXDnRL2rCXlaVkRv_Pl9VNhFFTDbQ',
+    appId: 'com.ludia.dnd',
+    url: 'https://play.google.com/store/apps/details?id=com.ludia.dnd&hl=en&gl=us'
+  },
+  {
+    title: 'Kingdom of Heroes :Tactics war',
+    installs: 575627,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Am0Gh0TxgUzQTbJgVRzNlTHB-pnQi4ecHvk9jnlsr3Du3GlVGEwzevnyxuN7s8etK8s',
+    appId: 'com.neowiz.game.koh.global',
+    url: 'https://play.google.com/store/apps/details?id=com.neowiz.game.koh.global&hl=en&gl=us'
+  },
+  {
+    title: 'Dungeon Crusher: Soul Hunters',
+    installs: 1003921,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Dl-YRVMZdEq6ePU0gcim6QRHmAz_uJnoPyTG078y_u3LVq7gdZgV-xVGsB0Y08K7yVI',
+    appId: 'com.towardsmars.dungeoncrusher',
+    url: 'https://play.google.com/store/apps/details?id=com.towardsmars.dungeoncrusher&hl=en&gl=us'
+  },
+  {
+    title: 'SWORD ART ONLINE:Memory Defrag',
+    installs: 1805091,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/C7obiCTySlx3kRcwEQ08XlAs5fH_swfm_Lnx-KSbm4X7RPHJFH9nLxq-EOC057p83xI',
+    appId: 'com.bandainamcoent.saomdna',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.saomdna&hl=en&gl=us'
+  },
+  {
+    title: 'Guild of Heroes: Magic RPG | Wizard game',
+    installs: 9145920,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/j-xYy93RtSkfI-bCQ_GbdUUmMZhhFborlK-00FXpfbc2Y2tk9nEgJmwYMofKGnKaKOc',
+    appId: 'com.goplaytoday.guildofheroes',
+    url: 'https://play.google.com/store/apps/details?id=com.goplaytoday.guildofheroes&hl=en&gl=us'
+  },
+  {
+    title: 'Battle Night: Cyber Squad-Idle RPG',
+    installs: 271274,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/C-LOkKOPRFLV-bbD2Lw93EMwcSE6-HjlVyaY1j7CnSyQ0HeTBPs_nNVq9wDPufzOTKU',
+    appId: 'com.feelingtouch.bn',
+    url: 'https://play.google.com/store/apps/details?id=com.feelingtouch.bn&hl=en&gl=us'
+  },
+  {
+    title: 'Mighty Party: Auto Chess',
+    installs: 2570049,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/bWCsRDDqSWlaeXoFMazjzRH68h6Sv-OeCx6kkMlPhnAUbQhBfpFUZUREpz0dsa9iCm9i',
+    appId: 'com.panoramik.mightyparty',
+    url: 'https://play.google.com/store/apps/details?id=com.panoramik.mightyparty&hl=en&gl=us'
+  },
+  {
+    title: 'Heroes Charge',
+    installs: 14505359,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/C6F6D6bm99FcTjNK2D_VzJbcleJgJTvQ5rRY0o58k3QQrhkC3K0DPb7CSWHF6UxIBmc',
+    appId: 'com.ucool.hero',
+    url: 'https://play.google.com/store/apps/details?id=com.ucool.hero&hl=en&gl=us'
+  },
+  {
+    title: 'Trials of Heroes: Idle RPG',
+    installs: 3420868,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/bg4evD8Qbz_9N9pvhpD5QpD8Vcw7wy8lKi6ecTlF3JonhHmo7VIUm-9RfPeD9iNEMEo',
+    appId: 'com.game.idle.fantasy',
+    url: 'https://play.google.com/store/apps/details?id=com.game.idle.fantasy&hl=en&gl=us'
+  },
+  {
+    title: 'Sword Master Story',
+    installs: 110884,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/pDmYVPVPNPgL-Y3aQm7KYWbLA14dbK9ZB4HjzrzzR_u_YYoF8F-EELZqB95yVh07wA',
+    appId: 'com.superplanet.swordmaster',
+    url: 'https://play.google.com/store/apps/details?id=com.superplanet.swordmaster&hl=en&gl=us'
+  },
+  {
+    title: 'Shadow Fight 3',
+    installs: 89618285,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/IO0mRQrnEhP3OLbemjLOJArxs41FtXxhIHSekqqxfpDvbA-QO_yRRPrkxg85vpb3jU09',
+    appId: 'com.nekki.shadowfight3',
+    url: 'https://play.google.com/store/apps/details?id=com.nekki.shadowfight3&hl=en&gl=us'
+  },
+  {
+    title: 'Brave Dungeon: Immortal Legend',
+    installs: 1262374,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/OYSLcEmu1HpKu514EnjczlpUKMz8KYDh4gs84KF2VJuibY5LvM3rELOcJjwg9erS6lNH',
+    appId: 'com.an.bravedungeon.roguelite.idle.rpg',
+    url: 'https://play.google.com/store/apps/details?id=com.an.bravedungeon.roguelite.idle.rpg&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Rush: Heroes',
+    installs: 42577486,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Em4JgO0SSxU1FEE_zikG8QvP9K5vbglzK8fwAkJYc_c8CQP1wRv_CtxeIGAZ055vtLCL',
+    appId: 'com.moonton.magicrush',
+    url: 'https://play.google.com/store/apps/details?id=com.moonton.magicrush&hl=en&gl=us'
+  },
+  {
+    title: 'SHIN MEGAMI TENSEI Liberation D×２',
+    installs: 874148,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/3kb9Eo9uhEygOFL8UWtfRR4du4Ew4N8cDGcs49T85M8q60lIZddyQR80wnVPu1eXLA',
+    appId: 'com.sega.d2megaten.en',
+    url: 'https://play.google.com/store/apps/details?id=com.sega.d2megaten.en&hl=en&gl=us'
+  },
+  {
+    title: 'Grim Soul: Dark Fantasy Survival',
+    installs: 13722081,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/dTsmoAAsXvXTSvxBctPmYfn0FTA-6lwZw7OZrYpAgAUQ-8vDGKqLy4YiDZFmnNGMH_xi',
+    appId: 'fantasy.survival.game.rpg',
+    url: 'https://play.google.com/store/apps/details?id=fantasy.survival.game.rpg&hl=en&gl=us'
+  },
+  {
+    title: 'StoneAge World',
+    installs: 1208697,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Rh3gr-5_KLcO-pgXuTHEJIeycREHBAMXmfq4-WDlXOzHM0vPlMAVoSnWYAGKAWtBbxM',
+    appId: 'com.netmarble.stonemmogb',
+    url: 'https://play.google.com/store/apps/details?id=com.netmarble.stonemmogb&hl=en&gl=us'
+  },
+  {
+    title: 'Legend of Solgard',
+    installs: 3121297,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/WYW7XPrCW5WtADct_ltMnjzDhvuqlLR6bKmJTlwbbZt4s86XPsEzyerPkZkfMeYNppM',
+    appId: 'com.king.solgard',
+    url: 'https://play.google.com/store/apps/details?id=com.king.solgard&hl=en&gl=us'
+  },
+  {
+    title: 'Rise of Queendom',
+    installs: 188894,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/oujNSzvZ1ZJgswyauOtGTuAQMeluyudwrvcLoAZOGfzkksVMB6T7llpP2xoMg8eylaE',
+    appId: 'com.gf.palacem4glgl.hwyad.google',
+    url: 'https://play.google.com/store/apps/details?id=com.gf.palacem4glgl.hwyad.google&hl=en&gl=us'
+  },
+  {
+    title: 'Battleship & Puzzles: Warship Empire',
+    installs: 519699,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/-10XQzzWByFDWUl75ch1bUNhM1m_PO5RQqm6V5nJxG0WuqxXrGu8OykrwFaapmu6WwQ',
+    appId: 'com.mobilemafia.slgrpg',
+    url: 'https://play.google.com/store/apps/details?id=com.mobilemafia.slgrpg&hl=en&gl=us'
+  },
+  {
+    title: 'DragonSky : Idle & Merge',
+    installs: 2017241,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/vC1xWD0FRIBOWF9tagdFV5fd8TN9oM1Qj691h2YBJUgkiAdjDREQEL3xMahS8j72NNE',
+    appId: 'com.manacore.mod',
+    url: 'https://play.google.com/store/apps/details?id=com.manacore.mod&hl=en&gl=us'
+  },
+  {
+    title: 'Legion of Ace: Chaos Territory',
+    installs: 206883,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4dcYJFqVlZwQppJzRTLLBjHA8UZ7vNxgehKXoTv9bdg1Ve51vS4c9l465A489su7u1I',
+    appId: 'com.loact.slg.rpg',
+    url: 'https://play.google.com/store/apps/details?id=com.loact.slg.rpg&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Super League',
+    installs: 7445048,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/OiWe540CyVte-b5U0g6gLFCIRztWy-MuXGmvICv0ZIUsGnLxpBwnT2jj6CC8DEZK_0M',
+    appId: 'com.ftt.msleague_gl',
+    url: 'https://play.google.com/store/apps/details?id=com.ftt.msleague_gl&hl=en&gl=us'
+  },
+  {
+    title: 'BLEACH Mobile 3D',
+    installs: 2361775,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/TDPilFPoXjuyJnUhqMut8B-lgAy2FMHC1lArXdCKCAdGUFPZVOQXEMXalHk19vEQkg',
+    appId: 'com.koramgame.bleach.global',
+    url: 'https://play.google.com/store/apps/details?id=com.koramgame.bleach.global&hl=en&gl=us'
+  },
+  {
+    title: "Tom Clancy's Elite Squad - Military RPG",
+    installs: 2602815,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/KCEQbzDHgSljlVKApCYXVjiLDD55wL7XHmbIIKKXdkcHIZn-kDE3-YO3yvg9X9wPI9M',
+    appId: 'com.ubisoft.tces',
+    url: 'https://play.google.com/store/apps/details?id=com.ubisoft.tces&hl=en&gl=us'
+  },
+  {
+    title: '滅世錄',
+    installs: 152378,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/uXH6A4Ofu-TSe7vX4GlZwqLTl2PbHh9lntVP4HNYBs4zMivUtiWhcVpS2gi4RlKr1g',
+    appId: 'com.gamess.and',
+    url: 'https://play.google.com/store/apps/details?id=com.gamess.and&hl=en&gl=us'
+  },
+  {
+    title: 'DanMachi - MEMORIA FREESE',
+    installs: 364172,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/T6J3xDMG-WQGxEWh1t23dx70PM12vvLT_8sSFFXf81APPODIhXRhg92vkQpBHV67PbY',
+    appId: 'com.us.danmemo',
+    url: 'https://play.google.com/store/apps/details?id=com.us.danmemo&hl=en&gl=us'
+  },
+  {
+    title: 'American Dad! Apocalypse Soon',
+    installs: 4894609,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/u5yzKyl0WBHtVTVVMFT6EdyNxVfH1PJq5lecOJHfQlorKmMN1FSmDXZcOcl72E7Okv8',
+    appId: 'com.my.ffs.simulator.americandad',
+    url: 'https://play.google.com/store/apps/details?id=com.my.ffs.simulator.americandad&hl=en&gl=us'
+  },
+  {
+    title: 'VALKYRIE CONNECT',
+    installs: 4131506,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/iM4rJGUKwm93j1H8h1N1Il572ZscxrTr7JKY1aG7MRyHWEHNQKb4eLz_Pw_DjZFskPZI',
+    appId: 'jp.co.atm.vcon.ww',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.atm.vcon.ww&hl=en&gl=us'
+  },
+  {
+    title: 'ANOTHER EDEN The Cat Beyond Time and Space',
+    installs: 1595034,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/oF5InhU5S3_0vq6DXo4RSMiZh5eA0xX9HCAEOGy00g4GWN3KjCun5MpcyEarsDDSLQ',
+    appId: 'games.wfs.anothereden',
+    url: 'https://play.google.com/store/apps/details?id=games.wfs.anothereden&hl=en&gl=us'
+  },
+  {
+    title: 'Highrise',
+    installs: 1166361,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/uB9U6OckjabmNwYvZTkjpPcWBzeOMrX3voVLy0OWt1Z-XiB6RQEAz-83rCuD1akNYQ',
+    appId: 'com.pz.life.android',
+    url: 'https://play.google.com/store/apps/details?id=com.pz.life.android&hl=en&gl=us'
+  },
+  {
+    title: 'Hero Cantare with WEBTOON™',
+    installs: 997971,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/KwBLK5PNMqEUUXnwh7w5G02DfiQ4OfTvt79qu2ZjGq-5KIMFchQNn6HF8rHBiwh7Vog',
+    appId: 'com.ngelgames.herocantare',
+    url: 'https://play.google.com/store/apps/details?id=com.ngelgames.herocantare&hl=en&gl=us'
+  },
+  {
+    title: 'Onmyoji',
+    installs: 1076269,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/yMOorpD-1SbEprisDXjZdpooUF4oxinM7IyvotTl3-FJu0oS79JjiSDZUkqYXv0XOw',
+    appId: 'com.netease.onmyoji.gb',
+    url: 'https://play.google.com/store/apps/details?id=com.netease.onmyoji.gb&hl=en&gl=us'
+  },
+  {
+    title: "Mr Love: Queen's Choice",
+    installs: 1029531,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4v0KBw578iNgIdl-8VQsP8S3SO0I3lBCmc3l0uq52IGTYBUmSvacTNVf1onqyAk4efM',
+    appId: 'com.elex.paper.lovegp',
+    url: 'https://play.google.com/store/apps/details?id=com.elex.paper.lovegp&hl=en&gl=us'
+  },
+  {
+    title: 'Dark Summoner',
+    installs: 4146363,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/KFls_Huajcclxjp8dPkFA92Wu1J1c3WgHr3tLTOJ-u7UrKuKo34n8Rf-bXjwcwurDMo',
+    appId: 'com.darksummoner',
+    url: 'https://play.google.com/store/apps/details?id=com.darksummoner&hl=en&gl=us'
+  },
+  {
+    title: 'GrandChase',
+    installs: 2482890,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ky_9Q7Fw2gnqTqBBvvc1WRZ1FM0dSN7uqirkB0cduGEydUkn1oHjdbWOX3dhnSIX3UoH',
+    appId: 'com.kog.grandchaseglobal',
+    url: 'https://play.google.com/store/apps/details?id=com.kog.grandchaseglobal&hl=en&gl=us'
+  },
+  {
+    title: 'Super Stylist - Dress Up & Style Fashion Guru',
+    installs: 37105066,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/p78fzx0nUf0s2s8be2fl84Ctnog64o77PQkzpoAkr_ydzttd-A2ixbUoDDD22_GEJTE',
+    appId: 'com.cocoplay.fashion.style',
+    url: 'https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style&hl=en&gl=us'
+  },
+  {
+    title: 'Food Fantasy',
+    installs: 1918486,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/-YWv0HckFtTqQ_4W9PDldKg6btqvcg_PnZDAXaVbwA_Mjtpsw6yp_ooKGKwHPOlwJMg',
+    appId: 'com.egg.foodandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.egg.foodandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Sword Art Online: Integral Factor',
+    installs: 4622757,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Yls2wMexp5dERaEN6W8u3kI9aVgPl4-0UArB7gFt0TpSX0ILvJ1e4cL39dngUrgKOg',
+    appId: 'com.bandainamcoent.saoifww',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.saoifww&hl=en&gl=us'
+  },
+  {
+    title: 'Questland: Turn Based RPG',
+    installs: 4324339,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/c68Kr-sSbBHIVGiKa-qjhh80QvmkM_1HGJXSYJsvOSykHVlNObujnzoXSAfBHyAtIiA',
+    appId: 'com.gamesture.questland',
+    url: 'https://play.google.com/store/apps/details?id=com.gamesture.questland&hl=en&gl=us'
+  },
+  {
+    title: 'Idola Phantasy Star Saga',
+    installs: 89089,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4eZeBceJ5ay6IIkqqI8o8KFXsnDhBW5HzaSzpXMIR7AdoS_WjFkiYnBjClxesG0Yllde',
+    appId: 'com.boltrend.idolaen',
+    url: 'https://play.google.com/store/apps/details?id=com.boltrend.idolaen&hl=en&gl=us'
+  },
+  {
+    title: '一個官人一個妻 - 真愛唯一',
+    installs: 1345880,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/wm82rX28eo0RctRbMSXUqLfj8iGJrNz-DskBSzrVAo62lEvLiLsKGaLHmqxRay8Sg5c',
+    appId: 'com.heyyogame.gd',
+    url: 'https://play.google.com/store/apps/details?id=com.heyyogame.gd&hl=en&gl=us'
+  },
+  {
+    title: 'Destiny Heroine',
+    installs: 193865,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/9-nL6E4bvBCT2oXmwxb6RFd54_iiXoS5fC9DUpoZw2LlqTLXsr_NXWx7gK2pTg3HsQ',
+    appId: 'com.destiny.heroine',
+    url: 'https://play.google.com/store/apps/details?id=com.destiny.heroine&hl=en&gl=us'
+  },
+  {
+    title: 'RPG Toram Online - MMORPG',
+    installs: 10157330,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/WVLW55A1An5y3G_QPgHxte7PoDCyWMGVQx-PoA5QMbA1PC7CCf3Zo7ccu93IUOsIAw',
+    appId: 'com.asobimo.toramonline',
+    url: 'https://play.google.com/store/apps/details?id=com.asobimo.toramonline&hl=en&gl=us'
+  },
+  {
+    title: 'Polynesia Adventure',
+    installs: 1215611,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/XmVNsN0jThhOpGyVqX1mwHHzspAk-clzmrK-gfD9A50vdHyOfUPmQO5cCTQ3m4RUQaY',
+    appId: 'com.nuts.pa.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.nuts.pa.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Portal Quest',
+    installs: 5772346,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/U5Gkx7_gQLL4egSO61RKiA_gKysXylq_LMzK72S0LJ0n8ZtSIEGX-3E6BZ8STrZZBiw',
+    appId: 'com.perblue.portalquest',
+    url: 'https://play.google.com/store/apps/details?id=com.perblue.portalquest&hl=en&gl=us'
+  },
+  {
+    title: 'TwelveskyM',
+    installs: 368487,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ABXgFcIfnbSbkzo-YITgqZe2Zo6ARdOuac6IVMJWr3dm5-A7d7RwoEtcLj1sO3w1_Q',
+    appId: 'com.ntori.tsmglobalm',
+    url: 'https://play.google.com/store/apps/details?id=com.ntori.tsmglobalm&hl=en&gl=us'
+  },
+  {
+    title: 'Romancing SaGa Re;univerSe',
+    installs: 621916,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/EBRjVjXYq5uFmGE1Js6mni0pZpKtRHv_BYq5Ohq8Uws5li0O10ogoJSs_diCIg-RVQ',
+    appId: 'com.square_enix.android_googleplay.RSRSWW',
+    url: 'https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.RSRSWW&hl=en&gl=us'
+  },
+  {
+    title: '蒼天英雄誌',
+    installs: 613446,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/G5FmUfr4UhKLNBUs7tVegp21PSeCuB7HL0HE1V0DB95OZKm3g_xqzxlULzEmWH3ayjUH',
+    appId: 'com.gamepanda.ST',
+    url: 'https://play.google.com/store/apps/details?id=com.gamepanda.ST&hl=en&gl=us'
+  },
+  {
+    title: 'Brave Nine - Tactical RPG',
+    installs: 2304839,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/SeG9QwmFRSd0ZUIKBlDtxtU6GNGnCjkAVOFCvC962HYR1bEKNxN89lQeTE_q6G68tauF',
+    appId: 'com.neowizgames.game.browndust.srpg.global',
+    url: 'https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust.srpg.global&hl=en&gl=us'
+  },
+  {
+    title: 'Gate of Chaos',
+    installs: 234611,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/314ySp-AakjYWbWsEpMHGNNeeMyCVnVcOg0w7VHrC9wJfb8fFxogBwWmaXc6XRsaY_w',
+    appId: 'com.top1game.tkzmgp',
+    url: 'https://play.google.com/store/apps/details?id=com.top1game.tkzmgp&hl=en&gl=us'
+  },
+  {
+    title: 'Ode To Heroes',
+    installs: 1425521,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Z8y0bOH55PoN4vpiiOQaexl8l1OVUrRu7B6t3kYD-yfAM_QCA93_IC_pXyipnXxSM5f_',
+    appId: 'com.droidhang.ad2.official.android',
+    url: 'https://play.google.com/store/apps/details?id=com.droidhang.ad2.official.android&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Blaze',
+    installs: 7472244,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/jbKZPSWPz3Y8k76knbHfTEjHv4J9pThWTkT5L1sEkmqqj5U6Qu7o3Eg6KsW6EP05Tthk',
+    appId: 'com.gamevil.dragonblaze1.android.google.global.normal',
+    url: 'https://play.google.com/store/apps/details?id=com.gamevil.dragonblaze1.android.google.global.normal&hl=en&gl=us'
+  },
+  {
+    title: 'Hotel Hideaway - Virtual Reality Life Simulator',
+    installs: 7145964,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/B-rcGqTVfFapJNVL36ppXWK_V332_7gtfEKPU-qWu-Fol7QJafqZ9ybdAF0DnElJk-uz',
+    appId: 'com.piispanen.hotelhideaway',
+    url: 'https://play.google.com/store/apps/details?id=com.piispanen.hotelhideaway&hl=en&gl=us'
+  },
+  {
+    title: 'Warship Legend: Idle RPG',
+    installs: 1049930,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/0aVmU4FjX6gctg4CEO308mUPEoelfLrjHxByQCCPlX77OuExWTsAS9CgB__qMjYIceA',
+    appId: 'com.special.warshiplegend.idle.asia',
+    url: 'https://play.google.com/store/apps/details?id=com.special.warshiplegend.idle.asia&hl=en&gl=us'
+  },
+  {
+    title: 'Bit Heroes: An 8-Bit Pixel RPG Quest',
+    installs: 6174260,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ILGeKydxNqbhifoMWAZJlCFwh2V8NIWkzVMMf97ilBawsdbszoi2kbM57YXrLK5kUXQ',
+    appId: 'com.kongregate.mobile.bitheroes.google',
+    url: 'https://play.google.com/store/apps/details?id=com.kongregate.mobile.bitheroes.google&hl=en&gl=us'
+  },
+  {
+    title: 'Iron Maiden: Legacy of the Beast',
+    installs: 2678215,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/syYrccdq9yLRqe3OTly2h8VsNgYUYMlhp0pnSRR5PRl3I_P-MLMHv-EeFPDeWm25nDs',
+    appId: 'com.roadhousegames.lotb',
+    url: 'https://play.google.com/store/apps/details?id=com.roadhousegames.lotb&hl=en&gl=us'
+  },
+  {
+    title: '狂M - 熱血傳奇正版授權',
+    installs: 152309,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/3vmG297ZJP_OrfAtNwP_J423Bt0PGjwiIQp2IBuOKdNWLbnQmFQqyAi4c7untgFccIk',
+    appId: 'com.xf.mf.kuangm',
+    url: 'https://play.google.com/store/apps/details?id=com.xf.mf.kuangm&hl=en&gl=us'
+  },
+  {
+    title: 'NARUTO X BORUTO NINJA TRIBES',
+    installs: 223094,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/jhjlxLLN8Urhx8N5sP4fJNtfLnyO84i-NRVd1RznJOA-mu1S37m9FF7mrdEfmSzjzHA',
+    appId: 'com.bandainamcoent.nxb_nt_en',
+    url: 'https://play.google.com/store/apps/details?id=com.bandainamcoent.nxb_nt_en&hl=en&gl=us'
+  },
+  {
+    title: 'LEGO® Legacy: Heroes Unboxed',
+    installs: 2724979,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aA17zJVbsk-8Bqu9CO5hhn-VtsDJU97tgBajqp9r-ey40VSmxWuBQwcqXjXXbXjOYl6j',
+    appId: 'com.gameloft.anmp.lego.heroes',
+    url: 'https://play.google.com/store/apps/details?id=com.gameloft.anmp.lego.heroes&hl=en&gl=us'
+  },
+  {
+    title: 'Talisman Online Mobile',
+    installs: 364077,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/qxBKfUf4QNOvl30kH-J50ZFIlX3tdHLhB1FelrRLxhUD9T2LTGLGJ9_cT7ZFi1dQ0HI',
+    appId: 'com.ycgame.t11.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.ycgame.t11.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Angry Birds Evolution 2020',
+    installs: 14725040,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/G-e_9MnQscQDTXdu_4cPaiAPORDCPt22d-Qc9jgFHYrNWWBZ7VsDtSjDWcVRJ_BDrw',
+    appId: 'com.rovio.tnt',
+    url: 'https://play.google.com/store/apps/details?id=com.rovio.tnt&hl=en&gl=us'
+  },
+  {
+    title: 'Downtown Mafia: Gang Wars Mobster Game Free Online',
+    installs: 2845962,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ampbjHRFQRgauYzIVKYYuDsSRs_Va_1mmimVxLoroL21V1tfrRy70TScnUZw2Zbqyyc',
+    appId: 'com.dn.games.dtmafia',
+    url: 'https://play.google.com/store/apps/details?id=com.dn.games.dtmafia&hl=en&gl=us'
+  },
+  {
+    title: 'Brave Frontier',
+    installs: 12094676,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/wydtZ1M139hGlqwD6z-wYQda0A9e6JzUgnQu8OTTLCY7X3yM34pVqmRSq7-buxFp0ERx',
+    appId: 'sg.gumi.bravefrontier',
+    url: 'https://play.google.com/store/apps/details?id=sg.gumi.bravefrontier&hl=en&gl=us'
+  },
+  {
+    title: 'Zombieland: AFK Survival',
+    installs: 1798703,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/TlnwckPXz3LDeX8Akvc4kc4BPiOCAu0sladew-MGrQ83AOd-yPaJ3upQo0CC7Qb6MlQc',
+    appId: 'com.sonypicturestelevision.zombieland',
+    url: 'https://play.google.com/store/apps/details?id=com.sonypicturestelevision.zombieland&hl=en&gl=us'
+  },
+  {
+    title: 'Fashion Fantasy',
+    installs: 5526285,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4-LfWTWOIHDbAZ8JQ7hJcNQXyvDniHhvQ0BnOgxAUAPHBn7OlG2YllBPXkjUmPPCWA',
+    appId: 'com.libii.dressupworld',
+    url: 'https://play.google.com/store/apps/details?id=com.libii.dressupworld&hl=en&gl=us'
+  },
+  {
+    title: 'Endless Frontier - Online Idle RPG Game',
+    installs: 8591860,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/L1dxA4FBJsaFT74-yJIuZOPnBXRDKeBwj7Q5n2bKRIqhPTZAzcvBfsAzSEemECWdMh4',
+    appId: 'com.ekkorr.endlessfrontier.global',
+    url: 'https://play.google.com/store/apps/details?id=com.ekkorr.endlessfrontier.global&hl=en&gl=us'
+  },
+  {
+    title: 'Idle War: Legendary Heroes',
+    installs: 733562,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/4zy1BEFje1ESDCMQK9tviR7evXikAAm56actNLrtONzPhAT2gMB_UYJlyOv1kUBeuJM',
+    appId: 'com.idle.heroes.war',
+    url: 'https://play.google.com/store/apps/details?id=com.idle.heroes.war&hl=en&gl=us'
+  },
+  {
+    title: 'Magic: Puzzle Quest',
+    installs: 2112402,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/DUaK3acy2UmToRaST-rtkAnEuh3hGywRzPe0X4eneKNy4SRBM4N9EU6Qke6-PW-7riE',
+    appId: 'com.d3p.olympic',
+    url: 'https://play.google.com/store/apps/details?id=com.d3p.olympic&hl=en&gl=us'
+  },
+  {
+    title: '熹妃傳-第一部可以玩的宮鬥小說',
+    installs: 1695556,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/MeU5-JlvX-25rpWUmhl3QGexgom1L6LEkcN0f1TC52kEBvQOkAmqP5BXiO4wN3y-BA',
+    appId: 'com.empress',
+    url: 'https://play.google.com/store/apps/details?id=com.empress&hl=en&gl=us'
+  },
+  {
+    title: 'Iron Saga – Battle Mech',
+    installs: 409879,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/mE2wXqKuwsZcV2vBDldCMT33NxkCKeIQ5iQGicVow1S5w_oPXA9TH6cws2L2NkW5SjlS',
+    appId: 'com.gameduchy.jdzd.en',
+    url: 'https://play.google.com/store/apps/details?id=com.gameduchy.jdzd.en&hl=en&gl=us'
+  },
+  {
+    title: 'NinjaGirls：Reborn',
+    installs: 1984143,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/PEbK7S53h6O6HDUn7SNUm__gt2UvguGD89xMOUEF5mRE3A2Uvm_dlLRwL_r1DhJ-SHA',
+    appId: 'com.coco2games.ng',
+    url: 'https://play.google.com/store/apps/details?id=com.coco2games.ng&hl=en&gl=us'
+  },
+  {
+    title: 'Dungeon & Heroes: 3D RPG',
+    installs: 2748335,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/5v1ULyBsOWf__a0BrkxpJadu9Ut2icGXqd8ShpP346U6soFJGeUiRTRuByO5ybb0K6A',
+    appId: 'com.droidhen.dungeon',
+    url: 'https://play.google.com/store/apps/details?id=com.droidhen.dungeon&hl=en&gl=us'
+  },
+  {
+    title: 'The Wolf',
+    installs: 26694137,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/M1NVO72p4z4wx3fsu3KWtpgVFwbqluHmv1mYR_DZUBAQB3kwXPiCcdJ1eRvFq4MK9tw',
+    appId: 'com.swiftappskom.thewolfrpg',
+    url: 'https://play.google.com/store/apps/details?id=com.swiftappskom.thewolfrpg&hl=en&gl=us'
+  },
+  {
+    title: 'Duskwood - Crime & Investigation Detective Story',
+    installs: 3535840,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Tr8tWAEbqRVtW3E0EBhoQf4A0I0lkVrrRKKUw_5ZmQpLDLCPhq98GQg4ki2mp9Mvt0k',
+    appId: 'com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood',
+    url: 'https://play.google.com/store/apps/details?id=com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood&hl=en&gl=us'
+  },
+  {
+    title: 'The Elder Scrolls: Blades',
+    installs: 4228284,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/SMBtDf-d70_avv0ca1KjcdljaxyWhsnuSVEe-FTwFEdy8pHWkRigPhbDp_H7rghrwQ',
+    appId: 'com.bethsoft.blade',
+    url: 'https://play.google.com/store/apps/details?id=com.bethsoft.blade&hl=en&gl=us'
+  },
+  {
+    title: '龍武MOBILE-諾言',
+    installs: 319984,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/cTKGduaKyvbJ9K2JsnClJ1zzgtawrPaP9nFeO3oisr7ndr-5LFA5f5p2IZ5s1HdbY2c',
+    appId: 'com.lp.nlw.tw.android',
+    url: 'https://play.google.com/store/apps/details?id=com.lp.nlw.tw.android&hl=en&gl=us'
+  },
+  {
+    title: 'LIVE A HERO',
+    installs: 14666,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/YZEhLL5msAiwxTodx59BrKyMal6NV7vcRckMLMj6YcS3qh0vuj1W8UIbKUCgbFvesQ',
+    appId: 'jp.co.lifewonders.liveahero',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.lifewonders.liveahero&hl=en&gl=us'
+  },
+  {
+    title: 'Spiral Warrior',
+    installs: 1816596,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/quVfUHUiPdz6gy9oznTCxPhiMtjY8bVs01-T3-mf40WV2KjnhjxNWRPC3NZT4uWmbrJT',
+    appId: 'com.oversea.spinarena',
+    url: 'https://play.google.com/store/apps/details?id=com.oversea.spinarena&hl=en&gl=us'
+  },
+  {
+    title: 'GYEE',
+    installs: 205357,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Ziiebpus1URtO4-ZPakghGQ95SD_dthsb6-RR4I1vsUjTsJiIevq1Ehu8SZLBsVr6i83',
+    appId: 'com.thegyee.sea1',
+    url: 'https://play.google.com/store/apps/details?id=com.thegyee.sea1&hl=en&gl=us'
+  },
+  {
+    title: 'Crystalborne: Heroes of Fate',
+    installs: 2388406,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/7xZNK5l0CwTXBeNC-Z8ibIEYNpVchDrMD2URJH5ppVZ7h7-rBQBLCz07ZHXH_JW2AkE',
+    appId: 'com.arenaofstarsonline.chof',
+    url: 'https://play.google.com/store/apps/details?id=com.arenaofstarsonline.chof&hl=en&gl=us'
+  },
+  {
+    title: '新江湖-道士下山',
+    installs: 206321,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Nz2AkAQhCv__LOrMqvCpaJKULNFULqL8BxP-Breb3ZEzUeZW4WOdQyXKRC1ZSxsXmGc',
+    appId: 'com.mmwops.xjh.xm',
+    url: 'https://play.google.com/store/apps/details?id=com.mmwops.xjh.xm&hl=en&gl=us'
+  },
+  {
+    title: 'Clone Evolution: Cyber War-Borderlands Fantasy',
+    installs: 2056478,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/acVEd3Qgtoaa8HHkQ68gClGHlH_j97kxWdgiWUpOSGsBWhlUZec7wCtz0YAk5j2fmvw',
+    appId: 'com.feelingtouch.clonewar',
+    url: 'https://play.google.com/store/apps/details?id=com.feelingtouch.clonewar&hl=en&gl=us'
+  },
+  {
+    title: 'Girls X Battle：GXB_Global',
+    installs: 4650210,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/b67M0wf5CAEisW0fQ_mnjEldQJuGgxWJTrHSjvFtPLGe05mgeNy0mIT3LbJih9fDMg',
+    appId: 'com.carolgames.gxb',
+    url: 'https://play.google.com/store/apps/details?id=com.carolgames.gxb&hl=en&gl=us'
+  },
+  {
+    title: 'Ninja Turtles: Legends',
+    installs: 40236856,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/IdUb7Szz7X_fDaAKWkBh1vK5HB1fJrCvmfmDjUBWZPlP35XdLHNiq_dstX_AsQ-sAB0',
+    appId: 'com.ludia.tmnt',
+    url: 'https://play.google.com/store/apps/details?id=com.ludia.tmnt&hl=en&gl=us'
+  },
+  {
+    title: "Vampire's Fall: Origins RPG",
+    installs: 5962991,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/HMAHZ2_BYIuRMSnG_IreZV6VtHIDi81dsrSVJn_n-R8DMiaTJjNqMpYPagKjJL__J8xp',
+    appId: 'com.earlymorningstudio.vampiresfall2',
+    url: 'https://play.google.com/store/apps/details?id=com.earlymorningstudio.vampiresfall2&hl=en&gl=us'
+  },
+  {
+    title: '스테리테일',
+    installs: 345180,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/oW7Pm5fIsUhfNQqSJgvenfHCax2l3kl0BkCcutrk2K6k20AUx142CHjE46nVJ5HLOw',
+    appId: 'com.tjbnew4399kr.google',
+    url: 'https://play.google.com/store/apps/details?id=com.tjbnew4399kr.google&hl=en&gl=us'
+  },
+  {
+    title: 'Elora’s Raid',
+    installs: 789768,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Da20-HC1w7Gb2FOjFkwKXbjFrGXQBeJjJVMxgFQDNZNT1g6SqV9K6gudoSD5MB4Ecrk',
+    appId: 'com.eyougame.eloraraid.en',
+    url: 'https://play.google.com/store/apps/details?id=com.eyougame.eloraraid.en&hl=en&gl=us'
+  },
+  {
+    title: 'Icarus M: Riders of Icarus',
+    installs: 162506,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/y5El5CAwFGbWLrHw1AsG0IBquBrZcxaCS9Slxjq7r35o71Gom8IUtL8-3rnQZBsLnbTL',
+    appId: 'com.valofe.icarusm.na',
+    url: 'https://play.google.com/store/apps/details?id=com.valofe.icarusm.na&hl=en&gl=us'
+  },
+  {
+    title: '一劍傾心-全新職業',
+    installs: 343425,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/ieSLLbAZRNdpp0QThWhZw-fu0czWJzEBWvBLqmqk1xgLu7IwvAdzxiS6KY3obNzSobE',
+    appId: 'com.lhy.ssjj',
+    url: 'https://play.google.com/store/apps/details?id=com.lhy.ssjj&hl=en&gl=us'
+  },
+  {
+    title: 'Era of Celestials',
+    installs: 15582036,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/40vT69BbLKiGRrTvpnm6HBWQeU0Fpj_BTIfnSpMz-UOVYcUfltKzmUD2vFLkvauTIyae',
+    appId: 'com.gtarcade.eoa',
+    url: 'https://play.google.com/store/apps/details?id=com.gtarcade.eoa&hl=en&gl=us'
+  },
+  {
+    title: 'Crossing Void - Global',
+    installs: 1245242,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Sbx5gV5KYpMvR1y34ISmUpbXEo8NJSYVQPK575q5bEi0oMduI2Cw611MojFCNZctZFM',
+    appId: 'com.actgames.fcigl',
+    url: 'https://play.google.com/store/apps/details?id=com.actgames.fcigl&hl=en&gl=us'
+  },
+  {
+    title: 'Love Live! All Stars',
+    installs: 567167,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/jtVjyLgtYTXbP4FBzPxWQAcc9PF6qRCMC13IOzefp5ei7ta87DXSha0ybbuOwQz5Qrc',
+    appId: 'com.klab.lovelive.allstars.global',
+    url: 'https://play.google.com/store/apps/details?id=com.klab.lovelive.allstars.global&hl=en&gl=us'
+  },
+  {
+    title: 'Alliance: Heroes of the Spire',
+    installs: 785791,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/aFMo3Cx6ERmNfui3LOf3WuuSZwZ6uEkDEAAXg15TyNz2NCiS7vPcnqTAOPG45L0FBWc1',
+    appId: 'com.rumbleentertainment.alliance',
+    url: 'https://play.google.com/store/apps/details?id=com.rumbleentertainment.alliance&hl=en&gl=us'
+  },
+  {
+    title: '天龍八部手機版 - 新門派崑崙現世',
+    installs: 70807,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/QwRs7-3xS5oRpguou2UdPGHZZiJZsBS7nVCairZhM_zas6QC2QsqStoGUHdABL4ndA',
+    appId: 'com.gameone.tlbb',
+    url: 'https://play.google.com/store/apps/details?id=com.gameone.tlbb&hl=en&gl=us'
+  },
+  {
+    title: 'Stardew Valley',
+    installs: 1020271,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4',
+    appId: 'com.chucklefish.stardewvalley',
+    url: 'https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=en&gl=us'
+  },
+  {
+    title: 'MU ORIGIN2',
+    installs: 1416189,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/e-Jq-NrGdVEmzNEP8m5mubg5FSvOGDfRoi0_Bp9U_rnf-UDmKdtzx8YzWvuPEFO2cVI',
+    appId: 'com.webzen.muorigin2.global.google',
+    url: 'https://play.google.com/store/apps/details?id=com.webzen.muorigin2.global.google&hl=en&gl=us'
+  },
+  {
+    title: 'Monster Gotcha: Tainer adventure',
+    installs: 38859,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/knsUoVJIyMoN6G25P73ZYHEZ04yjkLBllTWqEfZay9Sz88Y4t2VetXUStc7PXGLn7Do',
+    appId: 'com.ceypp.king.google',
+    url: 'https://play.google.com/store/apps/details?id=com.ceypp.king.google&hl=en&gl=us'
+  },
+  {
+    title: 'Eternium',
+    installs: 18633668,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/bGbO8uHeBEux3Q5jqtA8o9-DlEIhcE3_jC5wzINOk1D9_HIg5y24U1KCbXPkEdBXqns',
+    appId: 'com.makingfun.mageandminions',
+    url: 'https://play.google.com/store/apps/details?id=com.makingfun.mageandminions&hl=en&gl=us'
+  },
+  {
+    title: 'Soul Land: Awaken Warsoul',
+    installs: 995575,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/TXo0-bis-i5-7wkutE7rVx3BMt7AwGQERvg8MOgmB_v1_7w63DL9rStLQ33loanrKG8',
+    appId: 'com.global.sl',
+    url: 'https://play.google.com/store/apps/details?id=com.global.sl&hl=en&gl=us'
+  },
+  {
+    title: 'The Wild Darkness',
+    installs: 872121,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/cekAj4xsGkKxEzQIUGF0Mur24G27Vjaol-cmMFxKD17tPX5yVzcGpqlu_sc8Zsn11kQ',
+    appId: 'com.ctugames.km2',
+    url: 'https://play.google.com/store/apps/details?id=com.ctugames.km2&hl=en&gl=us'
+  },
+  {
+    title: 'SimpleMMO - The Lightweight MMO',
+    installs: 500761,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/lrOsSUGJ5q4lugtWItxME6Jlw4N6eOkQpy5hnaCIkRfN1QM1msWSWxIVmV9lDY97zg',
+    appId: 'dawsn.simplemmo',
+    url: 'https://play.google.com/store/apps/details?id=dawsn.simplemmo&hl=en&gl=us'
+  },
+  {
+    title: 'HEIR OF LIGHT',
+    installs: 1766706,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Lhb7rJdNSLdwlXCXB4n7HiY19_UaiZSbAEo6jp8Mx_MDGYL_Altg6fxY2Zu_eYigwdo',
+    appId: 'com.gamevil.heiroflight.android.google.global.normal',
+    url: 'https://play.google.com/store/apps/details?id=com.gamevil.heiroflight.android.google.global.normal&hl=en&gl=us'
+  },
+  {
+    title: 'Evertale',
+    installs: 3729967,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/G3gkhGlmTlSNUhjj4UILyiLjcbrwAdCofO0jNNGWs1lyYgpP603jSKz_c39EIbEDBZo',
+    appId: 'com.zigzagame.evertale',
+    url: 'https://play.google.com/store/apps/details?id=com.zigzagame.evertale&hl=en&gl=us'
+  },
+  {
+    title: 'Wartune: Hall of Heroes',
+    installs: 1404398,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/iWtW1jbbgeGCiG9iMCgZXegIt7vro7OXT1vlMIxTfWo2zRnruhdrG2o0uE5QI1D8mfc',
+    appId: 'com.kabam.wartune.android',
+    url: 'https://play.google.com/store/apps/details?id=com.kabam.wartune.android&hl=en&gl=us'
+  },
+  {
+    title: 'The World of Magic',
+    installs: 5185885,
+    genre: 'GAME_ROLE_PLAYING',
+    icon: 'https://lh3.googleusercontent.com/Y2kNEWlFihHF76bgMW4KFearXH_RhHAmnbmiYhiPpq_btK9dvOtizxb89Vu25Dk-Vw',
+    appId: 'com.com2us.imo.normal.freefull.google.global.android.common',
+    url: 'https://play.google.com/store/apps/details?id=com.com2us.imo.normal.freefull.google.global.android.common&hl=en&gl=us'
+  }
+]

@@ -1,12 +1,23 @@
+// Dependencies
 var gplay = require('google-play-scraper');
 var fs = require('fs');
 var util = require('util');
 
-var interval = 10000; // how much time should the delay between two iterations be (in milliseconds)?
+// Allows delay in sending requests to prevent Google from banning local IP
+var interval = 10000;
 var promise = Promise.resolve();
 
+// Create timestamped folder for storing data
+let date_ob = new Date();
+const path = './data_' + Date.now() + '\\'
+if (!fs.existsSync(path)){
+    fs.mkdirSync(path);
+}
+
+// Remove the default maximum length for format function
 util.inspect.defaultOptions.maxArrayLength = null;
 
+// All categories with more than 50 apps in the top grossing category
 const categories = { 
   APPLICATION: gplay.category.APPLICATION,
   ANDROID_WEAR: gplay.category.ANDROID_WEAR,
@@ -60,19 +71,22 @@ const categories = {
   GAME_WORD: gplay.category.GAME_WORD
   }
 
-function write_to_file(cat, d) {
-	fs.appendFile(__dirname + '\\data\\' + cat + '.dat', util.format(d), function (err) {
+// On success, write scraped app data to file
+function write_data(cat, d) {
+	fs.appendFile(path + cat + '.dat', util.format(d), function (err) {
 	  if (err) throw err;
 	  console.log('\t- [FINISH]\tCategory: ' + cat);
 	});
 }
 
-function write_to_error(cat, d) {
+// On failure, write to log file
+function log_error(cat, d) {
 	fs.appendFile('error.log', '[ERROR] Category: ' + cat + '\n' + util.format(d) + '\n', function (err) {
 	  if (err) throw err;
 	});
 }
 
+// Iterate through all categories and request application data
 for (const index in categories) {
 	promise = promise.then(function () {
 		console.log(' + [START]\tCategory: ' + categories[index]);
@@ -83,7 +97,7 @@ for (const index in categories) {
 			throttle: 5,
 			num: 200
 		  })
-		  .then((d) => {write_to_file(categories[index], d)}, (d) => {write_to_error(categories[index], d)});
+		  .then((d) => {write_data(categories[index], d)}, (d) => {log_error(categories[index], d)});
 		return new Promise(function (resolve) {
 		  setTimeout(resolve, interval);
 		});

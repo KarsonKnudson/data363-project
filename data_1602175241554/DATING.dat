@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Hinge - Dating & Relationships',
+    installs: 5980360,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Gq_vB5FQEwU3OBPqQc132HzZXIBkEL_aeipPrXXxpYC1zf1MCZTUq38Z5rm1HePaymIe',
+    appId: 'co.hinge.app',
+    url: 'https://play.google.com/store/apps/details?id=co.hinge.app&hl=en&gl=us'
+  },
+  {
+    title: 'Hily Dating App: Meet New People & Get Great Dates',
+    installs: 12072784,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ZapcSOE3Wq7Vb4GrkX224MZDyvcUABwspJxBPIN3ZfPV4mynehp21MQWmGgV7zPMb_M',
+    appId: 'com.hily.app',
+    url: 'https://play.google.com/store/apps/details?id=com.hily.app&hl=en&gl=us'
+  },
+  {
+    title: 'uDates – local dating app: chat, meet locals, date',
+    installs: 736174,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/W9smzYj0B_9RLAIiEA_GqHJP1I6X0nxmwNvdRdbSXS76x4-nVI3meKIBZgNZvk3gFaxc',
+    appId: 'com.udates',
+    url: 'https://play.google.com/store/apps/details?id=com.udates&hl=en&gl=us'
+  },
+  {
+    title: 'iFlirts – Flirt, Dating & Chatting for Singles',
+    installs: 511055,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/VqlXJvDpchf1u1wpAntQyDExDNTbauUqlDZkNba7SxovcKb2sUuWUfv-kh_LZvtzrw',
+    appId: 'com.appspartner.iflirts',
+    url: 'https://play.google.com/store/apps/details?id=com.appspartner.iflirts&hl=en&gl=us'
+  },
+  {
+    title: 'BLK - Meet Black singles nearby!',
+    installs: 1835153,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/iJPFgFYmvZcHYYiqth_SKO12apGRM7uDPgwzDwAEKvvJDxKCsYzZbpHSrrsECVJQzaA',
+    appId: 'com.affinityapps.blk',
+    url: 'https://play.google.com/store/apps/details?id=com.affinityapps.blk&hl=en&gl=us'
+  },
+  {
+    title: 'OkCupid - The Online Dating App for Great Dates',
+    installs: 27898661,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zdy6PIoCcUg-HxF6VzDnnuYy0jRHvnz0UPBvp4f6_YBrR_mBwFtHO19jV_JVIMLrihQ',
+    appId: 'com.okcupid.okcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.okcupid.okcupid&hl=en&gl=us'
+  },
+  {
+    title: 'Coffee Meets Bagel Free Dating App',
+    installs: 3779546,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/2mJVjIklB7PVlN2T1nXt-z2nHvp_0hbsxAiQi5d-Xif1vlBWla3pE-PwW2zhMy_zPNIQ',
+    appId: 'com.coffeemeetsbagel',
+    url: 'https://play.google.com/store/apps/details?id=com.coffeemeetsbagel&hl=en&gl=us'
+  },
+  {
+    title: 'Chispa - Dating for Latinos',
+    installs: 1637953,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/wiVxuCfAdnGYpMpMXvWXRloejDc_35DExHK23W8JooRL0JypV3gzfq7f8WeiPPuO7Oa5',
+    appId: 'com.affinityapps.chispa',
+    url: 'https://play.google.com/store/apps/details?id=com.affinityapps.chispa&hl=en&gl=us'
+  },
+  {
+    title: 'SeekingArrangement',
+    installs: 2602778,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/3wj7INVN5_2fUUr__yJxgjuH4Jc5yjYadefgBEJFSnOdMfjXvnNeE-TKBduer_jU9JQ',
+    appId: 'com.infostream.seekingarrangement',
+    url: 'https://play.google.com/store/apps/details?id=com.infostream.seekingarrangement&hl=en&gl=us'
+  },
+  {
+    title: 'Clover Dating App',
+    installs: 2049411,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/14VVpSCGlITX_BQ1vrHrugrDMslGkFusxpQSQChTEI9DyxIDOtmZfJjvAJTgfDdPpA',
+    appId: 'co.clover.clover',
+    url: 'https://play.google.com/store/apps/details?id=co.clover.clover&hl=en&gl=us'
+  },
+  {
+    title: 'Rondevo - Global Online Dating',
+    installs: 883657,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Zy1sFoj6WCNHlvZbXU--CIpu5ygwqzyUyeWdJvdus3v4u3bEEzP_lynEHEZ2UiBAGmE',
+    appId: 'com.app.rondevo',
+    url: 'https://play.google.com/store/apps/details?id=com.app.rondevo&hl=en&gl=us'
+  },
+  {
+    title: 'Curvy Singles Dating - Meet online, Chat & Date',
+    installs: 3044141,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/k1vkd9sCKWCvSg_U8henxHV7e04XFvT1H3Tl40acdGlz9JxBuPo3etXonKWdtbZJ7BbU',
+    appId: 'com.mason.wooplus',
+    url: 'https://play.google.com/store/apps/details?id=com.mason.wooplus&hl=en&gl=us'
+  },
+  {
+    title: 'Ace - Dating & Live Video Chat',
+    installs: 1369558,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XpSI3x2zz3B64IW976HFE_QyoMCeyimc2iU-snBiIhoAHt_zjCMDKiVFCEUHzZbCPUXW',
+    appId: 'com.ace.android',
+    url: 'https://play.google.com/store/apps/details?id=com.ace.android&hl=en&gl=us'
+  },
+  {
+    title: 'Dil Mil: South Asian singles, dating & marriage',
+    installs: 861527,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/g8P-Eb2SyJ0pRnHONL9RLbtGm9_8F_J3f0tolxpUwAnFyHGR0-xEnQqhvMJT_oGGBQ',
+    appId: 'co.dilmil.android',
+    url: 'https://play.google.com/store/apps/details?id=co.dilmil.android&hl=en&gl=us'
+  },
+  {
+    title: 'The League',
+    installs: 406617,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/IBiUrRieuyBNHuuGFZBoiUXyNoGMPTg3EAeVqbTiKZvskm6DAzJ-0-6O5noHBADDYQU',
+    appId: 'com.league.theleague',
+    url: 'https://play.google.com/store/apps/details?id=com.league.theleague&hl=en&gl=us'
+  },
+  {
+    title: 'Herpes Dating: 1.7M+ STD Positive Singles',
+    installs: 196347,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/dIM9eCXNcBJZ6l6yGMZoJzvzZqUG_7q9SPABkNG6xCzjzRCKrKLseamD7dccgU5jqzU',
+    appId: 'com.stddating.positivesingles',
+    url: 'https://play.google.com/store/apps/details?id=com.stddating.positivesingles&hl=en&gl=us'
+  },
+  {
+    title: 'AsianDate: find Asian singles',
+    installs: 5223591,
+    genre: 'DATING',
+    icon: 'https://play-lh.googleusercontent.com/EE9QPiPLciC9lWbVgyLGFhc9bJD0zW-a_TdUm-6vTDCuSZQmrPML0p2rpWVTqW32S6Wh',
+    appId: 'com.asiandate',
+    url: 'https://play.google.com/store/apps/details?id=com.asiandate&hl=en&gl=us'
+  },
+  {
+    title: 'Mutual - LDS Dating',
+    installs: 245927,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/G9ZGzCsQo_KCjqCdHHM07vx5RBmdQZQvOuDVgeA2Gz9cmqlSK_2zf9QZFpWYOhWI8U8',
+    appId: 'com.mutualapp',
+    url: 'https://play.google.com/store/apps/details?id=com.mutualapp&hl=en&gl=us'
+  },
+  {
+    title: 'Feeld: Dating & Chat For Couples & Singles',
+    installs: 1374144,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/i-Nj5MVnu6Dek0z2x3a2z7Ly1G3nbkIq3uRtgH4w1XcLpsVazk-mImNbsF6_qdf2upQ',
+    appId: 'co.feeld',
+    url: 'https://play.google.com/store/apps/details?id=co.feeld&hl=en&gl=us'
+  },
+  {
+    title: 'PURE Hookup - anonymous chat and dating 18+',
+    installs: 2622956,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/QHaNNXCjyHRudPH8PWwzkwT8zfVuikNaOTOYFVOY7rYmoF79EpEh_RTryB76L5RI9g',
+    appId: 'com.getpure.pure',
+    url: 'https://play.google.com/store/apps/details?id=com.getpure.pure&hl=en&gl=us'
+  },
+  {
+    title: 'Zoosk - Online Dating App to Meet New People',
+    installs: 36583306,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/UeLxrL6_NyfSbXUcVMxnu9h-RsvYrIUizmiZXpvEhpMcFvkwnHg1NI6zIclo6AcIqKSU',
+    appId: 'com.zoosk.zoosk',
+    url: 'https://play.google.com/store/apps/details?id=com.zoosk.zoosk&hl=en&gl=us'
+  },
+  {
+    title: 'AmoLatina: Find & Chat with Singles - Flirt Today',
+    installs: 3420408,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/HhBTo-G_PgAWxOiZrH-gkMrcAvwZxKOZTHsQyQnc1IVX5LYlFLtMqbxjTCsRa7ws9kg',
+    appId: 'com.amolatina',
+    url: 'https://play.google.com/store/apps/details?id=com.amolatina&hl=en&gl=us'
+  },
+  {
+    title: 'SDM: Dating App for Seeking Pure Local Arrangement',
+    installs: 699871,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/raPUmdTM8X2fvNNZw52m-MQwTj8F6GQH-NMj4iBSVDPZdDi_sUVbUaGqrWOVYvJqiA',
+    appId: 'com.sugardaddydating.sugardaddymeet',
+    url: 'https://play.google.com/store/apps/details?id=com.sugardaddydating.sugardaddymeet&hl=en&gl=us'
+  },
+  {
+    title: 'Dating.com™: meet new people online - chat & date',
+    installs: 11502257,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XyCVFY3xZC-ovtwfq2BNlBsNCYeDlpwuNwSC7lDpevjsUzkyeKBBZ045uuM0IYdg2vnW',
+    appId: 'com.dating.android',
+    url: 'https://play.google.com/store/apps/details?id=com.dating.android&hl=en&gl=us'
+  },
+  {
+    title: '3Fun - Curious Couples & Singles Dating App',
+    installs: 1009246,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/InjX_lT5UgbU6zKLZ9y2NcoUk_6WHp-ov_jABR9sLqoGbgZc_C6usaMBnE0Wh_bIjw',
+    appId: 'com.threesome.swingers.app.threefun',
+    url: 'https://play.google.com/store/apps/details?id=com.threesome.swingers.app.threefun&hl=en&gl=us'
+  },
+  {
+    title: 'muzmatch: Muslim & Arab Singles, Marriage & Dating',
+    installs: 2714384,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/hvxjRsYkBN-P2rIaF1MICg-Z2n3Su_CPl8G74bnJgeYjxnAOMRSzD-KNmgezvNlAoA',
+    appId: 'com.muzmatch.muzmatchapp',
+    url: 'https://play.google.com/store/apps/details?id=com.muzmatch.muzmatchapp&hl=en&gl=us'
+  },
+  {
+    title: 'EliteSingles: Dating App for singles over 30',
+    installs: 1180730,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/NqJQqQKbx4QAoKWB9tcF1luOZPrYlkOgQOg2FlSHX-o01sJa03OaSGeO4Dr0QdWhmew',
+    appId: 'de.affinitas.za.co.elitesingles.and',
+    url: 'https://play.google.com/store/apps/details?id=de.affinitas.za.co.elitesingles.and&hl=en&gl=us'
+  },
+  {
+    title: 'Dating & Chat App For Couples & Singles - BiCupid',
+    installs: 310841,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Q6iR4PYEWkUOAzQEzZ5TKnl3QcZenNUiy1taP2Hphfb4dzLLop5c9FIUk1Mflhg_vnV7',
+    appId: 'com.bi.bicupid',
+    url: 'https://play.google.com/store/apps/details?id=com.bi.bicupid&hl=en&gl=us'
+  },
+  {
+    title: 'Cherish – Chat, Meet and Date',
+    installs: 385263,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/p0Lrb1NB2sk463jK6GKqHBV2EeUKTdmDcyYWBgfdu6oqA_urh5eO9Cu30mUS_kHn5g',
+    appId: 'com.lovinga',
+    url: 'https://play.google.com/store/apps/details?id=com.lovinga&hl=en&gl=us'
+  },
+  {
+    title: 'Cougar - Sugar Momma Finder Dating App',
+    installs: 932075,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/qnT3oCBORuO6SF_-OFRkTn1UXl8Cvupl6puR5HFGPSKqcJ6fJBccxJTli3sGX2wi_Q',
+    appId: 'com.sudy.cougar',
+    url: 'https://play.google.com/store/apps/details?id=com.sudy.cougar&hl=en&gl=us'
+  },
+  {
+    title: 'Dating for serious relationships',
+    installs: 5681373,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/LUTtvcOkPHnPUf7W-Mpe06DpzbOKBhT-gCCFH1SKDRaeyGO-8ugKzMt1NzH2VMN6TiPB',
+    appId: 'com.evermatch',
+    url: 'https://play.google.com/store/apps/details?id=com.evermatch&hl=en&gl=us'
+  },
+  {
+    title: 'TapToDate',
+    installs: 383829,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/PUHX8podIfCrNtU03Lye8Xr7FQWVvaKsWJ7Y60nUQAYxgvQTno9FOcMYvQaCf2DG2w',
+    appId: 'com.taptodate',
+    url: 'https://play.google.com/store/apps/details?id=com.taptodate&hl=en&gl=us'
+  },
+  {
+    title: 'AnastasiaDate: International dating app',
+    installs: 4956858,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/PuKVANAhRzCv2qWuSMvOUsWceY0DICGLe1hqWxszzgiSnqKmcLBLHjuDzN3zTOOVMROI',
+    appId: 'com.itonline.anastasiadate',
+    url: 'https://play.google.com/store/apps/details?id=com.itonline.anastasiadate&hl=en&gl=us'
+  },
+  {
+    title: 'DOWN Dating App🔥 18+ Hookup, Match,Hot Adult Chat',
+    installs: 3504024,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/S301o5Kc8hGyMs8SEx-tbti0PIdpBmQMotLioIxJAg_dpDsnO0oSgMsq437n0x9IAA',
+    appId: 'com.bang.bangwithfriends',
+    url: 'https://play.google.com/store/apps/details?id=com.bang.bangwithfriends&hl=en&gl=us'
+  },
+  {
+    title: 'Meetville - Meet New People Online. Dating App',
+    installs: 6462204,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/d8kKjAoW8A-x8t4BWGBtsja3U--BeQOyPHNTVLWxeqclOKVSyGu7Lk0BYryAqJ5tpTI',
+    appId: 'com.meetville.dating',
+    url: 'https://play.google.com/store/apps/details?id=com.meetville.dating&hl=en&gl=us'
+  },
+  {
+    title: 'Hot or Not - Find someone right now',
+    installs: 25629327,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/y2fzDg0ZoHUZfTk_cghmUv6g-1-qT6YQJUIX8eQWyqGhpRt_jVRtfo6vIXgIMxDZx7E',
+    appId: 'com.hotornot.app',
+    url: 'https://play.google.com/store/apps/details?id=com.hotornot.app&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Chat Rooms, Dating App',
+    installs: 2765795,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/V7gjmM3yBDePIdI_tm2h4-ieOX12ZafOp9bYPqzJvzgIAdCaIHuvMALN4_IhVKIeqA',
+    appId: 'com.antiland',
+    url: 'https://play.google.com/store/apps/details?id=com.antiland&hl=en&gl=us'
+  },
+  {
+    title: 'Joyride – Dating Playground & Passionate Singles',
+    installs: 17516038,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/hlQsVU6-_XNpxJZECT8yW0lEXOCMspSoMIRXkbfmp_qWb9WWodN2USAdO5e2Oyw8fx1G',
+    appId: 'com.jaumo.casual',
+    url: 'https://play.google.com/store/apps/details?id=com.jaumo.casual&hl=en&gl=us'
+  },
+  {
+    title: 'DateMyAge™: Chat, Meet, Date Mature Singles Online',
+    installs: 2092198,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/_DpB9znJb2zqJruDveeZJ9jcifuZCItXBe--zBrW1ibmpIOf6IK89YdFixamrW6PORcu',
+    appId: 'com.datemyage',
+    url: 'https://play.google.com/store/apps/details?id=com.datemyage&hl=en&gl=us'
+  },
+  {
+    title: 'Threesome Dating App for Couples & Swingers: 3rder',
+    installs: 1047118,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/EQjsKtU4Rgx-Px9YDtMO2EIX_8nu-DfK0wtKF0xtNmx4-FRcM2XXLtlCfhoneSbl7A',
+    appId: 'com.threesome.thirder',
+    url: 'https://play.google.com/store/apps/details?id=com.threesome.thirder&hl=en&gl=us'
+  },
+  {
+    title: 'EME Hive - #1 Asian Dating App',
+    installs: 154090,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/f35wMShCgitZ4H37Q64wrJLDxSnlcuraGQy8nH0ZYvpGzC34QT7eu-byIKDWdFqV',
+    appId: 'com.eastmeeteast.eme_android',
+    url: 'https://play.google.com/store/apps/details?id=com.eastmeeteast.eme_android&hl=en&gl=us'
+  },
+  {
+    title: 'Cougar Dating Life : Date Older Women Sugar Mummy',
+    installs: 1380931,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/5qoh0hUZ94ginFgtJLKLjUoRT5ScnWJFk0bPl74DIwbR45kDAQWLXdt4Q3Di3cvn4w',
+    appId: 'com.cougardating.olderwomendating',
+    url: 'https://play.google.com/store/apps/details?id=com.cougardating.olderwomendating&hl=en&gl=us'
+  },
+  {
+    title: 'Millionaire Match: Meet And Date The Rich Elite',
+    installs: 412097,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Ay1f8ZKqLCEAi1U3RyYA6MLKi1kVSZnSDteqogWGxEonK8tj87at88VhxKJdy0YnoW4',
+    appId: 'com.millionairedating.millionairematch',
+    url: 'https://play.google.com/store/apps/details?id=com.millionairedating.millionairematch&hl=en&gl=us'
+  },
+  {
+    title: 'SilverSingles: Dating Over 50 Made Easy',
+    installs: 123823,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/gkeyACFsD2dshX7xhv9xkKhA65oSgcw-ZvNeJD1t4setDFv9g0A4uItU9qSPIst9E1U',
+    appId: 'com.spark.com.silversingles.app',
+    url: 'https://play.google.com/store/apps/details?id=com.spark.com.silversingles.app&hl=en&gl=us'
+  },
+  {
+    title: 'KinkD: Fetish, BDSM Dating & Kinky Fet Lifestyle',
+    installs: 545723,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/TV7xJKd1m7Qwo5RkU5wo-v9_4m4DfwgX8L3GHCivNT4DkufYE6raqdTMkmB1o7j27yk',
+    appId: 'com.kinky.fetlifestyle',
+    url: 'https://play.google.com/store/apps/details?id=com.kinky.fetlifestyle&hl=en&gl=us'
+  },
+  {
+    title: 'LatinAmericanCupid - Latin Dating App',
+    installs: 854443,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/0HD2Qr8CGhqfHFk86CT5wA4Wvg8krxiqcTl9HIvG4oPLrSnDe-cPhli8M6HwONUZQDo',
+    appId: 'com.cupidmedia.wrapper.latinamericancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.latinamericancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Threesome Dating App for Swingers & Couples - 3way',
+    installs: 226352,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/GoFmRdQV9aVqJv6jL5fK_6D6NJa1BP4pkFp2M7nB6BiIHTOsVpOgvBuNHuA7AADs1KHe',
+    appId: 'app.threesome.dating',
+    url: 'https://play.google.com/store/apps/details?id=app.threesome.dating&hl=en&gl=us'
+  },
+  {
+    title: 'FilipinoCupid - Filipino Dating App',
+    installs: 773098,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zsqzUaFAWO3oUohusj-UdwLXMOombXuCwjUHeBDokwSwzgUuxUDbv61NcgZ0grzXnQ',
+    appId: 'com.cupidmedia.wrapper.filipinocupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.filipinocupid&hl=en&gl=us'
+  },
+  {
+    title: 'FWB Hookup App to Hook up NSA Dating Finders: Xwoo',
+    installs: 97347,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/yZm1nf5Kgeh2Okucz8U26FdERby9Jz2LLEv4XFaSqNfBeNGViH5Vl5R__rHzdaMHcw5X',
+    appId: 'com.fwbhookup.xpal',
+    url: 'https://play.google.com/store/apps/details?id=com.fwbhookup.xpal&hl=en&gl=us'
+  },
+  {
+    title: 'RusDate. Знакомства в Америке',
+    installs: 957879,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/-oeZdREb9K3KbXqFc6ebK0_VcoSOyyJGjoykOtLsE_px0zU4FPQJNNgzL1WqZS8JMUev',
+    appId: 'com.rusdate.net',
+    url: 'https://play.google.com/store/apps/details?id=com.rusdate.net&hl=en&gl=us'
+  },
+  {
+    title: 'ONE Night - Hook Up Dating App',
+    installs: 575397,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/jaZl_gQ9SPueyjALVyFEqyQTeu0JNb6p_LvjNR4YwMWlQUtvt0-WvywOZfcg6rr6M44',
+    appId: 'com.social.onenight',
+    url: 'https://play.google.com/store/apps/details?id=com.social.onenight&hl=en&gl=us'
+  },
+  {
+    title: 'Muslima - Muslim Matrimonials App',
+    installs: 1614121,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/xHdtWjQRuIbloIN4tw56oKgz7qPE0hcLh7ugdwJ73Ol9gmUYSTib91BCVOGFN_vYiq7O',
+    appId: 'com.cupidmedia.wrapper.muslima',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.muslima&hl=en&gl=us'
+  },
+  {
+    title: 'ColombianCupid - Colombian Dating App',
+    installs: 229317,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zrLXt3Ot93AvEZ9ctwY4XN7atR97qyAe1CkB-B6iKaNXAthFBuYrLpI2hJKd1Qigkw',
+    appId: 'com.cupidmedia.wrapper.colombiancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.colombiancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Blendr - Chat, Flirt & Meet',
+    installs: 4638558,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/WpeA41HMIZbQ5mSO__IMc27J8hCIafBhYFrGxOWbTlT_U1H0a6V-inDw8OH3Qh3zPszy',
+    appId: 'com.blendr.mobile',
+    url: 'https://play.google.com/store/apps/details?id=com.blendr.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'The Official SDC Swingers and Erotic Meetups App',
+    installs: 125096,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/dWUwrTXiM5RvAShHIHJkSEHCCuK5E-l3M5YJ8KMNgaX37B1D3nyetIenFwr1yMMYfza0',
+    appId: 'com.sdcmedia.swingers.g3',
+    url: 'https://play.google.com/store/apps/details?id=com.sdcmedia.swingers.g3&hl=en&gl=us'
+  },
+  {
+    title: 'BiggerCity: Chat for gay bears, chubs & chasers',
+    installs: 295896,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/8gfjyWSbD66pCUMJQecFJ9WC_2vZDnCUJJE2D7W4xAWeR39IfL_sBMyXRBDL_UuHztE',
+    appId: 'com.luzeon.BiggerCity',
+    url: 'https://play.google.com/store/apps/details?id=com.luzeon.BiggerCity&hl=en&gl=us'
+  },
+  {
+    title: 'Transdr: Transgender Hookup & Crossdresser Dating',
+    installs: 628020,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/W-eQu7v5yFNGxI_t1nYUQ54rgyGRHdiq5K12yHYGvJH2fxh43M-cnOrX05Za9jNo9g',
+    appId: 'com.trandrapp.trandr',
+    url: 'https://play.google.com/store/apps/details?id=com.trandrapp.trandr&hl=en&gl=us'
+  },
+  {
+    title: 'Dating and Chat - SweetMeet',
+    installs: 15537932,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/WhdAFqO91L3SewbVzvMZ1ZLynJgh_bVgaMjmhgDXGLEsKxO1OMgqrsQypJQO9FhmHhQx',
+    appId: 'ru.fotostrana.sweetmeet',
+    url: 'https://play.google.com/store/apps/details?id=ru.fotostrana.sweetmeet&hl=en&gl=us'
+  },
+  {
+    title: 'SeniorMeetMe - Adult & Over 50 Dating App',
+    installs: 45729,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/4xQiV4UbFdYq3oYDfQ-vCHXdkO-j0VBvGYBb_XcgdvO_LNlVsOhhj_-aNcijbP0eJ3UH',
+    appId: 'com.over.seniors',
+    url: 'https://play.google.com/store/apps/details?id=com.over.seniors&hl=en&gl=us'
+  },
+  {
+    title: 'AfroIntroductions - African Dating App',
+    installs: 713399,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/jLkGmIf1UPnfOa-eVPvd5CL3fQOuhBXFef6Q0bfTSj5kqUzMgXiSTN4Mew3-ULM3xNZR',
+    appId: 'com.cupidmedia.wrapper.afrointroductions',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.afrointroductions&hl=en&gl=us'
+  },
+  {
+    title: 'Travel dating: YourTravelMates',
+    installs: 1190950,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/riRCJ1pbR4htesCmruY_vt6KCavzZNvxqNHklw2045c62gd5kkd42LgD6EcyJyI3PS0',
+    appId: 'com.yourtravelmates',
+    url: 'https://play.google.com/store/apps/details?id=com.yourtravelmates&hl=en&gl=us'
+  },
+  {
+    title: 'AsianDating - Asian Dating App',
+    installs: 882823,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/aZpzeaSDe3dFKPZg34Nzsv4sGIfgHVUjOPZsB-o4UCpeKB7FYX3RarflWnPGNl9liA',
+    appId: 'com.cupidmedia.wrapper.asiandating',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.asiandating&hl=en&gl=us'
+  },
+  {
+    title: 'InternationalCupid - International Dating App',
+    installs: 1123093,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/5FhMAm75iwHajd3-nm3efiXxFSqrss9wanIDaflVxt3AAEjH4UssJnbv3XsQIjM8XQ',
+    appId: 'com.cupidmedia.wrapper.internationalcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.internationalcupid&hl=en&gl=us'
+  },
+  {
+    title: 'Black White Interracial Dating - Interracial Match',
+    installs: 560649,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/9XgChPmt2JTeG-aeZZ-ERyA1pPubez2Lx8Qvaij-xAPUld45H_z_bsNkcBs7ErbpgU3i',
+    appId: 'com.blackwhitemeet',
+    url: 'https://play.google.com/store/apps/details?id=com.blackwhitemeet&hl=en&gl=us'
+  },
+  {
+    title: 'Kinky Dating Chat & Gay Date Lifestyle App - GFet',
+    installs: 111905,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zVH7RjwqufHm3MlpWnK7-8yeu8QkmgmD34Y2ErXOTmxoPT8gOhBX_-TDlyECnXnOCg',
+    appId: 'com.lifestyle.kinky',
+    url: 'https://play.google.com/store/apps/details?id=com.lifestyle.kinky&hl=en&gl=us'
+  },
+  {
+    title: 'Goodnight - Voice, Random, Match, Chat',
+    installs: 4609413,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/_3NK5cFIZdjntkCOaiO9DljjzMSfb_uje9kn6J_lgUYqCoMrE9W31mkQEftKVrztXzw',
+    appId: 'com.one.goodnight',
+    url: 'https://play.google.com/store/apps/details?id=com.one.goodnight&hl=en&gl=us'
+  },
+  {
+    title: 'Random Chat (Stranger Chat)',
+    installs: 617247,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/r971y7GVE1GXAfrNzkAAIMuZJ_mcapRMDNmiDzqi4-FqzZy90HLgCZc0zGOFGzQLO64',
+    appId: 'kr.jungrammer.randomchat',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.randomchat&hl=en&gl=us'
+  },
+  {
+    title: 'Kippo - The Dating App for Gamers',
+    installs: 10149,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/qZnrSH2JvxjO8Gy60kbqJ3qL7J3rc8VQkFjMoltMglpmcY3xHr25aJIswiQntHt_V5g',
+    appId: 'com.covalent.kippo',
+    url: 'https://play.google.com/store/apps/details?id=com.covalent.kippo&hl=en&gl=us'
+  },
+  {
+    title: 'Local Hookup Dating App - Meet New People & Date',
+    installs: 186894,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/xL0AWZvoxMbKf3ZTmsRHdZG_ZVRNFpU-I9XlAC06z7WLB3GngPu6WW5lNXmGJt1fhiQ',
+    appId: 'com.localhookupdating.android',
+    url: 'https://play.google.com/store/apps/details?id=com.localhookupdating.android&hl=en&gl=us'
+  },
+  {
+    title: 'Meetly - Free Dating App, flirt hookup Adult Meet',
+    installs: 156157,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/AeflFwyucinILDHz9dMp-IlijUhX4bdlnRirowjr66uFZy7EaamfL0RQDzdI2tzG6lA',
+    appId: 'com.improverllc.meetly',
+    url: 'https://play.google.com/store/apps/details?id=com.improverllc.meetly&hl=en&gl=us'
+  },
+  {
+    title: 'Wild - Adult Singles Finder & Casual Dating App',
+    installs: 726931,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/X5NvAJ-USKOQCzc6L1Fm_iRABX7xqXAyDxbRL5ke4Iey0O56uDv9gNuGZa3SVh_9mw',
+    appId: 'com.free.hookup.dating.apps.wild',
+    url: 'https://play.google.com/store/apps/details?id=com.free.hookup.dating.apps.wild&hl=en&gl=us'
+  },
+  {
+    title: 'Curvy Singles Dating',
+    installs: 52310,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/KKd-2G3qjkqG13Xnnlwh5yCuMWbplwXtsSTU4IDFW6eOMj0OZsnYLqOLFz___gAv60m5',
+    appId: 'com.curvydating',
+    url: 'https://play.google.com/store/apps/details?id=com.curvydating&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Daddy Meet & Dating Arrangement App - SD',
+    installs: 95544,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/pZNqFtNxNw3o-s212SaD7NTQrVl5jXZ_HrMarML4ASfbfgbPkbMszXzVQOMFe5fMUv8',
+    appId: 'net.flirtyhookup.hookup',
+    url: 'https://play.google.com/store/apps/details?id=net.flirtyhookup.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'Sudy - Elite Dating App',
+    installs: 139990,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/oms1OXXEb3lZRyDWcOxkwsfuFdmS9FnG52ZE3b-i3qJ3mORk1-NWTifUoaanSetgFtI',
+    appId: 'com.sudy.dating',
+    url: 'https://play.google.com/store/apps/details?id=com.sudy.dating&hl=en&gl=us'
+  },
+  {
+    title: 'Gay guys chat & dating app - GayFriendly.dating',
+    installs: 598720,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/iKcAjaoP4xDQuTIEuZMEUCZpnIGffxfmfVjPwZK3DGP6925n6nqUmxhgvBTox81ej4s',
+    appId: 'gayfriendly.gay.dating.app',
+    url: 'https://play.google.com/store/apps/details?id=gayfriendly.gay.dating.app&hl=en&gl=us'
+  },
+  {
+    title: 'YourChristianDate: Meet Your Christian Soul Mate',
+    installs: 540634,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/GkYuJgzNqKb7NCvI9OA0lOwQKCL_kb58nhrM376IfcIkjP6jf7xTCWHelu9WYFB4lw',
+    appId: 'com.yourchristiandate',
+    url: 'https://play.google.com/store/apps/details?id=com.yourchristiandate&hl=en&gl=us'
+  },
+  {
+    title: 'DominicanCupid - Dominican Dating App',
+    installs: 189612,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/2QzJi87emucEhgUElU5Ws6_2l3MbGG7YAxqYLEnSwBCImDl3m0Nj1-DqE8g1xvMOpA',
+    appId: 'com.cupidmedia.wrapper.dominicancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.dominicancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Laverly - Discover, Chat, Date',
+    installs: 7852,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/kwXvBnyXAb_37MWyKlBX42nyBL88urGbcOa01Dash_agMs5D4cPYnlQZzQOnAg5Wochr',
+    appId: 'com.app.lovebe',
+    url: 'https://play.google.com/store/apps/details?id=com.app.lovebe&hl=en&gl=us'
+  },
+  {
+    title: 'BBWCupid - BBW Dating App',
+    installs: 184321,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/0pAYYCe23SOQio9uM2XT0o3UcOB0mzXZleGXIMnBWosIdkwcfNvSwnrSw5TuK_17JY4',
+    appId: 'com.cupidmedia.wrapper.bbwcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.bbwcupid&hl=en&gl=us'
+  },
+  {
+    title: 'ChinaLove: dating app for Chinese singles',
+    installs: 415683,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/a1guOG59mLcYYFTvljCDOHErfUElsZtACX3jPcw9NIwUCelbxt_swIY8Ig3KtueZRw',
+    appId: 'com.chinalove',
+    url: 'https://play.google.com/store/apps/details?id=com.chinalove&hl=en&gl=us'
+  },
+  {
+    title: 'Biker Planet - Biker Dating App',
+    installs: 33365,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/l-9TT0JWhrCNaSz8gO32GaCjbkA6A0hWHhTSzEW_iiL2gjHAlwwFMMamjRPp6EgGj9Y',
+    appId: 'com.fbm.BikerPlanet',
+    url: 'https://play.google.com/store/apps/details?id=com.fbm.BikerPlanet&hl=en&gl=us'
+  },
+  {
+    title: '2RedBeans',
+    installs: 114692,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/PNYGK89WuS5jgy87m-NvXjbO7OOtUFWWT_lCb-aRqW_r8ol3cUWQ1pf7K3ozM-_AIK9O',
+    appId: 'com.embrace_2redbeans',
+    url: 'https://play.google.com/store/apps/details?id=com.embrace_2redbeans&hl=en&gl=us'
+  },
+  {
+    title: 'MexicanCupid - Mexican Dating App',
+    installs: 113557,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/EtI1NsghymSCFSn6eKI5nDsG5VBdUSxqDZqMSnsTUknCjTycJVCl2u527cvvjHYWm-o',
+    appId: 'com.cupidmedia.wrapper.mexicancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.mexicancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Christian Dating, Mingle & Meet Singles - CFish',
+    installs: 89319,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ms8gU2WUo1DwjHsSKQlxETTG_EdK7dsvc5SBdk1lXN3QP7W2BftO71QMNcY0s7JgaiU',
+    appId: 'com.cfishes.christiandating',
+    url: 'https://play.google.com/store/apps/details?id=com.cfishes.christiandating&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Momma Dating Cougar Dating For Hookup - Luck',
+    installs: 102074,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/KuWZU2zG8MUr-9fGtzlPdMZVv4PwljRN6KtoZKAqex_2MoYD8E0N41_910MtjhdvNMI',
+    appId: 'hookup.sugarmomma.hookupapps',
+    url: 'https://play.google.com/store/apps/details?id=hookup.sugarmomma.hookupapps&hl=en&gl=us'
+  },
+  {
+    title: 'Dating with singles nearby - iHappy',
+    installs: 544322,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/DvSXX-PoI6HLWTY_BUcgmAi_YjhR0o_h3gKB4grYQvPYexLvG4AuaUDl6YKbZ_qbsg',
+    appId: 'com.ihappydate',
+    url: 'https://play.google.com/store/apps/details?id=com.ihappydate&hl=en&gl=us'
+  },
+  {
+    title: 'Seeking Age Gap Arrangement: Casual Hookup & Match',
+    installs: 180131,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ovVk0jFAGv1nC7NNxoaCKzfFXHN8GfRSAzbXAX8MQOe_4KAhHTgIjLqMfTJVnMj05w',
+    appId: 'com.besget.gaper',
+    url: 'https://play.google.com/store/apps/details?id=com.besget.gaper&hl=en&gl=us'
+  },
+  {
+    title: 'Dating for 50 plus Mature Singles – FINALLY',
+    installs: 2823774,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/e3X1lyzWtO455y8abrmKJsA5tw7ARuIUgMkoyw_y3GbrUReEVXOgXueoWqHpQlmcu3G3',
+    appId: 'com.jaumo.mature',
+    url: 'https://play.google.com/store/apps/details?id=com.jaumo.mature&hl=en&gl=us'
+  },
+  {
+    title: 'Casualx: Casual Hook Up Dating & Local NSA Hookup',
+    installs: 1304823,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/dL1IbNuUI9r0q915Wz9sVNnBSdH0pOYJF4mlHpULyWZApHV8GT5mAaoGPOicazs4Djk',
+    appId: 'com.casualx.hookup',
+    url: 'https://play.google.com/store/apps/details?id=com.casualx.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'Waiter: Less dating, more love',
+    installs: 489915,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/RHnnnInjFqUcVPJlL6Jy9DAIOyu3wmsrcijR0x-8JCd7wM7kvfKw5RO3w_dXX-wogUVD',
+    appId: 'love.waiter.android',
+    url: 'https://play.google.com/store/apps/details?id=love.waiter.android&hl=en&gl=us'
+  },
+  {
+    title: 'Galaxy - Chat Rooms: Meet New People Online & Date',
+    installs: 15958833,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/N7dBbQz4ap5dXmc2gMBZ6z0ao7REFkzMOHkWLISNbB6xthIwVpLjFJvwiTZbuXsOwCY',
+    appId: 'ru.mobstudio.andgalaxy',
+    url: 'https://play.google.com/store/apps/details?id=ru.mobstudio.andgalaxy&hl=en&gl=us'
+  },
+  {
+    title: 'YoHoo - Casual Dating & Hook Up App',
+    installs: 23867,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/yBesF4sOVntNz5X1qefwwD1nxb-Vlw1oCQgCRguanpSuSub5pbxn2NfMm9oPhaBPjQ',
+    appId: 'com.meet.pure',
+    url: 'https://play.google.com/store/apps/details?id=com.meet.pure&hl=en&gl=us'
+  },
+  {
+    title: 'RussianCupid - Russian Dating App',
+    installs: 266847,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/LjqjCx2JkkaH0DeYAgwtrEqoZxxFWxUzqLf4bL1n1P8OdCMJrEkp_Xw0w0jnCmEhdg',
+    appId: 'com.cupidmedia.wrapper.russiancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.russiancupid&hl=en&gl=us'
+  },
+  {
+    title: 'FlirtWith - Live Streaming Dating App',
+    installs: 806689,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/47E_x9jT7x1EjkCplNzI8JUrJzXcbC1Ha5MHrBXtPZiRyxRTAt2yBaFB9tL_78qn7UZq',
+    appId: 'com.flirtwith',
+    url: 'https://play.google.com/store/apps/details?id=com.flirtwith&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Chat Rooms, Meet New People – Anti',
+    installs: 3806398,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Tic_luMqlyT7TM_rVEJ1lgsTNgN5uRWxwbooifaJj-F6vwFdD1HmUKVk4cqOFwE5doY',
+    appId: 'chat.anti',
+    url: 'https://play.google.com/store/apps/details?id=chat.anti&hl=en&gl=us'
+  },
+  {
+    title: 'EuroDate: Meet your European Soulmate',
+    installs: 326976,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Xe4IbSyodKfooUc0W8CztNA2FslW0_miFgw4j8N-A_IsZJ5d55Klucz0UQpymDeWAUE',
+    appId: 'com.eurodate',
+    url: 'https://play.google.com/store/apps/details?id=com.eurodate&hl=en&gl=us'
+  },
+  {
+    title: 'BBW Dating App for Curvy & Plus Size People: Bustr',
+    installs: 214785,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Shn7QpGPhaujxp1IDtEXuvSf8NeA2EhHm6qBiCxv9ysVedKd1Mq34cvDX9uCP6QYzqc',
+    appId: 'com.bbwdatingapp.bustr',
+    url: 'https://play.google.com/store/apps/details?id=com.bbwdatingapp.bustr&hl=en&gl=us'
+  },
+  {
+    title: 'Christian Dating For Free App - CDFF',
+    installs: 1226423,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/nSIGxEAOZ2YC9vrXlBVRWjOtXluBHLAMZ9fw5C1SLVhbfve6SMODZUdqGLV4j6URvvqM',
+    appId: 'cdff.mobileapp',
+    url: 'https://play.google.com/store/apps/details?id=cdff.mobileapp&hl=en&gl=us'
+  },
+  {
+    title: 'ArabianDate: Chat&Date online',
+    installs: 2060339,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/FAit63Dbw4mOWdnH3upne83F5sbahFzJrA7z1buv32Z4jH_VOg9nTjBPCPAQY-4Zqdw',
+    appId: 'com.arabiandate',
+    url: 'https://play.google.com/store/apps/details?id=com.arabiandate&hl=en&gl=us'
+  },
+  {
+    title: 'Herpes Positive Singles Dating',
+    installs: 30565,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zBQchi8hRoJEkrXaeo-zhUI-CtmISnq8p9gTBRfRE-fD9flvsyWzab7_CZ4l1Hvf1Qo',
+    appId: 'com.successfulmatch.mpwh',
+    url: 'https://play.google.com/store/apps/details?id=com.successfulmatch.mpwh&hl=en&gl=us'
+  },
+  {
+    title: 'Positive Match: herpes dating, chat & meet online',
+    installs: 35711,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/H_uqb5t7Tifc0BQPTnrNbzp3AVsYXsh0F8hS596a9jy2zEZSr11ZH3yZO2ju7Y16P0A',
+    appId: 'com.std.meetup',
+    url: 'https://play.google.com/store/apps/details?id=com.std.meetup&hl=en&gl=us'
+  },
+  {
+    title: 'LP: Dating Cam, Video Chat & Live Talk',
+    installs: 6840045,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/3GD9GLpbwF7d4emqwjnKiifbMEDte21WsE0XlOxzGb2B7HzbnO3P3PDO8wt7N8s21XE',
+    appId: 'ru.loveplanet.app',
+    url: 'https://play.google.com/store/apps/details?id=ru.loveplanet.app&hl=en&gl=us'
+  },
+  {
+    title: 'InterracialCupid - Interracial Dating App',
+    installs: 331889,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XzrMnk7zIuTY69q2sZikdNr_POFmYsqxy39mlrLMgZ0InaK9-sP8UzEAUV5j1hUdoJQ',
+    appId: 'com.cupidmedia.wrapper.interracialcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.interracialcupid&hl=en&gl=us'
+  },
+  {
+    title: 'Cougar Dating App: Hookup Mature Older Women',
+    installs: 88810,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/mM6HOj0PetivnfXrm_2rXSIiPy9-4_0Y4V2dBNcdrodNesaXdslfFkiS6Kk8n0N3EJ4',
+    appId: 'com.cougardating.cougard',
+    url: 'https://play.google.com/store/apps/details?id=com.cougardating.cougard&hl=en&gl=us'
+  },
+  {
+    title: 'One Night Speed Dating App🔥Hook Up Single Friends',
+    installs: 221698,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/QaUPY_-0XKXDwPz5Q76I676UyLaUfqZOvU93Z-FPMJiONuDbyGutU_bpWEOTD7niGfo',
+    appId: 'com.speeddating.ad.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.speeddating.ad.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Senior Match: Mature Dating App for Silver Singles',
+    installs: 123680,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/yJnzeDsKbmtvqqxOgT08jcglWJmzvoDivhMZ9pnwjsRqS7sgAkMu49Y-JVEohDbtBMBQ',
+    appId: 'com.successfulmatch.seniormatchdating',
+    url: 'https://play.google.com/store/apps/details?id=com.successfulmatch.seniormatchdating&hl=en&gl=us'
+  },
+  {
+    title: 'Manhunt – Gay Chat, Meet, Date',
+    installs: 417272,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Cb0bvSwOyBwCaWu71U7UEySEHF66byJzwzmGyfp3QEvmsq_fpfMzUvhX2ys2D9jeHzRJ',
+    appId: 'com.onlinebuddies.manhuntgaychat',
+    url: 'https://play.google.com/store/apps/details?id=com.onlinebuddies.manhuntgaychat&hl=en&gl=us'
+  },
+  {
+    title: 'BLOOM — Premium Dating & Find Real Love',
+    installs: 20848448,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/c9SekQWKfZpH_pTJuC9tqtOV7zncFBzeFS0wZMj8glkIWWSiA_U5Rx9dWiINtjSMAjw',
+    appId: 'com.jaumo.prime',
+    url: 'https://play.google.com/store/apps/details?id=com.jaumo.prime&hl=en&gl=us'
+  },
+  {
+    title: 'Dating with local Singles - Maybe You',
+    installs: 773761,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/CUMZFedhVdsbb6YJvT84-AexG4_aVDZJiQsbgwVNiwgaoH-FQ2pWF5umFXnDMbRQg_w',
+    appId: 'com.maybeyou',
+    url: 'https://play.google.com/store/apps/details?id=com.maybeyou&hl=en&gl=us'
+  },
+  {
+    title: '3Somer: Threesome & Couple Dating App for Swingers',
+    installs: 88336,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/kF3DqTFOSoWKGO76hOtB5zPH0R-DCzSD-46yNpQL-BW39d-d5fCuL_UszBLdZpfHNZc',
+    appId: 'com.threesome',
+    url: 'https://play.google.com/store/apps/details?id=com.threesome&hl=en&gl=us'
+  },
+  {
+    title: 'FancyU Pro - Video Dating App',
+    installs: 719036,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/gh-ud9DdUZGJxgw-smWpalJDu_7QCaBbUU-N6FAbPOHnn4zKHmaIjtY-Lnpp4fiKizE',
+    appId: 'com.fancyu.videochat.love.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.fancyu.videochat.love.pro&hl=en&gl=us'
+  },
+  {
+    title: 'FarmersOnly Dating',
+    installs: 995166,
+    genre: 'DATING',
+    icon: 'https://play-lh.googleusercontent.com/ul9MBbzCCD6BQRCcQmxwIrgvGuTV8650-Tjhyis4IIOxoJzHAE-Xt1zasSzpwHu35VI',
+    appId: 'com.farmersonly.android',
+    url: 'https://play.google.com/store/apps/details?id=com.farmersonly.android&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Daddy Dating - Elite Millionaire Luxy Dating',
+    installs: 77584,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/sFMm280GDtQJvLB4qzXRqrlUKpuf-52BEVUmTEugzsEaO-P1ZSxg5PyVQ_UycX8XMQ',
+    appId: 'com.sugardaddy.sugardaddy.sugarbaby',
+    url: 'https://play.google.com/store/apps/details?id=com.sugardaddy.sugardaddy.sugarbaby&hl=en&gl=us'
+  },
+  {
+    title: 'Hookups - Hookup Dating for Singles Date Hook Up',
+    installs: 66093,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/rt8k3X2LZxpK7e3tpry1meazzIyYmiryj6mPNzcM3YOBhGSWl9iI4vRYMTsTBzpPiRY',
+    appId: 'com.socialnetwork.hookupsapp',
+    url: 'https://play.google.com/store/apps/details?id=com.socialnetwork.hookupsapp&hl=en&gl=us'
+  },
+  {
+    title: 'Ahlam. Chat & Dating app for Arabs in USA',
+    installs: 785799,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Oa-RDDBEMysO3cNzJtcao-jV3HLe8hG1GoDhz95qJATDnIisI143JJmJ1wbRu4o6Tic',
+    appId: 'arab.dating.app.ahlam.net',
+    url: 'https://play.google.com/store/apps/details?id=arab.dating.app.ahlam.net&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Chat',
+    installs: 65447,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/1caXcQOY2u1Ch28L55HUvxMSY2sq9zk5aP1106HnpLUSIlOWWyVly8mgizK237RTkj8U',
+    appId: 'dotsoa.anonymous.chat',
+    url: 'https://play.google.com/store/apps/details?id=dotsoa.anonymous.chat&hl=en&gl=us'
+  },
+  {
+    title: 'PinkCupid - Lesbian Dating App',
+    installs: 183000,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/NuSpHXsL0VKMXpcTkcsrFIQDJBhpEvHuuWhw7IUhtG2HCVxH7I589MHkrTu0JAeSWOM',
+    appId: 'com.cupidmedia.wrapper.pinkcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.pinkcupid&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Daddy & Sugar Baby Dating App - SeekingDaddy',
+    installs: 35315,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/xgSiOlKZmxuGWmOYAPYqU6AZ8VaAZhbLd6O9hNTKq6ui1sk8w4ZE7_UZ8R2IE4QW2NQ',
+    appId: 'com.sugardaddydating.sugary',
+    url: 'https://play.google.com/store/apps/details?id=com.sugardaddydating.sugary&hl=en&gl=us'
+  },
+  {
+    title: 'SweetRing - Meet, Match, Date',
+    installs: 5087656,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/DYcxbrWjdapfssZ7bVTGCSXopm-RSjPlLIKrCuQE7DT5u6IVKWg9wQ5VuhD-7B18jQ',
+    appId: 'com.sweetringplus.android',
+    url: 'https://play.google.com/store/apps/details?id=com.sweetringplus.android&hl=en&gl=us'
+  },
+  {
+    title: 'JapanCupid - Japanese Dating App',
+    installs: 300824,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/2AuH8KKJDsn3AMNP_XfT3ZvzFcPl-keqh_X6v6D20QKUXIKEamJo3jdyxF89AnMcuA',
+    appId: 'com.cupidmedia.wrapper.japancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.japancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Casual Dating & Adult Friend Finder - Yboo',
+    installs: 336851,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/yr-b8ENFs30c0ah0YoCpf9HLgZU39ndk2ydJqRd0tH7q0I4tOySXBEX_z_19Q5TGKw',
+    appId: 'com.tabooapp.dating',
+    url: 'https://play.google.com/store/apps/details?id=com.tabooapp.dating&hl=en&gl=us'
+  },
+  {
+    title: 'JD - JustDating',
+    installs: 1912139,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/MXQ6GODg2GwkdvoDSaku8CXK6N0pp-kVuJDPfB1R6W7ktDyTfKTc_1yBRJcTWmF9OKM',
+    appId: 'com.davis.justdating',
+    url: 'https://play.google.com/store/apps/details?id=com.davis.justdating&hl=en&gl=us'
+  },
+  {
+    title: 'MilitaryCupid - Military Dating App',
+    installs: 139124,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/FvaHQ-yXtJliQq_IwXGGP8oFF1bqN-eWLHoZ54Vi55kY8o5mtqKAKY_tnUtUUZ5XaN4',
+    appId: 'com.cupidmedia.wrapper.militarycupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.militarycupid&hl=en&gl=us'
+  },
+  {
+    title: 'Live Video Dating Chat to Meet & Date - Chocolate',
+    installs: 3522014,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/SL20ItarcbzGfULaWTa0GdfuWS8eNaIJ0tMeuuHRy6uXKgrOswUU-LI7U6z-_RSrMg',
+    appId: 'ru.chocoapp.app',
+    url: 'https://play.google.com/store/apps/details?id=ru.chocoapp.app&hl=en&gl=us'
+  },
+  {
+    title: 'Once - Quality dating for singles',
+    installs: 5440099,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/h_9QWx86WJo7X9g4prBCnuoZDW5EVa2Xeu0UamBpwsJjI0j4dVsZjTUETDJsnkZ4fAw',
+    appId: 'com.once.android',
+    url: 'https://play.google.com/store/apps/details?id=com.once.android&hl=en&gl=us'
+  },
+  {
+    title: 'Fet Kinky Life: KinK, BDSM & Fetish Dating',
+    installs: 10181,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/TgZA9iMDKRC9rVGcI2FZI2D6UJi0FKxvQnC4P9xF6IGDo88oIcKPyNF-RJsx13ZWrwg',
+    appId: 'com.fet.bdsm.hookup',
+    url: 'https://play.google.com/store/apps/details?id=com.fet.bdsm.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'Soudfa - زواج دردشة تعارف',
+    installs: 3111843,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/7wMcwVRFnG7OyurX0wa1Y0EhOixRKx2vMhlL2OcfiqllkjssT8_jFXN0Vp-X_vH-mTw',
+    appId: 'com.soudfa',
+    url: 'https://play.google.com/store/apps/details?id=com.soudfa&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Mummy Dating Meetup & Cougar Dating Meetup',
+    installs: 64652,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/U0gagkFMjjej5u5xLg3LoDKMh8EV_kZ9xvx_D8hVYhAvqyAfkuPC7Hi3ue9eQFKrTAc',
+    appId: 'com.cougar.sugarmomma.sugarmummy',
+    url: 'https://play.google.com/store/apps/details?id=com.cougar.sugarmomma.sugarmummy&hl=en&gl=us'
+  },
+  {
+    title: 'Kum Neger | ቁም ነገር - Ethiopia & Eritrea Dating',
+    installs: 52826,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zrppuOV658zvyneVgYF28YMvpioDkYMoiAKNMVUfpr5fBfUFYkqEEH4gnX2DV9lKfQ',
+    appId: 'com.kumnegerapp.and',
+    url: 'https://play.google.com/store/apps/details?id=com.kumnegerapp.and&hl=en&gl=us'
+  },
+  {
+    title: 'Mingle2 Free Online Dating App - Chat, Date, Meet',
+    installs: 6610605,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/BMC8G2B3tCqoJHSx9c-SqYRDn_YljZaVkWoIWG-F2-z7vm4WeXuvmg4s3egs3GkB1Qk',
+    appId: 'mingle.android.mingle2',
+    url: 'https://play.google.com/store/apps/details?id=mingle.android.mingle2&hl=en&gl=us'
+  },
+  {
+    title: '420 Singles',
+    installs: 271983,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/vdVbkiM9VEJn6tgzfYUuR7M1nciB__7sTDlUdu4vUj3aPUvqOOZnIw9K-hW7r97DoJs',
+    appId: 'singles420.entrision.com.singles420',
+    url: 'https://play.google.com/store/apps/details?id=singles420.entrision.com.singles420&hl=en&gl=us'
+  },
+  {
+    title: 'CaribbeanCupid - Caribbean Dating App',
+    installs: 99520,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/y9VOMQ1S8cr0yIFqeYLVdxRz-9L7PB_Yx3fX5ixxVSingei_9O9Jlf1bTB1-brQYJg',
+    appId: 'com.cupidmedia.wrapper.caribbeancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.caribbeancupid&hl=en&gl=us'
+  },
+  {
+    title: 'VietnamCupid - Vietnam Dating App',
+    installs: 239038,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Z8CgBu_jDP5cE3LjVKmzI9SBn5wZrTn1onIBRnkRqcY2IyB9qCeYY_k9yggvD6IX-oc',
+    appId: 'com.cupidmedia.wrapper.vietnamcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.vietnamcupid&hl=en&gl=us'
+  },
+  {
+    title: 'FlirtWish: chat with singles',
+    installs: 953828,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/n7gdqOXVo6IdpxZKa0Ky3BA10fYrTYHKyOO4U-zpRe7TG_bVmSXlPRme9F_F59C-BwXO',
+    appId: 'com.russianbrides',
+    url: 'https://play.google.com/store/apps/details?id=com.russianbrides&hl=en&gl=us'
+  },
+  {
+    title: 'BBW Match - Date Curvy Singles',
+    installs: 57727,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/y8JgUr_6ekkckUfRJ_GG1GC7CZT7jkV0dLOdbWolbezV7S_d1oO5U64r9uxSRtlOipmA',
+    appId: 'com.bbw.hookup.farmers',
+    url: 'https://play.google.com/store/apps/details?id=com.bbw.hookup.farmers&hl=en&gl=us'
+  },
+  {
+    title: 'Woo - Chats, Flirt & Love',
+    installs: 45675,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/8jlNh3DkZnA0GZTzCgQo4530jvvrJ6KPPikvhTG5tWYmfRU9grxGRHXerRIkqE6-lA',
+    appId: 'com.woo',
+    url: 'https://play.google.com/store/apps/details?id=com.woo&hl=en&gl=us'
+  },
+  {
+    title: '스카이피플 (스피) : 서울대생이 만든 인증을 통한 안전한 소개팅 + 직장인 익명 커뮤니티',
+    installs: 204081,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/q1ih4uvF8Zg9sxQS6E66Tu103RoqUpBRehhEYHarBB351l-3-Vkj3QCFMU4AHqnC0DVb',
+    appId: 'app.hybirds.skypeople',
+    url: 'https://play.google.com/store/apps/details?id=app.hybirds.skypeople&hl=en&gl=us'
+  },
+  {
+    title: 'Date Way- Dating App to Chat, Flirt & Meet Singles',
+    installs: 3841918,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/gjdvGPWqQle9VI5nuBqPsWQ8PQQ_vKMNdADtupPgknyQX6L29NjhqI2edJcO5GHJPNw',
+    appId: 'chat.meet.date.me',
+    url: 'https://play.google.com/store/apps/details?id=chat.meet.date.me&hl=en&gl=us'
+  },
+  {
+    title: 'Anonymous Chat - Random Chat',
+    installs: 133782,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/fVq0U4fn3tD32vo2aq45ly6llAVfc3gjPZn81b17sWDBig4Ias3nujKomXXVTwTIz94',
+    appId: 'kr.jungrammer.anonymous',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.anonymous&hl=en&gl=us'
+  },
+  {
+    title: 'Cougary: Cougar Dating Life for Free Date Hookup',
+    installs: 293832,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Iy3Oo9dBvTdQx05Ug9KRTokOhjpzU4xnK0vhlLPj02D-Ik_Xri_CIslNqJNeW-zMEMI',
+    appId: 'com.dating.cougary',
+    url: 'https://play.google.com/store/apps/details?id=com.dating.cougary&hl=en&gl=us'
+  },
+  {
+    title: 'ChinaLoveCupid - Chinese Dating App',
+    installs: 77089,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/j6QKoYSUdN1zU8TWsxUAR1Mf5D2b1wZNCOk2YkoyAW3GZlVC4GZ2U_8vHU93jSfTZTWY',
+    appId: 'com.cupidmedia.wrapper.chinalovecupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.chinalovecupid&hl=en&gl=us'
+  },
+  {
+    title: 'DoULike Online Dating App',
+    installs: 129724,
+    genre: 'DATING',
+    icon: 'https://play-lh.googleusercontent.com/FhAfMLFchBGrDeuC-gFgG4TnnIv1dQxG10DmzGjPcn9h1B6lnFLHz1dcqGk3QlSOexw',
+    appId: 'com.ciliara.doulike',
+    url: 'https://play.google.com/store/apps/details?id=com.ciliara.doulike&hl=en&gl=us'
+  },
+  {
+    title: 'ThaiCupid - Thai Dating App',
+    installs: 499212,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/6JD_TM-UUp7BJU2SP49shYqv7KQ7OzodUGITlx9b_Jxhu5oWtpAIZlhQGTsvkPrUVw',
+    appId: 'com.cupidmedia.wrapper.thaicupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.thaicupid&hl=en&gl=us'
+  },
+  {
+    title: 'Kmate-Meet Korean and foreign friends🌏',
+    installs: 323430,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/tZ3hEdsvBbvYnb3YuQMxaRPLATU4zXZ9XRfZxswKGv8m83PpMMFDONOhbI4NSaBHEks',
+    appId: 'com.mate.korean',
+    url: 'https://play.google.com/store/apps/details?id=com.mate.korean&hl=en&gl=us'
+  },
+  {
+    title: 'kink: Kinky Dating App for BDSM, Kink & Fetish',
+    installs: 26137,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/oy3S-FJFzmYR7Dv3E4DM7-AXfBB31EilmjBIOEhBUf6gdvs1uAF8rhiRtd5uiNDHoA',
+    appId: 'fetlife.kinky.hookup',
+    url: 'https://play.google.com/store/apps/details?id=fetlife.kinky.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'Secret Chat - Talk to Stranger',
+    installs: 580103,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/pHGKbFWbXPUIcupnRLqR8oWCs5MLJ8WM5xvwaHtKGQmOPyz7h9qtsL8mO5xVVdgprh0',
+    appId: 'kr.jungrammer.secretchat',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.secretchat&hl=en&gl=us'
+  },
+  {
+    title: 'Just She - Top Lesbian Dating',
+    installs: 340479,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/-U3WGDx1LZS8e-iTZ2dyZNVHuD6HTOkbB3vzCvZz_Oz7ArgcNhXqnXM08ZcXpC-sFA',
+    appId: 'com.dating.justshe',
+    url: 'https://play.google.com/store/apps/details?id=com.dating.justshe&hl=en&gl=us'
+  },
+  {
+    title: 'Les: Lesbian Dating App, Chat & Meet Up LGBT Girls',
+    installs: 50019,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/JY3Q6agIW44Jtf-4Q6cJc6umujs1eyj8ur9LJ3DRhEO17dH59KGnO7nCfcX-uX3ztaY',
+    appId: 'com.les.lesbiandating',
+    url: 'https://play.google.com/store/apps/details?id=com.les.lesbiandating&hl=en&gl=us'
+  },
+  {
+    title: 'BBW Dating & Curvy Hookup, match, chat - Pluser',
+    installs: 14288,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/HqGWa7YSo8dbr3llav9iWkM86gka_f_1TJ1OGnl6peDvCF4vKpEJb1sOL8CNIPNJu5Oj',
+    appId: 'com.bbw.curvy',
+    url: 'https://play.google.com/store/apps/details?id=com.bbw.curvy&hl=en&gl=us'
+  },
+  {
+    title: 'KoreanCupid - Korean Dating App',
+    installs: 110587,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/77NGexOLMSPpPtMLTZ8q7vjFPWGbhG-0TVLJ40-tA7CqCrgXiBKh2RfvPO01906uTcI',
+    appId: 'com.cupidmedia.wrapper.koreancupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.koreancupid&hl=en&gl=us'
+  },
+  {
+    title: 'Trans Dating: Meet Transgender & Crossdresser Chat',
+    installs: 65742,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/CIZudGPURL_ID8J0y80irfopb6TnHfwDiDJURZnW96LgFgSjn26XDpZZaSQGJ1Dp1Q',
+    appId: 'com.ts.transer',
+    url: 'https://play.google.com/store/apps/details?id=com.ts.transer&hl=en&gl=us'
+  },
+  {
+    title: 'GLAM - Tier Dating',
+    installs: 1537381,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/y791PU1KrRug5oRc9_vrLQV8APwrdPtFrt4hf_Srsm9MGJ4pjsrXLgTEP884YRcZ2auW',
+    appId: 'com.charmy.cupist',
+    url: 'https://play.google.com/store/apps/details?id=com.charmy.cupist&hl=en&gl=us'
+  },
+  {
+    title: 'kink: Kinky Dating App for BDSM, Kink & Fetish',
+    installs: 57988,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ueWKIevCiho2srh0V7YRKu9JPcBzzwRPra-ExF3RqK3SL92TpnYHtdQaxpcldt8ILg',
+    appId: 'com.hookup.kinky.bdsm',
+    url: 'https://play.google.com/store/apps/details?id=com.hookup.kinky.bdsm&hl=en&gl=us'
+  },
+  {
+    title: 'Pikabu AI 交友軟體－2020交友APP唯一清流，智能柴犬助你聊天，開話題、脫單不再靠自己！',
+    installs: 192047,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/tEQDw6qrAnencDZA6RBCmhCMr_b9neoBipIBa0jz-QYWSEtRBb96agk1ReaVOFix3VH0',
+    appId: 'com.pikabu.Pikabu',
+    url: 'https://play.google.com/store/apps/details?id=com.pikabu.Pikabu&hl=en&gl=us'
+  },
+  {
+    title: 'Meet24 - Love, Chat, Singles',
+    installs: 6896111,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/RJWootIKgZZM59P2wl1SCiK9nZ7-G1xlFgJQVp0Hls5mmluTeD368dSWWYvKU4m6ow',
+    appId: 'com.wildec.meet24',
+    url: 'https://play.google.com/store/apps/details?id=com.wildec.meet24&hl=en&gl=us'
+  },
+  {
+    title: 'MyDates - The best way to find long lasting love',
+    installs: 3414421,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/30XL7QrFUHVHiF0v0fpqs3kEE9S9_xF2QgIvnYvo7AEcVqSFFxc8mrHnFBBuulZc7Q',
+    appId: 'com.boranuonline.mydates2',
+    url: 'https://play.google.com/store/apps/details?id=com.boranuonline.mydates2&hl=en&gl=us'
+  },
+  {
+    title: 'Guys Only Dating: Gay Chat',
+    installs: 11289,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/2PsBfi90MNoNNr1m8OtoGQ1Y9xNfhKsUAHVKkPuchxuKfkzYTlzZa46VwyKveH8JY-Q',
+    appId: 'com.guysonlydating',
+    url: 'https://play.google.com/store/apps/details?id=com.guysonlydating&hl=en&gl=us'
+  },
+  {
+    title: 'Seattle Dating',
+    installs: 11838,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/3R5TCelIUO6Q_-mGTb3EczOE6CZk5zbTvRNM374PRqCjiAIHG4ZHEArMf4Bhlzdfg-JY',
+    appId: 'com.seattledating.app',
+    url: 'https://play.google.com/store/apps/details?id=com.seattledating.app&hl=en&gl=us'
+  },
+  {
+    title: 'مودة : زواج اسلامي',
+    installs: 1255450,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/zZ1W77IxYWc7_4WGCsCQ3whN65XaYh0bs5A9a908ng9Sgddhe6iuDxx2OLbgHYcwZJE',
+    appId: 'mawada.net.app',
+    url: 'https://play.google.com/store/apps/details?id=mawada.net.app&hl=en&gl=us'
+  },
+  {
+    title: 'Shidduch View - The Video Date App',
+    installs: 1661,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/WjWNblNoqrnzCrta6cFXBLdvYa6uIjm1I66uuFLBIM9oAYuQPzwB1B5cWA14U59SBg',
+    appId: 'shiddush.view.com.mmvsd',
+    url: 'https://play.google.com/store/apps/details?id=shiddush.view.com.mmvsd&hl=en&gl=us'
+  },
+  {
+    title: 'Adore - Flirt & Love',
+    installs: 1114,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XVcd80--a0R7oDrrqIQo0rS41bPU4slhnB0VkuhTVhPYURp4YFWWFOavyV06SGxCKs8',
+    appId: 'com.adore.android',
+    url: 'https://play.google.com/store/apps/details?id=com.adore.android&hl=en&gl=us'
+  },
+  {
+    title: 'TransG:Transgender, Crossdresser, Date Free Chat',
+    installs: 128029,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/oaTgYzd4Q8kHiQKXTdfJjG-EGCQxVRPgYIDX6UCevCRFDIKOPrHNUdeLCr7ThtnjPCQ',
+    appId: 'com.socialnetworking.transgapp',
+    url: 'https://play.google.com/store/apps/details?id=com.socialnetworking.transgapp&hl=en&gl=us'
+  },
+  {
+    title: 'ROMEO - Gay Dating & Chat',
+    installs: 6740722,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/AmQjRV5h4tWkIscD1fQOvmPgbxssogS0nseaMyh-A1TxuKu8ac3trPAf2UEnqw86gW4',
+    appId: 'com.planetromeo.android.app',
+    url: 'https://play.google.com/store/apps/details?id=com.planetromeo.android.app&hl=en&gl=us'
+  },
+  {
+    title: '聊天吧',
+    installs: 91496,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ROINX-3-RU07tW8g_rQ9oXIgg9mVPiUxSeUgnBRGcRaHoAZeN61cuHjpu_wq4UOPxJ4',
+    appId: 'com.artemis.tpgirl',
+    url: 'https://play.google.com/store/apps/details?id=com.artemis.tpgirl&hl=en&gl=us'
+  },
+  {
+    title: 'Threesome Dating Ads for Couples & Singles: 3Fan',
+    installs: 32212,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/mSJpAISR50L9He6MIif3DW-47tOHGf33i6B8Jy2uC1zlhkUXtT5A7PDMMw81uSygFA',
+    appId: 'com.dating.threefan',
+    url: 'https://play.google.com/store/apps/details?id=com.dating.threefan&hl=en&gl=us'
+  },
+  {
+    title: 'BlackCupid - Black Dating App',
+    installs: 275337,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/hgLox-asWlfyxeqz3WSW-NucjRS9oBztoDfD7Ep2DgyFreikVvFRU6X5dvFcoxOROQ',
+    appId: 'com.cupidmedia.wrapper.blackcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.blackcupid&hl=en&gl=us'
+  },
+  {
+    title: 'Supermatch：Meet&Chat with nearby singles',
+    installs: 26038,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XSgqL5eKQfj1w0GkBp1xElXCDxrej6FaZrf1LY5cDIY2vUtH0IZdJ6S8lchIXxlc4Ko',
+    appId: 'com.s.match.dating',
+    url: 'https://play.google.com/store/apps/details?id=com.s.match.dating&hl=en&gl=us'
+  },
+  {
+    title: 'BlackGentry - Black Dating App. Meet Black Singles',
+    installs: 13647,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/6P1RmMfVcP7ynV_y_wYU8ZxppgwUfroLzUTD1T2qpDz5j-Rvxw23QNhpF-aQpNU9wpA',
+    appId: 'app.blackgentry',
+    url: 'https://play.google.com/store/apps/details?id=app.blackgentry&hl=en&gl=us'
+  },
+  {
+    title: 'BBWM - #1 BBW Match & Meet Curvy Singles Free Chat',
+    installs: 9791,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/AIhH5kUbb17LbYO8wfITpLmemv8ZT8Z4_By6fTtIgYHQ42afqK6aFoY3R9dAXzJaMg',
+    appId: 'com.socialnetworking.bbwmapp',
+    url: 'https://play.google.com/store/apps/details?id=com.socialnetworking.bbwmapp&hl=en&gl=us'
+  },
+  {
+    title: 'FastMeet: Chat, Dating, Love',
+    installs: 5386356,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/XLdjTOyYTcJVYUGGp37t1OImrLsJZ0HjMRsNQar0lHSTFptcsO7T6Odcx0pMDPHr03ir',
+    appId: 'com.wildec.fastmeet',
+    url: 'https://play.google.com/store/apps/details?id=com.wildec.fastmeet&hl=en&gl=us'
+  },
+  {
+    title: 'RBL - Black Dating App Singles Site : Stop Swiping',
+    installs: 164333,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/rKDX8GcDXP-g8FS8mrmFzgLxZtYC4jr6pfYNiaXdVHaf220IseyHe_VUgXKo6cB-e_G4',
+    appId: 'com.ht.realblacklove',
+    url: 'https://play.google.com/store/apps/details?id=com.ht.realblacklove&hl=en&gl=us'
+  },
+  {
+    title: 'Dating for Seniors App - Meet Mature Singles',
+    installs: 3181,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/hjq9dxXbglfbDHEwPfiLtiWU_UA4uzdf_RYGjqSLMs-QQKHpeS7UrvHEDOY_Hcbum1ho',
+    appId: 'com.fbm.DatingForSeniors',
+    url: 'https://play.google.com/store/apps/details?id=com.fbm.DatingForSeniors&hl=en&gl=us'
+  },
+  {
+    title: 'Bimeet: Bisexual Dating, Chat & Threesome App',
+    installs: 16753,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/eruif3pMWKPMmFKqATWtWde93Bay0D6LF2S9r1h1RITace7GAsoh2UbqtuLB16US7g',
+    appId: 'com.to.gobimeetone',
+    url: 'https://play.google.com/store/apps/details?id=com.to.gobimeetone&hl=en&gl=us'
+  },
+  {
+    title: 'Transgender: Trans Dating for TS & Crossdresser',
+    installs: 262329,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ndlpq2dSyojCtvxVDvlKY_JHMwGh6GOIX-odH_BlO4n2jmZkOO2VA5tpkI-7AHWOlnQ',
+    appId: 'com.td.transdr',
+    url: 'https://play.google.com/store/apps/details?id=com.td.transdr&hl=en&gl=us'
+  },
+  {
+    title: 'Honey Talk - Random Chat',
+    installs: 191954,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/3gIPPeJkl8DUyX4xMNkc87shuUxBlxP64PyiAReEW3uaMt_lMDsgd5STsMioJDFvZ8w',
+    appId: 'kr.jungrammer.honeytalk',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.honeytalk&hl=en&gl=us'
+  },
+  {
+    title: 'Farmers Dating Site App',
+    installs: 9524,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/ZoEturH0myXiJyYFwZXwzP091-E9M1vY5BOhMEBbENN5xLG3k-PMvNi0eqwKQAb11Q',
+    appId: 'com.fbm.FarmersDatingSite',
+    url: 'https://play.google.com/store/apps/details?id=com.fbm.FarmersDatingSite&hl=en&gl=us'
+  },
+  {
+    title: 'Cougar:  Sugar Momma Dating And Cougar Dating',
+    installs: 5376,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Uxlx8G_nm32nK3aePnMS15Rq3jDrg0AcwwwZn9ulHYEua-fAar7K7rzwiRr3pO4eNq4',
+    appId: 'com.cougar.sugarmomma.hookupapps',
+    url: 'https://play.google.com/store/apps/details?id=com.cougar.sugarmomma.hookupapps&hl=en&gl=us'
+  },
+  {
+    title: '당신 가까이에 사랑이 있습니다.',
+    installs: 4936,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/aUihhg7lvE94i3NY8jQAkTLd7uwiEGThdBnvjZ9NNmfd4y0nhwCgXwo976CEJnjdrIU',
+    appId: 'kr.love.danggasa',
+    url: 'https://play.google.com/store/apps/details?id=kr.love.danggasa&hl=en&gl=us'
+  },
+  {
+    title: 'BrazilCupid - Brazilian Dating App',
+    installs: 252540,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/C4v3cb-pmPdbwWdet56LMKFE4dpjg0ANlBiHYEgOxair7voDHD9kSd0onzz6Y64myBbg',
+    appId: 'com.cupidmedia.wrapper.brazilcupid',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.brazilcupid&hl=en&gl=us'
+  },
+  {
+    title: 'BBW Dating & Curvy Singles Chat- LargeFriends',
+    installs: 82326,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/3AUDuiuxIA_w9Kiz-6IDu_v7Hh3OmNxc83LC557AObis-_Mimse1azE96hR6iXAJMDg',
+    appId: 'com.bbwdating.largefriends',
+    url: 'https://play.google.com/store/apps/details?id=com.bbwdating.largefriends&hl=en&gl=us'
+  },
+  {
+    title: 'OE Match - Date, Chat & Meet Asian Singles',
+    installs: 142031,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/YMY3QzaqqJH8at4nDrf1A0A2YaaJluT65-XgKnrhDV9sEcUghFGFMZb74etDM2onpqU',
+    appId: 'com.ouyi',
+    url: 'https://play.google.com/store/apps/details?id=com.ouyi&hl=en&gl=us'
+  },
+  {
+    title: 'Luxy Pro- Elite Dating Single',
+    installs: 167680,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/gJuC_YkhAK_J06CrwadycsNhG4Sh9cwH186o7HT1XSYWdapQTFPIaRLLslZyMH67YDk',
+    appId: 'com.luxypro',
+    url: 'https://play.google.com/store/apps/details?id=com.luxypro&hl=en&gl=us'
+  },
+  {
+    title: 'UkraineDate - Ukrainian Dating App',
+    installs: 332958,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/aOmj4zJc_MriuX52GSTJMGNFm2zX66YPj3Xf0zxbXOr2DPThfJhgnU6pLMuio4E6bks',
+    appId: 'com.cupidmedia.wrapper.ukrainedate',
+    url: 'https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.ukrainedate&hl=en&gl=us'
+  },
+  {
+    title: 'Meet & Right',
+    installs: 1465,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Q5eLLzCPZNapy9pbRN1qClOR1YehhFQerc_tDGQyjMp_1DPlY9lJGcecSyhv9seju5iW',
+    appId: 'com.meetandright',
+    url: 'https://play.google.com/store/apps/details?id=com.meetandright&hl=en&gl=us'
+  },
+  {
+    title: '만남,돌싱,중년,채팅어플,소개팅,채팅 만남어플 - 불팅',
+    installs: 322118,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/JfuJUF-p0OkhYz40b3J2Y137AeIl5pTDa4VuiK-A1SluBugPeS9MryTX3vppEmbIMdU',
+    appId: 'fire.ting.fireting.chat',
+    url: 'https://play.google.com/store/apps/details?id=fire.ting.fireting.chat&hl=en&gl=us'
+  },
+  {
+    title: '速約 - 免費約會交友App',
+    installs: 460862,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/GWBgydpHEbcV2tVu3Xl0vAnBs_BkhVCfIExVUJiq6lDL4PmiCJU2Y2ZojcoMPXU_aw',
+    appId: 'com.speedyloving.app',
+    url: 'https://play.google.com/store/apps/details?id=com.speedyloving.app&hl=en&gl=us'
+  },
+  {
+    title: 'FWB Hookup Dating For Secret Arrangement - AChat',
+    installs: 130706,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/HwCEoSdN1CxD-AD_hs0OJLLK7EnKmfr-yTH10JgWDWhA2kEOzs2BrDxUTFHB5iG_3A',
+    appId: 'com.besget.achat',
+    url: 'https://play.google.com/store/apps/details?id=com.besget.achat&hl=en&gl=us'
+  },
+  {
+    title: 'Sugar Momma Dating Cougar Dating For Hookup - Luck',
+    installs: 84819,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/xO0LWrfrGDc3nkP8v1poCJErZEyg8rFJQPS9NaZzmRgYFJcho20LYYzzjNx9L4GRvoU',
+    appId: 'com.hookup.hookup.hookup',
+    url: 'https://play.google.com/store/apps/details?id=com.hookup.hookup.hookup&hl=en&gl=us'
+  },
+  {
+    title: 'ShowMe: random video chat with strangers online',
+    installs: 31790,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/_UnF9-6CnMNzSa1KWKVZsqcAPDTfnVTheC_m7C2f7cRvYatM1yKSfjOHWHp3jkuTm-yO',
+    appId: 'ylee.studio.show.me.chat',
+    url: 'https://play.google.com/store/apps/details?id=ylee.studio.show.me.chat&hl=en&gl=us'
+  },
+  {
+    title: 'Eatgether',
+    installs: 351092,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/fDYC9wb_yobFPMs1jXiV7UKpxhNO-gJyDSyY-ZkORq8FH85DMbErClNV4ygYXG8ehG8',
+    appId: 'com.eatme.eatgether',
+    url: 'https://play.google.com/store/apps/details?id=com.eatme.eatgether&hl=en&gl=us'
+  },
+  {
+    title: 'Portland Dating',
+    installs: 17791,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/m4Ue6Cajrc5nB6bjHFabqJ5QZF-iZXhVKZaFzbYiVPZWCYO39-D902UVrnFtB3x3mjY_',
+    appId: 'com.portlanddating.app',
+    url: 'https://play.google.com/store/apps/details?id=com.portlanddating.app&hl=en&gl=us'
+  },
+  {
+    title: 'Chat with Stranger (Random Chat)',
+    installs: 454716,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Tz5S2NEkOW1qpsqXvafZ2PNorhERSDu9FFEV5fcMnZt08ut59fiSFZLC2a4gvtxi2EI',
+    appId: 'kr.jungrammer.ranchat',
+    url: 'https://play.google.com/store/apps/details?id=kr.jungrammer.ranchat&hl=en&gl=us'
+  },
+  {
+    title: 'Senior Dating: Date mature singles',
+    installs: 83320,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/Qo0WsN9aRZ5hsHYV2anH9fw_ETB2p_A2uYYcxvNxWYwOR7fbjB-k13L2ekiZuxjLRDA',
+    appId: 'seniordating.app',
+    url: 'https://play.google.com/store/apps/details?id=seniordating.app&hl=en&gl=us'
+  },
+  {
+    title: 'IUdating - Global high-end Chinese dating platform',
+    installs: 49300,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/nTX0EqOkPxbsQbIv7XTYwZ10XbYXtUjYJwyugsy3sNx4xI2Ulrp5ZNVFU7iTI4AlXVo',
+    appId: 'com.duihao.rerurneeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.duihao.rerurneeapp&hl=en&gl=us'
+  },
+  {
+    title: 'WeDate - 約會戀愛交友 Dating App',
+    installs: 700860,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/R-sUC6zjif5C7BMT-YdU56Lw5BDQDGD7LkDqG5O6CQNPZvof6n8P1kA7ps_sYPdG3w',
+    appId: 'com.wedate.app',
+    url: 'https://play.google.com/store/apps/details?id=com.wedate.app&hl=en&gl=us'
+  },
+  {
+    title: 'Interracial Match - Black White Interracial Dating',
+    installs: 50069,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/pdjqBPrfRG-2QB5VdpIlxTQFOhvbhNBZjpTzDLPQITbaCYaqAVPtr5Ohq_Ov1-D933Q',
+    appId: 'com.interracialdating.interracialmatch',
+    url: 'https://play.google.com/store/apps/details?id=com.interracialdating.interracialmatch&hl=en&gl=us'
+  },
+  {
+    title: 'Hook Up Casual Dating - Meet Adult Singles Nearby',
+    installs: 66737,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/6IC75H0_KawJUnxUgyAnqkq6W-TS74vuNA5vON_5mVl5vNOkK_6Q5bnSct1bXzJKBw',
+    appId: 'one.night.casual.secret.adult.singles.dating.meet.match.chat.free.video.hook.up',
+    url: 'https://play.google.com/store/apps/details?id=one.night.casual.secret.adult.singles.dating.meet.match.chat.free.video.hook.up&hl=en&gl=us'
+  },
+  {
+    title: 'Smash: Hookups & Dating Near You',
+    installs: 52281,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/EakRrgZTQHTRCq53TEmL7bbObFOz1kGubvhK5ODQ9kbB76w1CQvClY0dHVHPQ_jL8TYZ',
+    appId: 'uk.co.hilmy.wild',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.hilmy.wild&hl=en&gl=us'
+  },
+  {
+    title: 'Date Hookup for One Night or Love Forever - Brilic',
+    installs: 39110,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/8bI1TNxxXdJwr5tJGDWUvXQ1XgSkKaY9QPWEnnC7UVpY8bNBh2MnmJzM1W5H0SYn7s4',
+    appId: 'io.dotcoding.software.brilic',
+    url: 'https://play.google.com/store/apps/details?id=io.dotcoding.software.brilic&hl=en&gl=us'
+  },
+  {
+    title: 'Catholic Dating with Catholic Singles!',
+    installs: 5344,
+    genre: 'DATING',
+    icon: 'https://lh3.googleusercontent.com/lm2l_JcmYIIvU_wdg6HgNCXpE2a11rbv_PWwDfHhMGtIm8ttXIz28hBCXl1AYjztQi8',
+    appId: 'com.catholicsingles2',
+    url: 'https://play.google.com/store/apps/details?id=com.catholicsingles2&hl=en&gl=us'
+  }
+]

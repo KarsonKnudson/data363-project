@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Bingo Blitz™️ - Bingo Games',
+    installs: 35661498,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/3WGa_qd85sQWVUUtmOCxQQctpOTLKLyK3PKP2f_9W0jsafTW1V4u82prJoe8x2LmUQ',
+    appId: 'air.com.buffalo_studios.newflashbingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo&hl=en&gl=us'
+  },
+  {
+    title: 'YAHTZEE® With Buddies Dice Game',
+    installs: 12578067,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/m76W0Ze8yRKWR19cNkMXJSyvhhLDMt0hDj7enIWQkBy9LvLqmLM03oAs79n4frEtE_oV',
+    appId: 'com.scopely.yux',
+    url: 'https://play.google.com/store/apps/details?id=com.scopely.yux&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Bash: Live Bingo Games & Free Slots By GSN',
+    installs: 29105342,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/XEGHW232UbF03eqVVB2_Yd9HgLHm5ugnU5p82S3IhaqbIN3IieHT76MNHSCabxduokM',
+    appId: 'air.com.bitrhymes.bingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.bitrhymes.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Story – Free Bingo Games',
+    installs: 2840446,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ZCH-IEgo-op6yty-QJFs9dDpU3qVw7mFcX_zBzcxjpQIxmmXqiqpmZbXQzim6utWyQ',
+    appId: 'com.clipwiregames.bingostory',
+    url: 'https://play.google.com/store/apps/details?id=com.clipwiregames.bingostory&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Party - Free Classic Bingo Games Online',
+    installs: 9212731,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/f9mhIQ07kK6PjwjwiH9ZqV2DgCuElbHyCAxn594BYj0hzBp8bwX7-O9ratT1BwKtlA',
+    appId: 'com.bingo.tour.party.crazy.free',
+    url: 'https://play.google.com/store/apps/details?id=com.bingo.tour.party.crazy.free&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Showdown: Free Bingo Games – Bingo Live Game',
+    installs: 5309759,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ccBrFlZcm7TgAd_YGRWFuwvAezwNfCyCvNsvDOB1Q9V0EXCPMyBUteCld1z9vgNiaNg',
+    appId: 'air.com.spicerackmedia.bingoshowdown',
+    url: 'https://play.google.com/store/apps/details?id=air.com.spicerackmedia.bingoshowdown&hl=en&gl=us'
+  },
+  {
+    title: 'Dice With Buddies™ Free - The Fun Social Dice Game',
+    installs: 9717188,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/a4_pL_SgeQpUH215kMtS2hZgLU7TQfnrGn4lkOd8cR0q8gBXDg_PZ6as9Vu9u9J7fehb',
+    appId: 'com.withbuddies.dice.free',
+    url: 'https://play.google.com/store/apps/details?id=com.withbuddies.dice.free&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong City Tours: Free Mahjong Classic Game',
+    installs: 7230159,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Sg8FaHFIov3OdzeeTbg5kLgy7WF05YJ2LwS_fL46X5n-5YKn0dgQHij4g1GA8-Hl_S0',
+    appId: 'com.two31play.mahjongcity',
+    url: 'https://play.google.com/store/apps/details?id=com.two31play.mahjongcity&hl=en&gl=us'
+  },
+  {
+    title: 'Numberzilla - Number Puzzle | Board Game',
+    installs: 6114023,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ONSybthhevBzo3GTh0K4VCZP37DDNjNRGdW52mlcDs0KFENQIxjCSHF1g6CyIOJgrQ',
+    appId: 'com.appcraft.number.puzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.appcraft.number.puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Abradoodle - Bingo Games Free to Play!',
+    installs: 5009318,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Knq0MEzgmSP9NfVsuMnGa2SZKydebzn0db1jFmbghuGkSqJLD9PTdJX1gSE2Ge2syQ',
+    appId: 'com.abradoodle.bingo',
+    url: 'https://play.google.com/store/apps/details?id=com.abradoodle.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Game - Lord of the Board - Table Game',
+    installs: 4055712,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ALcJYcBpVZ5GrL6uiZyoPC0dYTYvXrgNmWEtG9oTcXN-ZR4FdfJGbh9RtPHik3Rvug',
+    appId: 'air.com.beachbumgammon',
+    url: 'https://play.google.com/store/apps/details?id=air.com.beachbumgammon&hl=en&gl=us'
+  },
+  {
+    title: 'Yalla Ludo - Ludo&Domino',
+    installs: 21898928,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/W2Js02fUIrbqwNgPEWoRVoNSeGazglauauizZ4ZkcMTvISuG3n0t-YfV51Sh95IkyXtA',
+    appId: 'com.yalla.yallagames',
+    url: 'https://play.google.com/store/apps/details?id=com.yalla.yallagames&hl=en&gl=us'
+  },
+  {
+    title: 'Dice with Ellen',
+    installs: 1729019,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/oDJlKhSWxrO9POcpI1UvFQ_3uMYCZmCWq3OqENkcVeClgBkMp-_kHkxIWxXcvgp7Vng',
+    appId: 'com.withbuddies.diceellen',
+    url: 'https://play.google.com/store/apps/details?id=com.withbuddies.diceellen&hl=en&gl=us'
+  },
+  {
+    title: 'Monopoly - Board game classic about real-estate!',
+    installs: 564589,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/1YAUDTx87g24kF4V8WY1U3arQMMPv0BslQxwfv87KLbAA7vKj0aAFnGH78XWiN9Kj593',
+    appId: 'com.marmalade.monopoly',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.monopoly&hl=en&gl=us'
+  },
+  {
+    title: 'Parchisi STAR Online',
+    installs: 68597317,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO',
+    appId: 'com.superking.parchisi.star',
+    url: 'https://play.google.com/store/apps/details?id=com.superking.parchisi.star&hl=en&gl=us'
+  },
+  {
+    title: 'Chess - Play and Learn',
+    installs: 18259781,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/K9J_fanyAQcYPpoXqFhJPT8Uo7GT6KkQAraJEQFtOeinuZSZhRr5k9cnhOq3LcMT1_y0',
+    appId: 'com.chess',
+    url: 'https://play.google.com/store/apps/details?id=com.chess&hl=en&gl=us'
+  },
+  {
+    title: 'Paint By Number - Coloring Book & Color by Number',
+    installs: 101827605,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/SDM2OtiKT5bc76242_N1IibmmZVAq1hieDOP7rk-EJVL8dUBxqXMTqlHajHJUysTKw',
+    appId: 'paint.by.number.pixel.art.coloring.drawing.puzzle',
+    url: 'https://play.google.com/store/apps/details?id=paint.by.number.pixel.art.coloring.drawing.puzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Slots: Epic Jackpot Slots Games Free & Casino Game',
+    installs: 4277341,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/1kevbbdK3qb7y6oKieDFM9K3RlwvD8lgEyPx8032ngBrLAyXJlUxZm2nDx2ZHG-y33s',
+    appId: 'com.superluckycasino.epicjackpot.slots.vegas.android.free',
+    url: 'https://play.google.com/store/apps/details?id=com.superluckycasino.epicjackpot.slots.vegas.android.free&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Live: Play Online Backgammon Free Games',
+    installs: 2873322,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/w7_RjIF9NSiBokich22CyGyy1lbke8jPDh_Zop1Mp9yKwQKC_rBIWoaiO4Iaztkh3A',
+    appId: 'air.com.come2play.backgammon',
+    url: 'https://play.google.com/store/apps/details?id=air.com.come2play.backgammon&hl=en&gl=us'
+  },
+  {
+    title: 'PPPoker-Free Poker&Home Games',
+    installs: 1641504,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/QAJSoNIck0tl00bTqIJ0eDoYx0kum70pGK175r6w92t8rn_rfK_U2OCGK215NL91xgo',
+    appId: 'com.lein.pppoker.android',
+    url: 'https://play.google.com/store/apps/details?id=com.lein.pppoker.android&hl=en&gl=us'
+  },
+  {
+    title: 'Slots: VIP Deluxe Slot Machines Free - Vegas Slots',
+    installs: 5258975,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ISKzfTeo85WCz_18mPmvwxy48AkqQz29HVWBaBWTIxYXakcsGi4slPteHs0Hj8I8Nw',
+    appId: 'com.superluckycasino.viponly.slots.vegas.android.free',
+    url: 'https://play.google.com/store/apps/details?id=com.superluckycasino.viponly.slots.vegas.android.free&hl=en&gl=us'
+  },
+  {
+    title: 'Tile Master - Classic Triple Match & Puzzle Game',
+    installs: 24325540,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/fwyQDqI5W0CtNxMf4LZbiMnCoo7LDsmeNnvuaRA6zujF3-bB70axz2u5sieT-3e13zg',
+    appId: 'com.tilemaster.puzzle.block.match',
+    url: 'https://play.google.com/store/apps/details?id=com.tilemaster.puzzle.block.match&hl=en&gl=us'
+  },
+  {
+    title: 'THE GAME OF LIFE 2 - More choices, more freedom!',
+    installs: 69757,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/kLn2c2CQBXnj3aRMBIDQtbxuLxNNRjCC6gldRM4I2Abm8s9jSRZYbAX5FAsLBF34pg',
+    appId: 'com.marmalade.gol2',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.gol2&hl=en&gl=us'
+  },
+  {
+    title: 'Happy Color™ – Color by Number',
+    installs: 104484007,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/OKIUc3vQq9bemwOMHYURdp7sD2_arP63f11lHYwzfTM45pAVsQIdYjlZaaygkW5LP4U',
+    appId: 'com.pixel.art.coloring.color.number',
+    url: 'https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=en&gl=us'
+  },
+  {
+    title: 'Dicast: Rules of Chaos',
+    installs: 332765,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/NaRn0k20Unm_ezJhU7Hz1EnLeAdOBvmaIdCL3gsFiY4cFw5_l8fV-BYc_M-JA0BHKQc',
+    appId: 'com.bss.game.DicastRoc',
+    url: 'https://play.google.com/store/apps/details?id=com.bss.game.DicastRoc&hl=en&gl=us'
+  },
+  {
+    title: 'Game of Dice',
+    installs: 7225837,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/1jofhiEhkQ8LIq2OS4pjFdg4MzFBJPaEi1GsTPWmOmtT7PAdDIoYN-IBl2CKq2ZAEwHl',
+    appId: 'com.joycity.god',
+    url: 'https://play.google.com/store/apps/details?id=com.joycity.god&hl=en&gl=us'
+  },
+  {
+    title: 'Clue',
+    installs: 648330,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/32SklHTRb1Fy4A4grMlSUugP78M7NVYSrmZ8g7BuAuzs1Hazs7zpKvlfaNKjhl7M8N8',
+    appId: 'com.marmalade.cluedogame',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.cluedogame&hl=en&gl=us'
+  },
+  {
+    title: 'RISK: Global Domination',
+    installs: 11544934,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/6CCG6Obo2ZazPyO64cg4qYMgF-bUl0THB4isIfoP2ByNUzpIT9J-vRlr786tIcV5Mho',
+    appId: 'com.hasbro.riskbigscreen',
+    url: 'https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen&hl=en&gl=us'
+  },
+  {
+    title: 'BINGO!',
+    installs: 21395466,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/WFHecg_-SRIZ4fWhFz0Gech-kZGv-oTH0XY9SwnEj3yz7yxJODq3tJ3BM0bVaBwsMSg',
+    appId: 'com.twelvegigs.heaven.bingo',
+    url: 'https://play.google.com/store/apps/details?id=com.twelvegigs.heaven.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Onnect - Pair Matching Puzzle',
+    installs: 28390607,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/91G27ddJzJrZDJPJnFu_RJj8q6FMBeatzGI0PMeFon7L-pPhG2_c9ZrckY9tbXyByGk',
+    appId: 'com.gamebility.onet',
+    url: 'https://play.google.com/store/apps/details?id=com.gamebility.onet&hl=en&gl=us'
+  },
+  {
+    title: 'Praia Bingo - Bingo Games + Slot + Casino',
+    installs: 5571915,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/tsMTzN4fKoLv-ws2kXU8Y_Tt_81Hbgw0RQBDurNXKXQZp-h16r2yw5x73gRbBfduWg',
+    appId: 'air.com.pipastudios.release.praiabingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.pipastudios.release.praiabingo&hl=en&gl=us'
+  },
+  {
+    title: 'Tap Color- Color by Number Art Coloring Game',
+    installs: 21884696,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/xzjDTHVKXeJVXk8Md6PukIp9xs8AKsZuMneeacon02DZXm9wi443aJChFS217N3I1A',
+    appId: 'com.pixel.art.coloring.by.number',
+    url: 'https://play.google.com/store/apps/details?id=com.pixel.art.coloring.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Treasure - Free Bingo Game',
+    installs: 83868,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Koeei5bT5vkL2ZXPmYAlQS_zFy_q6yspsn8Lt8thWOIQt8pW2J9yj5KL4Q0bpdU5bg',
+    appId: 'com.crossfield.bingotreasure',
+    url: 'https://play.google.com/store/apps/details?id=com.crossfield.bingotreasure&hl=en&gl=us'
+  },
+  {
+    title: 'Landlord Tycoon: Real Estate Business - Idle Money',
+    installs: 8099485,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/nEPqyaQZkPp2z1CHkG_nINhdoNSeg9R3oF5edWXwUZKkT6iuVSSVU_Fr1-YzFdM65w',
+    appId: 'com.landlordgame.tycoon',
+    url: 'https://play.google.com/store/apps/details?id=com.landlordgame.tycoon&hl=en&gl=us'
+  },
+  {
+    title: 'The Game of Life',
+    installs: 790837,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/zxwxekIjiSwGDHGswuhq6mR-JJWvKNXzITjYTJxAqLCrjgO73SWmKG4voq9kmq6Cjw',
+    appId: 'com.marmalade.golmobile',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.golmobile&hl=en&gl=us'
+  },
+  {
+    title: 'Ludo Club - Fun Dice Game',
+    installs: 80337601,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f',
+    appId: 'com.moonfrog.ludo.club',
+    url: 'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club&hl=en&gl=us'
+  },
+  {
+    title: 'Slots: Fast Fortune Free Casino Slots with Bonus',
+    installs: 2162067,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/5Aso82a5rChEZEgcp6LumofvCQXx8WNpU3hC5slIOdV7PYbiJRQU8gxtU7uOV18e1BU',
+    appId: 'com.superluckycasino.fortunespin.slots.vegas.android.free',
+    url: 'https://play.google.com/store/apps/details?id=com.superluckycasino.fortunespin.slots.vegas.android.free&hl=en&gl=us'
+  },
+  {
+    title: 'Root Board Game',
+    installs: 2807,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/l--vx1v_q-0xX8TZxGwmZhPqnMmUYJ96TZG98zXh8HZOy7va1yJdP7eSvebCbXUi_Q',
+    appId: 'com.direwolfdigital.root',
+    url: 'https://play.google.com/store/apps/details?id=com.direwolfdigital.root&hl=en&gl=us'
+  },
+  {
+    title: 'Okey Plus',
+    installs: 22501196,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ckH50gN4Iu3yqemdT6Qfvqbxeiu07gQogPcG9PIUqiZLalyMPryWSlkXPsOuLUO6h8hP',
+    appId: 'net.peakgames.OkeyPlus',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.OkeyPlus&hl=en&gl=us'
+  },
+  {
+    title: 'Catan Universe',
+    installs: 2061136,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/P1yUq4Bv5DDWYo9r2ACn3zLxsuKssWZKiMcFj8tTrIFB_ikHTrCj784Uzyohh49iwQ',
+    appId: 'com.usm.catanuniverse',
+    url: 'https://play.google.com/store/apps/details?id=com.usm.catanuniverse&hl=en&gl=us'
+  },
+  {
+    title: 'Wizard of Bingo',
+    installs: 1449505,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/_6x5Wf_fsnHGqjO9VSCeMNuvcwsM7ym7zS-ZKrTgjKkqOAvh-d-FMTWz65NbhhkvmYs',
+    appId: 'com.blackcircleapps.halloweenbingo',
+    url: 'https://play.google.com/store/apps/details?id=com.blackcircleapps.halloweenbingo&hl=en&gl=us'
+  },
+  {
+    title: 'Domino Master! #1 Multiplayer Game',
+    installs: 728857,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/G3wrP0PezPbIHtfBuuAWRduBOwRoGTPlNJfhSyczmE7APzXbPKoXGjYWoDu7YVQatffV',
+    appId: 'com.TikGames.DominoMaster',
+    url: 'https://play.google.com/store/apps/details?id=com.TikGames.DominoMaster&hl=en&gl=us'
+  },
+  {
+    title: 'Farkle mania - Slots, Dice and Bingo',
+    installs: 375937,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/LYsohhv3DQgC8yB9jfi6zl3kpUaVZD-sLl6Q1d9a3xsUTYswVRxu0Aj4l9UGp28JhtM',
+    appId: 'com.nurigames.farkle',
+    url: 'https://play.google.com/store/apps/details?id=com.nurigames.farkle&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Games -Paint By Number&Free Coloring Book',
+    installs: 2314329,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/bv-8v5QMM8-KJfK4x9k56U-besjg13A5FMuBn-DhpzOXHwiQq640IHUH7YE4Eo3YdlQ',
+    appId: 'com.free.drawing.coloring.book.paint.by.number',
+    url: 'https://play.google.com/store/apps/details?id=com.free.drawing.coloring.book.paint.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Tile Connect - Free Tile Puzzle & Match Brain Game',
+    installs: 1319103,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/hkRdckW91SJdMpVJo1Ttcn_pl22kgBi3i5zujqBlRH5XS5QbHOvYv1rBJ4x6d_utzFfd',
+    appId: 'link.merge.puzzle.onnect.number',
+    url: 'https://play.google.com/store/apps/details?id=link.merge.puzzle.onnect.number&hl=en&gl=us'
+  },
+  {
+    title: 'Ludo King™',
+    installs: 478166104,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog',
+    appId: 'com.ludo.king',
+    url: 'https://play.google.com/store/apps/details?id=com.ludo.king&hl=en&gl=us'
+  },
+  {
+    title: 'Cross Stitch Club — Color by Numbers with a Hoop',
+    installs: 1176564,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/6l9KdzcKG8XzB-Gju5bCYESceG6nMCBTdWatGD7TDDtGvzlto4StzrpUlt8hpncp1yYB',
+    appId: 'com.foxelpix.crossstitchclub',
+    url: 'https://play.google.com/store/apps/details?id=com.foxelpix.crossstitchclub&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Smash - Lucky Bingo Travel',
+    installs: 259554,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/l4hUB0HaSTNR5tAfp55H_GIztXzHzM_QputXwyOmOd-Mblxk8FB6RDqqLp2fKAcmvD8',
+    appId: 'com.quge.bingopowerball',
+    url: 'https://play.google.com/store/apps/details?id=com.quge.bingopowerball&hl=en&gl=us'
+  },
+  {
+    title: 'Ludo Star',
+    installs: 26060383,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/4sn8UJKWwUK9qxdw3RLZpjZG1elmXYXwr4rDP9ZLAr_cmEZunIMTVzXmyfeNGp1mGXI',
+    appId: 'com.gameberry.ludo.star2',
+    url: 'https://play.google.com/store/apps/details?id=com.gameberry.ludo.star2&hl=en&gl=us'
+  },
+  {
+    title: 'Farkle online - 10000 Dice Game',
+    installs: 72997,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/aBV7fY_KPfESd6MgjPSGNNVwmvQ0npEF390QGlUbr2qWKdZhpoYfNHPRLoZ8aTTg0pA',
+    appId: 'net.skillcap.farkle',
+    url: 'https://play.google.com/store/apps/details?id=net.skillcap.farkle&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Legends - online with chat',
+    installs: 1156565,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/RXuaRorKXwEKVxRb9yU4McM2l9TGzYul1ybnOINo6CtN1yrw06LIlBbGQF2WFglkZAvi',
+    appId: 'com.ahoygames.backgammon',
+    url: 'https://play.google.com/store/apps/details?id=com.ahoygames.backgammon&hl=en&gl=us'
+  },
+  {
+    title: 'Rummikub®',
+    installs: 6710374,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/rPvgLje5dh9bInqtoXGlmAp9DMNCaiAVQLEGthsTQKLSOa5GKoIIJC0Nc_e5ZDovTg',
+    appId: 'com.rummikubfree',
+    url: 'https://play.google.com/store/apps/details?id=com.rummikubfree&hl=en&gl=us'
+  },
+  {
+    title: 'Ticket to Ride',
+    installs: 392987,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/rUvdj55YKFtbI4NYPx2Dk7rs6syXv1hTOVe2ESVyEOT1LZc-E_GvC1fLSC_a0WSRMigv',
+    appId: 'com.daysofwonder.tt.android',
+    url: 'https://play.google.com/store/apps/details?id=com.daysofwonder.tt.android&hl=en&gl=us'
+  },
+  {
+    title: 'Chess Online',
+    installs: 4309910,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/iJZqiBd-Jzs8juu52ST3gGApZFpMc2up4UU87N24vnSay9aqZ0LbHxlK-6Sl24OICPXC',
+    appId: 'chessfriends.online.chess',
+    url: 'https://play.google.com/store/apps/details?id=chessfriends.online.chess&hl=en&gl=us'
+  },
+  {
+    title: 'RoyalDice: Play Dice with Everyone!',
+    installs: 488988,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/saCcJ3ynJ1yqc-iaUgfoUaE_gqCv_g_lq1SFzBkRF3Bzu1HiMMEWOgPUgkByNLtDbYzm',
+    appId: 'com.gamepoint.royaldice',
+    url: 'https://play.google.com/store/apps/details?id=com.gamepoint.royaldice&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Chess with Dr. Wolf',
+    installs: 930552,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/gKJRzzOZkJ5LzaUIE_svtkcCmqlJtmIGW9012KQUMvKUfDXT47lv06pikj6-SqAXig',
+    appId: 'com.chess.chesscoach',
+    url: 'https://play.google.com/store/apps/details?id=com.chess.chesscoach&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Country Days: Best Free Bingo Games',
+    installs: 175865,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/MJZvBK06IKNd7Csgui98uIBhVCzEupLmUfVfVxvwnG0sFLtt3BO5lktGJOYfHUx-4xo',
+    appId: 'air.com.playcus.free.bingo.games.casino.slots.country.days.game',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.free.bingo.games.casino.slots.country.days.game&hl=en&gl=us'
+  },
+  {
+    title: 'Paintist 2020 - Coloring Book & Color by Number',
+    installs: 580461,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/cPayu3hio17wgIBpMdtwgyy5ii9aHNBkACPIOCyfqy03CX-vFqIxhuqxlICKbTc_QQM',
+    appId: 'paintist.pixel.art.color.paint.by.number.coloring.paint.drawing.book',
+    url: 'https://play.google.com/store/apps/details?id=paintist.pixel.art.color.paint.by.number.coloring.paint.drawing.book&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Tiny Tales',
+    installs: 211612,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/xrDiBRSy3BFSI_MHqHGBsGpfjIATfpjm-6ZOty5Z9FhoVnPgRafGOQ6iMSeVeMdWmIg',
+    appId: 'air.com.qublix.mahjong',
+    url: 'https://play.google.com/store/apps/details?id=air.com.qublix.mahjong&hl=en&gl=us'
+  },
+  {
+    title: 'Tropical Beach Bingo World',
+    installs: 1429808,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/fXM7UFMCEiJcVcdxMYg6LwZbofU8krWlPCl_Pz1K47uWZd0VT_bFu8NOGiUlpSfwNvc',
+    appId: 'com.blackcircleapps.tropicalbingo',
+    url: 'https://play.google.com/store/apps/details?id=com.blackcircleapps.tropicalbingo&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Country Boys: Best Free Bingo Games',
+    installs: 155314,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/8fbilY25zEVQhJU-uTu-kARJzk3Uw5JAQWVJ_I_nOTfa22IKP41RWwT_7Bos8OO4Hg',
+    appId: 'air.com.playcus.bingocountryboys',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.bingocountryboys&hl=en&gl=us'
+  },
+  {
+    title: 'Super Bingo HD™: Best Free Bingo Games',
+    installs: 2579146,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/UN_Bnpv9r8ugIIvX8DadUBDlBQy-iySXq1JOMMsfFRy4njjNiG0d1_qbaCrSJp2hVPA',
+    appId: 'air.com.ievogames.superbingo',
+    url: 'https://play.google.com/store/apps/details?id=air.com.ievogames.superbingo&hl=en&gl=us'
+  },
+  {
+    title: '프렌즈마블',
+    installs: 4954843,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/DZc7Ng70ZUJxRhQ7ImZHPA0oMi-u0tO_ana3F_YZdXqqNLNxoRVbpCXV7c5fa9nPPIW4',
+    appId: 'com.kakaogames.frmarble',
+    url: 'https://play.google.com/store/apps/details?id=com.kakaogames.frmarble&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Craze',
+    installs: 1408923,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ekgv_A7220E9cww5PpBGJEfTBJwdWqpYso5EaLFnB6OBz0zHMX0sQ7LZYgfLULlxewQ',
+    appId: 'com.blackzen.BingoMania',
+    url: 'https://play.google.com/store/apps/details?id=com.blackzen.BingoMania&hl=en&gl=us'
+  },
+  {
+    title: 'Rainbow Bingo Adventure',
+    installs: 493448,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/S2sdp5uDxgFDu06YDCCwLfLApsebHwuIW7h49GsOReHk_PiFgscrJn_KjrNrrik-Vw',
+    appId: 'com.dg.turbonuke.rainbowbingoadventure',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.turbonuke.rainbowbingoadventure&hl=en&gl=us'
+  },
+  {
+    title: 'Free Bingo World - Free Bingo Games',
+    installs: 1060263,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/5wqcjj3eYpZn6sTnVFuYKyhArwrI03vgDf0v0qsrF2xjTHSaScPGJl-zgdEce-gJGfs',
+    appId: 'com.platsera.freebingoworld',
+    url: 'https://play.google.com/store/apps/details?id=com.platsera.freebingoworld&hl=en&gl=us'
+  },
+  {
+    title: 'Classic Sudoku',
+    installs: 14073,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/59tPCMz5BEWpJyrnVmleNWk8WypU2DSiJSHQHX0pIc6ZIqdfO23thMsxELmG0j6ICw',
+    appId: 'com.StudioGoya.ClassicSudoku',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioGoya.ClassicSudoku&hl=en&gl=us'
+  },
+  {
+    title: 'My Bingo Life - Free Bingo Games',
+    installs: 589783,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/E2mIWCR2VPbyRGe2i2Ej_OyD_HjVFcVp7e9B7p7Mf2Cl0ysm-BhTGbzT-uaOyqKXc7Q',
+    appId: 'com.dg.turbonuke.my.bingo.life',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.turbonuke.my.bingo.life&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Win',
+    installs: 1248318,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/EZX94CDuhjhtxRZSh_sQu4B5wPNarerOSVTuFx4OzxH8fLyxfWBEvuxGZkBRNTtICPw4',
+    appId: 'com.bingo.games.online.offline.free.slots.lotto.keno.casino.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.bingo.games.online.offline.free.slots.lotto.keno.casino.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo My Home',
+    installs: 371711,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/bIsaQSepQTrG6Bgld5Uju_gT4Cw-TDdVhJZgnglRjf35GTBtmkslRR1lxn_J0tUIk0zG',
+    appId: 'com.wixot.bingo',
+    url: 'https://play.google.com/store/apps/details?id=com.wixot.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Star - Bingo Games',
+    installs: 213029,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/vN5WWT69AjMCoI0Y-IfU_2ZUp9Y3EPYfMRrGG7CXNnyGzgmmo1Q2YuevuC0hQHR_pk8',
+    appId: 'com.playcus.bingostar',
+    url: 'https://play.google.com/store/apps/details?id=com.playcus.bingostar&hl=en&gl=us'
+  },
+  {
+    title: 'Color by Number - Happy Paint',
+    installs: 1216536,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/l8WPo4CRhuq6ZIhHtxsNkDUm0lUY1hsWH_Q862FAAzbBNbBRPNXJwN3nYlKu6RNkjg',
+    appId: 'com.pixel.art.happy.color.by.number.paint.coloring.free',
+    url: 'https://play.google.com/store/apps/details?id=com.pixel.art.happy.color.by.number.paint.coloring.free&hl=en&gl=us'
+  },
+  {
+    title: 'Slot Casino - Slot Machines',
+    installs: 13463533,
+    genre: 'GAME_BOARD',
+    icon: 'https://play-lh.googleusercontent.com/bNy2uYmovjMq1Prmd_QguoUbVVYxiGZfDifQDoruyMEm2WY0F30W9slCbAgjYm_lMg',
+    appId: 'com.play.slot',
+    url: 'https://play.google.com/store/apps/details?id=com.play.slot&hl=en&gl=us'
+  },
+  {
+    title: 'Carcassonne: Official Board Game -Tiles & Tactics',
+    installs: 133002,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/pBpKFQ7hs4E9TffxwrA7A3Ehqt37We53nyei5VaRPIRxRssQhHmaKRJBHNR5PhfqpAM',
+    appId: 'com.asmodeedigital.carcassonne',
+    url: 'https://play.google.com/store/apps/details?id=com.asmodeedigital.carcassonne&hl=en&gl=us'
+  },
+  {
+    title: 'Magnus Trainer - Learn & Train Chess',
+    installs: 952835,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/yy6yFHLCrZVTbGaBdFTeVO21jFwoIVWuqeb1cx3p3tn8YQw4RJN-VWZII3mG_S04DCw',
+    appId: 'com.playmagnus.development.magnustrainer',
+    url: 'https://play.google.com/store/apps/details?id=com.playmagnus.development.magnustrainer&hl=en&gl=us'
+  },
+  {
+    title: 'Catan Classic',
+    installs: 712505,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/e2gT3SVCxXpdcolpok3saqaj4kYWGi5W0uFGcUbFkb4dEQ8qeJ_9gyeXMh0ay2EdXQ',
+    appId: 'com.exozet.android.catan',
+    url: 'https://play.google.com/store/apps/details?id=com.exozet.android.catan&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes Club',
+    installs: 494196,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/BGHDpjQ31wpyCSkYt2tNJJpSroIxylvAXVc-ceTajDqlqsEZQwSuSM5b-zgJCOBdvq0',
+    appId: 'com.gamecolony.playdominoes',
+    url: 'https://play.google.com/store/apps/details?id=com.gamecolony.playdominoes&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes - Classic Domino Board Game',
+    installs: 4009149,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/uKQK0p5BkeYjdZu-G8mETvsPeM-2IlfWl9mQ1N_NTPLwlFlgGhfYm5hAbqhlTjAgzQ',
+    appId: 'com.huuuge.domino',
+    url: 'https://play.google.com/store/apps/details?id=com.huuuge.domino&hl=en&gl=us'
+  },
+  {
+    title: 'Terraforming Mars',
+    installs: 32913,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/LgboJqHNbBha3bxYguB678snUQSv9GQOtNi9mX0BQ0Dq9FWSlDCjhKLAUotNf_n-fAI',
+    appId: 'com.asmodeedigital.terraformingmars',
+    url: 'https://play.google.com/store/apps/details?id=com.asmodeedigital.terraformingmars&hl=en&gl=us'
+  },
+  {
+    title: 'Tile Craft - Triple Crush: Puzzle matching game',
+    installs: 7040583,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/qjVaQvXDUgcvdYekVkE4i_Iju10P_q0Af8r17RFIxPpbhJwdFop4b_eqBqMcIl5zAvE',
+    appId: 'com.starsprite.tilecraft',
+    url: 'https://play.google.com/store/apps/details?id=com.starsprite.tilecraft&hl=en&gl=us'
+  },
+  {
+    title: "Domino! The world's largest dominoes community",
+    installs: 5276974,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/HvMaaPc_UFvdZVe2Z7vpbcOnlxd6YDAvcEl6xf4s9ETX_tn8YcvYJOym4xJYUzzx_7g',
+    appId: 'com.flyclops.domino.android',
+    url: 'https://play.google.com/store/apps/details?id=com.flyclops.domino.android&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon King Online 🎲 Free Social Board Game',
+    installs: 1442596,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/bNQVeYFHB4baomrQ_e4NUd_dZOhkMFUVpX9qVsquucW-DpKuHZ3lS4B880fLpyn_NA',
+    appId: 'com.orodragon.bgking',
+    url: 'https://play.google.com/store/apps/details?id=com.orodragon.bgking&hl=en&gl=us'
+  },
+  {
+    title: 'Talisman',
+    installs: 324287,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/oWjbmGxISRrI337M9wig7dt95e23uUw4_tlHlFTfa6ZSgIWRixahphV9zdn5oihMJ9s',
+    appId: 'com.nomadgames.talisman',
+    url: 'https://play.google.com/store/apps/details?id=com.nomadgames.talisman&hl=en&gl=us'
+  },
+  {
+    title: 'D&D Lords of Waterdeep',
+    installs: 37376,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/fiefKZ5OnRPgiPFCx-dU-PyYZjxrtBbgtOtTpeKsC6pN4tY5D5QAfuSIvstnj6BALhw',
+    appId: 'com.playdekgames.waterdeep',
+    url: 'https://play.google.com/store/apps/details?id=com.playdekgames.waterdeep&hl=en&gl=us'
+  },
+  {
+    title: 'Miracle Sudoku',
+    installs: 2781,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/QapcaedCnODNbgnxB4zFS0X1qrvn_4HH0aJ0yRntWhI_eu4FlFnMbNbLWXI8bPWmELY',
+    appId: 'com.StudioGoya.MiracleSudokuCTC',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioGoya.MiracleSudokuCTC&hl=en&gl=us'
+  },
+  {
+    title: 'Yatzy Dice Clash - Dice Game',
+    installs: 266388,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/mEyhtwXyyP5XspLb50TbmT8a6W5XMbiN9riEdtzlMtQhhMLRfpbbjSlDNABlh5wVRqY',
+    appId: 'io.snowballgames.yatzy',
+    url: 'https://play.google.com/store/apps/details?id=io.snowballgames.yatzy&hl=en&gl=us'
+  },
+  {
+    title: 'Endless Balls 3D',
+    installs: 3064069,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/FbrMvaiQAC7Q8NWHjG8CpwzOXJtTB7haOwOIngasZ70N31ONAwluoQ9VKOzexUhGGaCm',
+    appId: 'thinkcube.project312',
+    url: 'https://play.google.com/store/apps/details?id=thinkcube.project312&hl=en&gl=us'
+  },
+  {
+    title: 'BATTLESHIP',
+    installs: 89348,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/5HA9EImYH6_LyNX_Vb4OYoPa3g_NFCJ8KUeVPBKkYvYfrNzWVYEVZuVHc22hMxGmFPQ',
+    appId: 'com.marmalade.battleship',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.battleship&hl=en&gl=us'
+  },
+  {
+    title: 'One Deck Dungeon',
+    installs: 17085,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/KKEULlCEeBA8v3Kd9d_JXlhNO65fitJfL1Qm6vFnCGdf0E_AsZRjeVITyF2BtFq8DB1Z',
+    appId: 'com.handelabra.OneDeckDungeon',
+    url: 'https://play.google.com/store/apps/details?id=com.handelabra.OneDeckDungeon&hl=en&gl=us'
+  },
+  {
+    title: 'Chess Stars - Play Online',
+    installs: 1024112,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/gv7cLLTbvEKLua2LMgq8DCJI6hyz9RyjKYNKzEB2EVNeNw-QKZSiv5XiGt3fykQRq1ds',
+    appId: 'com.turbolabz.instantchess.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.turbolabz.instantchess.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Domino - Dominoes online. Play free Dominos!',
+    installs: 5266025,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/BL75LIMBwq1LO37Wt9DWzyTtQUFKUmvDtqhlnXn31hO5dS5IEDuC33JaGHBKp4Zb-A',
+    appId: 'ru.skillcap.dominoes',
+    url: 'https://play.google.com/store/apps/details?id=ru.skillcap.dominoes&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Kingdom Arena: Best Free Bingo Games',
+    installs: 134187,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/GfNdsKT27CHhcAHH4xpN8aQrbg1W2Pjaqtq9y3VioRMsMW74DBVu7Np5l6ANZxU8ihUc',
+    appId: 'air.com.playcus.bingokingdomarena',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.bingokingdomarena&hl=en&gl=us'
+  },
+  {
+    title: 'Evolution Board Game',
+    installs: 224711,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/7gIW1gdBPUd3mzGlPvZERVpI8I8zVruQ6FOwAi3WMGoasvsQWmu9JhBKi1Wcuzzrxixb',
+    appId: 'com.northstargames.evolutiongame',
+    url: 'https://play.google.com/store/apps/details?id=com.northstargames.evolutiongame&hl=en&gl=us'
+  },
+  {
+    title: 'Cartographers',
+    installs: 3536,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/C7UcKc6VCkYxeRBimnrAQoC1WraYJmTYNF7vsgqpjXdofKW37FPWG7Z6mb8ubMGZVQ',
+    appId: 'de.brettspielwelt.cartographers',
+    url: 'https://play.google.com/store/apps/details?id=de.brettspielwelt.cartographers&hl=en&gl=us'
+  },
+  {
+    title: 'THE GAME OF LIFE Vacations',
+    installs: 30523,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/u64qOtvFq8ZuTyHDtCpNpVqnHpMkbznSWW17xPuoKPFlbUzIsPrP6pmX46eEWJ-mm2PY',
+    appId: 'com.marmalade.golv',
+    url: 'https://play.google.com/store/apps/details?id=com.marmalade.golv&hl=en&gl=us'
+  },
+  {
+    title: 'Christmas Mahjong Solitaire: Holiday Fun',
+    installs: 405715,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/tGtasKLg7nmugr7RjOCF-nuAkIxRtsJk2m32ihO61aCEJTG1mQiqMoQGMXc-Z8jyJWI',
+    appId: 'com.dg.puzzlebrothers.mahjong.solitaire.holiday.fun',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.puzzlebrothers.mahjong.solitaire.holiday.fun&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Duels',
+    installs: 257142,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/9oJgwUrqLMT4SXM87z_hSI0Zk0tWo2_zwqb7fZjuWkkhNL_nN4sywN2yzsmiTXD8sQ',
+    appId: 'air.com.lazyland.mahjong',
+    url: 'https://play.google.com/store/apps/details?id=air.com.lazyland.mahjong&hl=en&gl=us'
+  },
+  {
+    title: 'POLYGON : Coloring-Book∙ Poly Art by Numbers',
+    installs: 4784516,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/cu9Xsj6jHdiANMytAykC4wd05C_7WSubIKV4gXSxPMHYYe7wdwOFbGBuJTk4L_Tjlw',
+    appId: 'com.europosit.polygon2d.coloringpuzzle',
+    url: 'https://play.google.com/store/apps/details?id=com.europosit.polygon2d.coloringpuzzle&hl=en&gl=us'
+  },
+  {
+    title: 'Onet 3D - Classic Link Puzzle',
+    installs: 3637023,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/-56vlT1faJqQZ__ltwJ3dutB3G0-NFoluPNy8mToyxovRNe7AvJgQNFiseeMgJtItGLO',
+    appId: 'bp.free.puzzle.game.mahjong.onet',
+    url: 'https://play.google.com/store/apps/details?id=bp.free.puzzle.game.mahjong.onet&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Solitaire: Mystery Mansion',
+    installs: 1509355,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/mS2dh7tweypdBacxaSsA9RSuPHMipBgbRmtLTdMchz2-XFkBOS1T_xXiZbx-5GkEi40',
+    appId: 'com.dg.puzzlebrothers.mahjong.mysterymansion',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.puzzlebrothers.mahjong.mysterymansion&hl=en&gl=us'
+  },
+  {
+    title: 'Roll for the Galaxy',
+    installs: 1553,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/-2enPf_uznN9qgTzBIbpJzAGoIDuL6zVD2t0e3Kxsvd8xaV3LRuggx8yRcVaWbedmMnU',
+    appId: 'com.templegatesgames.RollAndroid',
+    url: 'https://play.google.com/store/apps/details?id=com.templegatesgames.RollAndroid&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo:Love Free Bingo Games,Play Offline Or Online',
+    installs: 254064,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/GHws8oASdeVv9OBzRcSVm7BzllBKbWst-wfyIV7Ai1Ugp7CXXA8tA0_w00qGEWpma93K',
+    appId: 'com.sagafun.bingolove',
+    url: 'https://play.google.com/store/apps/details?id=com.sagafun.bingolove&hl=en&gl=us'
+  },
+  {
+    title: 'Chess Sudoku',
+    installs: 8404,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/B--BvRz3vqrjSpCDgUWBqAzVTasSKN3kqmflV0pQJh_6BzODMl0hlBN2xwE3E770Hg',
+    appId: 'com.StudioGoya.ChessSudoku',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioGoya.ChessSudoku&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Panda',
+    installs: 229608,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Ue1e__OjPgUUBaEd8A-NIXSWh79zCeF9Uh1Jfo8CKTZXQ8U5YwLYiWV98GTERoFfxw',
+    appId: 'com.dreamingame.mahjong',
+    url: 'https://play.google.com/store/apps/details?id=com.dreamingame.mahjong&hl=en&gl=us'
+  },
+  {
+    title: 'Through the Ages',
+    installs: 64510,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/o7LThHzHpTtO7CFJzVG9Lm7CzWxUU1lBCNfXlLUuVToCn-7UxM_kXHIsOGSeirdqyur9',
+    appId: 'com.czechgames.tta',
+    url: 'https://play.google.com/store/apps/details?id=com.czechgames.tta&hl=en&gl=us'
+  },
+  {
+    title: 'Pathfinder Adventures',
+    installs: 585608,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/xqqt-tzlcvS7CQwmHeS-dDay2yrv_fFoWKPViXF09FLh1xAyCMHRSLfTNRwLdV2Xyg',
+    appId: 'net.obsidian.pacg1',
+    url: 'https://play.google.com/store/apps/details?id=net.obsidian.pacg1&hl=en&gl=us'
+  },
+  {
+    title: 'Splendor',
+    installs: 162536,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/DKm_BaBFZzhQ97hhd5FjoS7DbiLiTj0skPTq2rO_FMIcivaeBV9Tvjzh64wAkyBWhw-7',
+    appId: 'com.daysofwonder.Splendor.gp',
+    url: 'https://play.google.com/store/apps/details?id=com.daysofwonder.Splendor.gp&hl=en&gl=us'
+  },
+  {
+    title: 'Business & Friends - Fun family game',
+    installs: 1699877,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/cI4c0nf6z34SwR9Seocbqag6q6tHJAR4yXw9Qh15Fuz2TReszJY0jLiJdqhOKfHn-Gs',
+    appId: 'com.boardgame.rent.business.landlord',
+    url: 'https://play.google.com/store/apps/details?id=com.boardgame.rent.business.landlord&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Bay - Free Game',
+    installs: 271880,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/R_3LSRfCW4M6OcCScI17Pvw7c7lmmuScygq0JNhW-cG7aTROrUe0sKCA4kZu8Srqkas',
+    appId: 'com.superbox.aos.bingo',
+    url: 'https://play.google.com/store/apps/details?id=com.superbox.aos.bingo&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Farm Ways: Best Free Bingo Games',
+    installs: 95968,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/GdsShP-OcWZ4Ix5BBq_DspvgbPZRdNFJxLfFSUW7p69AxpTjDTaOECzEbUMMJrE5VoY',
+    appId: 'com.playcus.free.bingo.games.country.farm.game',
+    url: 'https://play.google.com/store/apps/details?id=com.playcus.free.bingo.games.country.farm.game&hl=en&gl=us'
+  },
+  {
+    title: 'CATRIS - Merge Cat | Kitty Merging Game',
+    installs: 439303,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/LLczRRMtW4YS1z6RB1pLNZKGZYs-jwDU4Ltqx2_VAhtM6SsFS7ctMRmSNK7XrJXm7CM',
+    appId: 'com.appcraft.merge.game',
+    url: 'https://play.google.com/store/apps/details?id=com.appcraft.merge.game&hl=en&gl=us'
+  },
+  {
+    title: 'Loco Parchís - Magic Ludo & Mega dice! USA Vip Bet',
+    installs: 4500536,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/dqcVERdaV_CxVFNCtQjSNHnVCjmQX9lxBGDOj_N8cj4hNkVoT2ZzL7yhWdASicZjdMc',
+    appId: 'com.mola.playspace.android.parchis',
+    url: 'https://play.google.com/store/apps/details?id=com.mola.playspace.android.parchis&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Country Ways: Best Free Bingo Games',
+    installs: 191242,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/7R4P3p05Xhq2KBr_hSdII7znLHeWPdYISmXBT7bb8COE04kyVo5sdd3tdIA7ULZfK0w',
+    appId: 'air.com.playcus.bingocountryways',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.bingocountryways&hl=en&gl=us'
+  },
+  {
+    title: '5 Second Rule - Drinking Game',
+    installs: 229183,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/nlyot7ihkUifOuifgSlMhuQuck7t16b4tbLZd3KqBdMjQyIqrAzISL9_Oo8r73aZzwo',
+    appId: 'com.daygames.five.seconds',
+    url: 'https://play.google.com/store/apps/details?id=com.daygames.five.seconds&hl=en&gl=us'
+  },
+  {
+    title: 'Chess Royale: Play Online',
+    installs: 1535769,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/vnBWjGZ_ZSo_wPAGdgFzqHYujq4ChX05jxEd7iQoSRK_8Ix5nwWlVLOnnykVrEqXg9w',
+    appId: 'com.xten.starfall',
+    url: 'https://play.google.com/store/apps/details?id=com.xten.starfall&hl=en&gl=us'
+  },
+  {
+    title: 'Farkle',
+    installs: 596830,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/NOR-YcuALRuKSrOAOUz78Xci_ykiN9CJTLUdkl8PXQNIxW2YHITDujdVrV66Ot247g',
+    appId: 'com.bestlis.farkle',
+    url: 'https://play.google.com/store/apps/details?id=com.bestlis.farkle&hl=en&gl=us'
+  },
+  {
+    title: 'Chess',
+    installs: 234771,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/PaZ7DOCiKpnAa4vhsod5TFdKrl0Y6WOtjs5INaFvr_rTz_yHUOryXmuepdn0cp0q_D0',
+    appId: 'uk.co.aifactory.chess',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.aifactory.chess&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo on Money free $25 deposit and match 3 to win',
+    installs: 919644,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/mLoZJtVjwTgi7M-LIefZzIlKJFmerA4txpcwm_PkADreBpSBhItGcrZ5MMiA1TIQNf4B',
+    appId: 'lu.zvasoft.lotto.free',
+    url: 'https://play.google.com/store/apps/details?id=lu.zvasoft.lotto.free&hl=en&gl=us'
+  },
+  {
+    title: 'Sagrada',
+    installs: 5820,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Y_99leAZG2uWWy1DR4J6Qy4OQDL7zylZDnUPXgr4pnMFdEW-GXejnAGkvPiIwWw7O4g',
+    appId: 'com.direwolfdigital.sagrada',
+    url: 'https://play.google.com/store/apps/details?id=com.direwolfdigital.sagrada&hl=en&gl=us'
+  },
+  {
+    title: 'Nonograms 999 griddlers',
+    installs: 285614,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/JQVEuqYAj8Rr4uHG1QccFFqJWvGiBVegs4Nhki6_PwrNFUZe6pYzXy2xTxGFyQp7amc',
+    appId: 'jp.co.seventhrank.illustlogic999',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.seventhrank.illustlogic999&hl=en&gl=us'
+  },
+  {
+    title: 'CROSS-STITCH: COLORING BOOK',
+    installs: 570494,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/IRX9yGzpFNObqF0V8Hwr1ciCmtec-dJh8bgvxGWpRF0YZavXYh8yiefaYog1du20YMxI',
+    appId: 'com.playcus.crossstitchcoloringbook',
+    url: 'https://play.google.com/store/apps/details?id=com.playcus.crossstitchcoloringbook&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Tour: witch tales',
+    installs: 17186,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/0KRiG7XwJVd0f7BLzW804XQOvNarspYHUQq1r1S2mhNVRNvhxK-SP_RZCN152gXsKUsv',
+    appId: 'com.qumitech.mahjonglink',
+    url: 'https://play.google.com/store/apps/details?id=com.qumitech.mahjonglink&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes Jogatina: Classic and Free Board Game',
+    installs: 35099986,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/uRJ-QdcSGO89itGw--2TuJ-xzycUJYEtNaQhrEWG8bcQmOG3CKZUiB9g_8-MszHf3ww',
+    appId: 'air.com.jogatina.domino.android',
+    url: 'https://play.google.com/store/apps/details?id=air.com.jogatina.domino.android&hl=en&gl=us'
+  },
+  {
+    title: 'Tsuro - The Game of the Path',
+    installs: 31327,
+    genre: 'GAME_BOARD',
+    icon: 'https://play-lh.googleusercontent.com/56wX9BbWOzY00hJO_HZNRQc8AtXIOSMwkFhy07hPqCly5EiqSxLjErDxzZ3O46qIS1nY',
+    appId: 'com.Thunderbox.Tsuro',
+    url: 'https://play.google.com/store/apps/details?id=com.Thunderbox.Tsuro&hl=en&gl=us'
+  },
+  {
+    title: 'Paint Color: Coloring by Number for Adults',
+    installs: 256886,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/AOlGpVHYK3liyb-2VWfaeowA1kg3EPEMp12QT6cDkW_mV4bzy1A_Iolj2DaIApzfDwc',
+    appId: 'com.UmiringoStudio.FunColor',
+    url: 'https://play.google.com/store/apps/details?id=com.UmiringoStudio.FunColor&hl=en&gl=us'
+  },
+  {
+    title: 'Keep Talking and Nobody Explodes',
+    installs: 46202,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ztrmj4z5sod7kz1R6On5YpQPkFJ51I3_o2FyGIOqWbHfjwWCo5aoSNEFx4YQJ3yIoA',
+    appId: 'com.steelcrategames.keeptalkingandnobodyexplodes',
+    url: 'https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Plus',
+    installs: 7030645,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/-WmNIKgHPpc_evJBrIAEfyM9ekdZ__b6mcoKDQf_-hMffSyDKmeiC9XTcQFLbf2QaSU',
+    appId: 'net.peakgames.mobile.android.tavlaplus.android',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.mobile.android.tavlaplus.android&hl=en&gl=us'
+  },
+  {
+    title: 'Fun Color by Number Coloring Book Paint Game',
+    installs: 1663876,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/qQKx1JmySTYzKxZsBW1uyqdK9_b3lLTWfVQv7u6D5oKb4L3cXP8AGJSCqnBzcAVYGw',
+    appId: 'com.qybteck.color.by.number.paint',
+    url: 'https://play.google.com/store/apps/details?id=com.qybteck.color.by.number.paint&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes Online - Free game',
+    installs: 8017262,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/o-DGNRg5ebwUXbOn-WlHbC5WcNv63E9U9c_AAQrRJWpytEimklx1GYJNZAqN4zlHqg4',
+    appId: 'air.br.com.domino.mobile',
+    url: 'https://play.google.com/store/apps/details?id=air.br.com.domino.mobile&hl=en&gl=us'
+  },
+  {
+    title: '클럽 맞고 온라인 & 고스톱',
+    installs: 47053,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/abzZw00YXnuxK8u6q1Bi0fOx2wqw7oZMNB9r9z-ghAbe9nBieJGMBahVw2sm-_bU2cke',
+    appId: 'kr.co.tk.game.matgo.google',
+    url: 'https://play.google.com/store/apps/details?id=kr.co.tk.game.matgo.google&hl=en&gl=us'
+  },
+  {
+    title: 'Ludo ZingPlay',
+    installs: 3600,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/0A0Wag2g4T2zC_7-SXrd0AWKFv159Kav6IKPzQJDRKZ0Pohfq5XdGZGHbyI-VXqRM4Y',
+    appId: 'com.gsn.ludo2.en',
+    url: 'https://play.google.com/store/apps/details?id=com.gsn.ludo2.en&hl=en&gl=us'
+  },
+  {
+    title: 'Onet - Connect & Match Puzzle',
+    installs: 1651738,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/FBA5OhD45WfNfzCLmKt14_HXLxk-ZLT4PivTnGD6AEzJ9xTEx9PN0CPJQPuULXUVhfds',
+    appId: 'onext.boombox',
+    url: 'https://play.google.com/store/apps/details?id=onext.boombox&hl=en&gl=us'
+  },
+  {
+    title: 'Small World: Civilizations & Conquests',
+    installs: 108866,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Up8s3ZC2hXCPdF58egT3XKyhOBj2viawd7jJIcsTkCrS7RxW8yekqMO2hTh8OUwJp-k',
+    appId: 'com.daysofwonder.smallworld2',
+    url: 'https://play.google.com/store/apps/details?id=com.daysofwonder.smallworld2&hl=en&gl=us'
+  },
+  {
+    title: 'Ludo All Star - Play Online Ludo Game & Board Game',
+    installs: 31172410,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/GgWHyiNmrzv722qKf0B0bBv19XIpeMtWtwsf7POnPONPOFwwC-pZX3mds6aq7i0Fpg',
+    appId: 'com.yoozoogames.ludogameallstar',
+    url: 'https://play.google.com/store/apps/details?id=com.yoozoogames.ludogameallstar&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Challenge',
+    installs: 89975,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/6YobBPhbMHwHdaC6Q1aC1U-1SzmQgiOW496Lt6DiutFjHRswk5nMTh161kZl34z71FPR',
+    appId: 'air.com.lazyland.challenge',
+    url: 'https://play.google.com/store/apps/details?id=air.com.lazyland.challenge&hl=en&gl=us'
+  },
+  {
+    title: 'Tile Match Sweet - Classic Triple Matching Puzzle',
+    installs: 341893,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/qJuGAHkPh9T0NLMzBB__-KI7V5vEBT4aex8SEvoiOp4iXVW2_Iwvi6hZ1a36ITvFGA',
+    appId: 'com.humblelogicgames.tilematch',
+    url: 'https://play.google.com/store/apps/details?id=com.humblelogicgames.tilematch&hl=en&gl=us'
+  },
+  {
+    title: 'Hit the Board: Fortune Fever',
+    installs: 327258,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/oHxt_fXGOYarofEz47qwE8b1UY1RHWMo7tlXGLLuTrZ89kUgHWYJ7JgoQe4RQuMSINXL',
+    appId: 'com.renatus.hittheboard',
+    url: 'https://play.google.com/store/apps/details?id=com.renatus.hittheboard&hl=en&gl=us'
+  },
+  {
+    title: 'Dice World - 6 Fun Dice Games',
+    installs: 218882,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/EKZYmmi_qCWR6JKLM2puibk_RT75UgrY23a-A12k-nFqz2UhmCDWIblurXGdrJyjro8',
+    appId: 'com.saddlellc.diceworld',
+    url: 'https://play.google.com/store/apps/details?id=com.saddlellc.diceworld&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Magic - New Free Bingo Games To Play Offline',
+    installs: 3100,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/LBV_o2Zj6ouRS9NTVGvhltIM0i4H5PMxC8cGhMs5lAN46x6KxF7py2SVxl0OFsj-R80',
+    appId: 'com.bigcasinoteam.bingomagic',
+    url: 'https://play.google.com/store/apps/details?id=com.bigcasinoteam.bingomagic&hl=en&gl=us'
+  },
+  {
+    title: '101 Yüzbir Okey Plus',
+    installs: 29351193,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/PwwGiVioYqDDlw22ix28vuLWbYLRduCQLV3M91YL5q_VVPSXKG4z4c8dnDM-NXzvLA',
+    appId: 'net.peakgames.Yuzbir',
+    url: 'https://play.google.com/store/apps/details?id=net.peakgames.Yuzbir&hl=en&gl=us'
+  },
+  {
+    title: 'Pandemic: The Board Game',
+    installs: 186680,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/Wxx-3huPNpIMHxH61ra2XU8zeYjlsHemJjOGBxfqkLEXfBG_QERWLDKwWS-PrtkLZtk',
+    appId: 'com.f2zentertainment.pandemic',
+    url: 'https://play.google.com/store/apps/details?id=com.f2zentertainment.pandemic&hl=en&gl=us'
+  },
+  {
+    title: 'Chess Free',
+    installs: 1443704,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/FiXn6a3XmdgUGyaxxT7yKA264DIh0pulSwl73NC-Sq07-ARDc7DcBKWOGz6DkOe9FQ',
+    appId: 'chess.friends.game.play',
+    url: 'https://play.google.com/store/apps/details?id=chess.friends.game.play&hl=en&gl=us'
+  },
+  {
+    title: 'Paint by number - Relax',
+    installs: 146443,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/YKpFh4k2QdU47lUJEIsPTkrf11v2Rlv88cNOnTmR6K6crc81CUXNOWUWwmgtkdLb2Q',
+    appId: 'paint.by.number.relax.pixel.art.drawing.book.free',
+    url: 'https://play.google.com/store/apps/details?id=paint.by.number.relax.pixel.art.drawing.book.free&hl=en&gl=us'
+  },
+  {
+    title: "Mahjong Magic Lands: Fairy King's Quest",
+    installs: 365941,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ipmWZK44dpVgE6HTqzHO7WRAqyB1VjctKfTOxhKAaUlpDZbOZS5YXoPe26gEp5484hFV',
+    appId: 'com.dg.puzzlebrothers.mahjong.king',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.puzzlebrothers.mahjong.king&hl=en&gl=us'
+  },
+  {
+    title: 'Viticulture',
+    installs: 1823,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/vXdNNM7tHVub8w9GPsDT0Aq00XQ05wZBHcZXXx8h56SRyPZ3fF7tu3VoM1gETz6seejT',
+    appId: 'com.digidiced.vxcrelease',
+    url: 'https://play.google.com/store/apps/details?id=com.digidiced.vxcrelease&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes',
+    installs: 889775,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/9YmufPxNZ3l4E27NsCabXuLVuHy7kjnszfQDq0adwge3V_wDvQ4h5AdPKcsyhtMP5f4',
+    appId: 'loppipoppi.dominoes',
+    url: 'https://play.google.com/store/apps/details?id=loppipoppi.dominoes&hl=en&gl=us'
+  },
+  {
+    title: 'Sentinels of the Multiverse',
+    installs: 52941,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/fLCCSgDIp00_VBN35Ymd6WjxYKA-EM_x5OtmOgmhCVnpbsiZBCCBpDCXX7ye-5gmQFo',
+    appId: 'com.handelabra.Sentinels',
+    url: 'https://play.google.com/store/apps/details?id=com.handelabra.Sentinels&hl=en&gl=us'
+  },
+  {
+    title: 'Thermo Sudoku',
+    installs: 4911,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/m1nTTqdzJZQWj7QtyFgY6k8szWZ_IyEjqRjGiUW7Jdw6L2ib9GWD1_2AVVR5tTBIbWk',
+    appId: 'com.StudioGoya.ThermoSudoku',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioGoya.ThermoSudoku&hl=en&gl=us'
+  },
+  {
+    title: 'Gloomhaven Helper',
+    installs: 128100,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/fxxFTLMKcdjuBcnOko2E-DPnBE13PiKY2n9iNE4InRLdDbjagk3KSmZ5hvgeopadRHf-',
+    appId: 'com.esotericsoftware.gloomhavenhelper',
+    url: 'https://play.google.com/store/apps/details?id=com.esotericsoftware.gloomhavenhelper&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Kingdom: Best Free Bingo Games',
+    installs: 349652,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/sfxmyPT1xUvZflKBVI5jP5awv16E5n86Bz4MB7uuVLQZW_YHbJEss1VsZ9GV_4xXDg',
+    appId: 'air.com.playcus.bingokingdom',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.bingokingdom&hl=en&gl=us'
+  },
+  {
+    title: 'War Room 2',
+    installs: 54333,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/LIJVXNSBuqcQ6NmlTXUZmtQxHQtIArHpG5NGoR9TriqZCHjIaA7p45ZOQOt_LTZ894f8',
+    appId: 'com.privateerpress.warroom2',
+    url: 'https://play.google.com/store/apps/details?id=com.privateerpress.warroom2&hl=en&gl=us'
+  },
+  {
+    title: 'Yatzy Ultimate',
+    installs: 701471,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/mu_EOHmxSUxdDa4Usl9vEoFsBuFnbgXQqUjK1HsqKdPujHtFnb059jOZZVA8DetijqA',
+    appId: 'com.seavus.yatzyultimate.droid',
+    url: 'https://play.google.com/store/apps/details?id=com.seavus.yatzyultimate.droid&hl=en&gl=us'
+  },
+  {
+    title: 'Armello',
+    installs: 641427,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/knRAimijNsaHrdVuC6Cm7hsvtArLmwx2Iuq2Zsd9C9DilzA9GoHSdWHAn1YaRUdV8QQx',
+    appId: 'com.leagueofgeeks.armello',
+    url: 'https://play.google.com/store/apps/details?id=com.leagueofgeeks.armello&hl=en&gl=us'
+  },
+  {
+    title: 'Rummy World',
+    installs: 494608,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/5aoP9JX3Y2NOWRvSen_xVN1XTuIBf0PjxgFJQukpN1yQw8VX1kQinz8IsMHRo_rD1-o',
+    appId: 'air.com.pkama.rummyworld3',
+    url: 'https://play.google.com/store/apps/details?id=air.com.pkama.rummyworld3&hl=en&gl=us'
+  },
+  {
+    title: 'Go',
+    installs: 52946,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/C74g02oIf4oBTw32TCKGTavNLZssAX1f7wQ2OEc2CqF4PHUrn6xraA56-5Us4Pm89Q',
+    appId: 'uk.co.aifactory.go',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.aifactory.go&hl=en&gl=us'
+  },
+  {
+    title: 'Golden Roll: The Yatzy Dice Game',
+    installs: 45062,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/AB-ZDsiMGI0y3aLMUOdyHgddVIJPCqnghZ5ElFlsPaAnD780AjUnSwfXimVcBol0X0U',
+    appId: 'company.greenergrass.goldenroll',
+    url: 'https://play.google.com/store/apps/details?id=company.greenergrass.goldenroll&hl=en&gl=us'
+  },
+  {
+    title: 'Investor Island',
+    installs: 32291,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/9z_DaDwlLVQ3IOHN2-dZorWCHrWVa3AfTJTnWZonNgvl77oP6qBkcgCZ7j3yHhuWMtM',
+    appId: 'com.fool.investorisland',
+    url: 'https://play.google.com/store/apps/details?id=com.fool.investorisland&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Superstars: Best Free Bingo Games',
+    installs: 946284,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/_pNgD95VdqpFSp2P8yEqFRAgshV8UWewgXRtP54vYAwrXwsJoLb1ITvUMqPBvOmSkRJ2',
+    appId: 'air.com.playcus.bingostars',
+    url: 'https://play.google.com/store/apps/details?id=air.com.playcus.bingostars&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes Loco : Mega Popular Tile-Based Board Game',
+    installs: 1299715,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/qiJttwyxGxiqpob7ElkEd1UIuZSHDslmGRDrIUuSACRYgO_CoNmzFOaO8B-i1oisK_4',
+    appId: 'com.mola.playspace.android.domino',
+    url: 'https://play.google.com/store/apps/details?id=com.mola.playspace.android.domino&hl=en&gl=us'
+  },
+  {
+    title: 'Chess With Friends Free',
+    installs: 2366752,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/QlFHEDOowq-0kzzUa3rwmBZIbe8b26khlGmz9PngFpRNBGOh8C_reM0abvcGEO-SkiU',
+    appId: 'com.zynga.chess.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.zynga.chess.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Dominoes Casual Arena',
+    installs: 107401,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/VcZWgmIzOzD9ho21PPiBbFUVpThDqvpXpCoFO7tU703NWw8Vkzt2afXlR6x7eZGAws_-',
+    appId: 'com.CasualArena.Dominoes',
+    url: 'https://play.google.com/store/apps/details?id=com.CasualArena.Dominoes&hl=en&gl=us'
+  },
+  {
+    title: 'Color World 3D - Paint By Number',
+    installs: 52820,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/x-3taqJPH1Z2p2FOMvKaF5AH-x3QLVf-9CkPwDqvTGS39Kz1mm2KYRbU1i0fxWDWx45A',
+    appId: 'com.mintgames.pocket.color.world.paintnumber.games3d',
+    url: 'https://play.google.com/store/apps/details?id=com.mintgames.pocket.color.world.paintnumber.games3d&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Paint - Color by number & Pixel Art',
+    installs: 1474742,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/6NQL51lf6tYiwdgJgFyons0pQ0K4p_Hb8q-jsfCOkPZTtHD1pvnnS9j4FqhNzSUZkiQ',
+    appId: 'com.magic.paint.pixel.art.color.by.number',
+    url: 'https://play.google.com/store/apps/details?id=com.magic.paint.pixel.art.color.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Fleet Battle - Sea Battle',
+    installs: 15599155,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/pNOBBFKQi_zoqU22bhdSLLTC3OKyLf0_stWIVf2nMl7aXXtUwPOEXWloPC3gkK5T_A',
+    appId: 'de.smuttlewerk.fleetbattle',
+    url: 'https://play.google.com/store/apps/details?id=de.smuttlewerk.fleetbattle&hl=en&gl=us'
+  },
+  {
+    title: 'Xmas Mahjong: Christmas Holiday Magic',
+    installs: 40611,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/WOaFhiF4JA6LUH8m3teD3eA5bw2Szr9uJ7Qp56pfcM0aNloMc7TQgC7ZGGap9z6RIg',
+    appId: 'com.dg.puzzlebrothers.mahjong.holiday.magic.christmas',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.puzzlebrothers.mahjong.holiday.magic.christmas&hl=en&gl=us'
+  },
+  {
+    title: 'Chess King (Learn Tactics & Solve Puzzles)',
+    installs: 452307,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/I4cVA-ugK_qt97WEySmFaXzNKdZoc1Ndbvxz35C_LQpAVSfQhrOL-3yQ7-ZesA7bX5o',
+    appId: 'com.chessking.android.learn',
+    url: 'https://play.google.com/store/apps/details?id=com.chessking.android.learn&hl=en&gl=us'
+  },
+  {
+    title: 'Raiders of the North Sea',
+    installs: 7057,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/zkg2Nhqxir3oLKtnJFUEqPyC7hgCcswSQ9dMn94ASTZhCQlIBSXwA82xeExwcWAS37I',
+    appId: 'com.direwolfdigital.raiders',
+    url: 'https://play.google.com/store/apps/details?id=com.direwolfdigital.raiders&hl=en&gl=us'
+  },
+  {
+    title: 'OKEY',
+    installs: 3655822,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/enYxJGyyO2z8Q4CBvYOPMjolIeyok0kFq_Gk-xXy4sIrwAlYXaETvUve95Si0-lGHJg',
+    appId: 'com.sngict.okeyextra',
+    url: 'https://play.google.com/store/apps/details?id=com.sngict.okeyextra&hl=en&gl=us'
+  },
+  {
+    title: 'Connect 3D - Pair Matching Puzzle',
+    installs: 136271,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/jRazu7hwaljZX9xWzSLf1cDBY7UeeLqu5STHg8KJX7YcgytrS1tJ3KNko1fl5wuxQRc',
+    appId: 'onnect.connect.pair.matching.line.puzzle.match3d.tilemaster',
+    url: 'https://play.google.com/store/apps/details?id=onnect.connect.pair.matching.line.puzzle.match3d.tilemaster&hl=en&gl=us'
+  },
+  {
+    title: 'Color.ly - Number Draw, Color by Number',
+    installs: 692374,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/owPhgiDbgLUGtbRRPvUwv6sLQXHD0aosoBax2rui5fcRAo5rtYhVDQdKPEp1YIxyUw',
+    appId: 'com.color.by.number.color.ly.number.draw',
+    url: 'https://play.google.com/store/apps/details?id=com.color.by.number.color.ly.number.draw&hl=en&gl=us'
+  },
+  {
+    title: 'chess game free -CHESS HEROZ',
+    installs: 594168,
+    genre: 'GAME_BOARD',
+    icon: 'https://play-lh.googleusercontent.com/5ol_tM60uoRWzJMCydXmzlv1wYV0DzxgcJuZQk7WOMFU50b1XT_JLp3Wl0B94TbalV-s',
+    appId: 'jp.co.heroz.chess',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.heroz.chess&hl=en&gl=us'
+  },
+  {
+    title: 'Galaxy Trucker',
+    installs: 67627,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/nPXos5-UVQVvHKfWKc4ppjR-4NMkX06opYqs6RAbp24NKhQBzwJBsQMgC9d2xrsphZo',
+    appId: 'com.czechgames.galaxytrucker',
+    url: 'https://play.google.com/store/apps/details?id=com.czechgames.galaxytrucker&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Masters Free',
+    installs: 1077117,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ihXxKilNmVglBBWBF7IKgv4Due3PAGaDfXCKNpk962XthlCc781JcO5HbkRL06hvVxc',
+    appId: 'com.kb.mobfree',
+    url: 'https://play.google.com/store/apps/details?id=com.kb.mobfree&hl=en&gl=us'
+  },
+  {
+    title: 'Bingo Happy : Casino  Board Bingo Games Free & Fun',
+    installs: 283708,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/EJn7Tyt9VhO9AXb0wmJs2MoYqs4g09eAvBhaIdOT-1O_uSTgM4ArxqQfsdXuw5oW7TY',
+    appId: 'com.sagafun.bingohappy',
+    url: 'https://play.google.com/store/apps/details?id=com.sagafun.bingohappy&hl=en&gl=us'
+  },
+  {
+    title: "Bingo - Pharaoh's Way",
+    installs: 588076,
+    genre: 'GAME_BOARD',
+    icon: 'https://play-lh.googleusercontent.com/Eeql5lk_0w9zZ-9IC-KqyodFv9pgKZiN5HQ7cwUoYO7i4GNRIkRe-sMHBo_t1na4_sI',
+    appId: 'com.starlight.BingoPharaoh',
+    url: 'https://play.google.com/store/apps/details?id=com.starlight.BingoPharaoh&hl=en&gl=us'
+  },
+  {
+    title: 'Dice Clubs - Social Dice Poker',
+    installs: 2391717,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/xxmKqPA4BH_LrGsQ2P_mlCOGOjtrcv98gNU1cO370WeHSNjyldbMzW5RsWmAWQHK5w',
+    appId: 'com.binteraktive.kniffel.live',
+    url: 'https://play.google.com/store/apps/details?id=com.binteraktive.kniffel.live&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Titan',
+    installs: 11101877,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/HImVNInaz4v7wjK5x4Dsk6buz-3y8Y0PXwKeNbD84RUzE5RDYz641zok5qNZ3a5RDQ',
+    appId: 'com.kristanix.android.mahjongsolitairetitan',
+    url: 'https://play.google.com/store/apps/details?id=com.kristanix.android.mahjongsolitairetitan&hl=en&gl=us'
+  },
+  {
+    title: 'Sandwich Sudoku',
+    installs: 6626,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/18zRKhwNlSj3r8IXZ-w-7e_qZAHGkYyPVgH87F3MYtMmw-RQb4W8RO3EtFjwstxf4g',
+    appId: 'com.StudioGoya.SandwichSudoku',
+    url: 'https://play.google.com/store/apps/details?id=com.StudioGoya.SandwichSudoku&hl=en&gl=us'
+  },
+  {
+    title: 'Race for the Galaxy',
+    installs: 22528,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/XL1L4LiFXDXlb1zuB86syBU_Gdj9jEgVjKZtg25dhvSgux-S2W6Wz1sWDHps8CTVCb0',
+    appId: 'com.templegatesgames.RaceAndroid',
+    url: 'https://play.google.com/store/apps/details?id=com.templegatesgames.RaceAndroid&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon Stars, Tavla',
+    installs: 249029,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/h8pbCTBMBgfi9mYZ38WOrbyK5oZCWA1wm_OSCkI2Lm6fXCWuJntTOmOemaT8rfMXzHcc',
+    appId: 'net.backgammonstars.android',
+    url: 'https://play.google.com/store/apps/details?id=net.backgammonstars.android&hl=en&gl=us'
+  },
+  {
+    title: 'Street Masters',
+    installs: 437,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/VCsdzuzwBK9bv3RvXFZnoY4g0B0yWmdfOJTZHFI4Tikr7vgEzRvurlRuKIjstmbl6Xc',
+    appId: 'com.blacklistgamesllc.StreetMasters.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.blacklistgamesllc.StreetMasters.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Mansions of Madness',
+    installs: 296661,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/iCO-bSRaNge-z5RPSxpnPcrtk9w1gbRLCZzO_1v31sik0fG65LoU1BnksTA35_4P6Ws',
+    appId: 'com.fantasyflightgames.mom',
+    url: 'https://play.google.com/store/apps/details?id=com.fantasyflightgames.mom&hl=en&gl=us'
+  },
+  {
+    title: 'Voxel - 3D Color by Number & Pixel Coloring Book',
+    installs: 3187892,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/4_b6u-OKd3Ctda0XMJSZ7rAItKaceHKAzSROLKIwlXwxDjRwbjb6yjwkrfwi083-t2pq',
+    appId: 'com.pixelart.colorbynumber',
+    url: 'https://play.google.com/store/apps/details?id=com.pixelart.colorbynumber&hl=en&gl=us'
+  },
+  {
+    title: 'Good Knight Story',
+    installs: 1564989,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/U8563CiAWWbtkyfO89qwPsDNN_hniyqaVHC2N-tg_w6jGdE5n7ynxGL0_4gtZkTdf1c',
+    appId: 'com.turbochilli.gks',
+    url: 'https://play.google.com/store/apps/details?id=com.turbochilli.gks&hl=en&gl=us'
+  },
+  {
+    title: 'Really Bad Chess',
+    installs: 1753525,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/yRG0y7O3EvzbamyZyyvMO-tqNfYzy9oQAIslxEDV86uxG8kQn17U0Yt3jV5ziBUgqWtq',
+    appId: 'com.noodlecake.reallybadchess',
+    url: 'https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess&hl=en&gl=us'
+  },
+  {
+    title: 'Rento - Dice Board Game Online',
+    installs: 21381162,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/9ceBAFWt9z-KG1OAcAMQjz4xIMSN59B7kiiwztCiWlb1rSSqC68UwyO8s3PSLhO5NHE',
+    appId: 'air.bg.lan.Monopoli',
+    url: 'https://play.google.com/store/apps/details?id=air.bg.lan.Monopoli&hl=en&gl=us'
+  },
+  {
+    title: 'Shogi Free - Japanese Chess',
+    installs: 2400426,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/pKWbzEiaZ9HIOWN6-KygUfxuOFOHyA05znT3JjKWPsqzGgdyaGDKrO6xa30oFU423Fw',
+    appId: 'com.crossfield.shogi',
+    url: 'https://play.google.com/store/apps/details?id=com.crossfield.shogi&hl=en&gl=us'
+  },
+  {
+    title: 'Backgammon',
+    installs: 69485,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/4jZxtLvsBH3Ndh9gnjoJksbiqj5nAAXyw_lSO9LhrDTHc2DSNMVVAQ9acngrEquYqg',
+    appId: 'uk.co.aifactory.backgammon',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.aifactory.backgammon&hl=en&gl=us'
+  },
+  {
+    title: 'Elder Sign: Omens',
+    installs: 125161,
+    genre: 'GAME_BOARD',
+    icon: 'https://play-lh.googleusercontent.com/ZrqstUKOgrR7hGesFSZds_onTrGczsUib0tqWSrnuX0Sfn1CLM5Fhmuc7yhWH026LpE',
+    appId: 'com.fantasyflightgames.ESAndroid',
+    url: 'https://play.google.com/store/apps/details?id=com.fantasyflightgames.ESAndroid&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Gardens: Butterfly World',
+    installs: 108379,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/TDXamar3l_sKaJaIyk2OwmkQ3MpgMnUk_XDriWP7pqnh-snOwySwUTJxcfgxLeKv-A',
+    appId: 'com.dg.puzzlebrothers.mahjong.world.gardens.butterfly',
+    url: 'https://play.google.com/store/apps/details?id=com.dg.puzzlebrothers.mahjong.world.gardens.butterfly&hl=en&gl=us'
+  },
+  {
+    title: 'KOGA Domino - Classic Free Dominoes Game',
+    installs: 2698906,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/-AsRXQ5tUlYACcbKpn-1_YR-bH2S94SUjs6PssnYkBzNSvnZ-Q8u36COohyNP9orLbs',
+    appId: 'com.koga.domino',
+    url: 'https://play.google.com/store/apps/details?id=com.koga.domino&hl=en&gl=us'
+  },
+  {
+    title: 'Mahjong Shanghai Free　',
+    installs: 729313,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/4BQ4Xn7SAP6NWgLYAUYQ7u5N_g_-Fizt-L7TxYSp3_2MrLuHBrsOSdHEEZmAaEWlUw',
+    appId: 'com.sundenshi.shanghaifree_world',
+    url: 'https://play.google.com/store/apps/details?id=com.sundenshi.shanghaifree_world&hl=en&gl=us'
+  },
+  {
+    title: 'Foreplay game for a couple 18+',
+    installs: 120596,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/v9uWBzuRjyiNNXzwWUn1EtPcBW_fwqTKyM9dh6b35nfn7E7x96iuINjoTJ2L6AivCzc',
+    appId: 'com.game.roleplaying18',
+    url: 'https://play.google.com/store/apps/details?id=com.game.roleplaying18&hl=en&gl=us'
+  },
+  {
+    title: 'Carnival fun free games offline and without wifi',
+    installs: 3567,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/coUGF8qGkf3arjI743E_7FdYnAXXvMQ-a7kBUIYeTd1gUssC8-ymTNR84oN24NnMAQ',
+    appId: 'com.InnovativeK.CarnivalMatch3',
+    url: 'https://play.google.com/store/apps/details?id=com.InnovativeK.CarnivalMatch3&hl=en&gl=us'
+  },
+  {
+    title: 'The Dresden Files Cooperative Card Game',
+    installs: 3078,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/ir7UMsGSDM0laQBjRD4XYADI-F7W8_OBRV88FciudGmpDK1vXqhHzsUi7imGrLYS2tI',
+    appId: 'com.hiddenachievement.dfco',
+    url: 'https://play.google.com/store/apps/details?id=com.hiddenachievement.dfco&hl=en&gl=us'
+  },
+  {
+    title: 'Fallout: Wasteland Warfare',
+    installs: 5969,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/0T3U6SD3pjESEGe7Oi17GR2FOBEcb87xG3Pcot91zZxoVPlK1nkQ5WRv51SD5ffio9Y',
+    appId: 'com.modiphius.fallout.wastelandwarfare',
+    url: 'https://play.google.com/store/apps/details?id=com.modiphius.fallout.wastelandwarfare&hl=en&gl=us'
+  },
+  {
+    title: 'The Castles Of Burgundy',
+    installs: 5182,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/havxSWmZcWpjMVuBtKC9-gJAH7tf-WPQfWeG8y_L5PEM9Sr9ogm9i6OF_1zxI18clFQ',
+    appId: 'com.digidiced.bvbrelease',
+    url: 'https://play.google.com/store/apps/details?id=com.digidiced.bvbrelease&hl=en&gl=us'
+  },
+  {
+    title: 'Best Coloring pages For Adults',
+    installs: 310397,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/JI7NJ6ydBi06nnDrj0XAx4HBVU_vX7CUtiu9sQQM-4jB9mEQTRUvaYlGEzix-MZp3nk',
+    appId: 'com.coloringbook.art.games.coloring.book.foradults',
+    url: 'https://play.google.com/store/apps/details?id=com.coloringbook.art.games.coloring.book.foradults&hl=en&gl=us'
+  },
+  {
+    title: 'Terra Mystica',
+    installs: 21430,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/0BQu3vmR_D8Z2K86zlLtsZAOdUnR52ltzzLpDNjccIIDPUX_EieJmnE2NvK4y_0BLfc',
+    appId: 'com.digidiced.txmrelease',
+    url: 'https://play.google.com/store/apps/details?id=com.digidiced.txmrelease&hl=en&gl=us'
+  },
+  {
+    title: 'ZingPlay Portal - Games Center - Tongits - Pusoy .',
+    installs: 729703,
+    genre: 'GAME_BOARD',
+    icon: 'https://lh3.googleusercontent.com/J7ZCpqXbR7IheIIJC0cdEWyzvdsPs_fxFryAtwuf6C2sFuIbWGdHFn0JraSlgTG0i_k',
+    appId: 'com.zps.ph',
+    url: 'https://play.google.com/store/apps/details?id=com.zps.ph&hl=en&gl=us'
+  }
+]

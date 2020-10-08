@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Duolingo: Learn Languages Free',
+    installs: 223916590,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M',
+    appId: 'com.duolingo',
+    url: 'https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=us'
+  },
+  {
+    title: 'Babbel - Learn Languages - Spanish, French & More',
+    installs: 39030996,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/xN4oZ4Re23KNtp9u2y4i-UYJ0TjjFjhs53okaauQUz-oP3LaOBQZZHVaNFU69GAT7x8',
+    appId: 'com.babbel.mobile.android.en',
+    url: 'https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en&hl=en&gl=us'
+  },
+  {
+    title: 'ClassDojo',
+    installs: 27391974,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/FUzIQanDvPv3Gl_4qmOWr74en-f16P-WKOeXTEu2LUvIEYvTeZ9USEf4O0FrH8tvCA',
+    appId: 'com.classdojo.android',
+    url: 'https://play.google.com/store/apps/details?id=com.classdojo.android&hl=en&gl=us'
+  },
+  {
+    title: 'Noggin Preschool Learning Games & Videos for Kids',
+    installs: 3805269,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/wfVOKSeQuENs8eCtI-ersZQDexVtLpGiGFdqtDlitGY2L-Psg-IBR20hRg6XWuLYNT2b',
+    appId: 'com.nick.noggin',
+    url: 'https://play.google.com/store/apps/details?id=com.nick.noggin&hl=en&gl=us'
+  },
+  {
+    title: 'PictureThis: Identify Plant, Flower, Weed and More',
+    installs: 12524143,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg',
+    appId: 'cn.danatech.xingseus',
+    url: 'https://play.google.com/store/apps/details?id=cn.danatech.xingseus&hl=en&gl=us'
+  },
+  {
+    title: 'Udemy - Online Courses',
+    installs: 14921740,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/VyIvp4Wl7DOFnIcsxrIw0pq43zUd8Yb4n96DpDRDrSsBkxIodDMMDfQk4XunNT5oDJ7Z',
+    appId: 'com.udemy.android',
+    url: 'https://play.google.com/store/apps/details?id=com.udemy.android&hl=en&gl=us'
+  },
+  {
+    title: 'Rosetta Stone: Learn Languages',
+    installs: 12166398,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EfU-TIPgFiueENh7xSnhCbJcn-qUJi-SFpqPgjI0aeYvMcEhNh8J_L0H8ZUoteQDdg',
+    appId: 'air.com.rosettastone.mobile.CoursePlayer',
+    url: 'https://play.google.com/store/apps/details?id=air.com.rosettastone.mobile.CoursePlayer&hl=en&gl=us'
+  },
+  {
+    title: "Epic: Kids' Books & Educational Reading Library",
+    installs: 5354538,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/8wPZJ9iNi4S-UQmeuUJU9BXsv72IiHdfyW5JSUcLM9vqlotU9ac3J3TjZEIDm9MDULXx',
+    appId: 'com.getepic.Epic',
+    url: 'https://play.google.com/store/apps/details?id=com.getepic.Epic&hl=en&gl=us'
+  },
+  {
+    title: 'Mathway',
+    installs: 17532038,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/FCMEORLhwFpdp0NpgdjkDatyAB3SIN8C29m2Cmm935oY45z45pm_gDH_nbMdmTsmRg',
+    appId: 'com.bagatrix.mathway.android',
+    url: 'https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&hl=en&gl=us'
+  },
+  {
+    title: 'Elevate - Brain Training Games',
+    installs: 15004841,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/CZ6XpP4sihh0VGkMFRif4FVplpvQnaUw5rujfc-xRz2GHDAa9eRwlsk23qegQEay',
+    appId: 'com.wonder',
+    url: 'https://play.google.com/store/apps/details?id=com.wonder&hl=en&gl=us'
+  },
+  {
+    title: 'Photomath',
+    installs: 118996313,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA',
+    appId: 'com.microblink.photomath',
+    url: 'https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en&gl=us'
+  },
+  {
+    title: 'Chegg Study - Homework Help',
+    installs: 1887808,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/2-_pBk615zXfNuHiO7VXnMmGgfh2bApMomcZvKDrdGYNW4FzdNtNK3VWzgPSS3FUDA',
+    appId: 'com.chegg',
+    url: 'https://play.google.com/store/apps/details?id=com.chegg&hl=en&gl=us'
+  },
+  {
+    title: 'HOMER - Proven Learn-to-Read Program for Kids 2-8',
+    installs: 1564002,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Orf0cjMQQvcvg6xQ8ZseYbs-Or3k7MKacKnBytIWCLgBiWsgvPLLYTjqfZFvlkmxVQ',
+    appId: 'com.learnwithhomer.webapp',
+    url: 'https://play.google.com/store/apps/details?id=com.learnwithhomer.webapp&hl=en&gl=us'
+  },
+  {
+    title: 'Lumosity: Brain Training',
+    installs: 20460335,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/MrYF2bh1BuqkzlWeWVKmrMZKfo0AyvVtO-OwaeB4cPFPtZBcJ3e5ibYPB19Ew5NR6ian',
+    appId: 'com.lumoslabs.lumosity',
+    url: 'https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity&hl=en&gl=us'
+  },
+  {
+    title: 'Blinkist - Nonfiction Books',
+    installs: 5119094,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/I6jGTxeDATLQDkDcVogX18r0ol4--mRHQMu6_6r8ntuCOKJo-aKOXsZdJJy_IdVAphY',
+    appId: 'com.blinkslabs.blinkist.android',
+    url: 'https://play.google.com/store/apps/details?id=com.blinkslabs.blinkist.android&hl=en&gl=us'
+  },
+  {
+    title: 'Pimsleur - Learn Conversation Fast - 51 Languages',
+    installs: 480727,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/HjVkjOkWO0BZyb4n1fUHt0gFE2NvRSp_E-9R_j-hx7u5XXQHOE5qIQUQ1iGn59TUfg',
+    appId: 'com.simonandschuster.pimsleur.unified.android',
+    url: 'https://play.google.com/store/apps/details?id=com.simonandschuster.pimsleur.unified.android&hl=en&gl=us'
+  },
+  {
+    title: 'Course Hero | Homework Help',
+    installs: 471248,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Gd0Zvcs-2dnkgIEuQS912BRJhdGCDwucGYhkTPEU-1W_qy2nhlijoHXyxwzc7gBR79E',
+    appId: 'com.coursehero.coursehero',
+    url: 'https://play.google.com/store/apps/details?id=com.coursehero.coursehero&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Languages with Memrise - Spanish, French',
+    installs: 30560055,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/K4YqEftV4PX1LQP7lyTGhm42p5PfwuXacddPuDuN3_8aklOz4nhx2tFeitCpyxlCMlRC',
+    appId: 'com.memrise.android.memrisecompanion',
+    url: 'https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion&hl=en&gl=us'
+  },
+  {
+    title: 'MasterClass: Learn from the best',
+    installs: 735208,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/1ZYkoTqFiCPEbqnUktIhqC3IEpawErIew6lfML0YDhzMnvbokzPsHrxvEB9xrw6k_LKG',
+    appId: 'com.yanka.mc',
+    url: 'https://play.google.com/store/apps/details?id=com.yanka.mc&hl=en&gl=us'
+  },
+  {
+    title: "Headway: Books' Key Ideas",
+    installs: 1558807,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/11bTacZlalrCB2TPFYXn1Yz4ctxFKHItx6Z03pgJEstZWsWJgjIFqSbHo1IJwFWQEQ',
+    appId: 'com.headway.books',
+    url: 'https://play.google.com/store/apps/details?id=com.headway.books&hl=en&gl=us'
+  },
+  {
+    title: 'Quizlet: Learn Languages & Vocab with Flashcards',
+    installs: 20351876,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/TNIOiuUvNkBqEJ1YpGftwuMQEKO-nKpI94tgiZtQhcFskh5f2tK34z1T8_TSofFUrXk',
+    appId: 'com.quizlet.quizletandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Lessons, Bass & Ukulele | Fender Play',
+    installs: 1519266,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/9FeWJzzS-6iRQOVOi_wFGY_V3WCEMD06AwkGXKXeOsfpqzC7an1a54pzm8-m1EEsKQ',
+    appId: 'com.fender.play',
+    url: 'https://play.google.com/store/apps/details?id=com.fender.play&hl=en&gl=us'
+  },
+  {
+    title: 'Skillshare - Creative Classes',
+    installs: 2008702,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Lfh8g5kPONfSNL7R4s8itnMMdj3lhmHU9tb4gp7eoOaXkJo0dOcwB6iWPdNGZMRDMVs',
+    appId: 'com.skillshare.Skillshare',
+    url: 'https://play.google.com/store/apps/details?id=com.skillshare.Skillshare&hl=en&gl=us'
+  },
+  {
+    title: 'Lingokids - A fun learning adventure',
+    installs: 16165910,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/8Ojv5Zy80La6tGFVsX7ArJ5MvSfbYDtwRn8rrW2nud7vrsqi2JzgstlRE1RjUuV3mA',
+    appId: 'es.monkimun.lingokids',
+    url: 'https://play.google.com/store/apps/details?id=es.monkimun.lingokids&hl=en&gl=us'
+  },
+  {
+    title: 'Peak – Brain Games & Training',
+    installs: 24979059,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EEukdXScXWXkGB1b-KY8OJbzWPzqPuo0QE6gI8YE4wFWZCR_ECRV3JsMu9XuPlaebx8',
+    appId: 'com.brainbow.peak.app',
+    url: 'https://play.google.com/store/apps/details?id=com.brainbow.peak.app&hl=en&gl=us'
+  },
+  {
+    title: 'Sago Mini World',
+    installs: 3755632,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/YN9y8TH8ut5apxS_k8KFccKIj2sfCoMRxMJX_8-kbBFUXV7ytCM6Rj91YqItIR9CjsQ',
+    appId: 'com.sagosago.World.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'The Great Courses Plus - Online Learning Videos',
+    installs: 506648,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/R-UAsS4cTckj1QSBUycjwVm4Qhhp9Hpepf81wnbsEoU3pWDJeFkFbK81jT0IoPIxOw',
+    appId: 'com.tgc.greatcoursesplus',
+    url: 'https://play.google.com/store/apps/details?id=com.tgc.greatcoursesplus&hl=en&gl=us'
+  },
+  {
+    title: 'Busuu: Learn Languages - Spanish, French & More',
+    installs: 30524059,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Egp-GTOp0CMBeS6eRVEQO6bLYdfklzGxCYSkr7aZynbzr2AJSZpF9s05_6ppj8vwq7I',
+    appId: 'com.busuu.android.enc',
+    url: 'https://play.google.com/store/apps/details?id=com.busuu.android.enc&hl=en&gl=us'
+  },
+  {
+    title: 'Intelligent Brain Booster',
+    installs: 18,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rJuh0r7FfFX2sFKg61lXBYlkN-xoymcdc0cDo8ha_NA5nTS8JP3eTo2VhT26wsu1pgg',
+    appId: 'com.sleygems.brainwaves',
+    url: 'https://play.google.com/store/apps/details?id=com.sleygems.brainwaves&hl=en&gl=us'
+  },
+  {
+    title: 'Star Walk 2 Free - Sky Map, Stars & Constellations',
+    installs: 19243439,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/wxJbDhA1WTbK2lRriShrcu-AzWkYnnPczef6n1gFhgfnoZLNLJ0RrpV69TJeLhn616Uf',
+    appId: 'com.vitotechnology.StarWalk2Free',
+    url: 'https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free&hl=en&gl=us'
+  },
+  {
+    title: 'Symbolab - Math solver',
+    installs: 7119350,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/1VgKIh9Ifze3pC7RnAwbBkPfOnXBIdyfHpdks7ChdR-sF6XS16M6VJwvYHijz_dL9g',
+    appId: 'com.devsense.symbolab',
+    url: 'https://play.google.com/store/apps/details?id=com.devsense.symbolab&hl=en&gl=us'
+  },
+  {
+    title: 'Justin Guitar Beginner Lessons: Play Real Songs',
+    installs: 790689,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/W-OCEy0zXb9i3IjfW8j2kj39DDTpH1LD8TrvYjP9In3gNYTPv_1Vcz63puQG4jVgcw',
+    appId: 'net.musopia.fourchordsjustin',
+    url: 'https://play.google.com/store/apps/details?id=net.musopia.fourchordsjustin&hl=en&gl=us'
+  },
+  {
+    title: 'Universe in a Nutshell',
+    installs: 37835,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/HtD1C00v-h6Jf8shU2JObSLTmJ-dFbk1C26YUgN0i0Dpm3YgKDK3OpxCQSQQKb_fiqx_',
+    appId: 'org.kurzgesagt.app.Universe',
+    url: 'https://play.google.com/store/apps/details?id=org.kurzgesagt.app.Universe&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Korean, Japanese or Spanish with LingoDeer',
+    installs: 8817308,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/z1Ry7krk6GNAm3UAw9PC4Fcv3shGTJNOB_MoUkV49wHir57Jc9fFJRUjSaX64Zq7wvQ',
+    appId: 'com.lingodeer',
+    url: 'https://play.google.com/store/apps/details?id=com.lingodeer&hl=en&gl=us'
+  },
+  {
+    title: 'Reading Eggs - Learn to Read',
+    installs: 914987,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/uowgJd3eSITmBxBq31T6Nc2JFccSmUBMurU6Tc0yDNkiPQMc6VnfQlfFnwM4HRh56R8',
+    appId: 'com.blake.readingeggs.android',
+    url: 'https://play.google.com/store/apps/details?id=com.blake.readingeggs.android&hl=en&gl=us'
+  },
+  {
+    title: 'HelloTalk - Chat, Speak & Learn Languages for Free',
+    installs: 10833958,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/7qdnFZdc3mFs7sWXauLyBvJRDqIqENpH_8dlsNAVBqiaKSJ3yJS7-n3zz-qw29F74Q',
+    appId: 'com.hellotalk',
+    url: 'https://play.google.com/store/apps/details?id=com.hellotalk&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Language learning - learn Japanese and more',
+    installs: 5143295,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/GT91_EywRwHiAaKegc1_DiZedTVwaAteTftvd3ljkPfsRPXSyf7n0Lb4XR0iZbAonw',
+    appId: 'com.languagedrops.drops.international',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.international&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Hospital',
+    installs: 235904,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4',
+    appId: 'com.tocaboca.tocahospital',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital&hl=en&gl=us'
+  },
+  {
+    title: 'Plant Lens - Plant & Flower Identification',
+    installs: 495547,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/m2G11L14MtAyl86pDz11eGjmd502GeOrOwphSIsC3q9Mvc2-TwMHW48nBqSVoOkjOIk',
+    appId: 'app.plant.identification',
+    url: 'https://play.google.com/store/apps/details?id=app.plant.identification&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My World',
+    installs: 5887210,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rY4U8oUtJSz_6SBQm7YKO28XGerqPzkEAbJZdBWraK1mR94Zk6Ob_vT4wIDpk99QKoNd',
+    appId: 'com.miga.world',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.world&hl=en&gl=us'
+  },
+  {
+    title: 'Learn 33 Languages Free - Mondly',
+    installs: 12200983,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/X2W_U_DhjG0hLUz_CZ2QkJhdJ5kh0MA5zAPpChNNEToEE9pFAdTUEbMJL9EZZj8kAkmg',
+    appId: 'com.atistudios.mondly.languages',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages&hl=en&gl=us'
+  },
+  {
+    title: 'Aceable Drivers Ed',
+    installs: 291766,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/jxlfZnb3vQXXiE8zaFILuzLD6symoweq4pXL7jghqNLrTP59QUVAz-PLRielLsW4W4k',
+    appId: 'com.aceable.aceablede_android',
+    url: 'https://play.google.com/store/apps/details?id=com.aceable.aceablede_android&hl=en&gl=us'
+  },
+  {
+    title: 'Mimo: Learn coding in JavaScript, Python and HTML',
+    installs: 5024218,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/4EbbMw6TnleJPtv4rc2C-8NVle1c9xxRkGfPLBzdqosNT61Fk7ag-TYXcVadm8V8uA4',
+    appId: 'com.getmimo',
+    url: 'https://play.google.com/store/apps/details?id=com.getmimo&hl=en&gl=us'
+  },
+  {
+    title: 'Stellarium Mobile PLUS - Star Map',
+    installs: 56220,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Qbw2RpfafGjzOt9FRzyZ6A28RqxUIGwuwzYaYFILzp5NtvF2JKkYLT0BEuJsGMHOPtY',
+    appId: 'com.noctuasoftware.stellarium_plus',
+    url: 'https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium_plus&hl=en&gl=us'
+  },
+  {
+    title: 'flowkey: Learn piano',
+    installs: 1658983,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/1teYfBE5qe8qTqqscRCiry60mLlM5QKrefHYD2MdMPan-ZSEmSitzFBZLLgw84kQJ_vd',
+    appId: 'com.flowkey.app',
+    url: 'https://play.google.com/store/apps/details?id=com.flowkey.app&hl=en&gl=us'
+  },
+  {
+    title: 'Picmonic: Nursing school RN LPN NP NCLEX AANP ANCC',
+    installs: 113536,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/694zMu5J_FgCjdWd4-Nv9WCwXb8QnpjqoHAQMAyb8L_3QFHhQILx1Lga-Ma6UQLUEsU',
+    appId: 'com.picmonic.androidapp',
+    url: 'https://play.google.com/store/apps/details?id=com.picmonic.androidapp&hl=en&gl=us'
+  },
+  {
+    title: 'Simply Piano by JoyTunes',
+    installs: 31849333,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/hyG2B4onvElfZLxUZqulFgFTAKExPwR81FVODNx4SUGmMf_IYzUWUKjtNym9TOFyKLdi',
+    appId: 'com.joytunes.simplypiano',
+    url: 'https://play.google.com/store/apps/details?id=com.joytunes.simplypiano&hl=en&gl=us'
+  },
+  {
+    title: 'Hooked on Phonics Learn & Read',
+    installs: 537660,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/96LHZqrJihUuGlNkLsarjc88vTBJeqWiDwcXRUEA3RKLxfMjorrAJDvPqWFJUwxGgu4',
+    appId: 'com.BigYellowTaxi.HookedPhonics',
+    url: 'https://play.google.com/store/apps/details?id=com.BigYellowTaxi.HookedPhonics&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Neighborhood',
+    installs: 108108,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/u8Y_d9KagdDQPkecx9wyCTD68aqSAwnE1-X78n8o2gez2QJLAj1S8rJlHO_eFvsRHw',
+    appId: 'com.tocaboca.tocaneighborhood',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocaneighborhood&hl=en&gl=us'
+  },
+  {
+    title: 'NCLEX-RN Mastery',
+    installs: 628907,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/ZqiXXNQGiLq4JUr5me26QF4eX0VDL7nFZAFxME7P0KITMc-U8rl604AGk2zfBa-TqQ',
+    appId: 'hlt.nursing.com',
+    url: 'https://play.google.com/store/apps/details?id=hlt.nursing.com&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Hair Salon 4',
+    installs: 13238354,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/1T8r7hxltHhRDU5K1id5-ipJ1sk7hI8kKz6Ocxd_DnayHxWn6pct_x2JG7tV75ypuQ',
+    appId: 'com.tocaboca.tocahairsalon4',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon4&hl=en&gl=us'
+  },
+  {
+    title: 'Picture Insect - Bug Identifier',
+    installs: 539204,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/QCBLUNtCQgExcAoBV56-bxq3sFIzJVOSKleQstJefwFQ-XmjflVMv_FVMURScA_dzA',
+    appId: 'com.glority.pictureinsect',
+    url: 'https://play.google.com/store/apps/details?id=com.glority.pictureinsect&hl=en&gl=us'
+  },
+  {
+    title: 'TinyTap - Educational Games for Kids, by Teachers.',
+    installs: 1022050,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/qow-7EwyLCPMF7_L44Q4gOwhh5b4lwVibBQnmVXWx8tqOwXCI_qSdgGyIUStOHIAfAD_',
+    appId: 'tinytap.kids.learning.games',
+    url: 'https://play.google.com/store/apps/details?id=tinytap.kids.learning.games&hl=en&gl=us'
+  },
+  {
+    title: 'MindPal - Brain Training',
+    installs: 716619,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/9AaZjs8PkbI4MyNTiP4sjER-G3a0uTCaMDyNBEBYUKni8jXUO_f0Q7piC_TQv_g5Eg',
+    appId: 'com.elektron.mindpal',
+    url: 'https://play.google.com/store/apps/details?id=com.elektron.mindpal&hl=en&gl=us'
+  },
+  {
+    title: 'Brilliant',
+    installs: 3409287,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/JHuH5wLOn-ueoSd77k37tRkhyEbOZnYd82K20BcMzjD2lpI40jaGhE_JmTILUTuU7AU',
+    appId: 'org.brilliant.android',
+    url: 'https://play.google.com/store/apps/details?id=org.brilliant.android&hl=en&gl=us'
+  },
+  {
+    title: 'Programming Hub: Learn to code',
+    installs: 5700050,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/_aPjapBx3O_gJyTra8mC5PUYgk9nnAdPj2BXufiwA29dq1y2u4O-bbtuCsUTLb5bXVg',
+    appId: 'com.freeit.java',
+    url: 'https://play.google.com/store/apps/details?id=com.freeit.java&hl=en&gl=us'
+  },
+  {
+    title: 'Conects Q&A: Fastest Math Help (Photo Math Solver)',
+    installs: 7275875,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/zsYvKIhRuy0LUCale9lG0uUa6idno_ZOpWBJnj7htLATctiYwQBZAQhNc8jU1kdyBB4',
+    appId: 'com.stu.conects',
+    url: 'https://play.google.com/store/apps/details?id=com.stu.conects&hl=en&gl=us'
+  },
+  {
+    title: 'iClicker Reef (REEF Polling)',
+    installs: 344006,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/yXIaWEuR3Z4kiufGWR1HODI0q_YjVVzpfc0W8IO7zwZpUpmEONDGQUeOYcWmKkXCuA',
+    appId: 'com.mnv.reef',
+    url: 'https://play.google.com/store/apps/details?id=com.mnv.reef&hl=en&gl=us'
+  },
+  {
+    title: 'SoloLearn: Learn to Code for Free',
+    installs: 10035800,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/6E112cbsqydvxECh-HmlXvOG5SGXCco4jv_aXZMeMKErNEsDA06Niq7p8CULJ40_6r7G',
+    appId: 'com.sololearn',
+    url: 'https://play.google.com/store/apps/details?id=com.sololearn&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Vacation',
+    installs: 210775,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/PRYlsPAkA0pGYe3LIdVhfk_QfWvU-mywRp5xYHLmtIfqgdd0Tos-0OPpyB9vz7fImmA',
+    appId: 'com.tocaboca.tocavacation',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocavacation&hl=en&gl=us'
+  },
+  {
+    title: 'SkyView® Explore the Universe',
+    installs: 230165,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/FbT_XWX5IYXQUt2fWug_vEyOdAWORIBe5ipHETfEvL6QVklVRU0NEFUgMeUN6mM73QY',
+    appId: 'com.t11.skyview',
+    url: 'https://play.google.com/store/apps/details?id=com.t11.skyview&hl=en&gl=us'
+  },
+  {
+    title: 'Dearborn Real Estate Exam Prep',
+    installs: 39089,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/-9mIkAcxw-gcqeAzyRMhWMbqHIp5qhbkdp4Y4GXHWdBM_SN5EBNTFdZuECt6IOfBR4E',
+    appId: 'com.gwhizmobile.dearbornrealestate',
+    url: 'https://play.google.com/store/apps/details?id=com.gwhizmobile.dearbornrealestate&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Office',
+    installs: 128079,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/5sVjVgqKb_e0_E8Ug0Mge-d9Cd36fDkQgSQUH7K-iUSGLyxqbNtR8UjPTo-WSuLWx9g',
+    appId: 'com.tocaboca.tocaoffice',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocaoffice&hl=en&gl=us'
+  },
+  {
+    title: 'Star Roam - Track Planet & Constellation, Sky Map',
+    installs: 54176,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/0hM_PMBluCY4jUHYS7aWY-YQc0fcJxV51Xd4jtX-J9KMZUAVMDTqSKyi9pJwOujeacDr',
+    appId: 'com.fantasy.star.inour.sky',
+    url: 'https://play.google.com/store/apps/details?id=com.fantasy.star.inour.sky&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: School',
+    installs: 376484,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/IPWhumhMFWaYc742ex3y3TmNZBZcCBCpgrJN_Ix2ecsLT_xWnbMx6UWC4eEoEAa4Ug',
+    appId: 'com.tocaboca.tocaschool',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocaschool&hl=en&gl=us'
+  },
+  {
+    title: 'Kahoot! Play & Create Quizzes',
+    installs: 37368942,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/MwUx33sJkK-l_5nnqOXzzb7_Oe111efhp7gliPA2g9ya3ipKDboo3xVVyEAEELjl4CQ',
+    appId: 'no.mobitroll.kahoot.android',
+    url: 'https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=en&gl=us'
+  },
+  {
+    title: 'Picture Mushroom - Mushroom ID',
+    installs: 111616,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/aeYpcB5TMQXDkyeU6eAKcKwA4dw6AjV7_ythOtbf0Sk5ZqLU85OyXAEvDao1zdvWoz2-',
+    appId: 'com.glority.picturemushroom',
+    url: 'https://play.google.com/store/apps/details?id=com.glority.picturemushroom&hl=en&gl=us'
+  },
+  {
+    title: 'NCLEX PN Mastery',
+    installs: 213671,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/5ymrlP9fyjFWiTGMFrFBQSdc3NVN3bma_BmHeC093G-tUo-sIHIF0Ta8kwGpGqGoARY',
+    appId: 'com.nclexpn.hlt',
+    url: 'https://play.google.com/store/apps/details?id=com.nclexpn.hlt&hl=en&gl=us'
+  },
+  {
+    title: 'STEEZY Studio - Hip-Hop Dance Classes',
+    installs: 297022,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/mdrLJ2f40UzVR8Quf483y1_13lGBY6tUJGZa96lOaJkC-9Zu4UWM5myVcFzDax3c3A',
+    appId: 'co.steezy.app',
+    url: 'https://play.google.com/store/apps/details?id=co.steezy.app&hl=en&gl=us'
+  },
+  {
+    title: 'RenWeb Home',
+    installs: 275738,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/B4WlNa8NUFQpt9y-U3WwSVrtWlJ2xdsRDGX9rgYYohF60D6ccCv5_sy9DJIUuJB2Vhw',
+    appId: 'com.renweb.homeapp',
+    url: 'https://play.google.com/store/apps/details?id=com.renweb.homeapp&hl=en&gl=us'
+  },
+  {
+    title: 'Tandem Language Exchange: Speak & learn languages',
+    installs: 5506957,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/zRIHqCgcf7fwezOhGeKU7YA6meZ3t9oJcF-ndnMOAJEephWAVnD4OC-kat1t0qAwbb8g',
+    appId: 'net.tandem',
+    url: 'https://play.google.com/store/apps/details?id=net.tandem&hl=en&gl=us'
+  },
+  {
+    title: 'My First Video: Fun Learning',
+    installs: 1274832,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/tx65T3HpvPXnnEpFZPKtTt2DFEJM_-r6GY-KVFB_xizanZoPCwXFLv0YZj0V5ln1v5k',
+    appId: 'com.applicaster.il.babyfirsttv',
+    url: 'https://play.google.com/store/apps/details?id=com.applicaster.il.babyfirsttv&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Chinese - HelloChinese',
+    installs: 5267202,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/3tSOq5FMoNE0li0dwKqJHIAOCUlac7UuV7jYvX1eaKH_fYrME4c8YMCGaJnB7IXx7e--',
+    appId: 'com.hellochinese',
+    url: 'https://play.google.com/store/apps/details?id=com.hellochinese&hl=en&gl=us'
+  },
+  {
+    title: 'EMT Exam Prep 2020',
+    installs: 21034,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ZhnGAyX7m72GH4hupQoPHZFmzo7wnFWoJzlEscNx_-pv8cMPce_x59xCkfGEDP9ATM0',
+    appId: 'co.spurry.emtfree',
+    url: 'https://play.google.com/store/apps/details?id=co.spurry.emtfree&hl=en&gl=us'
+  },
+  {
+    title: 'Essentials of Fire Fighting 7th Edition',
+    installs: 12629,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/3qEsnrUWD2Ma9GkkPWIMxnYnuoAJdDJep5h6Qhc6BMBV3hc89cV-Sx-KqIBXohtMJA',
+    appId: 'org.ifsta.e7',
+    url: 'https://play.google.com/store/apps/details?id=org.ifsta.e7&hl=en&gl=us'
+  },
+  {
+    title: 'PlantSnap - FREE plant identifier app',
+    installs: 17501772,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/umDqosYCxcx6_keLuJ3MJ53w1CTN0BFOXqMk0ZLhb5tTQL-g0onw79nBILj2SyqpxA',
+    appId: 'com.fws.plantsnap2',
+    url: 'https://play.google.com/store/apps/details?id=com.fws.plantsnap2&hl=en&gl=us'
+  },
+  {
+    title: 'Fortify – Quit Porn For Good',
+    installs: 178046,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/tvWLuj97Hdogc9gkWpadqmXsphw3VOu8WFSZeyHPRzM8dnyh_R_DEj9hwqsctIIeHTQ',
+    appId: 'com.ftnd.fortify',
+    url: 'https://play.google.com/store/apps/details?id=com.ftnd.fortify&hl=en&gl=us'
+  },
+  {
+    title: 'Dave and Ava Learn and Play',
+    installs: 271518,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Qyj9l2rUK3RETNV6s6qKrOoABRsj9gAHychOunemWPUgdKbIW6wx9ejn2WeTNUl83A',
+    appId: 'com.daveandava.player.subscription',
+    url: 'https://play.google.com/store/apps/details?id=com.daveandava.player.subscription&hl=en&gl=us'
+  },
+  {
+    title: 'Hungry Caterpillar Play School: Preschool Learning',
+    installs: 207573,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/c2HoPL4XigJIH5nB-TbTPCu-h0aoW-SHuwQ_PCtyNjiPYNqVAcntxTxbywJWNLdBGw',
+    appId: 'com.storytoys.hungry.caterpillar.play.school.abc.kids.books.free.android.googleplay',
+    url: 'https://play.google.com/store/apps/details?id=com.storytoys.hungry.caterpillar.play.school.abc.kids.books.free.android.googleplay&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Korean language and Hangul alphabet',
+    installs: 3112511,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/06NjFGdeA3TQ8tBvZdzNtmv0SqLrT60osOcawo3Z-f7pXcCXdsp7T7_YjVhZ7PXyHopg',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.korean.hangul.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.korean.hangul.words&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Japanese language, kanji & hiragana',
+    installs: 1307455,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/XJsEVGfu2bxqfcijwYOQNXFT__u8ZRqDlZML1FHcqVZRbtv0o5u5z-mZVLeEQa_w_MM',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.japanese.kanji.katakana.hiragana.romaji.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.japanese.kanji.katakana.hiragana.romaji.words&hl=en&gl=us'
+  },
+  {
+    title: 'Scholly: College Scholarships',
+    installs: 399612,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/YmxK4WVp_enO6g6aPYBATEWlmq3PiEnrfLF0f1oSabcfbPjFFw5NEcUupLky4Tssg_o',
+    appId: 'com.scholly.scholarshipsearch',
+    url: 'https://play.google.com/store/apps/details?id=com.scholly.scholarshipsearch&hl=en&gl=us'
+  },
+  {
+    title: 'EWA: Learn English & Spanish Language',
+    installs: 14339810,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/X-NOx60l7f4kqhpyxWwufYCFj8BTtvi4HLnjxeubuevCndIdVLcqJD-o3erUB7jBDw',
+    appId: 'com.ewa.ewaapp',
+    url: 'https://play.google.com/store/apps/details?id=com.ewa.ewaapp&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Pets',
+    installs: 106694,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/p7YpblT5hZVXKMqFS5Gpm_12ZFsZOtv2kFabQBSsd14xlOjeWuIvKl1xXMHzfYvKcug',
+    appId: 'com.tocaboca.tocapets',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocapets&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: After School',
+    installs: 73328,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/-l6dsajbKM_Jyyi7iLAvkwb-uBpSZAZY_-Jy7KRQVqNt0UU1Us6xg8z_8j16KqHbmJs',
+    appId: 'com.tocaboca.tocaafterschool',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocaafterschool&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Town',
+    installs: 284525,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rQ1DdLIC6bh_s20No8BnkcPWsVmSfs7GEfZcLQ1YxQHiqAsOly0fq9JrhtzSCST_7k4',
+    appId: 'com.tocaboca.tocatown',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocatown&hl=en&gl=us'
+  },
+  {
+    title: 'MagellanTV Documentaries',
+    installs: 101129,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/4fYmV4e7i_uvqbUNNpkGvjtPC2yBdFsetZHFNqPnOPdipf36eA1UBqO_IIq3xEHKdGUB',
+    appId: 'com.abide.magellantv',
+    url: 'https://play.google.com/store/apps/details?id=com.abide.magellantv&hl=en&gl=us'
+  },
+  {
+    title: 'PDG PROmote 2019-2021',
+    installs: 45384,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/U8uQ_hIW9oICM-Xpft7olW5Z_3J_4X01VWVVg1ChWcwGC3fBCc4u0BXD-KcWek81beq4',
+    appId: 'com.forcereadiness.pdgpromote',
+    url: 'https://play.google.com/store/apps/details?id=com.forcereadiness.pdgpromote&hl=en&gl=us'
+  },
+  {
+    title: 'Montessori Preschool',
+    installs: 1505759,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Aunw132U-NMD1Nw_xy9N7iF3RrWgDNKt_CIiTy4s0RFzYuPThrwJ8RfAdAd7sQC_EA',
+    appId: 'com.edokicademy.montessoriacademy',
+    url: 'https://play.google.com/store/apps/details?id=com.edokicademy.montessoriacademy&hl=en&gl=us'
+  },
+  {
+    title: 'Dog Training App with Clicker by Dogo',
+    installs: 2180335,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/hC4tfaPWy3w9-dcGDxpX3HQbrrbGjfF94PdUNoT4v_b1iQJDAT5LX-PBoLkgpQrdo0Q',
+    appId: 'app.dogo.com.dogo_android',
+    url: 'https://play.google.com/store/apps/details?id=app.dogo.com.dogo_android&hl=en&gl=us'
+  },
+  {
+    title: 'DMV Practice Test by Zutobi',
+    installs: 416730,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ZtJ9fisD2JB1Zu4eV_mjrxAmh6IG0V9SkUfTUJPwwD14_4iXulo1QOC9NhmFa-aFNz2D',
+    appId: 'com.driverlicenseapp',
+    url: 'https://play.google.com/store/apps/details?id=com.driverlicenseapp&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Stable',
+    installs: 464530,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/_qj6fCh-O8h1B15gPZlFkFId8fgab4Sn0J1PDbgx85Pwujt2dijbvJM1uR-iCLWujBk',
+    appId: 'com.tocaboca.tocastable',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocastable&hl=en&gl=us'
+  },
+  {
+    title: 'Mango Languages: Personalized Language Learning',
+    installs: 898430,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/XZdYj4C1slFzjmXGDStj-lvp87XOpL6DeoWTpgGd3nFBdQzx2cj5hcVlmC8O9suh2BA',
+    appId: 'com.mango.android',
+    url: 'https://play.google.com/store/apps/details?id=com.mango.android&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: City',
+    installs: 547221,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/YTzxbgZGksnYetrA3A2CoZvNzsr83zkidx03ljBFLgrNhi7m90qY6dKs7nN7TRs2Ops',
+    appId: 'com.tocaboca.tocacity',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocacity&hl=en&gl=us'
+  },
+  {
+    title: 'LingQ- Learn 42 languages: Spanish, French, German',
+    installs: 422985,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rldDpWYM806wWQBBulgWXncsCktQtV9XXP9Ummo-XJ_299Eu0u73p2ITVnTFwFyKNpE',
+    appId: 'com.linguist',
+    url: 'https://play.google.com/store/apps/details?id=com.linguist&hl=en&gl=us'
+  },
+  {
+    title: 'XtraMath',
+    installs: 123440,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/7clBjTi1vxk4rulrMP-_Oi-Si-n3z7rnBbc7m0Ah-QYa2pRoSRyHwUnVuV7AaTWKZ_w',
+    appId: 'org.xtramath.mathfacts',
+    url: 'https://play.google.com/store/apps/details?id=org.xtramath.mathfacts&hl=en&gl=us'
+  },
+  {
+    title: 'FNP Family Nurse Practitioner Mastery',
+    installs: 36490,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/2EH3IAyObrsdzHKVOU9uBS7iV8FW6MXHb1ox92c-TFvOCvCfn2vsGLOt473Qbn3yTnYP',
+    appId: 'com.hltcorp.fnp',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.fnp&hl=en&gl=us'
+  },
+  {
+    title: 'SplashLearn: Math & Reading - Kids Learning Games',
+    installs: 251789,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/gLMSG_cFF5xk5TWUZJ1ZYvY_b9zMRtf6wlB0OCyiyq7kvK96rujPMV4sJAQjM8dWkg',
+    appId: 'com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath',
+    url: 'https://play.google.com/store/apps/details?id=com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Life: Farm',
+    installs: 357731,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Ezwmp8FvN8gxzTSym_YFunpWAG5rAH2U03xLr7zBJTpwH0Ljgkr5XvvUGvN-9Gjt8j4',
+    appId: 'com.tocaboca.tocalifefarm',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocalifefarm&hl=en&gl=us'
+  },
+  {
+    title: 'Fluent Forever',
+    installs: 80379,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/M8zCf0r9Ix_yoBvtBA5M7WVYeGA5ycyu15yStKYSxVYDUeNc0mzhPaZRSoJs38E-AZE',
+    appId: 'com.fluentforever.fluentapp',
+    url: 'https://play.google.com/store/apps/details?id=com.fluentforever.fluentapp&hl=en&gl=us'
+  },
+  {
+    title: 'Chegg Math Solver - guided math problem solver',
+    installs: 171075,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/DDKdCzZBsXfpaiP3RVcyyBXAOlL1AOWiLG_iFWzZ2rcbx_NO8Ste8CCOVwyK3AMfUBw',
+    appId: 'com.chegg.math',
+    url: 'https://play.google.com/store/apps/details?id=com.chegg.math&hl=en&gl=us'
+  },
+  {
+    title: 'Foundations Memory Work Cycle 3',
+    installs: 5424,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/KxvSZebgEVEBpPGm1yPhpQIzuRvpNR2_zJuVezcP6HvTP1ISq82fLYk6ePapa1WTvA',
+    appId: 'com.classicalconversations.tutorials.cycle3',
+    url: 'https://play.google.com/store/apps/details?id=com.classicalconversations.tutorials.cycle3&hl=en&gl=us'
+  },
+  {
+    title: 'Sign Language ASL - Pocket Sign',
+    installs: 33125,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/4UPSnZVYh4pEeD85XXUAi3Lhdfuw54rGD2kcy--BA8t86Zuua1NpLQxUeVS7QzUZ91g',
+    appId: 'com.mobireactor.signlanguage',
+    url: 'https://play.google.com/store/apps/details?id=com.mobireactor.signlanguage&hl=en&gl=us'
+  },
+  {
+    title: 'Lingvist: Learn German, French, Spanish vocabulary',
+    installs: 2915451,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/HclJPk600WqbFMtfsokQN5GKvEO2VMllhMUN24uQ53_iKTxnL12_Wtuy9eA6C2R8DA',
+    appId: 'io.lingvist.android',
+    url: 'https://play.google.com/store/apps/details?id=io.lingvist.android&hl=en&gl=us'
+  },
+  {
+    title: 'Domestika - Online courses',
+    installs: 528656,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/aTXYdUlCn1jIYMvWEY3LBQ-Z7KOnk96NGtLVfFIX9ww3fOThVhL_a7AywNdFdr7XNw',
+    appId: 'org.domestika',
+    url: 'https://play.google.com/store/apps/details?id=org.domestika&hl=en&gl=us'
+  },
+  {
+    title: 'Wonster Words: ABC Phonics Spelling Games for Kids',
+    installs: 588643,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/aUeTCOJdl1Y-8CKFnCeKVv5pywRRB55QszQ2TXqz6FvuG3tFTQUntltwEIw8_K2Dq5k',
+    appId: 'com.sx.wonsterwords',
+    url: 'https://play.google.com/store/apps/details?id=com.sx.wonsterwords&hl=en&gl=us'
+  },
+  {
+    title: 'MathPapa - Algebra Calculator',
+    installs: 1422447,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/GeBKVZvtxiCl3OvulNdLLkUTu4BoSCLY8Ba-lz0-lCioMzy-M8n4wXW5LXt3O-7gZq8',
+    appId: 'com.mathpapa.mathpapa',
+    url: 'https://play.google.com/store/apps/details?id=com.mathpapa.mathpapa&hl=en&gl=us'
+  },
+  {
+    title: 'Kabocha - learn language with Beauties',
+    installs: 240325,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/-1B-qUDSk_rATamB0gvIB-e_WNrwCJbetlzDSlRrAjpozCf3oh0krR_MsTD_2q3D7cYt',
+    appId: 'biz.kabochapp.us',
+    url: 'https://play.google.com/store/apps/details?id=biz.kabochapp.us&hl=en&gl=us'
+  },
+  {
+    title: 'FluentU: Learn Languages with videos',
+    installs: 361057,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ajeHZfegqCWc4kiXF9Q_7G2Tc767l1C_yxdpRDolU8UxLG0cMD3v5XVQoirqnlWZlms',
+    appId: 'com.fluentflix.fluentu',
+    url: 'https://play.google.com/store/apps/details?id=com.fluentflix.fluentu&hl=en&gl=us'
+  },
+  {
+    title: 'Bloomz',
+    installs: 1081257,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/4AHvgfyaMatfj2IuNlV7JtJ3ZgdtkozW7EMfugvuYQYQ1C94UbwVjqMDHtnmCvu1bA',
+    appId: 'net.bloomz',
+    url: 'https://play.google.com/store/apps/details?id=net.bloomz&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Lab: Elements',
+    installs: 771156,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/DWxDOVn4l9A69BCRVYA8J-rgYjvR8Kk7KZCoimRa_UskJ2uJZD_K1UKrpuBNG0hFNg',
+    appId: 'com.tocaboca.tocalab',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocalab&hl=en&gl=us'
+  },
+  {
+    title: 'Star Walk 2 - Night Sky View and Stargazing Guide',
+    installs: 425961,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/tHhp99TaGpTXRopCjuT_LMbsKty2v1bmoPjGa8u40xeExeSDts8Eriqg0_gvvjtzYOw',
+    appId: 'com.vitotechnology.StarWalk2',
+    url: 'https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2&hl=en&gl=us'
+  },
+  {
+    title: 'Innovative 101: Learn Spanish, English, & 32 more',
+    installs: 1263321,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EccDhRnX--OUvmjSInPwA3w2pkHXRpxM4jwWG4zs_-i1noEAalrMBii4dmub9dnBj0w',
+    appId: 'com.innovativelanguage.innovativelanguage101',
+    url: 'https://play.google.com/store/apps/details?id=com.innovativelanguage.innovativelanguage101&hl=en&gl=us'
+  },
+  {
+    title: 'Japanese Kanji Study - 漢字学習',
+    installs: 1730333,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/UL6PalWhkS2hfacXCuuUijePhkx2YdmdRUpipbcKLy8hbdhz2z8u-M7kMh4MZWMPDro',
+    appId: 'com.mindtwisted.kanjistudy',
+    url: 'https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Spanish. Speak Spanish',
+    installs: 2336033,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/R1ckL0W0cARUHkztJ4O1li9w71g30kAIzoPwchBvXgmjRIFdrgCdu61oA1ZU7E09Lw',
+    appId: 'com.atistudios.italk.es',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.italk.es&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Tagalog (Filipino) language for free',
+    installs: 114616,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/hdGk0CAs6B-ZchQtFs1ruF87KhzZULWE1f2weN-ujfIAUpEY_tCwpZt2oaK16M5mEg',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.tagalog.filipino.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.tagalog.filipino.words&hl=en&gl=us'
+  },
+  {
+    title: 'Brainwell Mind & Brain Trainer',
+    installs: 464503,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/jjAWM3Cdi9ebZ02T_vqGKyzEtH5HSqaB2NuFtUSyFbyt604PKucHbKFDLCxXRA1VPoA',
+    appId: 'com.monclarity.brainwell',
+    url: 'https://play.google.com/store/apps/details?id=com.monclarity.brainwell&hl=en&gl=us'
+  },
+  {
+    title: 'Piano Academy - Learn Piano',
+    installs: 2482578,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/fpoq2zauSlsXbD_13M0ccKzhIhRMySx-qKV0oorwOpJBtywUUlVQRNseSa_U_sA6tkE',
+    appId: 'com.yokee.piano.keyboard',
+    url: 'https://play.google.com/store/apps/details?id=com.yokee.piano.keyboard&hl=en&gl=us'
+  },
+  {
+    title: 'Letter Tiles for Learning',
+    installs: 1809,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/jU5gylywNk5QCS1UAmQ9uzCpww0fl7bBsMtiQcT0VqgN_2FKUaFB9ye76EW5IIzbWpU',
+    appId: 'com.allaboutlearningpress.letter_tiles',
+    url: 'https://play.google.com/store/apps/details?id=com.allaboutlearningpress.letter_tiles&hl=en&gl=us'
+  },
+  {
+    title: 'ASVAB AFQT Mastery',
+    installs: 307059,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/WofEy-cdF8Oq6mJMStPjX52Rifuf8yk8IC9BbBnY2qjZyn3zkbDN2ikLXiM7UoNdANs',
+    appId: 'com.hltcorp.asvab',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.asvab&hl=en&gl=us'
+  },
+  {
+    title: 'Otsimo | Special Education Autism Learning Games',
+    installs: 114072,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/qY1YNxfHPMhRs07nHkNspIr3LmoAgWE3U0eYLToCeeDiF5HrhgYToo9-y9uvmCms5DI',
+    appId: 'com.otsimo.app',
+    url: 'https://play.google.com/store/apps/details?id=com.otsimo.app&hl=en&gl=us'
+  },
+  {
+    title: 'Endless Reader',
+    installs: 949558,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/4zpNsl6NDr4krD6dqggT5-WGsjkeZ0TKtgmFqtkgFYHcbM8U4VZNdsAwOLddSS43xS_Y',
+    appId: 'com.originatorkids.EndlessReader',
+    url: 'https://play.google.com/store/apps/details?id=com.originatorkids.EndlessReader&hl=en&gl=us'
+  },
+  {
+    title: 'NeuroNation - Brain Training & Brain Games',
+    installs: 14565140,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Jnwh37qUCs85UZvNFz64V-5EuMYgsWStSOnfR9pK4kBJjHC96sK8Gn_za0pnk6UB8Q',
+    appId: 'air.nn.mobile.app.main',
+    url: 'https://play.google.com/store/apps/details?id=air.nn.mobile.app.main&hl=en&gl=us'
+  },
+  {
+    title: 'CE5 Contact',
+    installs: 15625,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ExGkRWAZD5-kJIuPHn4Pj0_72LVfqquajpTRkgEMWExExtfBI0QDsITuedl_Nf1Kew',
+    appId: 'com.star.ce5contact',
+    url: 'https://play.google.com/store/apps/details?id=com.star.ce5contact&hl=en&gl=us'
+  },
+  {
+    title: 'Fretello - Guitar Lessons, Tabs & Chords 🎸',
+    installs: 209731,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EmyK3SEYjJ6Im32fMvRyvdHrU532nrQUDQZqENPB0VlIWWVRK-dEc8vCSR18DCI7sUM',
+    appId: 'com.fretello.lead',
+    url: 'https://play.google.com/store/apps/details?id=com.fretello.lead&hl=en&gl=us'
+  },
+  {
+    title: 'ELSA Speak - Learn English Pronunciation',
+    installs: 5235644,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/vWmT0sxORAyNVo1w2qMuA53hBznOVm6io_Uu3r7hCR4-1fJQScgMKqGEzvtAKpBVOXip',
+    appId: 'us.nobarriers.elsa',
+    url: 'https://play.google.com/store/apps/details?id=us.nobarriers.elsa&hl=en&gl=us'
+  },
+  {
+    title: 'LingoDeer Plus: Fun Spanish or French Exercises',
+    installs: 260789,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/eKyKBtfBERLVehpgM9STbDx2MX9ffzsHMYWCm7EDcRkpzoD0l6qnVECURxX-_kv_K9s',
+    appId: 'com.lingodeer.plus',
+    url: 'https://play.google.com/store/apps/details?id=com.lingodeer.plus&hl=en&gl=us'
+  },
+  {
+    title: 'LCSW Pocket Prep',
+    installs: 32100,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Xw_dAPgDt1srInqKd8-S7AfEzKnkGmzwCGcXRNBLNr805q7IOErmlQmCm2ThQF7DMQ',
+    appId: 'com.pocketprep.lcsw',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.lcsw&hl=en&gl=us'
+  },
+  {
+    title: 'Eggbun: Learn Korean Fun',
+    installs: 1380238,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/W7IHiirVldNP4dED-uiDIrUKqHOfz4lMI-0FYnxWf0HRUElKIRqemlvlKrhXp-k3WR0',
+    appId: 'kr.eggbun.eggconvo',
+    url: 'https://play.google.com/store/apps/details?id=kr.eggbun.eggconvo&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My Vacation',
+    installs: 5757128,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/usiodbKqVJAoXSWPY1vJbeubjSfDP8qN2V3Uw3yFBH4qi9ie2sPwRjWno59sj9UyoeE',
+    appId: 'com.miga.myvacation',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.myvacation&hl=en&gl=us'
+  },
+  {
+    title: 'VCE Simulator',
+    installs: 127295,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/xNzKUvoP_SPx9k1q5HWqaMOk7kfPOV9S-idmJqMRQJpTVxpEdOjYg2TC2Nk34Ofv-cA',
+    appId: 'com.avanset.vcesimulator',
+    url: 'https://play.google.com/store/apps/details?id=com.avanset.vcesimulator&hl=en&gl=us'
+  },
+  {
+    title: 'Brainscape Flashcards',
+    installs: 266117,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/PDaMIHNNSuiS4hyBclLTkLk11mXnRezyCxHbSRPJltoSRJi9p5gXURoe6L1_UkhD-EDj',
+    appId: 'com.brainscape.mobile.portal',
+    url: 'https://play.google.com/store/apps/details?id=com.brainscape.mobile.portal&hl=en&gl=us'
+  },
+  {
+    title: '12min - Book Summaries',
+    installs: 1408246,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ydXhNwEwpLB0hUo0JEUxUFds3x1W_VNpI6ij6T9K-ggT7pd2tKWRLu75hpW99JdmnZU',
+    appId: 'com.br.twelvemin',
+    url: 'https://play.google.com/store/apps/details?id=com.br.twelvemin&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Hair Salon 3',
+    installs: 295702,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/cmDkLf9mJpAs7u8NZ3JiR6ZeAAUV2pJJBWpgx64G1JPvzXI3dEcXg2X8C3GT59vZAA',
+    appId: 'com.tocaboca.tocahairsalon3',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon3&hl=en&gl=us'
+  },
+  {
+    title: 'Koober: reach your life goals',
+    installs: 774299,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/_XF5Ur6DPhMur--gp7qLOE2p5u7g1UUuYBz-IdYyhB3Ip-iKmELi3HbTTVaMqzmZhw',
+    appId: 'com.koober.app',
+    url: 'https://play.google.com/store/apps/details?id=com.koober.app&hl=en&gl=us'
+  },
+  {
+    title: 'Teuida: Learn Korean Language & Speak Confidently',
+    installs: 191868,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EnLyhkr-ZVWitum7mnymgdZt97es-wiAGwN6QaLL8fL0DHzJdGO3Zrr2f8QSVtql7Wc',
+    appId: 'net.teuida.teuida',
+    url: 'https://play.google.com/store/apps/details?id=net.teuida.teuida&hl=en&gl=us'
+  },
+  {
+    title: 'ABA English - Learn English',
+    installs: 11719780,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/FSBcjKrv5CJq9PnvclnZopwZnaZpBZTYOLtDSx7LBp8UrgMxBtFMiOmydLHVXd_o2Q',
+    appId: 'com.abaenglish.videoclass',
+    url: 'https://play.google.com/store/apps/details?id=com.abaenglish.videoclass&hl=en&gl=us'
+  },
+  {
+    title: 'Endless Numbers',
+    installs: 788062,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/A9q9KgYJr0yVia1AdVRxXuoDaYzsD0lb9EdBnceq4Zqv9hV9nyVR3pLHXC8OorPC_xA',
+    appId: 'com.originatorkids.EndlessNumbers',
+    url: 'https://play.google.com/store/apps/details?id=com.originatorkids.EndlessNumbers&hl=en&gl=us'
+  },
+  {
+    title: 'MSW Pocket Prep',
+    installs: 34801,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/N-MJZLmhoTuCBhhnCkSrn7fgLUxC_G0PHPI-Lc6gBxiXZTCecziZkXpq9EuxHjO1XR8',
+    appId: 'com.pocketprep.msw',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.msw&hl=en&gl=us'
+  },
+  {
+    title: 'Graphing calculator plus 84 graph emulator free 83',
+    installs: 184358,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/npwvxavSnjryvklkzYg6eTBRu0y_7G-LHujM_TaENuhoxxu7PTz5cfa3_Pji6grf2r8P',
+    appId: 'scientific.graphing.calculator.t84.t36.t83',
+    url: 'https://play.google.com/store/apps/details?id=scientific.graphing.calculator.t84.t36.t83&hl=en&gl=us'
+  },
+  {
+    title: 'Endless Alphabet',
+    installs: 1386455,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/NwWRfG3wYfIepFmEBknys8vdMbCB-pb-gmcDnZjkOKm7_4e2E6hpN0EwiUFB8iDBjLE',
+    appId: 'com.originatorkids.EndlessAlphabet',
+    url: 'https://play.google.com/store/apps/details?id=com.originatorkids.EndlessAlphabet&hl=en&gl=us'
+  },
+  {
+    title: 'Toca Pet Doctor',
+    installs: 97581,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/_JZu2p8NDFzOvpadY5uwfCVtzFZXT709BulnpOPtiwenQiEcP925MsDgaJBAzq8iCjA',
+    appId: 'com.tocaboca.tocapetdoctor',
+    url: 'https://play.google.com/store/apps/details?id=com.tocaboca.tocapetdoctor&hl=en&gl=us'
+  },
+  {
+    title: 'Welaaa - Audio book and premium lectures',
+    installs: 1290144,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/z5T_vZqWGFT7fV7Bb3o92WBWiC9lBJO5gJK34wXrfh3ryWzjz9d4Exw1ULC9UK3Wrw',
+    appId: 'kr.co.influential.youngkangapp',
+    url: 'https://play.google.com/store/apps/details?id=kr.co.influential.youngkangapp&hl=en&gl=us'
+  },
+  {
+    title: 'FORMED',
+    installs: 116078,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Dt5T1jB2FSSDFfKZ5Dx7xQCXcYzK6qAUAFLLRAPAaVxsZ8XixbNoqlNFYfr7mKxa5Q',
+    appId: 'com.ai.formed.formed',
+    url: 'https://play.google.com/store/apps/details?id=com.ai.formed.formed&hl=en&gl=us'
+  },
+  {
+    title: 'Slader - Homework Answers',
+    installs: 1822052,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/AOjqvSpc-EoSMx7M0ULTFybvVxZ89gmJ2N3xMq1bcFEGN9dvAw9TGNDW9me8r9K3GQ',
+    appId: 'com.slader.slader',
+    url: 'https://play.google.com/store/apps/details?id=com.slader.slader&hl=en&gl=us'
+  },
+  {
+    title: 'My Signing Time',
+    installs: 28585,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/YLXsv7Zug-qGSJagA3hZcJYPG5W6Vkw0e1pRUhSdLrN6f1AzAMQWA7gPmIY1z4fk2xA',
+    appId: 'com.mysigningtime',
+    url: 'https://play.google.com/store/apps/details?id=com.mysigningtime&hl=en&gl=us'
+  },
+  {
+    title: 'Vooks',
+    installs: 125763,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ReGPXKwp5jJWiIVt1HG8BvsnHWi0ZmMYbqVTrLxu0aNX8nMKT-plo7Cqb1nwICp9sw',
+    appId: 'com.vooks',
+    url: 'https://play.google.com/store/apps/details?id=com.vooks&hl=en&gl=us'
+  },
+  {
+    title: 'Real Estate Exam Prep For Dummies',
+    installs: 128262,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/X6AWYAFtfJsqjjbC7KsEUDyI5UnWlnGQ9f1uW3Gf2ogzl3VPBypQaWVHB5Sf0Rx_raI0',
+    appId: 'com.hltcorp.realestate',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.realestate&hl=en&gl=us'
+  },
+  {
+    title: 'BrainPOP Jr. Movie of the Week',
+    installs: 4206009,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/f3svhs0Unwz2TxJOcZFRztvz-lKnFD21HnP9jwdifhMt-UwGGx-f_eSxAs7vzxjx72E',
+    appId: 'com.brainpop.brainpopjuniorandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.brainpop.brainpopjuniorandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Python',
+    installs: 511944,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/DnZY9DrwoTVhN_0SbVFKq-iCtumtXPmvF_iiIzAaT8_AJFm59ylzmxHpLDznWZHDzA',
+    appId: 'python.programming.coding.python3.development',
+    url: 'https://play.google.com/store/apps/details?id=python.programming.coding.python3.development&hl=en&gl=us'
+  },
+  {
+    title: 'Drumeo',
+    installs: 24685,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/SKgcr0UgfUJHfIPa7VuiFp7gCW89--GGKenNHGBOymP1JLS31VHXQAbVLJhWyUr2yQ',
+    appId: 'com.drumeo',
+    url: 'https://play.google.com/store/apps/details?id=com.drumeo&hl=en&gl=us'
+  },
+  {
+    title: 'Star Tracker - Mobile Sky Map & Stargazing guide',
+    installs: 7278784,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/tavGfvtLAsRGXP4F2aZiDBeQcW7A7AnOBbznnAB0b6xSvOfrmOBvd555MUflM6-h4b9k',
+    appId: 'com.PYOPYO.StarTracker',
+    url: 'https://play.google.com/store/apps/details?id=com.PYOPYO.StarTracker&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My Apartment',
+    installs: 4495779,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/seAZmBfhnmDJBTFBCUfIcRyH-LOAQG0XPHNG0QcOFfJN3PxDBVEXIgILNnKXZnbXew',
+    appId: 'com.miga.myapartment',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.myapartment&hl=en&gl=us'
+  },
+  {
+    title: 'Esthetician Exam Center: State Board Exams & Prep',
+    installs: 3956,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rd2aRp1w1r0og5v-Fngp5AaqgSWti_A5N0EzuQsovRmjZ03tS-ot7h2g-JGgUqAi0mw',
+    appId: 'com.EstheticianExamCenter.esthetician',
+    url: 'https://play.google.com/store/apps/details?id=com.EstheticianExamCenter.esthetician&hl=en&gl=us'
+  },
+  {
+    title: 'Bunpo: Learn Japanese',
+    installs: 434498,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/3MoeRV5Ri0lJsVe7bxWr9ksdLQEP9N9Ye3he5sOSTHJMcGvGh5-HDMNGYsyZ_QijuQ',
+    appId: 'com.bunpoapp',
+    url: 'https://play.google.com/store/apps/details?id=com.bunpoapp&hl=en&gl=us'
+  },
+  {
+    title: 'Plant Identification - Identify plants',
+    installs: 132935,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/gM8j_yDC4D6Ncm_axDK0abhi0Ky0Yg1WuMU6ALhfXfOYGEhammwsEFEcbI_RP-MNEIem',
+    appId: 'plant.identification.identifier.identity',
+    url: 'https://play.google.com/store/apps/details?id=plant.identification.identifier.identity&hl=en&gl=us'
+  },
+  {
+    title: 'BrainHQ',
+    installs: 401624,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/0TqT-oJp5Vll33rKlxy4FK9T163__LB_rFQJE8t2GH3zYQODj4k6H_I3Fmf3GNERRA',
+    appId: 'com.positscience.brainhq.app',
+    url: 'https://play.google.com/store/apps/details?id=com.positscience.brainhq.app&hl=en&gl=us'
+  },
+  {
+    title: 'Proofreader: Grammar, Style & Spell Checker',
+    installs: 200131,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/8Ue_SpB3xaGwIi6jT4miUmzF7B32Ls8r1ccYAx7_sdvfXYfIlgxBLBuytNwe_7B-z2K4',
+    appId: 'prowriting.english.grammar.checker.translator',
+    url: 'https://play.google.com/store/apps/details?id=prowriting.english.grammar.checker.translator&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Ethical Hacking - Ethical Hacking Tutorials',
+    installs: 838798,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/cGOyrlUhL2ZqYn_r5_ye6mXdke61UZn3VEGQfpCmt4Shla-sQJFORFzbqvuLBdmYhXs',
+    appId: 'hacking.learnhacking.learn.hack.ethicalhacking.programming.coding',
+    url: 'https://play.google.com/store/apps/details?id=hacking.learnhacking.learn.hack.ethicalhacking.programming.coding&hl=en&gl=us'
+  },
+  {
+    title: 'Dr. Panda Town: Collection',
+    installs: 5435723,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/lr8KJhfPHPVfBvu1Tzbc2JrOx5oeibPRE6-oS43zqXqdtncwarOZLvKgCmw1P0HUPbQ',
+    appId: 'com.drpanda.town.street',
+    url: 'https://play.google.com/store/apps/details?id=com.drpanda.town.street&hl=en&gl=us'
+  },
+  {
+    title: 'Just Clear Exam',
+    installs: 8,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/63or5KHJnY5-C_kUSDQsGQyE4SluGugWAzFbF7o7McW_eIScao5d5IEunFpaOY9mBZIo',
+    appId: 'com.nichtech.justclearexam',
+    url: 'https://play.google.com/store/apps/details?id=com.nichtech.justclearexam&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Hebrew language and alphabet for free',
+    installs: 196450,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Yb5SPwGqsamusJ9OaMA8WJSZmsJlqXBqFm2NmAoeg130Ss75Gf-P_GYc9XIyJYkB3HWy',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.hebrew.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.hebrew.words&hl=en&gl=us'
+  },
+  {
+    title: 'Skritter: Write Chinese',
+    installs: 97145,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/EHJ9cNQBLO9msv9kOcHXV_MqqxIIkv1NYJ6cnn5JgwyfpJqPQfoEKkw_KrEFFUyEk74',
+    appId: 'com.inkren.skritter.chinese',
+    url: 'https://play.google.com/store/apps/details?id=com.inkren.skritter.chinese&hl=en&gl=us'
+  },
+  {
+    title: 'Learn French. Speak French',
+    installs: 2981342,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/zbRBl0277ATybOnrvA7itckbB9quoSO9euVLHXWvCbELoQcQ-j03kvJRq29Xz3_NT4I',
+    appId: 'com.atistudios.ispeak.fr',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.ispeak.fr&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Japanese. Speak Japanese',
+    installs: 2000974,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/8rzQMmGULdEtF5u4ieKBWCO3Q2yKcnTMYSRMNCF7i2X6rpBalUJDWn95AnTSXSnQ2K4',
+    appId: 'com.atistudios.italk.ja',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.italk.ja&hl=en&gl=us'
+  },
+  {
+    title: 'Dental Boards Mastery: NBDE I',
+    installs: 45118,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/YVvMH0nRjTmmNC2UBKkId_kSjrh7ZqkDi4LqKGwpBGuVasdeVpY1K6UGtu7YPGD8SA',
+    appId: 'higherlearning.com',
+    url: 'https://play.google.com/store/apps/details?id=higherlearning.com&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Italian. Speak Italian',
+    installs: 1840690,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/BFD5Rf6t3Yv9lWn2p29EefCdPh0j8f-KJiQEMqGs_nHBiiitg-ZrcdJqwC73o1G9Hk0',
+    appId: 'com.atistudios.italk.it',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.italk.it&hl=en&gl=us'
+  },
+  {
+    title: 'ISS Detector: See the Space Station and satellites',
+    installs: 5738243,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/lZI5RDI2VIvb3yGCTINI_kpAYDyX2WOUhMS8_X8NLgT_aqfH9q6TJqKKs9AAyUs_TA',
+    appId: 'com.runar.issdetector',
+    url: 'https://play.google.com/store/apps/details?id=com.runar.issdetector&hl=en&gl=us'
+  },
+  {
+    title: 'PMP Pocket Prep',
+    installs: 116257,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ZnSufXJYUtmv_WwykFg5u9oeRYz8vz_D3o27q-LS9nVxIEm2RwaTr3zyDx_o5qz-TgI',
+    appId: 'com.pocketprep.pmp',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.pmp&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My Hospital',
+    installs: 4698992,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/7PpVJY_jFPaMRhy1G2AR3TxaE2qhAW-eF4nH-gSFtATGsIYuNUlwxtyJEVFiqGHJ6lGB',
+    appId: 'com.miga.myhospital',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.myhospital&hl=en&gl=us'
+  },
+  {
+    title: 'PTCE Pocket Prep',
+    installs: 104566,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ClBnSQ2Z_tO-2jMrBWhciRHxQzZuazRF95UgEThqUmdmFRGoG3fYozxMIXdkbIPhpxs',
+    appId: 'com.pocketprep.ptcb',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.ptcb&hl=en&gl=us'
+  },
+  {
+    title: 'Beelinguapp: Learn Languages Music & Audiobooks',
+    installs: 3149672,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/UFekEvSjIBm6ltqU4GJH8xDSDPsRTpXHgV7QxVRnu0xPIjZVdie3hf2n8YVCZnsFJI0',
+    appId: 'com.david.android.languageswitch',
+    url: 'https://play.google.com/store/apps/details?id=com.david.android.languageswitch&hl=en&gl=us'
+  },
+  {
+    title: 'TEAS Mastery: Version 6',
+    installs: 109548,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/thdUv1zlM8ZNSUtFCZ5kyXHBW1YM4_AoxUbd-G_dagQKhU3apobmj346OSE9kH7_cOk',
+    appId: 'com.hltcorp.teas',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.teas&hl=en&gl=us'
+  },
+  {
+    title: 'Bright – English for beginners',
+    installs: 3312778,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/wao3FR2WmuAYWXIP1OXRhypva47opZwlw7985P9TdzO6d5_Rp6hcqQimVmI3fVLwHA',
+    appId: 'com.engbright',
+    url: 'https://play.google.com/store/apps/details?id=com.engbright&hl=en&gl=us'
+  },
+  {
+    title: 'PTCB Exam Mastery',
+    installs: 41132,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/W3daFacUQ2pTLxkEB3XdwYgkCm0U6oluX86nmJ8Mj2GcSOQJNVEAKBFaN8x5oaGOebk',
+    appId: 'com.hltcorp.ptce',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.ptce&hl=en&gl=us'
+  },
+  {
+    title: 'TalkTablet PRO  Autism AAC, Aphasis, Parkinsons',
+    installs: 2734,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/rRAU85PRFt3kQYUl0SRYsETfBcupkQXl5_3BqjeuOEfHTN2Zor7Kw6TnvQhbvXFPGdPZ',
+    appId: 'com.gusinc.talktableta',
+    url: 'https://play.google.com/store/apps/details?id=com.gusinc.talktableta&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town',
+    installs: 4843748,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/zgssozTt2dKao8UC851CKIxELlTeuvvBTlFUK0oJPE7wLCdFEqgFqNS03lDhyVJoPg',
+    appId: 'com.miga.mytown',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.mytown&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My Store',
+    installs: 4481758,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/7zipJa9g6JgVNosaPu-g3WoUTmNyibgI0bnO3IE6DOgmiVn0qN1X9Ouxo_ZEFk875O8',
+    appId: 'com.miga.mystore',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.mystore&hl=en&gl=us'
+  },
+  {
+    title: 'My First University: Baby Games, Alphabet & Shapes',
+    installs: 82973,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/V90CoiPp2rC4nYDuz9h5pTo8MRhSyTbQodterBfCewBpmVYXwpKhDlPKEn-DHgXcwg',
+    appId: 'com.babyfirst.abcenglish',
+    url: 'https://play.google.com/store/apps/details?id=com.babyfirst.abcenglish&hl=en&gl=us'
+  },
+  {
+    title: 'ATI TEAS Pocket Prep',
+    installs: 116288,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/n93fluWzg4r-LJr2hOLfVjak2fGzix6f_7xGHuZo_VPJl4Xn3PjYGjdP_-0seWy9zbw',
+    appId: 'com.pocketprep.teas',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketprep.teas&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Icelandic language for free!',
+    installs: 73062,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Kt6PAsUtIdIy5kM0GjSLObIumkF6Oe-_dWxcQ0qAo0QMLTH6QXvy_vLZO5IouDs801Y3',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.icelandic.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.icelandic.words&hl=en&gl=us'
+  },
+  {
+    title: 'ASVAB Practice For Dummies',
+    installs: 71821,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Nfs23-f-t-K9rCyXpACIm-cOyJs9lW2-hQbqNRHkT9RXkDrQCt9wtZlBtFHRfD30xR0',
+    appId: 'com.gwhizmobile.dummiesasvab',
+    url: 'https://play.google.com/store/apps/details?id=com.gwhizmobile.dummiesasvab&hl=en&gl=us'
+  },
+  {
+    title: 'Official ITIL 4 Foundation App',
+    installs: 8597,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/dphJenGqfkvxwlZUzTdH3hSx7OCJIxys39qEUglldnCBa_Ir4rhQad6fgD6R_dZslq54',
+    appId: 'uk.co.tso.itilfourfoundation',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.tso.itilfourfoundation&hl=en&gl=us'
+  },
+  {
+    title: 'Dental Boards Mastery: NBDE II',
+    installs: 23619,
+    genre: 'EDUCATION',
+    icon: 'https://play-lh.googleusercontent.com/9qPgJgemcOfLDu_W30bzQ7vz15vPrpXTGJ6Eo2SlhEWewys_XeyEY_zJ8hkF_nsjoQuX',
+    appId: 'info.hltcorp.ndbeII',
+    url: 'https://play.google.com/store/apps/details?id=info.hltcorp.ndbeII&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Shark Best Kids Songs & Stories',
+    installs: 7925507,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/DlwcR6a5oG7df5QTOPfz-F_XZRPQAB0_hMHMZcIbMvrWVjxDC4pOUDgmtJFUKW_lLJU',
+    appId: 'kr.co.smartstudy.bodlebookiapfree_us_android_googlemarket',
+    url: 'https://play.google.com/store/apps/details?id=kr.co.smartstudy.bodlebookiapfree_us_android_googlemarket&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn German. Speak German.',
+    installs: 760961,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/iODTvtORgIty9sHPml_Tvs460ZiK9sMxR2NRyMZw4Hqcyec-VftqT49UvTda3kzjVQ',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.german.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.german.words&hl=en&gl=us'
+  },
+  {
+    title: 'Violin by Trala – Learn violin',
+    installs: 91081,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/GMGAHhBGzyWu5B7QlZp3dJBnhIp7DPactqDsxxMxN_Lq5Opn7qpH-sS9SZB-5Y9CeT8',
+    appId: 'com.trala.learn.violin',
+    url: 'https://play.google.com/store/apps/details?id=com.trala.learn.violin&hl=en&gl=us'
+  },
+  {
+    title: 'Learn German. Speak German',
+    installs: 3231585,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/NRWP8eLpxfkszXs9n9vi0Olk6qH-cSFJ2u_IXKy4fiRgPavrrVYnegqq1OKqTwQWRoDM',
+    appId: 'com.atistudios.italk.de',
+    url: 'https://play.google.com/store/apps/details?id=com.atistudios.italk.de&hl=en&gl=us'
+  },
+  {
+    title: 'Learn basic Japanese Word and Grammar - HeyJapan',
+    installs: 143332,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/NneoVva8TM6z7KoLViv0nwU2Cy4hnGLA00x0DoD4gbdWQK-r7H6Bx7ycgU7RV9CuXup3',
+    appId: 'com.eup.heyjapan',
+    url: 'https://play.google.com/store/apps/details?id=com.eup.heyjapan&hl=en&gl=us'
+  },
+  {
+    title: 'HamStudy.org',
+    installs: 9531,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/ctqSUxDa2uenoPq4QkFO3BxDtM26Hni_fAMbs7Jbhm2pt7dpDEGcVpyG4FxqPs3noA',
+    appId: 'org.hamstudy.mobile',
+    url: 'https://play.google.com/store/apps/details?id=org.hamstudy.mobile&hl=en&gl=us'
+  },
+  {
+    title: 'EPA 608 Practice',
+    installs: 1636,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/lE6dkmLopkl-xrKt_3rk87BZ08EJdnT_AswF-eyhh6Eb58aA8aQ5Y31mj_KRSiAc0w',
+    appId: 'com.afterhoursds.practice608',
+    url: 'https://play.google.com/store/apps/details?id=com.afterhoursds.practice608&hl=en&gl=us'
+  },
+  {
+    title: 'Bloxels',
+    installs: 70888,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/6czMO2EuAKtK3Z6EbrEpmeG3oG4Fbi84qUicFPvDxQBfR7VQoD41JOrHI5qfDuzJfyg',
+    appId: 'com.projectpixelpress.BloxelsEDU',
+    url: 'https://play.google.com/store/apps/details?id=com.projectpixelpress.BloxelsEDU&hl=en&gl=us'
+  },
+  {
+    title: 'Simpler — выучить английский язык проще простого',
+    installs: 7389952,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/sbBcbh1BlYEeBrE76leXYi-xCIXvjhAlc8daWcVcgIN4gooSQqPY_UQ5IATX8Ml4pIg',
+    appId: 'ru.zengalt.simpler',
+    url: 'https://play.google.com/store/apps/details?id=ru.zengalt.simpler&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn European Portuguese language for free',
+    installs: 101354,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/-d8UlULdwsZXE-YfNM7zRUvRx5mBPlv9idlLslwKwE9IkbFTWr9bwYRlj1X59bGVD5g',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.portuguese.european.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.portuguese.european.words&hl=en&gl=us'
+  },
+  {
+    title: 'ASWB® MSW Social Work Exam Guide & Practice Test',
+    installs: 9601,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/FkZOqGHj-UEeWDgP8MQz83vYaTCGc9BPDCSvPyeNzb_ZAM7J3O_0l2kD_-YF3xuxVA',
+    appId: 'com.hltcorp.aswbmasters2e',
+    url: 'https://play.google.com/store/apps/details?id=com.hltcorp.aswbmasters2e&hl=en&gl=us'
+  },
+  {
+    title: 'Chineasy: Learn Chinese easily',
+    installs: 110441,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/4nDJN_sarf83IUOpaf1gTKlJePbldH-HJVhj1EL9mStEHqf80AY59oTIhmMoPWB4Fko',
+    appId: 'com.chineasy.cards',
+    url: 'https://play.google.com/store/apps/details?id=com.chineasy.cards&hl=en&gl=us'
+  },
+  {
+    title: 'Drops: Learn Russian. Speak Russian.',
+    installs: 272605,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/9DVsfGSE0whDxCCtbPCHj4VHALgUfoW2bWFUiRyi-mMRcNVlQOpiua1EHN02RGsWKPIp',
+    appId: 'com.languagedrops.drops.learn.learning.speak.language.russian.cyrillic.words',
+    url: 'https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.russian.cyrillic.words&hl=en&gl=us'
+  },
+  {
+    title: 'Shroomify - USA Mushroom Identification',
+    installs: 232251,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/jqbiXpTLrJ02xDkFjhR4uYbtrXX6Xy101I1WmZ2qzJ1m9baYl0D2SKPjW64AFwKmnTo',
+    appId: 'com.mushroom.shroomify',
+    url: 'https://play.google.com/store/apps/details?id=com.mushroom.shroomify&hl=en&gl=us'
+  },
+  {
+    title: 'Miga Town: My Pets',
+    installs: 4201719,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/Mgt7GuOYhM3MsPjM7JgQ2CoHf4_O1sivtIRD0ER8n0M-iqoDz15iVYThGNrFC2GrTw',
+    appId: 'com.miga.mypets',
+    url: 'https://play.google.com/store/apps/details?id=com.miga.mypets&hl=en&gl=us'
+  },
+  {
+    title: 'LeafSnap - Plant Identification',
+    installs: 1200573,
+    genre: 'EDUCATION',
+    icon: 'https://lh3.googleusercontent.com/PZMmP7o6bllDuB9mZZ_cAAr3PRl_LmXAe2hqgBLJwLCkoZnMXw7Y4qwpDnkIxi7syg',
+    appId: 'plant.identification.snap',
+    url: 'https://play.google.com/store/apps/details?id=plant.identification.snap&hl=en&gl=us'
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Pandora - Streaming Music, Radio & Podcasts',
+    installs: 265538164,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/MoJxQ-5RA73b3Wffj91crqXUb-C5LKRYCADm11KbfykIkmNbicXGDa3g9X62C_buEg',
+    appId: 'com.pandora.android',
+    url: 'https://play.google.com/store/apps/details?id=com.pandora.android&hl=en&gl=us'
+  },
+  {
+    title: 'iHeartRadio: Radio, Podcasts & Music On Demand',
+    installs: 78160504,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/UTfBaYUzml-7QPLpKI45GbuVjCjddn5Byi6yjzb87jPWHnrBSuAbaJDCsPMn3m6NjLBC',
+    appId: 'com.clearchannel.iheartradio.controller',
+    url: 'https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller&hl=en&gl=us'
+  },
+  {
+    title: 'TuneIn Radio: Live News, Sports & Music Stations',
+    installs: 153208381,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD',
+    appId: 'tunein.player',
+    url: 'https://play.google.com/store/apps/details?id=tunein.player&hl=en&gl=us'
+  },
+  {
+    title: 'Smule -  Social Karaoke Singing',
+    installs: 280818694,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/OfoqvtjnJN1BMezCZHJVVedsHrosIH_YoCUj28Sdhl3ch9tVFFGQgwnXByOR8t_6V58',
+    appId: 'com.smule.singandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.smule.singandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Ultimate Guitar: Chords & Tabs',
+    installs: 12872683,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/T3XmKkZNeJ-2x-lDI4X27Xjdz4yHenOWHUvw_ZZKKYdFtkYSSO4sMK88f9SR1b5vNA',
+    appId: 'com.ultimateguitar.tabs',
+    url: 'https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs&hl=en&gl=us'
+  },
+  {
+    title: 'StarMaker: Sing free Karaoke, Record music videos',
+    installs: 119194301,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e',
+    appId: 'com.starmakerinteractive.starmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Rap Fame - Rap Music Studio with beats & vocal FX',
+    installs: 9138584,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/3wReLLObI6rQP0QEut9h_9qR2AVBpZ7iBptTmnDH-Z3gpwTOtK-ZddV2oo6-ZUX4yhQ',
+    appId: 'com.komspek.battleme',
+    url: 'https://play.google.com/store/apps/details?id=com.komspek.battleme&hl=en&gl=us'
+  },
+  {
+    title: 'Stitcher - Podcast Player',
+    installs: 8580333,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2wd59_1csnF1lIt6wG5DdBiDUFEeov1jIW9ax0scfwvDk_OUsK7-6LZ86I8MAsVCuhM',
+    appId: 'com.stitcher.app',
+    url: 'https://play.google.com/store/apps/details?id=com.stitcher.app&hl=en&gl=us'
+  },
+  {
+    title: 'Drum Pads - Beat Maker Go',
+    installs: 18485446,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/NzERpLYk9ZL-Ur1ZRgKe6NLdthKaj_lMpjVmGOV8W7qKHceCAt6uNKRk8nCA2caTXe8',
+    appId: 'com.gismart.drum.pads.machine',
+    url: 'https://play.google.com/store/apps/details?id=com.gismart.drum.pads.machine&hl=en&gl=us'
+  },
+  {
+    title: 'edjing Mix - Free Music DJ app',
+    installs: 70597564,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/IIlwcB6sVKDOFo_i3lF2guUHukEZLPeKEcIeYo0ObWU8Thq5HxMZ25T09PuW3QH5WfM',
+    appId: 'com.edjing.edjingdjturntable',
+    url: 'https://play.google.com/store/apps/details?id=com.edjing.edjingdjturntable&hl=en&gl=us'
+  },
+  {
+    title: 'Spoon | Audio Live Streaming & Podcast Platform',
+    installs: 16496121,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/ObyStGTlkNB7T6wtm0JEJLb4clD4zF84-0dCPI9WzBKX0_LGYORzgnZDfqrkoJMCuzo',
+    appId: 'co.spoonme',
+    url: 'https://play.google.com/store/apps/details?id=co.spoonme&hl=en&gl=us'
+  },
+  {
+    title: 'Audiomack: Download New Music Offline Free',
+    installs: 35526102,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv',
+    appId: 'com.audiomack',
+    url: 'https://play.google.com/store/apps/details?id=com.audiomack&hl=en&gl=us'
+  },
+  {
+    title: 'nugs.net - live music streaming',
+    installs: 254426,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/qGltPL-_bDVVwhCHKKHiOWU2QYKHLXnlKcnmkf-BKN3sli8ELJGZckxAKhmrFZGYcVI',
+    appId: 'net.nugs.multiband',
+    url: 'https://play.google.com/store/apps/details?id=net.nugs.multiband&hl=en&gl=us'
+  },
+  {
+    title: 'FL Studio Mobile',
+    installs: 525978,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs',
+    appId: 'com.imageline.FLM',
+    url: 'https://play.google.com/store/apps/details?id=com.imageline.FLM&hl=en&gl=us'
+  },
+  {
+    title: 'Music Maker JAM - Song & Beatmaker app',
+    installs: 26338019,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/aA2rpO5sXUJmnkB-H9GlLz8BqhpIw27wG2xc1-9j5rg1h_LmcGxnAd6vOVXTZO8F-D0',
+    appId: 'com.magix.android.mmjam',
+    url: 'https://play.google.com/store/apps/details?id=com.magix.android.mmjam&hl=en&gl=us'
+  },
+  {
+    title: 'Groovepad - Music & Beat Maker',
+    installs: 45477446,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/cCX0HtJW9hqNWQpGGBpZfBiKy981wGMEEa5FSqza-3jC8DHe-3UHdZ1tbWKAbFoLmCE',
+    appId: 'com.easybrain.make.music',
+    url: 'https://play.google.com/store/apps/details?id=com.easybrain.make.music&hl=en&gl=us'
+  },
+  {
+    title: 'Whoop Triggerz Plus',
+    installs: 31984,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Wyw9_2acD83fl2SxCuse-O6tOClJh8UDE4_a8_-0fSv8XED0HaPRgZR8QZIVKZ954-M',
+    appId: 'com.cdub.whooptriggerzplus',
+    url: 'https://play.google.com/store/apps/details?id=com.cdub.whooptriggerzplus&hl=en&gl=us'
+  },
+  {
+    title: 'MuseScore: view and play sheet music',
+    installs: 3196260,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/W2ytkmT1kBYGBTcUyZj7kuM5SX6qYK9Dl75_b9JKXxl9PBrxI7F0y7WCiVbtQ-shd5A',
+    appId: 'com.musescore.playerlite',
+    url: 'https://play.google.com/store/apps/details?id=com.musescore.playerlite&hl=en&gl=us'
+  },
+  {
+    title: 'LivePhish',
+    installs: 62760,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/yixuXYMhXKwlxzO3lyputFXyVgMRZRYH8KxpIZFEyaYwtnZdJBDBZs8UCxcCoKZvBMc2',
+    appId: 'net.nugs.livephish',
+    url: 'https://play.google.com/store/apps/details?id=net.nugs.livephish&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Piano by Smule',
+    installs: 87371060,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/s4bsGq0B7F7pjUW6R5mn9R4nsR6N7dqox4dR7kHBTIyWMfXxElkPWjsyyG3do1MAJQ',
+    appId: 'com.smule.magicpiano',
+    url: 'https://play.google.com/store/apps/details?id=com.smule.magicpiano&hl=en&gl=us'
+  },
+  {
+    title: 'Voloco: Auto Voice Tune + Harmony',
+    installs: 23288946,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/H7li8Hiz2VMst508T5B8IP3g5ivLhjqrKt4PsM4SCZMO8hfGuDQO3pC5hYjnfUT2Jj4',
+    appId: 'com.jazarimusic.voloco',
+    url: 'https://play.google.com/store/apps/details?id=com.jazarimusic.voloco&hl=en&gl=us'
+  },
+  {
+    title: 'Drum Pad Machine - Beat Maker & Music Maker',
+    installs: 104269059,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2Z6BfzwC4GfccM17VX_2E1_OlI-PHJGxk24gAJE-kbfw4Fg-VypA6PCF4sAv0vLbySt7',
+    appId: 'com.agminstruments.drumpadmachine',
+    url: 'https://play.google.com/store/apps/details?id=com.agminstruments.drumpadmachine&hl=en&gl=us'
+  },
+  {
+    title: 'AmpMe - Speaker Booster',
+    installs: 13060511,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/9z7D2Pos2ZmdQz7QkHEzK4rdIEewc_9-KBDo3bP5tccaQSX_hyOKiE60Jx7op9CfGtc',
+    appId: 'com.amp.android',
+    url: 'https://play.google.com/store/apps/details?id=com.amp.android&hl=en&gl=us'
+  },
+  {
+    title: 'TuneIn Pro: Live Sports, News, Music & Podcasts',
+    installs: 1221307,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/mbsuqMh4xa3mvT50wBN8HX5aIQMTerpC3eG-ggW6HxbbvK_Kj1UOtHg_VcUiCZd3MA',
+    appId: 'radiotime.player',
+    url: 'https://play.google.com/store/apps/details?id=radiotime.player&hl=en&gl=us'
+  },
+  {
+    title: 'Chordify: Guitar, Ukulele and Piano Chords',
+    installs: 1943996,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/W2dNbSsx_auElBbehDjNkgdpKbtr61MX_n5Peo_UfaxZgVSzRVcykbLSzoROrHMU6QWV',
+    appId: 'net.chordify.chordify',
+    url: 'https://play.google.com/store/apps/details?id=net.chordify.chordify&hl=en&gl=us'
+  },
+  {
+    title: 'Karaoke - Sing Karaoke, Unlimited Songs',
+    installs: 54861140,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/v1I8OXH1Ze5ucNwJVhwYSknK7PrAQaN5LXzunFhAqvOmqJpFtOvEtvJLpOPIpuOkE4w',
+    appId: 'com.famousbluemedia.yokee',
+    url: 'https://play.google.com/store/apps/details?id=com.famousbluemedia.yokee&hl=en&gl=us'
+  },
+  {
+    title: 'Anghami - Play, discover & download new music',
+    installs: 52423457,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/-iToRivxAALzF1GXI99ngj_1WQMrJkbiFePz6ZQUZEIvzwPCVtNFTtISYa6ZKbRblw',
+    appId: 'com.anghami',
+    url: 'https://play.google.com/store/apps/details?id=com.anghami&hl=en&gl=us'
+  },
+  {
+    title: 'DJ it! - Music Mixer',
+    installs: 311789,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/RC1DasdX7AH23f93oXktSQSAhByyzxDBhvc94SrHngl8_15bB2DDXRxwoVwhoB-PtL4',
+    appId: 'dj.mixer.music.pro.sound.effects',
+    url: 'https://play.google.com/store/apps/details?id=dj.mixer.music.pro.sound.effects&hl=en&gl=us'
+  },
+  {
+    title: 'Musixmatch - Lyrics for your music',
+    installs: 65980558,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Hrp_zUTdmMnMWTdXi4GKUNwbix4ooYNSZrFl2VRwyyX_Gu49zLLO1X9q16zY8FZHog',
+    appId: 'com.musixmatch.android.lyrify',
+    url: 'https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify&hl=en&gl=us'
+  },
+  {
+    title: 'Loops By CDUB',
+    installs: 55781,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/73BpKjK9Ao94KfnHHIrP7XSkc9B-QvLAXxMfIkJD5V5Xz1KcXifWas27YG9GImrcIPbH',
+    appId: 'com.coulddog.loopsbycdub',
+    url: 'https://play.google.com/store/apps/details?id=com.coulddog.loopsbycdub&hl=en&gl=us'
+  },
+  {
+    title: 'Musicnotes Sheet Music Player',
+    installs: 592069,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/B2xWH8_nBDrpGI3b3cQSP2BQcrOTZFS-y48Y0DzOIvgJB-7F1nXEgDXy3NtxoRWTjg',
+    appId: 'com.musicnotes.xamarin.android.smv',
+    url: 'https://play.google.com/store/apps/details?id=com.musicnotes.xamarin.android.smv&hl=en&gl=us'
+  },
+  {
+    title: 'Poweramp Full Version Unlocker',
+    installs: 5226313,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/-iLvjuYZN_1CZAZ2eRy3MhzYopqcPo1zOahGHv97dkk3y9JVarLFHIcr_jiPzyt90Kk',
+    appId: 'com.maxmpz.audioplayer.unlock',
+    url: 'https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock&hl=en&gl=us'
+  },
+  {
+    title: 'Black Library Audio',
+    installs: 47208,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/xsoZjtlfj8pqMEa1FAK5ODxW9QGyYb9m4zvAg3gf3d68n582hzPAs1u1x3CN9-cqUAQ9',
+    appId: 'com.gamesworkshop.blacklibraryaudio',
+    url: 'https://play.google.com/store/apps/details?id=com.gamesworkshop.blacklibraryaudio&hl=en&gl=us'
+  },
+  {
+    title: 'DI.FM: Electronic Music Radio',
+    installs: 5294384,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/shNS3YU4kOYMC9CXGPusKJrau4nRbaHAcphTQeWUCDld1yLllkdCKY7vdudx2KLGVA',
+    appId: 'com.audioaddict.di',
+    url: 'https://play.google.com/store/apps/details?id=com.audioaddict.di&hl=en&gl=us'
+  },
+  {
+    title: 'Free Music Downloader Download MP3. YouTube Player',
+    installs: 81347373,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/akJ5M2yD2kshkeJqunJ0Umz4nXmWdxx3sua4SjVMUmu5srJb05XMXqOPcu_VReh5PQw',
+    appId: 'com.atpc',
+    url: 'https://play.google.com/store/apps/details?id=com.atpc&hl=en&gl=us'
+  },
+  {
+    title: 'Loop Maker Pro - Music Maker',
+    installs: 265139,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/QE-YnSAWF5hoerZ3OGbP57AafQ-R9IcR3vsd-9k2BAHYB4ZeC3EoRNtPzuwLnXeysWk',
+    appId: 'pads.loops.dj.make.music.beat',
+    url: 'https://play.google.com/store/apps/details?id=pads.loops.dj.make.music.beat&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Tuner, Bass, Violin, Banjo & more | DaTuner',
+    installs: 21979615,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/XxFLavRNmdLl8xhD55fR9YmkBlbDpA7oUM77u_ZTyQBCD-bKAm_cxQvL702z6yd9eGUR',
+    appId: 'com.bork.dsp.datuna',
+    url: 'https://play.google.com/store/apps/details?id=com.bork.dsp.datuna&hl=en&gl=us'
+  },
+  {
+    title: 'Appcompanist',
+    installs: 8670,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0op3ldXL5a67U0QSfpaV2oLlCXZeR9FylJ9tSMEJVAJnqkCB8mXFjtr4vPIAnpG0fPk',
+    appId: 'com.appcompanist.appcompanist',
+    url: 'https://play.google.com/store/apps/details?id=com.appcompanist.appcompanist&hl=en&gl=us'
+  },
+  {
+    title: 'Gaana Song Hotshots Video Music Free Hindi MP3 App',
+    installs: 227252704,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q',
+    appId: 'com.gaana',
+    url: 'https://play.google.com/store/apps/details?id=com.gaana&hl=en&gl=us'
+  },
+  {
+    title: 'iReal Pro - Music Book & Backing Tracks',
+    installs: 296881,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/5gteFEMWJXdTTTtPBRei-6PhL_b_teGM4gXjXj_7_dxhKwA5_QXQWW2In_ozulCuME0',
+    appId: 'com.massimobiolcati.irealb',
+    url: 'https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Lessons by GuitarTricks',
+    installs: 424313,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/V6dI_WGwgKgpx5KG019yxy08U3qXovK88liQ7amM6yaPgY7TdK_VYqMEc19-zweQl8xx',
+    appId: 'com.guitartricks.gt',
+    url: 'https://play.google.com/store/apps/details?id=com.guitartricks.gt&hl=en&gl=us'
+  },
+  {
+    title: 'RepostExchange - Promote Your Music',
+    installs: 73940,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Rk2Z0sxgFARjPJWliLEq0nJuse5mjAse6fGOLB3fV9xkR-o3Z9fwU3BFhIJNCd4QMw',
+    appId: 'com.repostexchange.app',
+    url: 'https://play.google.com/store/apps/details?id=com.repostexchange.app&hl=en&gl=us'
+  },
+  {
+    title: 'JioSaavn Music & Radio – JioTunes, Podcasts, Songs',
+    installs: 225116664,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/FWHOs52Nk7BJi_FhwJFhuZpijl9L_A2GxwE7y62hhOeHNZUP5z2jrWgHp4tdKf8w06U',
+    appId: 'com.jio.media.jiobeats',
+    url: 'https://play.google.com/store/apps/details?id=com.jio.media.jiobeats&hl=en&gl=us'
+  },
+  {
+    title: 'Jambl: Beat Maker & Dj Music Creator',
+    installs: 1466475,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/wdef-_J_Y6J_9PJdmkrJeMEZ0NwuCk5HLgNG_aTZLq-gf72CmS5JFtqoauL3FxFp3T1L',
+    appId: 'com.jambl.app',
+    url: 'https://play.google.com/store/apps/details?id=com.jambl.app&hl=en&gl=us'
+  },
+  {
+    title: 'Songsterr Guitar Tabs & Chords',
+    installs: 2002424,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/RTCkT5PYhBu3AU7w5vAp5C-2DR0kUK62vP4zwsOaFqxq5Da2L69xyP81Mo5gPvPzVZM',
+    appId: 'com.songsterr',
+    url: 'https://play.google.com/store/apps/details?id=com.songsterr&hl=en&gl=us'
+  },
+  {
+    title: 'TonalEnergy Tuner and Metronome',
+    installs: 131609,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/wrUIwi2IRFEyb3ANRiLcOYneSROaSGdXVK6WrnJVx4izt-WhMWS3aR5bJ3myA9nMesQ',
+    appId: 'com.sonosaurus.tonalenergytuner',
+    url: 'https://play.google.com/store/apps/details?id=com.sonosaurus.tonalenergytuner&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Tuner Pro- Tune your Guitar, Bass, Ukulele',
+    installs: 1847135,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/H8qdGt5ylrYJths-etFjbtRWNOk-YrPLOp5Md5dixRjDA0wYGoNho9ipszAa8c7xDyk',
+    appId: 'com.mwm.guitartuner',
+    url: 'https://play.google.com/store/apps/details?id=com.mwm.guitartuner&hl=en&gl=us'
+  },
+  {
+    title: 'Audio Evolution Mobile Studio',
+    installs: 154583,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Y1P1K5oZ9F8mRu8G3r05eS9FtZN9scagUY9BnGQ3uDMDqDJ8u88dJ44dPc7Z3_dT2A',
+    appId: 'com.extreamsd.aemobile',
+    url: 'https://play.google.com/store/apps/details?id=com.extreamsd.aemobile&hl=en&gl=us'
+  },
+  {
+    title: 'Music Editor - MP3 Cutter and Ringtone Maker',
+    installs: 11253915,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/ixH8Cp8VdI96Ic4lMzrihXmYr4zSL1RzDvnGJqTi5YPFnxB7MfEIp51DVf-2DXgcaRYP',
+    appId: 'com.fragileheart.mp3editor',
+    url: 'https://play.google.com/store/apps/details?id=com.fragileheart.mp3editor&hl=en&gl=us'
+  },
+  {
+    title: 'Subwoofer Bass',
+    installs: 4947016,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/9njDcBV3U5mAaY6b66BZ33OuGrRlyHSxYJZey1EYfRxXcBmcPpB1i_ahD6OKfX1XhYg',
+    appId: 'com.lonict.android.subwooferbass',
+    url: 'https://play.google.com/store/apps/details?id=com.lonict.android.subwooferbass&hl=en&gl=us'
+  },
+  {
+    title: 'Primephonic - Classical Music Streaming',
+    installs: 272734,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/VvgHPrxFA1zMV1ZhXM36HxxcFlXFrylw0heXYG9i9fcLflD4iIXEa8z9_YiMYSsr1hw',
+    appId: 'com.primephonic.app',
+    url: 'https://play.google.com/store/apps/details?id=com.primephonic.app&hl=en&gl=us'
+  },
+  {
+    title: 'n-Track Studio DAW Beat Maker, Record Audio, Drums',
+    installs: 6442470,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/BSW-nkNMlCkEYGFvzLVjw2ocHrZBu0bfH7KtuGgFR2d8Edz76cIsVo7RKw7TdtUOnTs',
+    appId: 'com.ntrack.studio.demo',
+    url: 'https://play.google.com/store/apps/details?id=com.ntrack.studio.demo&hl=en&gl=us'
+  },
+  {
+    title: 'AutoRap by Smule – Make Raps on Cool Beats',
+    installs: 36873221,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/OVNYcqWj1UMaO9eSK1j7PNfDStjb3Wbi0Bp5XjuwlKLULXCG3vG6BGtXUY5-SiSwpA',
+    appId: 'com.smule.autorap',
+    url: 'https://play.google.com/store/apps/details?id=com.smule.autorap&hl=en&gl=us'
+  },
+  {
+    title: 'Music Player - MP3 Player',
+    installs: 17430386,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/z05conOaXdcBnXzxMn0Sm3fTIVNzckukUmhPCGHcU1gQf6AYM4VvW8XNUJgaEKGeqSM',
+    appId: 'com.shaiban.audioplayer.mplayer',
+    url: 'https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer&hl=en&gl=us'
+  },
+  {
+    title: 'Kala Ukulele Tuner and Songbook App',
+    installs: 289795,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/X0Ohzo9i42mxX91itvRMsyBmOYhw6WKOId2mJmEi6_CNWvY86JoV7nlG9e5HhZSXUA',
+    appId: 'net.musopia.kalatuner',
+    url: 'https://play.google.com/store/apps/details?id=net.musopia.kalatuner&hl=en&gl=us'
+  },
+  {
+    title: 'Soundtrap Studio',
+    installs: 1153707,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/LhgiDsjyLkKox7d3-9v9WoRFRKOoraY_taQhaduOsr--VyDSWLp4DfYAOa8SyVArCtM',
+    appId: 'com.soundtrap.studioapp',
+    url: 'https://play.google.com/store/apps/details?id=com.soundtrap.studioapp&hl=en&gl=us'
+  },
+  {
+    title: '全民Party',
+    installs: 1684965,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_HeqW0LIjsKfLe-y_w5kXej3pbN5S2_7YUotPI8TteqwH1oQCRxDogB6TWVkPvyePoE',
+    appId: 'com.haochang.party',
+    url: 'https://play.google.com/store/apps/details?id=com.haochang.party&hl=en&gl=us'
+  },
+  {
+    title: 'n-Track Studio 9 Pro',
+    installs: 9097,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/tcjgIuNP9FDItxDv6Pm5Uh1pHYqnODlf6JwnHyLtCxyzaiEjT3NiF781JBVrgo0wbA',
+    appId: 'com.ntrack.studio.eight.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.ntrack.studio.eight.pro&hl=en&gl=us'
+  },
+  {
+    title: 'USB Audio Player PRO',
+    installs: 109137,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/WjMfMdxiqbW6gTj-nCgMG1h9y7dMly2ttzHDF2X4u55DOdXEFZXvMO4bI9RNXmWteQI',
+    appId: 'com.extreamsd.usbaudioplayerpro',
+    url: 'https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=us'
+  },
+  {
+    title: 'FreeYourMusic (formerly Stamp)',
+    installs: 241661,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/e4Y7SNxbDPK13HKwHmWh1RJ5Ye_MOCFTupVGSe0vikmNjqWerp2wL-l-MdxPewf1Kg',
+    appId: 'com.freeyourmusic.stamp',
+    url: 'https://play.google.com/store/apps/details?id=com.freeyourmusic.stamp&hl=en&gl=us'
+  },
+  {
+    title: 'Drivetime: Trivia for Home, Commutes, Road Trips',
+    installs: 141357,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/sYmZtta5K9Q8Gl02aLYfON_xPgMFjVQjoAcKAneXRJI86Cxto9SM0q9rgU22VOBOlA',
+    appId: 'fm.drivetime.original',
+    url: 'https://play.google.com/store/apps/details?id=fm.drivetime.original&hl=en&gl=us'
+  },
+  {
+    title: 'Drums: real drum set music games to play and learn',
+    installs: 14850690,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/7Gf-rne4zSULfXlc58YRfh8k8Nacp4tFuvbHTwtrADRHGFD3-PjQvw_WowZNTUkvWNY',
+    appId: 'com.mwm.drum',
+    url: 'https://play.google.com/store/apps/details?id=com.mwm.drum&hl=en&gl=us'
+  },
+  {
+    title: 'Napster Music',
+    installs: 21133215,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/A9wXJcPP7ZSlrDaruFPU1JTrDytHqQaFa0R9nZs4t2BhzyHiypK3gEhhd-rgKSsxog',
+    appId: 'com.rhapsody',
+    url: 'https://play.google.com/store/apps/details?id=com.rhapsody&hl=en&gl=us'
+  },
+  {
+    title: 'Piano - Play & Learn Free songs.',
+    installs: 18904367,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/KPPxWJUkWmvPqIyHSlfixDZYQzl7RTH3Oj7rnrOmn77aEf1FYAxyO6Oqh4dFc4YLJq-9',
+    appId: 'com.famousbluemedia.piano',
+    url: 'https://play.google.com/store/apps/details?id=com.famousbluemedia.piano&hl=en&gl=us'
+  },
+  {
+    title: 'Worship Backing Tracks',
+    installs: 30520,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0MFP1jFyZnusgufpP6uewqgUAP34im0IMIaoCivMsyucR9kBMNiOWbvAam9s9abdN_A',
+    appId: 'com.xmeinc.wbt',
+    url: 'https://play.google.com/store/apps/details?id=com.xmeinc.wbt&hl=en&gl=us'
+  },
+  {
+    title: 'Cubasis 3 - Music Studio and Audio Editor',
+    installs: 1869,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/bBoFTuURSO3jvrO4jINwTtBmJsucRL_yVE4cWBNyd0yCGtgZjyCwrX9uTviEjQbuxA',
+    appId: 'com.steinberg.cubasis3',
+    url: 'https://play.google.com/store/apps/details?id=com.steinberg.cubasis3&hl=en&gl=us'
+  },
+  {
+    title: 'Free Guitar Tuner - Fender Tune',
+    installs: 3211359,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/ssQMgE5t_og7pmcYj3yGQL79prbXy_EN7bz5oBX46lctu42YG5oGYA_NwhFAnbzMVXg',
+    appId: 'com.fender.tuner',
+    url: 'https://play.google.com/store/apps/details?id=com.fender.tuner&hl=en&gl=us'
+  },
+  {
+    title: 'Voice Recorder',
+    installs: 28316554,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/O9hD0-C4aYj5r71REmaqWDKjJT5rPTialCYK79ZYc_Kvj46QzQQPE2Jm9aUxB0wmxQ',
+    appId: 'com.media.bestrecorder.audiorecorder',
+    url: 'https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en&gl=us'
+  },
+  {
+    title: 'KaraFun - Karaoke Party',
+    installs: 876224,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/qzllsM5F_lhzlNUaKzzBSXgfgcqY8AHEub6O87mVTiiLmrA_ZNLDFi6MBs8QTLlXjw',
+    appId: 'com.recisio.kfandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.recisio.kfandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Karaoke - Sing Songs!',
+    installs: 2841711,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/7JJmYxCgPBN2ofAX0v2XBEKgrZu1e1rlD1NPgjInkwEwVHvMEt_GK83gF1-yxykYXVKb',
+    appId: 'com.gismart.karaoke',
+    url: 'https://play.google.com/store/apps/details?id=com.gismart.karaoke&hl=en&gl=us'
+  },
+  {
+    title: 'Roland Zenbeats - Music Creation App',
+    installs: 136399,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/5sG9EmMXYRZyArYN8C-FE_-1VnsyyJBP_IlRiVw4tD5onf-7H-YKZMkee5vZnTHsDw',
+    appId: 'jp.co.roland.zenbeats',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.roland.zenbeats&hl=en&gl=us'
+  },
+  {
+    title: 'Remixlive - Make Music & Beats',
+    installs: 8663031,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/GbY-eX4eKavHrBW8XgW0_CotmLoJzyNy8HeT4xFkjYAttYhzf_Bx_cOAvR4vkM1f1z5C',
+    appId: 'com.mixvibes.remixlive',
+    url: 'https://play.google.com/store/apps/details?id=com.mixvibes.remixlive&hl=en&gl=us'
+  },
+  {
+    title: 'Qello concerts by Stingray',
+    installs: 3056642,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/NggLXLEqNzs2atWz-1D0jdrDbYiv2DD_UUEuIinEmtN6kXfRxXVmqrqoGscigQw0Ig03',
+    appId: 'com.qello.handheld',
+    url: 'https://play.google.com/store/apps/details?id=com.qello.handheld&hl=en&gl=us'
+  },
+  {
+    title: 'IDAGIO - Classical Music Streaming',
+    installs: 494054,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/xe1lFonV6xk7ZPlBawsYZIZ06-xERTi12y9b4sHMZA3WJYdOsuiFYgbHQEZfu2LwXEI',
+    appId: 'com.idagio.app',
+    url: 'https://play.google.com/store/apps/details?id=com.idagio.app&hl=en&gl=us'
+  },
+  {
+    title: 'TREBEL - Free Music Downloads & Offline Play',
+    installs: 15467069,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/YPJ6x4aoj5bQoPy2jF1cIspQNmXBtR5oU_3gHIcN-3TEqpbc-tlj_KtybiwFGyS-NdY',
+    appId: 'com.mmm.trebelmusic',
+    url: 'https://play.google.com/store/apps/details?id=com.mmm.trebelmusic&hl=en&gl=us'
+  },
+  {
+    title: 'JAZZ MUSIC RADIO',
+    installs: 2120166,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Waca0ZFN4T4CBt8aPyfUdtn-ZaEbBoCVtD0jtt3QFn_Pv1eAFio2M4Pk9pIbKrRZ5is',
+    appId: 'com.audioaddict.jr',
+    url: 'https://play.google.com/store/apps/details?id=com.audioaddict.jr&hl=en&gl=us'
+  },
+  {
+    title: 'iSyncr: iTunes to Android',
+    installs: 3175160,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/nQ2iz1WNeryrNV_79fZXwNuHWFYcAS-kjUBpewMRSvaeBwboDECvpUKqj0sjFTP7R6FM',
+    appId: 'iTunes.Sync.Android',
+    url: 'https://play.google.com/store/apps/details?id=iTunes.Sync.Android&hl=en&gl=us'
+  },
+  {
+    title: 'PianoMeter – Professional Piano Tuner',
+    installs: 136838,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/BySUpFecTFDdWJhOb7tyHxLg9pj0dTwv2wJcIbH7-J5ASYiSr6b8bEOvBZy9gJijkK6F',
+    appId: 'com.willeypianotuning.toneanalyzer',
+    url: 'https://play.google.com/store/apps/details?id=com.willeypianotuning.toneanalyzer&hl=en&gl=us'
+  },
+  {
+    title: 'Beat Maker Pro - music maker drum pad',
+    installs: 10324529,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/ozkySh2RJY8flj6nVfiSLacrzmuDv7Bn7B6kCYFSlCJNAzb95m1DQfzwxesTYFJDu4o',
+    appId: 'com.mwm.sampler',
+    url: 'https://play.google.com/store/apps/details?id=com.mwm.sampler&hl=en&gl=us'
+  },
+  {
+    title: 'Drum Pads 24 - Music Maker',
+    installs: 19276407,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/4LcFRyGVyvOnL7YyzQTaptLsIYSwz9R4cnLQRubx9ESIdhsLJ-zWdmk0N4vzBIalWuA',
+    appId: 'com.paullipnyagov.drumpads24',
+    url: 'https://play.google.com/store/apps/details?id=com.paullipnyagov.drumpads24&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Play - Games & Songs',
+    installs: 1457241,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/n8by6MR1lfH3an13wiAHEWIQmh4GHF5p0xc9hXYQZigZfClloEw3YyEXyCU8hTCkSn0',
+    appId: 'com.gismart.guitar.game.player',
+    url: 'https://play.google.com/store/apps/details?id=com.gismart.guitar.game.player&hl=en&gl=us'
+  },
+  {
+    title: 'MP3 Music Downloader',
+    installs: 4249259,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Ct_5exczTy-fvO5gETbWrPZNIvOb68zglCXrd7GIFEbwZbksFj0VKQAs1tdtZoHLAmI',
+    appId: 'www.whimmusic.info',
+    url: 'https://play.google.com/store/apps/details?id=www.whimmusic.info&hl=en&gl=us'
+  },
+  {
+    title: 'AndroPods - use Airpods on Android',
+    installs: 866882,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/pfYII6JnFYiN8QwOMVrYslhfQRzvpQ8v1WJ-mysXI5DCeF1thQXTH3S2YHT6VQAdnpw',
+    appId: 'pro.vitalii.andropods',
+    url: 'https://play.google.com/store/apps/details?id=pro.vitalii.andropods&hl=en&gl=us'
+  },
+  {
+    title: 'djay - DJ App & Mixer',
+    installs: 17501179,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/CDRK7UhWc0m5P1ZsOs9bFmlASqFjuCagKK1UEJ68IKu1vfZmP55M8RWjxjHvC4hI5fGc',
+    appId: 'com.algoriddim.djay_free',
+    url: 'https://play.google.com/store/apps/details?id=com.algoriddim.djay_free&hl=en&gl=us'
+  },
+  {
+    title: 'Boom: Music Player, Bass Booster and Equalizer',
+    installs: 3760376,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/WpdLH8la6xeoyPyOe7KPrG11-Yj-PHcqcmIscr8qfxGnJmJoAsKuAGazSeKfBYwNfA',
+    appId: 'com.globaldelight.boom',
+    url: 'https://play.google.com/store/apps/details?id=com.globaldelight.boom&hl=en&gl=us'
+  },
+  {
+    title: 'GO Music Player Plus - Free Music, Radio, MP3',
+    installs: 20817313,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/kCxlmNI99wzVPGFP6bqehUey5jkejmQlW1ZXBZizgi5-wyDOxTjgnsbGo5F5Geb_dhAn',
+    appId: 'com.jb.go.musicplayer.mp3player',
+    url: 'https://play.google.com/store/apps/details?id=com.jb.go.musicplayer.mp3player&hl=en&gl=us'
+  },
+  {
+    title: 'Super Volume Up - Speaker Booster, Sound Equalizer',
+    installs: 396175,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/WJQ5k7fMe7PGqC7SXy7pwj1hi8ECLFVbli5Fmc2dkYw6qgD7Cf--SX1Csd9z3ZnRx1s',
+    appId: 'com.cloyster.volumebooster.volumeup',
+    url: 'https://play.google.com/store/apps/details?id=com.cloyster.volumebooster.volumeup&hl=en&gl=us'
+  },
+  {
+    title: 'nkoda: the sheet music library',
+    installs: 177880,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/FDZZyr4BNDeJXhZEAm95aetv4HXayWsFsLKwc1xII2vjhMN9PKKSeLkHehppjuYpxqYL',
+    appId: 'com.nkoda.app',
+    url: 'https://play.google.com/store/apps/details?id=com.nkoda.app&hl=en&gl=us'
+  },
+  {
+    title: 'Audyssey MultEQ Editor app',
+    installs: 12993,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/MbRklIdvQpZqGF6NCStzHYl5-Z8cVq074YaZuuWRCRcE0yB88OHp3AaoNwpKT0xWo_0',
+    appId: 'com.dmholdings.AudysseyMultEq',
+    url: 'https://play.google.com/store/apps/details?id=com.dmholdings.AudysseyMultEq&hl=en&gl=us'
+  },
+  {
+    title: 'MobileSheetsPro Music Viewer',
+    installs: 68738,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/NzG7u3_0xrBfYdx-_ddIZn9x8VFv5oBtOuMsgpWIZJ8vqB8pWUIUeIMcl-9saY8-N0o',
+    appId: 'com.zubersoft.mobilesheetspro',
+    url: 'https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro&hl=en&gl=us'
+  },
+  {
+    title: 'Popular Ringtones 2020',
+    installs: 550546,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_p3kR9Yc4bmen0ixD0TrmV7c9-cZ3zb2BUEMOo40fSQi_fcsk0jkCkKXCqaBqzmaUTGZ',
+    appId: 'com.todayshitringtones.best_ring_tones',
+    url: 'https://play.google.com/store/apps/details?id=com.todayshitringtones.best_ring_tones&hl=en&gl=us'
+  },
+  {
+    title: 'My Mixtapez Music',
+    installs: 13365209,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/3AoPySZDs5kYwWek-Bj8vsrpoP7dzo0k7g4jfpsONZOzNAzeVmk4Z7-vWaMf4pKs_Q',
+    appId: 'my.googlemusic.play',
+    url: 'https://play.google.com/store/apps/details?id=my.googlemusic.play&hl=en&gl=us'
+  },
+  {
+    title: 'XME LOOPS',
+    installs: 9381,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/5IZ_NV1RnwrFRgkpRsUnGQq46D972wfBdub2U6-8kYlabJCuTYfHci9X6ejSNqsk8-QX',
+    appId: 'app.xmeinc.com.loopsbyxme',
+    url: 'https://play.google.com/store/apps/details?id=app.xmeinc.com.loopsbyxme&hl=en&gl=us'
+  },
+  {
+    title: 'Amazing Slow Downer',
+    installs: 37834,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/0Mpncmv8G_joSxrCIxmdMNjdgnjUgTkb-foKSJtshMle1qEZXP1_F7zGpN2pYJ8ja7s',
+    appId: 'com.ronimusic.asd',
+    url: 'https://play.google.com/store/apps/details?id=com.ronimusic.asd&hl=en&gl=us'
+  },
+  {
+    title: 'doubleTwist Music & Podcast Player with Sync',
+    installs: 16504822,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Ci5RW6_GFbSW-vhA3ZA9DgSK-wdj5f-Q7mnZY8-kXwwKihHYy-sSOwe1VNxPUwhLZIEV',
+    appId: 'com.doubleTwist.androidPlayer',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleTwist.androidPlayer&hl=en&gl=us'
+  },
+  {
+    title: 'Deezer Music Player: Songs, Playlists & Podcasts',
+    installs: 279038229,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/r55K1eQcji3QMHRKERq6zE1-csoh_MTOHiKyHTuTOblhFi_rIz06_8GN5-DHUGJOpn79',
+    appId: 'deezer.android.app',
+    url: 'https://play.google.com/store/apps/details?id=deezer.android.app&hl=en&gl=us'
+  },
+  {
+    title: 'Super Sound - Free Music Editor & MP3 Song Maker',
+    installs: 4865628,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/nFT6pg4n7wrrzyjDz3U5VE-ikjFbFKhaxKh3Yr8jC0jv6krTV4kLd6DFwPlb5gVQ3zhl',
+    appId: 'com.tianxingjian.supersound',
+    url: 'https://play.google.com/store/apps/details?id=com.tianxingjian.supersound&hl=en&gl=us'
+  },
+  {
+    title: 'CloudPlayer™ by doubleTwist cloud & offline player',
+    installs: 704476,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/COVWdyIGZlYrp5mn0a-GrxdKrNWEA7lOsFYCMyGjkxegd7CwzO1MvlebIaGE2QQGMg',
+    appId: 'com.doubleTwist.cloudPlayer',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayer&hl=en&gl=us'
+  },
+  {
+    title: 'Pi Music Player - Free Music Player, YouTube Music',
+    installs: 37088979,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2X-H9MIopl01IozUi6mA5RDOn3_TVgqtGOVZij82aX-QlJCpEsGrozaNhz5Ve3kfpKo',
+    appId: 'com.Project100Pi.themusicplayer',
+    url: 'https://play.google.com/store/apps/details?id=com.Project100Pi.themusicplayer&hl=en&gl=us'
+  },
+  {
+    title: 'Free Ringtones for Android™',
+    installs: 54817333,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/N6_ujMmAV9a8dF_VN7zMs59ci3N8SvVx71ndT4kJtKK3sejtCq1KoCla8F2_t8l-tX1x',
+    appId: 'com.bestringtonesapps.freeringtonesforandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.bestringtonesapps.freeringtonesforandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Qello Concerts by Stingray',
+    installs: 205168,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/6JCdyYSlp8t5pYSLMmx9Hn7xVcOdDAR_-zZokbQRp7Mlz-AGwkfm2tv57B2btvXuWuM',
+    appId: 'com.qello.qelloGTV',
+    url: 'https://play.google.com/store/apps/details?id=com.qello.qelloGTV&hl=en&gl=us'
+  },
+  {
+    title: 'WavePad Audio Editor Free',
+    installs: 7679686,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/IbzOsOzU8-IvGYAHXV9eQDpc51AJF9yVRkBcU0Pxj2sMPBPUd-BZCAlA5d_tr89nY7E',
+    appId: 'com.nchsoftware.pocketwavepad_free',
+    url: 'https://play.google.com/store/apps/details?id=com.nchsoftware.pocketwavepad_free&hl=en&gl=us'
+  },
+  {
+    title: 'BattleMe - Rap Battle Arena & Recording Studio',
+    installs: 291453,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/hqYj17zIJs6fM3DikzpMOB4igf7YejqCiY29fs3LJquj7Jg2u99EZVvS6pVsNSIRFA',
+    appId: 'co.raptech.studios.battleme.android',
+    url: 'https://play.google.com/store/apps/details?id=co.raptech.studios.battleme.android&hl=en&gl=us'
+  },
+  {
+    title: 'Luke Bryan',
+    installs: 183660,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/lqtO6dkr4qxIOXGb_d80p2YIEd2ei8hn-9TwY4fy3sqGdWfpdlh-YYxVP3pFw3KYHWsS',
+    appId: 'uk.co.disciplemedia.lukebryan',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.disciplemedia.lukebryan&hl=en&gl=us'
+  },
+  {
+    title: 'Magicsing : Smart Karaoke for everyone',
+    installs: 4200868,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/98txH1iwQIcymkfVVhVJ0QB-2dGEfmwYetxuDU0MXCJKR_wAsYbMzJxXn5QQFO1fuqY',
+    appId: 'com.entermedia.mobile.karaoke',
+    url: 'https://play.google.com/store/apps/details?id=com.entermedia.mobile.karaoke&hl=en&gl=us'
+  },
+  {
+    title: 'Groovy Loops - Beat and Music Maker🦄',
+    installs: 237523,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Bwt7ZLM9kdP19e_LOLAgFHNbMDNxRgpXxblmx-PydmAiOlpzKPm15zzHWpep_mQ2tYe9',
+    appId: 'tech.amazingapps.groovyloops',
+    url: 'https://play.google.com/store/apps/details?id=tech.amazingapps.groovyloops&hl=en&gl=us'
+  },
+  {
+    title: 'jetAudio HD Music Player Plus',
+    installs: 233761,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/sMg-2WRlWynr59eIgf08ScwNKQafsqflSlzNJD0e72ZjDaeUczGhwNGg7xec6bztJOc9',
+    appId: 'com.jetappfactory.jetaudioplus',
+    url: 'https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudioplus&hl=en&gl=us'
+  },
+  {
+    title: 'Smart AudioBook Player',
+    installs: 4922293,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0j6Dlctczo1tX7dQSYFBFfSHQAf_NI8SjQdU92NVz6b_wvZDEuoHTNRofOtAGijb890',
+    appId: 'ak.alizandro.smartaudiobookplayer',
+    url: 'https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer&hl=en&gl=us'
+  },
+  {
+    title: 'Ricardo Arjona',
+    installs: 107780,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/omXF_fxJzJjF_EDQpDuQdVsmlDUhQWPQNsTQhb1y1v84Fg2PQLGtY7vzEI00y0hXtuo',
+    appId: 'com.metamorfosis.mimundo',
+    url: 'https://play.google.com/store/apps/details?id=com.metamorfosis.mimundo&hl=en&gl=us'
+  },
+  {
+    title: 'Yandex Music and Podcasts — listen and download',
+    installs: 42410629,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/ozBgNIApEQ2n-RmasJ8-H488wj8w6yTJbI7vIaPkWwmOvIgpfnqqUye1L-O3dvaxoNwz',
+    appId: 'ru.yandex.music',
+    url: 'https://play.google.com/store/apps/details?id=ru.yandex.music&hl=en&gl=us'
+  },
+  {
+    title: 'Stingray Music - Curated Radio & Playlists',
+    installs: 2256636,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/UQ09DwgFAp3oTaTddK94dU3fW0b5RH3xiOQa0TVeZYk5eSNxsTwu7WEdzRTJYWT9avDa',
+    appId: 'com.stingray.galaxie.android',
+    url: 'https://play.google.com/store/apps/details?id=com.stingray.galaxie.android&hl=en&gl=us'
+  },
+  {
+    title: 'Pro Guitar Tuner',
+    installs: 13406766,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/BuUMiR4H7OTZFnaNqlXiNwt-NtXiiUEDxkawRiPU2_n0ka4GiCShaaFpPmDC0KBrGw0',
+    appId: 'com.jrinnovation.proguitartuner',
+    url: 'https://play.google.com/store/apps/details?id=com.jrinnovation.proguitartuner&hl=en&gl=us'
+  },
+  {
+    title: 'Add music to video 🎵 background music for videos',
+    installs: 801915,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/edrTspn52A_Dk3cSP1JnTJpVwEU47Y7HjLVWZEJVJeK_dlq0aPI2dg86GyTkrwfUkW0',
+    appId: 'kgs.com.addmusictovideos',
+    url: 'https://play.google.com/store/apps/details?id=kgs.com.addmusictovideos&hl=en&gl=us'
+  },
+  {
+    title: 'BlackPlayer EX Music Player',
+    installs: 250946,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/9ylJtv-QApzfesjI8ZcOk7I6cwIfMW-xeMaiIE_sVtN6JY2zjgp8O6PWN7782X3dRqU',
+    appId: 'com.kodarkooperativet.blackplayerex',
+    url: 'https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerex&hl=en&gl=us'
+  },
+  {
+    title: 'RevHeadz Engine Sounds',
+    installs: 10388538,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/MF8IRnS8fwl7Y9sGss4McFpyGV16gumtsnB2kFupkuXFrPLnjwP-_CM5aeQa1NWUiIeM',
+    appId: 'au.com.revheadz.revheadz',
+    url: 'https://play.google.com/store/apps/details?id=au.com.revheadz.revheadz&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Effects Pedals, Guitar Amp - Deplike',
+    installs: 1266398,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/LStkm_lZnNrH2PKz35185-NafwsaDDIm7pspHwjdk_VnCJoIrIAdmNNMJ6mJq6sYJe4',
+    appId: 'com.deplike.andrig',
+    url: 'https://play.google.com/store/apps/details?id=com.deplike.andrig&hl=en&gl=us'
+  },
+  {
+    title: 'SoundHound ∞ - Music Discovery & Hands-Free Player',
+    installs: 911335,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/8lGSbhTMoOBqf3T4ACYocQWzrEFUjLMy8rWQKAu_Fu_FCUoCiUHH5B6KeQZ3Lk8Dig',
+    appId: 'com.melodis.midomiMusicIdentifier',
+    url: 'https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier&hl=en&gl=us'
+  },
+  {
+    title: 'Wavelet: Headphone specific equalization',
+    installs: 239314,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/lR2pZsbPoJIk-dqIXlyfwUntbGu_qhEG3cI3sph5npV-rJn62H3viK1YiyFJUsggjQ',
+    appId: 'com.pittvandewitt.wavelet',
+    url: 'https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet&hl=en&gl=us'
+  },
+  {
+    title: 'Pandora Music for TV',
+    installs: 1952222,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/uG250jVkB86R7zrFWo-COJyms7I0VST8hUzsBamFrJyknH5nGVjjBad9kNSONnJblg',
+    appId: 'com.pandora.android.atv',
+    url: 'https://play.google.com/store/apps/details?id=com.pandora.android.atv&hl=en&gl=us'
+  },
+  {
+    title: 'iLightShow for Philips Hue / LIFX / Nanoleaf',
+    installs: 140505,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/mA1WCmHSYnz8pW_yE0pSo-SObYTj_KyH4A9LtSqehIyGMVjIXQMiMtyheFNVI9_P2wyQ',
+    appId: 'com.nanjoran.ilightshow',
+    url: 'https://play.google.com/store/apps/details?id=com.nanjoran.ilightshow&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar - play music games, pro tabs and chords!',
+    installs: 16964052,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/pcikotyitO-0eeWdgVeC9IeshdE3sqHnT9te0uZzsxQyc3lokjyirUGvz5UwNsP3Z7CZ',
+    appId: 'com.mwm.guitar',
+    url: 'https://play.google.com/store/apps/details?id=com.mwm.guitar&hl=en&gl=us'
+  },
+  {
+    title: 'KORG Kaossilator for Android',
+    installs: 409380,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/uxShuD8uBHN8gk6fTBX8kA8zIXXEJkOn8TR0Va3NFxyZJUL_3HS4492kfzNBdgFy1Ro',
+    appId: 'jp.co.korg.kaossilator.android',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android&hl=en&gl=us'
+  },
+  {
+    title: 'MediaMonkey Pro',
+    installs: 73822,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/OrGtZlN-HXvvYSRgs8kh2KlXGDtCYkasN-zUnts5mrW7UCgkz9NShaMmfCAHt1OvMeo',
+    appId: 'com.ventismedia.android.mediamonkeypro',
+    url: 'https://play.google.com/store/apps/details?id=com.ventismedia.android.mediamonkeypro&hl=en&gl=us'
+  },
+  {
+    title: 'Caustic Unlock Key',
+    installs: 95437,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/DTtkea2CMfbjvBsj9WMpLup3aIGKbV_vvtDA18N68a27sVwwOBkomt0UxKnGHXEkMNg',
+    appId: 'com.singlecellsoftware.caustickey',
+    url: 'https://play.google.com/store/apps/details?id=com.singlecellsoftware.caustickey&hl=en&gl=us'
+  },
+  {
+    title: 'Mp3, MP4, WAV Audio Video Noise Reducer, Converter',
+    installs: 738163,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/gqkqboofdu63ZOg1HChL0mAq2sspWhECZQQRzqIdHsvj0I-UguI0cQ_2azjvXQCA1TM',
+    appId: 'com.inverseai.noice_reducer',
+    url: 'https://play.google.com/store/apps/details?id=com.inverseai.noice_reducer&hl=en&gl=us'
+  },
+  {
+    title: 'Yes!GO',
+    installs: 18144,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/Gynwz0AiDVcueHYGK0xqlvZJ5y8nf7ncgVKN7H9YvxOV6OiC-IH08fOXAK4W_uSqRPCt',
+    appId: 'com.lolofit.yesgo',
+    url: 'https://play.google.com/store/apps/details?id=com.lolofit.yesgo&hl=en&gl=us'
+  },
+  {
+    title: 'FEIS',
+    installs: 8971,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/qJJLNN_ie6-MwcUpySzCpJ7ft5EONP-876ItZoImdFi1oChouPWrpVc8KwjAufWZCQ',
+    appId: 'com.feismusic',
+    url: 'https://play.google.com/store/apps/details?id=com.feismusic&hl=en&gl=us'
+  },
+  {
+    title: 'Free Music',
+    installs: 5731559,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/WQ5RRpwpy3DcxS7AVhl2ANM6gC18buJQKkGAkrCTShupKzgslEvJaDh6zEW_mn2YmGM',
+    appId: 'free.music.tube.player',
+    url: 'https://play.google.com/store/apps/details?id=free.music.tube.player&hl=en&gl=us'
+  },
+  {
+    title: 'Radio FM !',
+    installs: 10298096,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/Z0wYgjCp4xAo2ddt5nfx8fA_xZQ7Ik-Iq_yz7EGgqd8INT_toDNKszycLD7YmHrUs6U',
+    appId: 'com.tasmanic.radio.fm',
+    url: 'https://play.google.com/store/apps/details?id=com.tasmanic.radio.fm&hl=en&gl=us'
+  },
+  {
+    title: 'Rocket Music Player',
+    installs: 24488924,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0fAFhrRU4Lx3o8F3sHQKYbYv8CKpFUgvrIjt2hRkIQwphlGgH30T_4WfcpG9TbD3Iko',
+    appId: 'com.jrtstudio.AnotherMusicPlayer',
+    url: 'https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer&hl=en&gl=us'
+  },
+  {
+    title: 'CloudPlayer™ Platinum cloud music player',
+    installs: 14579,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/PVb1AYn1ooBF_4F9Z_8BhuRcIrovwDTecGg-mDBuO13yAxVt9pCJHS2k4hkmKanIWR7g',
+    appId: 'com.doubleTwist.cloudPlayerPro',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleTwist.cloudPlayerPro&hl=en&gl=us'
+  },
+  {
+    title: 'MixPad Multitrack Mixer Free',
+    installs: 1049227,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/tOX5m1A67FUCNnYEQ76mJKk8iJ20c8YuXLI8DgWydX0UI5Rm08UjIaFcxnMZ-_523so',
+    appId: 'com.nchsoftware.mixpad_free',
+    url: 'https://play.google.com/store/apps/details?id=com.nchsoftware.mixpad_free&hl=en&gl=us'
+  },
+  {
+    title: 'TRIBL',
+    installs: 27483,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/MgcWyA3E9u_Y7MqBmvHs0MM_EdpJdORiX8tApTmiQuQnJDvS5MRJl7PAG_Z0xazNMg',
+    appId: 'com.whoagency.tribl',
+    url: 'https://play.google.com/store/apps/details?id=com.whoagency.tribl&hl=en&gl=us'
+  },
+  {
+    title: 'BubbleUPnP UPnP/DLNA License',
+    installs: 406867,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/01je7i9s4l5ba9pS8Nek06umu4I-ho3uLeVWd0VUxvQ3vsgtqWBqSWeR7-4yz5VxxzU',
+    appId: 'com.bubblesoft.android.bubbleupnp.unlocker',
+    url: 'https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp.unlocker&hl=en&gl=us'
+  },
+  {
+    title: 'smart Chords & tools (guitar, bass, banjo, uke...',
+    installs: 3272654,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/eTM2Uu9UdqWFY47CtkDY5O4QJlipKEKtjl1SkulmjFDPv4Y51QOwjnlcre6eWyhg9Q',
+    appId: 'de.smartchord.droid',
+    url: 'https://play.google.com/store/apps/details?id=de.smartchord.droid&hl=en&gl=us'
+  },
+  {
+    title: 'Song Maker - Free Music Mixer',
+    installs: 4153945,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/QovZ-E3Uxm4EvjacN-Cv1LnjEv-x5SqFFB5BbhGIwXI_KorjFhEHahRZcXFC6P40Xg',
+    appId: 'com.tedrasoft.music.maker',
+    url: 'https://play.google.com/store/apps/details?id=com.tedrasoft.music.maker&hl=en&gl=us'
+  },
+  {
+    title: 'NhacCuaTui',
+    installs: 40973744,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0o8AQTrA5sOOW8TIcOVetUzC2oAP_VERBXWngRSBtcNjiUz0vwaImNlWCfZNKan5KVQ',
+    appId: 'ht.nct',
+    url: 'https://play.google.com/store/apps/details?id=ht.nct&hl=en&gl=us'
+  },
+  {
+    title: 'Bible Audio',
+    installs: 87287,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/jRGJq82_C1kULl2daedVIQ-wpy-XnJlrV6ArsjmCibWZZVQY9KAIEisxZ2uPWQYsk-a5',
+    appId: 'com.hccp.biblegatewayaudio',
+    url: 'https://play.google.com/store/apps/details?id=com.hccp.biblegatewayaudio&hl=en&gl=us'
+  },
+  {
+    title: 'Pulsar Music Player Pro',
+    installs: 82416,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/JMxSpbp7wxHCFRmv0DdQdrIjdMAmpolt0jQ6uYq5u0e3VLshrSLWnSFae1V0frGrrSg',
+    appId: 'com.rhmsoft.pulsar.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Pro',
+    installs: 220433,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/9K5Y4LxnvY2mBrjhzN_rQFW0iXMqTN0gXA1xDytUkCZR6JEsy7OT-9X1d51CGzglYVQ',
+    appId: 'com.arobasmusic.guitarpro',
+    url: 'https://play.google.com/store/apps/details?id=com.arobasmusic.guitarpro&hl=en&gl=us'
+  },
+  {
+    title: 'Katana Librarian',
+    installs: 20891,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2P2144X_aUJsGeYyM02Y1e6T2GbEeVd_S4jQ2BgSeJCmfKp6-nZgAz2S4AxmmOiANuYe',
+    appId: 'com.appsforamps.katana',
+    url: 'https://play.google.com/store/apps/details?id=com.appsforamps.katana&hl=en&gl=us'
+  },
+  {
+    title: 'WaveEditor for Android™ Audio Recorder & Editor',
+    installs: 4419597,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/zNtOa2ODO3NTyCcMYTujCipQSndPGVAqUaObtFQxC31amMf2CHtxHGuEeNd6Tf_AIhI',
+    appId: 'io.sbaud.wavstudio',
+    url: 'https://play.google.com/store/apps/details?id=io.sbaud.wavstudio&hl=en&gl=us'
+  },
+  {
+    title: 'PlayerPro Music Player',
+    installs: 650489,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2ZXBt_x7mcElqFY2Z3Hefy8QXQdFXrkEOhAbawAxY_piaVy7VyuavOjnFe6CEJ--U7c',
+    appId: 'com.tbig.playerpro',
+    url: 'https://play.google.com/store/apps/details?id=com.tbig.playerpro&hl=en&gl=us'
+  },
+  {
+    title: 'Whoop Triggerz',
+    installs: 1537,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/5owLaMEpz7tpxcbNpSXAN_umOpwCQ2iOTF_-donTNT8hvtU_AkPHmwPTPobup7A208I',
+    appId: 'com.cdub.whooptriggerz',
+    url: 'https://play.google.com/store/apps/details?id=com.cdub.whooptriggerz&hl=en&gl=us'
+  },
+  {
+    title: 'Backing Tracks Guitar Jam Ultimate Music Playback',
+    installs: 419307,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/eaRTPhcMnMhizSg5vS7aRg4bn1Qw9eZuN9Ys9_wuqfF82Gd9VDCNJgl1TDAfb1uZ4lY',
+    appId: 'com.teq.guitarjam',
+    url: 'https://play.google.com/store/apps/details?id=com.teq.guitarjam&hl=en&gl=us'
+  },
+  {
+    title: 'Synthesia',
+    installs: 11518555,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/2kP3WQS9AsU_4I4E7_m5CzBOPZPajWUoKb2e2a0W8Zn2xWbreOYhA-ZBGpAgL2a2AMys',
+    appId: 'com.synthesia.synthesia',
+    url: 'https://play.google.com/store/apps/details?id=com.synthesia.synthesia&hl=en&gl=us'
+  },
+  {
+    title: 'Sessions: Live Music Streaming',
+    installs: 29423,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/-Kd31zu1MYti5qi5HjTwYCMRhb-f4JyLd92lNhaGYyiOu_Of1jd6w462330C9krmTuo',
+    appId: 'com.nextmusic',
+    url: 'https://play.google.com/store/apps/details?id=com.nextmusic&hl=en&gl=us'
+  },
+  {
+    title: 'Simple Radio – Free Live AM FM Radio & Music App',
+    installs: 45879033,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/Yc3oO-1vtI8SH9x6bqLj4H4NNYZ11BytbaHrYoBw8tjMhTejR3tvDERMq7Mnr8u05A',
+    appId: 'com.streema.simpleradio',
+    url: 'https://play.google.com/store/apps/details?id=com.streema.simpleradio&hl=en&gl=us'
+  },
+  {
+    title: 'Neutron Music Player',
+    installs: 175522,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/bxJS7S7gYeVg_wp7yf94f-dbgAUPgXL1fbrqH7z0ORRylQdnbu6hUJI9Pmw2BGvlBnPU',
+    appId: 'com.neutroncode.mp',
+    url: 'https://play.google.com/store/apps/details?id=com.neutroncode.mp&hl=en&gl=us'
+  },
+  {
+    title: 'Rain Sounds - Sleep & Relax',
+    installs: 5907957,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/om9LurWUOxgBW1gSI5rPRQ4I-RjigPZe-mKfT4Nji-dnKgm5zmtw9QxhyD4GQHs00Q',
+    appId: 'net.metapps.watersounds',
+    url: 'https://play.google.com/store/apps/details?id=net.metapps.watersounds&hl=en&gl=us'
+  },
+  {
+    title: 'AudioLab - Audio Editor Recorder & Ringtone Maker',
+    installs: 2423454,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/4AvEAtfrZ_wN_0H_me-PY5YDRS441ZV8fTs9aHxMS2nFP21R-0InjTxkHivzoncu3kA',
+    appId: 'com.hitrolab.audioeditor',
+    url: 'https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor&hl=en&gl=us'
+  },
+  {
+    title: 'Cross DJ Pro - Mix your music',
+    installs: 126810,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/uVKVJvfZvtQ6jDSkBMyM9RVH6fbLs6esniFc-b8q-L11uGHn_CGkX1tZDYwEtPyDhg',
+    appId: 'com.mixvibes.crossdjapp',
+    url: 'https://play.google.com/store/apps/details?id=com.mixvibes.crossdjapp&hl=en&gl=us'
+  },
+  {
+    title: 'Drum Pad - Music & Beat Maker',
+    installs: 341922,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/xaTcNXQpI5rWPT_0TbGnhKEtn0C-4wZgKSdFrlmZnuLiBOyp9MTjRq6-MZzlvLQUMYg',
+    appId: 'com.idamusic.drumpadapps',
+    url: 'https://play.google.com/store/apps/details?id=com.idamusic.drumpadapps&hl=en&gl=us'
+  },
+  {
+    title: 'FRISKY',
+    installs: 45494,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/HCc6SsUlQ2vePRe_vXBOhzTAH9C6vxWlKaGo22tKrd2R1zHoNo8oqnpj9SKuz1C5XYRW',
+    appId: 'com.frisky.radio.v2',
+    url: 'https://play.google.com/store/apps/details?id=com.frisky.radio.v2&hl=en&gl=us'
+  },
+  {
+    title: 'Koala Sampler',
+    installs: 5916,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/RhoZYPAuaPonODBW1A9hI-cvq9ZafGuU1aD0yRgUO8smpO2Z7g1uJNvuSOI4wgBFPbMh',
+    appId: 'com.elf.koalasampler',
+    url: 'https://play.google.com/store/apps/details?id=com.elf.koalasampler&hl=en&gl=us'
+  },
+  {
+    title: 'Sheet Music Scanner - View, Read & Scan',
+    installs: 2014,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/bzFurMYENUE4GFit07FJ0F0Ln1fplfW8yvGz4i5PoQfEDFn3q1DT0_qqKw9YBohDPg',
+    appId: 'com.xemsoft.sheetmusicscanner',
+    url: 'https://play.google.com/store/apps/details?id=com.xemsoft.sheetmusicscanner&hl=en&gl=us'
+  },
+  {
+    title: 'Storybeat',
+    installs: 14492877,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_E2SnSv3j5tCZ7TPrvyOgGZfR2GIlbmcQuau5hr3yh20uwV0defFwZSfWlQLVrhcsSNf',
+    appId: 'com.storybeat',
+    url: 'https://play.google.com/store/apps/details?id=com.storybeat&hl=en&gl=us'
+  },
+  {
+    title: 'Rock Radio',
+    installs: 1359204,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/GB5h6krjJRyABrCSnDHg4qz6-6CJg2W3-8HLqczsebzBX3WtY5INePZPl46ssQBIyoY',
+    appId: 'com.audioaddict.rr',
+    url: 'https://play.google.com/store/apps/details?id=com.audioaddict.rr&hl=en&gl=us'
+  },
+  {
+    title: 'doubleTwist Pro music player (FLAC/ALAC & Gapless)',
+    installs: 20515,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/mPNEoEnl1rHzEcPUf8VqxARYyoDpcfj5W7XcjyU0qrg_4Gl-moK08OBRxWjciuEyz_CD',
+    appId: 'com.doubleTwist.androidPlayerPro',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleTwist.androidPlayerPro&hl=en&gl=us'
+  },
+  {
+    title: 'Create Music and Beats - DJ Pad: Easy Beat',
+    installs: 386789,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_YtHw4vkBT933heh3xRWfqzGMeKG5xLQYwDNZ4zwX8CSFXiJ3zbCc_F1wWcVzyLCoI0h',
+    appId: 'com.uminate.easybeat',
+    url: 'https://play.google.com/store/apps/details?id=com.uminate.easybeat&hl=en&gl=us'
+  },
+  {
+    title: 'Pro Metronome',
+    installs: 4455531,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/hs-y7cdzD6AWD8ODIEAOYGUydCjRsfyv3cZzeg0XSNK0K_rhELmT8U24GV-ShAoimQ',
+    appId: 'com.eumlab.android.prometronome',
+    url: 'https://play.google.com/store/apps/details?id=com.eumlab.android.prometronome&hl=en&gl=us'
+  },
+  {
+    title: 'Music Studio',
+    installs: 12136,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/HW-DkXmmTZlOwPHImHjKd_N_mjdOqULxy_lAV4kX3CFBs3iWaE74HHW3vLZcIcCYsQ',
+    appId: 'com.xewton.musicstudio3',
+    url: 'https://play.google.com/store/apps/details?id=com.xewton.musicstudio3&hl=en&gl=us'
+  },
+  {
+    title: 'Beat Snap - Music & Beat Maker',
+    installs: 679338,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/SG5ziOfKwNaIf67v2rfFVwl7baMUbmiY2ZNrKsi3tmjfcQhorT1L_roTDM8xWrV_rUY',
+    appId: 'com.mixvibes.beatsnap',
+    url: 'https://play.google.com/store/apps/details?id=com.mixvibes.beatsnap&hl=en&gl=us'
+  },
+  {
+    title: 'Music Player',
+    installs: 19329002,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/foV9xPe-_Qcy9EIvaku084zMqA8M60D1KEE8ahHzWQbGD6xAvFac-n04LlexPdMb1GvZ',
+    appId: 'com.musicplayer.playermusic',
+    url: 'https://play.google.com/store/apps/details?id=com.musicplayer.playermusic&hl=en&gl=us'
+  },
+  {
+    title: 'Classical Music Radio',
+    installs: 183202,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/qW74pVFmQrtsjnHsPnKNr3bI9mMuTj1pIQm50NlWCuzm9dGQGYlZHG0YKgcokDkUidM',
+    appId: 'com.audioaddict.cr',
+    url: 'https://play.google.com/store/apps/details?id=com.audioaddict.cr&hl=en&gl=us'
+  },
+  {
+    title: 'Trap Drum Pads 24 - Make Beats & Music',
+    installs: 5131462,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/16-zgqINYor0mRdktDxhWIgiIqN2Hjo6hR-2nq6mZjcg84KLuGydDSGUZsnre-z3Xg',
+    appId: 'com.paullipnyagov.trapdrumpads24',
+    url: 'https://play.google.com/store/apps/details?id=com.paullipnyagov.trapdrumpads24&hl=en&gl=us'
+  },
+  {
+    title: 'G-Stomper Studio',
+    installs: 107540,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/GtLhEMRBRhZaZy8r-I1YykP456fEMgCDWFX5BdPh4_tHxuBBPq4n6c6xiqTY5UtozPod',
+    appId: 'com.planeth.gstomper',
+    url: 'https://play.google.com/store/apps/details?id=com.planeth.gstomper&hl=en&gl=us'
+  },
+  {
+    title: 'Cleartune - Chromatic Tuner',
+    installs: 176779,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/VVLK553y3ZfPXfB6PaHApTx31Mr94V9B5y01htM66q3UTIx8r5Bw5SdlL6cmpIa1IRE',
+    appId: 'com.bitcount.cleartune',
+    url: 'https://play.google.com/store/apps/details?id=com.bitcount.cleartune&hl=en&gl=us'
+  },
+  {
+    title: "WavePad Audio Editor - Master's Edition",
+    installs: 5513,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/j7rd4HMcTxCeuUt6SozPrk5jaoqygvD_dxRPv-S2l-vpYhf99LvVDCLT6tL9A1FPyTNz',
+    appId: 'com.nchsoftware.pocketwavepad',
+    url: 'https://play.google.com/store/apps/details?id=com.nchsoftware.pocketwavepad&hl=en&gl=us'
+  },
+  {
+    title: 'Power Equalizer 10-Band',
+    installs: 3488,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/OEWb0x2kPIqzvuG2p9fMGdhChv5POP93ZQD-pHw6yiraK0Yq48OckEuNEcOYJEch3b8',
+    appId: 'com.wiseschematics.powereq',
+    url: 'https://play.google.com/store/apps/details?id=com.wiseschematics.powereq&hl=en&gl=us'
+  },
+  {
+    title: 'Tune Me',
+    installs: 11146960,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/t_BRc1wALkJ0Ns2xIdHTv8gkmAUoMPXvgdg_yrLVQgKFvlO2TGmVMZRithLRhZIaDlY',
+    appId: 'com.tuneme.tuneme',
+    url: 'https://play.google.com/store/apps/details?id=com.tuneme.tuneme&hl=en&gl=us'
+  },
+  {
+    title: 'RadioTunes: Hits, Jazz, 80s, Relaxing Music',
+    installs: 3904989,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/56Jr5VFed6mQkXd9y5hfm2H63rVy_7GA7lvGNbj82sCJz2DyiwUNmIwEcO0zR9ZlnyU',
+    appId: 'com.audioaddict.sky',
+    url: 'https://play.google.com/store/apps/details?id=com.audioaddict.sky&hl=en&gl=us'
+  },
+  {
+    title: 'J4T Multitrack Recorder',
+    installs: 69699,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/n2nmYlVujMS48HHBWy2lCFYleHtAM6UadxA4-uiyClyDwaH8oenpkxuc2hDJWYL6dzg',
+    appId: 'com.jaytronix.multitracker',
+    url: 'https://play.google.com/store/apps/details?id=com.jaytronix.multitracker&hl=en&gl=us'
+  },
+  {
+    title: 'Volume Up - Sound Booster Pro -Volume Booster 2020',
+    installs: 195142,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0wiVoz9XEWpyh2eiKxnN0G_umJo4Nh51ELcDtYRmEriTrNDj_dP_bs-44KmURMO1OaM',
+    appId: 'com.secrettown.boostvolume',
+    url: 'https://play.google.com/store/apps/details?id=com.secrettown.boostvolume&hl=en&gl=us'
+  },
+  {
+    title: 'Rap Maker - Recording Studio',
+    installs: 720670,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_XZMlvqYBUPi7yuzgOxEB9bcbDAL4AYjv2MfMg7UWMSRgSivgMkhFpgnAwiQvHPQsAw',
+    appId: 'com.mixvibes.rapmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.mixvibes.rapmaker&hl=en&gl=us'
+  },
+  {
+    title: 'VIP : MP3 Music Downloader (No Ads)',
+    installs: 1920,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/9Hki1dXTtQk2G9lTYXgDoDSu6RI_1NYPkeTOxblh9BQcZUzCFoudwoMJpSoCEPVNtnE',
+    appId: 'com.newjuiceszyl01.mp3.downloader.vip',
+    url: 'https://play.google.com/store/apps/details?id=com.newjuiceszyl01.mp3.downloader.vip&hl=en&gl=us'
+  },
+  {
+    title: 'Cross DJ Free - dj mixer app',
+    installs: 14202321,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/lrmUMOm4J7F5iri7Gq29FjOYKVSIajZSTr3igXb2pn71jJw3FBMa1hcd2ac9MI4FopE',
+    appId: 'com.mixvibes.crossdjfree',
+    url: 'https://play.google.com/store/apps/details?id=com.mixvibes.crossdjfree&hl=en&gl=us'
+  },
+  {
+    title: 'Piano Chord, Scale, Progression Companion',
+    installs: 1809594,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/KY24h9v5PqSDXSkoWusQzd65VZqAK8w6PuWuPuX7GLEiwe48DoyxekXlkgTrjSny6A',
+    appId: 'com.binitex.pianochords',
+    url: 'https://play.google.com/store/apps/details?id=com.binitex.pianochords&hl=en&gl=us'
+  },
+  {
+    title: 'Super Volume Up Amplifier 2020 - PRO Sound Booster',
+    installs: 150120,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/HQ8obOM3haoySYRSJkwIWRUnPn1xT8bOTI3svSFFe3b0TLkkyASq4mAEeQOdhieg',
+    appId: 'com.boombee.volumbooster2',
+    url: 'https://play.google.com/store/apps/details?id=com.boombee.volumbooster2&hl=en&gl=us'
+  },
+  {
+    title: 'Hi-Fi Cast - Music Player',
+    installs: 606948,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/B7gAK1JPrgyT4E6JiiQBpdpSRC0mRuD5ATEdMpyMwX_yR-XVYJmren6JxCMdbKjd9SyN',
+    appId: 'com.findhdmusic.app.upnpcast',
+    url: 'https://play.google.com/store/apps/details?id=com.findhdmusic.app.upnpcast&hl=en&gl=us'
+  },
+  {
+    title: 'MPC MACHINE - Sampler Drum Machine Beat Maker',
+    installs: 5855,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/pWDiwWidUEbVrGp9l5qPzYIEswSj95f8WLhho5fzfRCac2URRZyqr_75RXGOltdNdSk',
+    appId: 'uk.incrediblesoftware.main',
+    url: 'https://play.google.com/store/apps/details?id=uk.incrediblesoftware.main&hl=en&gl=us'
+  },
+  {
+    title: 'SongBook',
+    installs: 30764,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/_hqJ-kEDK23lcQHmFdT7OOVTkjzq5z_BUxHzAp3hIY44_P0SNh-KggGqnlS9r8bnU-em',
+    appId: 'com.linkesoft.songbook',
+    url: 'https://play.google.com/store/apps/details?id=com.linkesoft.songbook&hl=en&gl=us'
+  },
+  {
+    title: 'CloudBeats - offline & cloud music player',
+    installs: 242281,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/dDMhMlHqY95pJRSyg_dXoCwbK8G5G9Gx6Xoi8UfZQHCLjb6rY_Vc0cFtpbxUCPgXtg',
+    appId: 'com.cloudbeats',
+    url: 'https://play.google.com/store/apps/details?id=com.cloudbeats&hl=en&gl=us'
+  },
+  {
+    title: 'Chord AI - Real time Chord Recognition',
+    installs: 26255,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0ba_EkoCxouLtmxPSiGrd7jEeSdoXswUzp9GseJSmg_n-qSaVyevpiB4HsWoenvXkUs',
+    appId: 'com.chordai',
+    url: 'https://play.google.com/store/apps/details?id=com.chordai&hl=en&gl=us'
+  },
+  {
+    title: 'Boomplay:Stream & Download Trending Music for Free',
+    installs: 88538211,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/fzbX47myevMhn8MA3sX2pKfsme7wPwZVmJ0YzgxzXxNfFn5SsxxMsETgEYVM3dxtBmY',
+    appId: 'com.afmobi.boomplayer',
+    url: 'https://play.google.com/store/apps/details?id=com.afmobi.boomplayer&hl=en&gl=us'
+  },
+  {
+    title: 'Perfect Piano',
+    installs: 100273795,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/x9HL-yzNmqTQp6ENzRity_7AmBr9CsuhrmgAfeYt5VHb-834i1GsduPmi0-RCCFt0tI',
+    appId: 'com.gamestar.perfectpiano',
+    url: 'https://play.google.com/store/apps/details?id=com.gamestar.perfectpiano&hl=en&gl=us'
+  },
+  {
+    title: 'ChordChord: Progression Generator & Music Maker',
+    installs: 64507,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/PR3JKyDWeZktwr8U1JCDNIoEgzmudNCayIFv4MkITxme5_cIh9GSkipXMsSYf1gMag',
+    appId: 'com.chordchord.generator',
+    url: 'https://play.google.com/store/apps/details?id=com.chordchord.generator&hl=en&gl=us'
+  },
+  {
+    title: 'Music Video Maker with FX, Video Editor–TapSlide',
+    installs: 3567064,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/0yVU266Os7f3UHtaCQCg9rUwGeomhKUeIn-VVhiUFIoA_sYSrQGuVc-vhT6zdxodwXBG',
+    appId: 'com.xvideostudio.tapslide',
+    url: 'https://play.google.com/store/apps/details?id=com.xvideostudio.tapslide&hl=en&gl=us'
+  },
+  {
+    title: 'Tomplay - Sheet Music and Backing Tracks',
+    installs: 106513,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/xfq_haOLEpNl4shMuMaVzsMnVSdvtaK0bSyPvfo5cfWoXw8q-1kMt1cmAYErpsl6pA',
+    appId: 'com.tombooks.tomplay',
+    url: 'https://play.google.com/store/apps/details?id=com.tombooks.tomplay&hl=en&gl=us'
+  },
+  {
+    title: 'Rocket Player Premium Audio',
+    installs: 289218,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/tcTIIG9MOtIrLl4b6fv9_7UJFNXDbYRBSOscQpIKu7MYleFMeLQpj4XZqLwdBJ9E7jw',
+    appId: 'com.jrtstudio.AnotherMusicPlayer.Unlocker',
+    url: 'https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer.Unlocker&hl=en&gl=us'
+  },
+  {
+    title: 'AirSync: iTunes Sync & AirPlay for Android',
+    installs: 590992,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/mUMtyGG9UdYireMvgS3uM8Bvcp3_zs6-mdakb7Ush04xHgijVMJkltEj5uDeFl5__L2k',
+    appId: 'com.doubleTwist.androidPlayerProKey',
+    url: 'https://play.google.com/store/apps/details?id=com.doubleTwist.androidPlayerProKey&hl=en&gl=us'
+  },
+  {
+    title: 'Walk Band - Multitracks Music',
+    installs: 90053099,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/CdN64qbGxeD26Q4Mmzh82p1WPnr_CCZacGvRSdT4Zdbv-vNmOldKwbZuYINV8Huehg',
+    appId: 'com.gamestar.pianoperfect',
+    url: 'https://play.google.com/store/apps/details?id=com.gamestar.pianoperfect&hl=en&gl=us'
+  },
+  {
+    title: 'SongbookPro',
+    installs: 63450,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/EElsV7zmDQtK4Y4td0HLd4VR7WK1i8Q8ysSixpoEj8-iKB_aPZKmKmDS7frNHE7eEZ5i',
+    appId: 'com.songbookpro.songbookpro',
+    url: 'https://play.google.com/store/apps/details?id=com.songbookpro.songbookpro&hl=en&gl=us'
+  },
+  {
+    title: 'ManilowTV',
+    installs: 2265,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/FBhvLF0xBlHvmAcDOF4Yyt0The3UU7-xmmjOMMBEQMsVH2u7YlHVBbH9qvgPX_kgolE',
+    appId: 'tv.vhx.manilowtv',
+    url: 'https://play.google.com/store/apps/details?id=tv.vhx.manilowtv&hl=en&gl=us'
+  },
+  {
+    title: 'Guitar Tuner and Songbook FourChords',
+    installs: 106071,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/bDd3n_QHPK-yRuUh1_pVTXMjtxFcgdTL7cPdWAhPOjmVWFlViYVTekAN7krOo9Sh',
+    appId: 'net.musopia.fourchordsandroidpro',
+    url: 'https://play.google.com/store/apps/details?id=net.musopia.fourchordsandroidpro&hl=en&gl=us'
+  },
+  {
+    title: 'Gimme Metal: Free Metal Music',
+    installs: 104469,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/WFcp1VkTHt1x872IXOxil5wErDlpjGBU0iODlTC_Lkq3-yxHyGCAWEf2HfNSqq8mPHU',
+    appId: 'com.gimmemobile',
+    url: 'https://play.google.com/store/apps/details?id=com.gimmemobile&hl=en&gl=us'
+  },
+  {
+    title: 'WhoSampled: Explore the DNA of Music',
+    installs: 417534,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/IE3Dwld2kA7c4qPy8Dmj67wSLmGzA3Wzhl0ccWFUD4_T4ddhuHsHS5UhOd_UyjDlyJY',
+    appId: 'com.whosampled',
+    url: 'https://play.google.com/store/apps/details?id=com.whosampled&hl=en&gl=us'
+  },
+  {
+    title: 'ORG 2021',
+    installs: 131306622,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/TCZUueRvpfgHiPZWHyeMEr_4BJzUcHZer4lULKC1bzcC7uzYBASZzjdXrBPu2LeblI0',
+    appId: 'com.sofeh.android.musicstudio3',
+    url: 'https://play.google.com/store/apps/details?id=com.sofeh.android.musicstudio3&hl=en&gl=us'
+  },
+  {
+    title: 'AudioTool',
+    installs: 38288,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://play-lh.googleusercontent.com/CITYBJhElONb5WSlCqKpXWiynUvosFPp_VZIhZCXhdPxNrfXzBpgxiLb2pXlnTLwxtI',
+    appId: 'com.julian.apps.AudioTool',
+    url: 'https://play.google.com/store/apps/details?id=com.julian.apps.AudioTool&hl=en&gl=us'
+  },
+  {
+    title: 'Audio Widget pack',
+    installs: 314666,
+    genre: 'MUSIC_AND_AUDIO',
+    icon: 'https://lh3.googleusercontent.com/4GJ7mjmmZ4V1N3aEJPw-AsOQy6ttWdlZ6RvgQ5uI2VCnU4LALB1L_OAnwiE9MNOadXk',
+    appId: 'com.widgets.music',
+    url: 'https://play.google.com/store/apps/details?id=com.widgets.music&hl=en&gl=us'
+  }
+]

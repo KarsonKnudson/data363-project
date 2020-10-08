@@ -1,0 +1,1602 @@
+[
+  {
+    title: 'Canva: Graphic Design, Video Collage, Logo Maker',
+    installs: 93139728,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6dcTV8RNj9YTnyvQbEmDwKVZ6c9y0unKoJb7F4FC_qMgmKWYpb7f32VIsOj7vyo1GH4',
+    appId: 'com.canva.editor',
+    url: 'https://play.google.com/store/apps/details?id=com.canva.editor&hl=en&gl=us'
+  },
+  {
+    title: 'Ripl: Social Media Marketing for Small Businesses',
+    installs: 1410282,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/UtUEe-mbrySCee4AROvaB04qK306Zw3U6M2tYJjuJSul_5BtglptPrsEi_VnQ8tGomAm',
+    appId: 'com.ripl.android',
+    url: 'https://play.google.com/store/apps/details?id=com.ripl.android&hl=en&gl=us'
+  },
+  {
+    title: 'Adobe Spark Post: Graphic Design & Story Templates',
+    installs: 13236823,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Lvgi2xPRYd7rM5MAUUPqroNFtcCIbEsZUw5BBiSNQZuZoH289R687gYhf39-Y6HQV9w',
+    appId: 'com.adobe.spark.post',
+    url: 'https://play.google.com/store/apps/details?id=com.adobe.spark.post&hl=en&gl=us'
+  },
+  {
+    title: 'Over: Add Text to Photos & Graphic Design Maker',
+    installs: 2326042,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/q8MEeQeJT9o-ypEnADc5JNpJwf9A-v3904DGNXfa-Xr31OUCmC0I1XBImgx0gU9W0No',
+    appId: 'app.over.editor',
+    url: 'https://play.google.com/store/apps/details?id=app.over.editor&hl=en&gl=us'
+  },
+  {
+    title: 'Unfold — Story Maker & Instagram Template Editor',
+    installs: 15710541,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ITUxxrfNi_zwVCB-j7znK4hkCT2-7xExx_0CnSfAvM0k2tJyDPnwYdTxVzon2CFfKw',
+    appId: 'com.moonlab.unfold',
+    url: 'https://play.google.com/store/apps/details?id=com.moonlab.unfold&hl=en&gl=us'
+  },
+  {
+    title: 'Flipaclip: Cartoon Animation Creator & Art Studio',
+    installs: 23739846,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/v1LHbiVKdHFsDqRgZ8pM1iNvLmKGX0c_0pbvopLS4FYOvweMqkPl7c0AO8pu2T_g0Og',
+    appId: 'com.vblast.flipaclip',
+    url: 'https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en&gl=us'
+  },
+  {
+    title: 'ibis Paint X',
+    installs: 62219554,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk',
+    appId: 'jp.ne.ibis.ibispaintx.app',
+    url: 'https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app&hl=en&gl=us'
+  },
+  {
+    title: 'ibis Paint',
+    installs: 15972,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/s8moWkCF9wE-ynJgNyq8k3uhhVlbQLdphqTYJWkrsLRxkFZxx9FvykHmwXYmTl_h0l8',
+    appId: 'jp.ne.ibis.ibispaint.app',
+    url: 'https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaint.app&hl=en&gl=us'
+  },
+  {
+    title: 'Floor Plan Creator',
+    installs: 16073411,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/yb3PWja0A2u17AZ_erTWro3ehAisqooJwHPo7z2aHnsp235dcGOKpNNcX-mDhO1Nlu-4',
+    appId: 'pl.planmieszkania.android',
+    url: 'https://play.google.com/store/apps/details?id=pl.planmieszkania.android&hl=en&gl=us'
+  },
+  {
+    title: 'Bazaart: Photo Editor & Graphic Design',
+    installs: 294716,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/mEcPAEyzDQvtYNzb6NrRMj-ToUpqVe7x5l9xEXNthLS8yXtBIESx-NivKcqoGgpufb4',
+    appId: 'me.bazaart.app',
+    url: 'https://play.google.com/store/apps/details?id=me.bazaart.app&hl=en&gl=us'
+  },
+  {
+    title: 'Infinite Painter',
+    installs: 11110689,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/fr1055VOnjikjEaxAk24eRa53AN2vrvapj6B057nZ8U5Y-dC-ndYiA3eNeqho8TvzSAN',
+    appId: 'com.brakefield.painter',
+    url: 'https://play.google.com/store/apps/details?id=com.brakefield.painter&hl=en&gl=us'
+  },
+  {
+    title: 'Drawing Desk Draw Paint Color Doodle & Sketch Pad',
+    installs: 4649994,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/cZXYPm7UflaU2775GtOHbtdX8SDxIUPyvPvuzCZFdsoZwbMGKeNyBjVDKNIUMKtr0pIq',
+    appId: 'com.axis.drawingdesk.v3',
+    url: 'https://play.google.com/store/apps/details?id=com.axis.drawingdesk.v3&hl=en&gl=us'
+  },
+  {
+    title: 'Concepts - Sketch, Design, Illustrate',
+    installs: 783760,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/9gI1IJAqeUWtrzE-64qgypUtxNI4hIDj-OjlQM5Zl3T_6BZeNb_huRfa57DdVxQHLWg',
+    appId: 'com.tophatch.concepts',
+    url: 'https://play.google.com/store/apps/details?id=com.tophatch.concepts&hl=en&gl=us'
+  },
+  {
+    title: 'Color by Number Oil Painting',
+    installs: 1459924,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gmKBs74wOcAt8-IMtTZR4Sdgbk7E-b99ma6VtDpCwC9Q8K8vlqYu56SIG2wNMJpxNYDc',
+    appId: 'com.veraxen.colorbynumber.oilpainting',
+    url: 'https://play.google.com/store/apps/details?id=com.veraxen.colorbynumber.oilpainting&hl=en&gl=us'
+  },
+  {
+    title: 'Easy Pose - Best Posing App',
+    installs: 9381156,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Uax6XVc2yXLB08CW0Clhk0EITPe6gdfKFVMjIYKlQ4qhVHJ49fimutux61DU6ftsjeg',
+    appId: 'com.madcat.easyposer',
+    url: 'https://play.google.com/store/apps/details?id=com.madcat.easyposer&hl=en&gl=us'
+  },
+  {
+    title: 'Artrooms - Superimpose Art on Walls Insitu',
+    installs: 23062,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/RuADWltODjHueg6FdhRefh2U_qp-JijNKB21IB0lTtJEfhPUbFD89EQRmi1xrCgQ0XU',
+    appId: 'com.artroomsapp.honuandroid',
+    url: 'https://play.google.com/store/apps/details?id=com.artroomsapp.honuandroid&hl=en&gl=us'
+  },
+  {
+    title: 'ArtFlow: Paint Draw Sketchbook',
+    installs: 3554804,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/WyYlaMAxFNM39qOTX-rz0W2PzixHDzbZqQ2I_YXSF2U3mUOOVyZMjSyon4pHNVdlGIQ',
+    appId: 'com.bytestorm.artflow',
+    url: 'https://play.google.com/store/apps/details?id=com.bytestorm.artflow&hl=en&gl=us'
+  },
+  {
+    title: '3D Modeling App - Sketch, Design, Draw & Sculpt',
+    installs: 359821,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/tAUmkv2j5QX5eOgI9GTalGHvaEoDQWJr-c9m88fMEW1NRHdmVtRvzzb-qOkM9Jhxulc',
+    appId: 'com.inforcegames.app3dmodelling',
+    url: 'https://play.google.com/store/apps/details?id=com.inforcegames.app3dmodelling&hl=en&gl=us'
+  },
+  {
+    title: 'Nomad Sculpt',
+    installs: 28711,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/H--AktreIu_qdZiFI3GQhexMzPXZhnUevfbViDeNXKyc9MonV8bE1v_nP4y9XjNoxgY',
+    appId: 'com.stephaneginier.nomad',
+    url: 'https://play.google.com/store/apps/details?id=com.stephaneginier.nomad&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Studio - Pixel art editor, GIF animation',
+    installs: 1599667,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/uqWWZRXGRk5tQ6wCZWxhGvZy-aasjx2RXsl0KYNEKGNYdb8a0o7eWPnHVIEWJOff8A',
+    appId: 'com.PixelStudio',
+    url: 'https://play.google.com/store/apps/details?id=com.PixelStudio&hl=en&gl=us'
+  },
+  {
+    title: 'Poster Maker Flyer Maker 2020 free graphic Design',
+    installs: 8639005,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/roY1UABCTK30hGq7YrKzAhiSGqz4VCi04jxPzgvE5YQpbE4pf5B7GJQ5R4adbYhHxT4u',
+    appId: 'splendid.postermaker.designer',
+    url: 'https://play.google.com/store/apps/details?id=splendid.postermaker.designer&hl=en&gl=us'
+  },
+  {
+    title: 'MediBang Paint - Make Art !',
+    installs: 21404714,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gJiINYcgwxuyz7D74B_yIGoblTCDdhLPmh1JMUiw-cUGZ4D7aj0bUWywBsMNltCQzX4',
+    appId: 'com.medibang.android.paint.tablet',
+    url: 'https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet&hl=en&gl=us'
+  },
+  {
+    title: 'ArtRage: Draw, Paint, Create',
+    installs: 91055,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/CPm3T1yn8fOwDY1TnQDogWAArS3UVlq0nluQjM_ypu_4OXpoyapBvOi0VLqPu-rjblUb',
+    appId: 'com.ambientdesign.artrage.playstore',
+    url: 'https://play.google.com/store/apps/details?id=com.ambientdesign.artrage.playstore&hl=en&gl=us'
+  },
+  {
+    title: 'RoughAnimator - animation app',
+    installs: 23078,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/CiYbAfNHMAcpcqQkl4kmiwlGhfdZqE-xmUHNY7Sq3dIdxZ6M4wUDpK9h311fQxxehoU',
+    appId: 'com.weirdhat.roughanimator',
+    url: 'https://play.google.com/store/apps/details?id=com.weirdhat.roughanimator&hl=en&gl=us'
+  },
+  {
+    title: 'PaperColor',
+    installs: 20383569,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw',
+    appId: 'com.eyewind.paperone',
+    url: 'https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=en&gl=us'
+  },
+  {
+    title: 'Tiny Skins',
+    installs: 362013,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/1GKYklmV9HBz-DuJiVXSs-F39h3duzHniyPLvSJHBlCtbk_1g1xHeMGfhGkMSQ0c09w',
+    appId: 'com.tinyskins.baby.ears',
+    url: 'https://play.google.com/store/apps/details?id=com.tinyskins.baby.ears&hl=en&gl=us'
+  },
+  {
+    title: 'SketchAR: learn to draw step by step with AR',
+    installs: 1520835,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/q0imHUB4YZRxvQHD3oClz2JkgEUgxNnLhIWoFQI1SLJ9le_Aav6p3IiZzhtj0IjDi0U',
+    appId: 'ktech.sketchar',
+    url: 'https://play.google.com/store/apps/details?id=ktech.sketchar&hl=en&gl=us'
+  },
+  {
+    title: 'Tap Anime - Color By Number',
+    installs: 446183,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/DwCk53td-Do0wRVcdf-jK_pA0cillPVwoljAKJ_s7xu8iqOpGEfU97w6OIHyfrw5jpds',
+    appId: 'anime.art.paint.tap.color.by.number.free',
+    url: 'https://play.google.com/store/apps/details?id=anime.art.paint.tap.color.by.number.free&hl=en&gl=us'
+  },
+  {
+    title: 'Crello – Video, Artwork & Graphic Design Maker',
+    installs: 426820,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/iYtG0VTyX3Hc4L72qveqnOifDOEVKRVl9sJecw9t24ra8k9xlLWav2ZldXzfkhd61FVd',
+    appId: 'com.dephotos.crello',
+    url: 'https://play.google.com/store/apps/details?id=com.dephotos.crello&hl=en&gl=us'
+  },
+  {
+    title: 'Color by Letter - Sewing game  Cross stitch',
+    installs: 541019,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/bqY6Vp_FsHjDN37UctFtDVVSXHlS3hhj7s0p4tDNuPARVZtFrqDl-0XeOvoKQGVtLg',
+    appId: 'com.cross.stitch.color.by.number',
+    url: 'https://play.google.com/store/apps/details?id=com.cross.stitch.color.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Story about Toys Maps',
+    installs: 143399,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/4bYtm1yZjB83jv7r-TbcAwXhaCyDF4DuhftpfCQsitIbcWZGDUezkBq6C14m9cuSkA4',
+    appId: 'com.story.maps.skins.furniture',
+    url: 'https://play.google.com/store/apps/details?id=com.story.maps.skins.furniture&hl=en&gl=us'
+  },
+  {
+    title: 'Poster Maker, Flyer Maker, Graphic Design App',
+    installs: 1483855,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gW5PtgdglmuEFE34hhk3RsY093uAuAM5O5ZgPAXXV6rj4SigQi4fqr4Xk2AFsyXqypHp',
+    appId: 'com.nra.flyermaker',
+    url: 'https://play.google.com/store/apps/details?id=com.nra.flyermaker&hl=en&gl=us'
+  },
+  {
+    title: 'Qlone 3D Scanner',
+    installs: 310703,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/7OCTdhpFxDT4NF_w9buZjIt9sJ8RE4W498H1GIWdubmTBhYNUsK_xAf-u88is8gMQg',
+    appId: 'com.eyecue.qlone',
+    url: 'https://play.google.com/store/apps/details?id=com.eyecue.qlone&hl=en&gl=us'
+  },
+  {
+    title: 'Blend Photo Editor - Artful Double Exposure Effect',
+    installs: 1953678,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/P4zIJJRC5DVrcRZ68lICAhdGEXc9iVigDEtym4w0TanxHDmvpaWHpfsMC22sPWf_10A',
+    appId: 'com.appxstudio.blenderdoubleexposure',
+    url: 'https://play.google.com/store/apps/details?id=com.appxstudio.blenderdoubleexposure&hl=en&gl=us'
+  },
+  {
+    title: 'Infinite Design',
+    installs: 9591647,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/uSx5suVXQa7INx-ZDRZXY04NnKJj1XPSBnwdAtqGtSlFIC7qK-EqkwZfpQzmvx4yZbM',
+    appId: 'com.brakefield.idfree',
+    url: 'https://play.google.com/store/apps/details?id=com.brakefield.idfree&hl=en&gl=us'
+  },
+  {
+    title: 'Angel Skins',
+    installs: 118708,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/_RyLlX3nO935M3s3C1_Azt1ROgFU24EdDXG5qEDrIRJpo0p-hsPDxun4HMAlbAX-bTU',
+    appId: 'com.angel.skins.wing.baby',
+    url: 'https://play.google.com/store/apps/details?id=com.angel.skins.wing.baby&hl=en&gl=us'
+  },
+  {
+    title: 'Sketch a Day: Daily challenges & tutorials',
+    installs: 469907,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/0mMvLHvavF61ghM1GaqCXp0NIuyB-3d86gUucVNhN4S3olUN8O3kLfOF4dPVlBp_JLI',
+    appId: 'me.tomhicks.asketchaday',
+    url: 'https://play.google.com/store/apps/details?id=me.tomhicks.asketchaday&hl=en&gl=us'
+  },
+  {
+    title: 'Dropper Maps',
+    installs: 158928,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/3R6Yfiz_DHi6r0Y8HrMZCxjzewz9BbdmJaePCxVODbF_Kxw1m1hdUulNy8ZZPEwRud3Y',
+    appId: 'com.dropper.maps.city',
+    url: 'https://play.google.com/store/apps/details?id=com.dropper.maps.city&hl=en&gl=us'
+  },
+  {
+    title: 'Magic Poser',
+    installs: 2972113,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/IZ2btAH5FZHg2OUB6jSstAcStShC4RpE7g1LixglBotiDaSJf16RaFudKlmZuyRL590',
+    appId: 'com.magicposernew',
+    url: 'https://play.google.com/store/apps/details?id=com.magicposernew&hl=en&gl=us'
+  },
+  {
+    title: 'How to Draw Graffiti - Name Creator',
+    installs: 2741659,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/DlXBKZCmIZ2X6OhuRx0vdB3koTg1JD3t9pnscGMxyca23AbA8gX__-xRbt5Hu_du5k6-',
+    appId: 'com.sweefitstudios.drawgraffiticreator',
+    url: 'https://play.google.com/store/apps/details?id=com.sweefitstudios.drawgraffiticreator&hl=en&gl=us'
+  },
+  {
+    title: 'Art Camera -Cartoon,Pencil Sketch Art Effect Photo',
+    installs: 1835319,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/YQGIgg4wt3rTwHATUR4ty37vyLGhsgsjeHitSktT56hLTXVqpWVmkVunLU_4kAs2FxA',
+    appId: 'com.camera.sketch.camera.pencil',
+    url: 'https://play.google.com/store/apps/details?id=com.camera.sketch.camera.pencil&hl=en&gl=us'
+  },
+  {
+    title: 'Insitu Art Room,  art on wall, art in room.',
+    installs: 25110,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/0K7UucAAUdAWFoJRjY1MzpyEQ8qhJdLwpIwNPepsDXKjq8JPxP1lEssn03EKlFJtcfjs',
+    appId: 'com.nancymaj.Insitu',
+    url: 'https://play.google.com/store/apps/details?id=com.nancymaj.Insitu&hl=en&gl=us'
+  },
+  {
+    title: 'Wing Skins for PE',
+    installs: 30786,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/-E5vj3I9OzJYCZwvcrbziyboDFVxMsA2tzmsTyQODpNVvgOlAGgpAkXe9rWDJvXePKY',
+    appId: 'com.wing.skins.capes.horror',
+    url: 'https://play.google.com/store/apps/details?id=com.wing.skins.capes.horror&hl=en&gl=us'
+  },
+  {
+    title: 'Brand Maker - Logo Creator, Graphic Design App',
+    installs: 424387,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/QWzoJ08zBR3IXm2aT7Z23ge7wH8utkR6VAD8Ts1PBW6W-yYVCwJMSVYHXwjByM9fDO2a',
+    appId: 'com.brandmaker.business.flyers',
+    url: 'https://play.google.com/store/apps/details?id=com.brandmaker.business.flyers&hl=en&gl=us'
+  },
+  {
+    title: 'MICHAEL JAMES SMITH TV',
+    installs: 3550,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/S5JKdEts2BC_xytfuf9igkSds_dw6-aG242w1PKCm_YiNVbVgxDfWEaLoW1lS0cLNA',
+    appId: 'com.michaeljamessmith',
+    url: 'https://play.google.com/store/apps/details?id=com.michaeljamessmith&hl=en&gl=us'
+  },
+  {
+    title: 'Pokepix Color By Number - Art Pixel Coloring',
+    installs: 2207070,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/8gQlHjZImW72-eisVhcfcHp7hIv5yNUiKBmxoZWaq9KYc_1H7Nmh300EuAr7p-tlcVg',
+    appId: 'com.colorbynumber.unicorn.pixel.art.pokepix.draw.paintbynumber',
+    url: 'https://play.google.com/store/apps/details?id=com.colorbynumber.unicorn.pixel.art.pokepix.draw.paintbynumber&hl=en&gl=us'
+  },
+  {
+    title: 'Text on Video: Vont & Phonto Video Collage maker',
+    installs: 130410,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/bVjCQKZ2WoNqWP_BxJjHn2_rUE3VEjU8oPnooasn2402d7v491gRbB7pGpfj4z-lNCTv',
+    appId: 'com.bizny.app',
+    url: 'https://play.google.com/store/apps/details?id=com.bizny.app&hl=en&gl=us'
+  },
+  {
+    title: 'Label Maker & Creator: Best Label Maker Templates',
+    installs: 179644,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ljdeveiN8_bGErD6hWkCA8RoRuCePW3KebshY_qIFSXrpTj33PRHIS_5MtM8_WhxRtU',
+    appId: 'com.labelcreator.label.maker',
+    url: 'https://play.google.com/store/apps/details?id=com.labelcreator.label.maker&hl=en&gl=us'
+  },
+  {
+    title: 'Colorfit - Drawing & Coloring',
+    installs: 2284704,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ouY5Lq0YMKubPNZZyOkansyLPfAVhyWDmQ-rUg3puPkp7np2n6dkIEeSTe0mXNXyfs4',
+    appId: 'com.creative.colorfit.mandala.coloring.book',
+    url: 'https://play.google.com/store/apps/details?id=com.creative.colorfit.mandala.coloring.book&hl=en&gl=us'
+  },
+  {
+    title: 'PSD (Photoshop) File Viewer',
+    installs: 841344,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/tXNvVrDjB3zfJ-U0nMRsWqtVYs6AOQ6asMAtLPq7W3GsSzKM9cd8IPsjJszv2G6Wir_3',
+    appId: 'com.psd.viewer',
+    url: 'https://play.google.com/store/apps/details?id=com.psd.viewer&hl=en&gl=us'
+  },
+  {
+    title: 'Learn Drawing',
+    installs: 186687,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/iwwhYQKEXb0FVa_Vjb_DVNM1wEJxAi4LBBGrr0L4BI9BIC08ObBfdkQt9bwzTem2uyc',
+    appId: 'com.rstream.learndrawing',
+    url: 'https://play.google.com/store/apps/details?id=com.rstream.learndrawing&hl=en&gl=us'
+  },
+  {
+    title: 'Logo Esport Maker Pro | Create Gaming Logo Maker',
+    installs: 1552,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/PLmXbgfPytk44mVlDoPju2amO5PXpN68OtvuED44js4iicBih03TeSowa_6CkAoGn9w',
+    appId: 'com.QuantumAppx.EsportsLogoMakerFree',
+    url: 'https://play.google.com/store/apps/details?id=com.QuantumAppx.EsportsLogoMakerFree&hl=en&gl=us'
+  },
+  {
+    title: 'Scribbl - Scribble Animation Effect(Video & Pics)',
+    installs: 4154917,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/LJvCZWhka8_qBl7903EsvUMg1sML14DR6JzZq15TAiELurgW3ZaAZVGDcmYCZNa90Q',
+    appId: 'com.axndx.ig',
+    url: 'https://play.google.com/store/apps/details?id=com.axndx.ig&hl=en&gl=us'
+  },
+  {
+    title: 'Doodle Master - Glow Art',
+    installs: 4935066,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/NqPK-gYm5oRPHX9T-pmSbXuxTWUO1mxUoJBGt1J_ngRdKiPXX-J1jzAMgbObg89nbg',
+    appId: 'com.doodle.master.draw.glow.art',
+    url: 'https://play.google.com/store/apps/details?id=com.doodle.master.draw.glow.art&hl=en&gl=us'
+  },
+  {
+    title: 'SketchBook 2 🖌🖍 - draw, sketch & paint',
+    installs: 880685,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/V8gdpo6yoaupiyrLSNlb8GKknMngifVhO8AI5QnyjzolD_PiFJ5vggy5Q-lPe9A23E4',
+    appId: 'com.drawing.sketch',
+    url: 'https://play.google.com/store/apps/details?id=com.drawing.sketch&hl=en&gl=us'
+  },
+  {
+    title: 'WallPicture2 - Art room design photography frame',
+    installs: 742,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/FF5Klu-SCuK8QWCgGUXAQk8EHwQypX5BJmjNzhYk15i9KBmcsdcJn9K4QMCpQpKZOzQ',
+    appId: 'com.wallpicture.full',
+    url: 'https://play.google.com/store/apps/details?id=com.wallpicture.full&hl=en&gl=us'
+  },
+  {
+    title: 'Art For Kids Hub',
+    installs: 22820,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/GuyaezP8_buxn43A4aHYb02vNdiQQ-xbZrRzYu_Fq_SFoXQmM1KXq-qFKkIFRJSEKc8',
+    appId: 'com.artforkidshub',
+    url: 'https://play.google.com/store/apps/details?id=com.artforkidshub&hl=en&gl=us'
+  },
+  {
+    title: 'Patternator: Video Patterns Backgrounds Wallpapers',
+    installs: 4446443,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/bMOE20o9hBZqSaR4aCk5F6VwLnrilrYzdHowOZPbAhwtEYcTIypLuQC5SZVgJxA3OR8',
+    appId: 'bazaart.me.patternator',
+    url: 'https://play.google.com/store/apps/details?id=bazaart.me.patternator&hl=en&gl=us'
+  },
+  {
+    title: 'Pose Maker Pro - 3D art poser app',
+    installs: 123741,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/rZCYgRLPPa7cIwTbCdcJDzc6bWu3Kmy02Y5jvG-RVFRysREc6XgQNnIXBSmcyDjdb-w',
+    appId: 'com.codelunatics.posemakerpro',
+    url: 'https://play.google.com/store/apps/details?id=com.codelunatics.posemakerpro&hl=en&gl=us'
+  },
+  {
+    title: 'Anime Paint - Color By Number',
+    installs: 987545,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6oShPdkJ5y54TOTjS3KHhm5Nzj2N5uU2HaOyKDjEg0OXfkTYVftLBHOgyi2zqrRujhM',
+    appId: 'com.dragonplus.animepaint',
+    url: 'https://play.google.com/store/apps/details?id=com.dragonplus.animepaint&hl=en&gl=us'
+  },
+  {
+    title: 'Dinosaur Mannequins',
+    installs: 299043,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/kNK7-ShYWUvE8i49s7MpXwAJ-5H-9tPL2K1G06cIv9oydWSoadV0QQY58bj9cdMjcKU',
+    appId: 'com.apps3DMannequins.DinosaurMannequins',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.DinosaurMannequins&hl=en&gl=us'
+  },
+  {
+    title: 'Draw Cartoons 2 PRO',
+    installs: 36516,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/g7u_ULrX0bpkPWucspc0iWfLpe-jcYIsyKDKvuu_41KqM1s2HVvYPdGpVZ9636n-2trq',
+    appId: 'com.zalivka.animation',
+    url: 'https://play.google.com/store/apps/details?id=com.zalivka.animation&hl=en&gl=us'
+  },
+  {
+    title: 'Posters: Story Editor template design post',
+    installs: 2197579,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6GjUjoPROhftb8Tsn1YOl_RJ2qmWpkbF17_7z17Qzp3JSimZO03uaTOpLI40qtJwow',
+    appId: 'com.kvadgroup.posters',
+    url: 'https://play.google.com/store/apps/details?id=com.kvadgroup.posters&hl=en&gl=us'
+  },
+  {
+    title: 'Word Swag - Premium Version',
+    installs: 1460,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/z4h1xNJkK7dNkU7xBOxTIjZE7xKq0trhDgPh_uM1oni1F91HYmWwYbtPK3MmXthkRaA',
+    appId: 'wordswag.stylishfont.gwyn',
+    url: 'https://play.google.com/store/apps/details?id=wordswag.stylishfont.gwyn&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring',
+    installs: 2637904,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Q0C1NXhWJphPYxMhCPNKx_OUbHerzGiHiurcmpETxH8xz5X_ouezo69zn1uBFcfBOlo',
+    appId: 'com.teazel.coloring',
+    url: 'https://play.google.com/store/apps/details?id=com.teazel.coloring&hl=en&gl=us'
+  },
+  {
+    title: 'PolyArt - Coloring Book',
+    installs: 83,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/B5x7oM-va_52Kco23LO0Cn6IiRsf4OnsIS2Sxc9AnZY8AyL_pkAymbPsHoIbEuVaEFg',
+    appId: 'com.polyart.coloringbook',
+    url: 'https://play.google.com/store/apps/details?id=com.polyart.coloringbook&hl=en&gl=us'
+  },
+  {
+    title: '3D Mannequins',
+    installs: 68399,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/bI8lfve3LdJTyQA_u8dEoaXvi8hsX1wSPJl6AvahjC4aZaS6jlIjphIo0XBhtoKhFR0',
+    appId: 'com.apps3DMannequins.All3DMannequins',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.All3DMannequins&hl=en&gl=us'
+  },
+  {
+    title: 'Word Cloud',
+    installs: 3672213,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/nhwILat63js5irKGp-2QUIUfD8OPIIRcnlq8UzQBtaevK3P23L8eOF4Ss_e2nt0QIpk',
+    appId: 'ice.lenor.nicewordplacer.app',
+    url: 'https://play.google.com/store/apps/details?id=ice.lenor.nicewordplacer.app&hl=en&gl=us'
+  },
+  {
+    title: 'Baby Skins',
+    installs: 174270,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/lfqm_9C6JJL2wcU8w5-aJqXr7IJmpFXJUw6urfKWUkhwVFmQefblWhFMxcCH0N0GjA',
+    appId: 'com.babyskins',
+    url: 'https://play.google.com/store/apps/details?id=com.babyskins&hl=en&gl=us'
+  },
+  {
+    title: 'Invitation Maker - eCards, Greeting Cards, Invites',
+    installs: 1075771,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/_uoilDIZBFZtbslIeqZwU9RPAUbvaU9JgP-7kjBy7Wybfz6PBpxiV40qcE2yJ-Q4AQmf',
+    appId: 'com.optimumbrewlab.invitationcardmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.optimumbrewlab.invitationcardmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Tattoo Master - Body Art',
+    installs: 12658,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/eznqipXHR4et445kMGFP3o7ur7Cl0er1c0YNMTEm5qqc306ciWtodjQ6rvKTauzMDw',
+    appId: 'com.yotamz.tattomasterng',
+    url: 'https://play.google.com/store/apps/details?id=com.yotamz.tattomasterng&hl=en&gl=us'
+  },
+  {
+    title: 'Adult Coloring Book Free 2020 👩 🎨 by ColorWolf',
+    installs: 2374863,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/VCHcAZtanGvmtmJZzIv1Bvu8V26U9qCXtvmNByZCF2yOLQSV8tl3DbP2KA7huey5C2A',
+    appId: 'com.blondeagames.art.coloring.book',
+    url: 'https://play.google.com/store/apps/details?id=com.blondeagames.art.coloring.book&hl=en&gl=us'
+  },
+  {
+    title: 'Thumbnail Maker - Create Banners & Channel Art',
+    installs: 2096606,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/22_-y5Lw8lzAD1VMJdRghXy_bH8hQrb0gqRT51SrAP1fUsYN3FYNW3yeL_wbRDZbSJg',
+    appId: 'com.covermaker.thumbnail.maker',
+    url: 'https://play.google.com/store/apps/details?id=com.covermaker.thumbnail.maker&hl=en&gl=us'
+  },
+  {
+    title: 'NEON VIDEO MAKER',
+    installs: 464073,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/KoS6YqCCXxXaJjarov2BpQJyUdyqzDp8YXO3hghN7y_VNNYrU4kyVqNRrKYPBzoRqA',
+    appId: 'com.platfarm.challa.challa_neon_iap',
+    url: 'https://play.google.com/store/apps/details?id=com.platfarm.challa.challa_neon_iap&hl=en&gl=us'
+  },
+  {
+    title: 'Furniture - Furnicraft Mods and Addons',
+    installs: 5569,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Dv-Bk1CaW92Nro45Qp_prKV7oZaZEjNdTZ4jf8a8AO1nM5tGiWe9vIErkPpzhDijgEY',
+    appId: 'com.furniture.mods.addons.furnicraft.craft.crazy',
+    url: 'https://play.google.com/store/apps/details?id=com.furniture.mods.addons.furnicraft.craft.crazy&hl=en&gl=us'
+  },
+  {
+    title: 'Zombie Mod - Apocalypse Mods and Addons',
+    installs: 20267,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/0F3DrcoI5GUxBWXQbmQhlW69luXuhcO7rsO0V0FHyw1N0EAiIj0hCML4AI_LkdR1cEE',
+    appId: 'com.apocalypse.zombie.mod.addons.mutant',
+    url: 'https://play.google.com/store/apps/details?id=com.apocalypse.zombie.mod.addons.mutant&hl=en&gl=us'
+  },
+  {
+    title: 'Learn to Draw Anime Step by Step',
+    installs: 70151,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/MqjCUP5BGbetQPFZXO2YIplEN6rpA6K00HjqpWsV9y_3EYw_PjD0HkQ6YiwgG1tJCFY',
+    appId: 'learn.all.anime.drawing',
+    url: 'https://play.google.com/store/apps/details?id=learn.all.anime.drawing&hl=en&gl=us'
+  },
+  {
+    title: 'X Launcher Pro',
+    installs: 40348,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/n6rbS_fghv-pzroyHLGxqnM8EZRMKGFwDtc66nN3H9u-NGAML-F7LXaU6sQ3cMq6FJxq',
+    appId: 'com.ioslauncher.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.ioslauncher.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Pixel Studio Family - Pixel art editor for Family',
+    installs: 117,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/60qBfZj3AMlS1bmKPWTy4KIo5pugqOxgJjWwCiXCOdQjhVpQQiKg9u34dkQClwoen9s',
+    appId: 'com.pixelstudio.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.pixelstudio.pro&hl=en&gl=us'
+  },
+  {
+    title: 'MandelBrowser',
+    installs: 70766,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/9fEZBsCV_6dZ_TKP8MT7TtSLtapumWiPU3vFXuIYED_ta-RZdAjbK8VRsOojWLxWeBs',
+    appId: 'pl.y0.mandelbrotbrowser',
+    url: 'https://play.google.com/store/apps/details?id=pl.y0.mandelbrotbrowser&hl=en&gl=us'
+  },
+  {
+    title: 'Color Wheel',
+    installs: 1813,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/M4FZzX8OHQEaKIqvVf3Dhj4y-NAwH4Rff-17ewscFFAWtaWD5AgTshhpl2zlhGIOYHA',
+    appId: 'io.github.utopiacosmica.color_wheel',
+    url: 'https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel&hl=en&gl=us'
+  },
+  {
+    title: 'Airplanes Mod - Addons and Mods',
+    installs: 231057,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Cz5ZEKa9jriOmWwIF7tSBj31jIvRkJ2xF9mHfP5YF01chMXzBhmZi0RtKI2Ylau08MI',
+    appId: 'com.airplane.mods.addons.air.vehicle.helicopter',
+    url: 'https://play.google.com/store/apps/details?id=com.airplane.mods.addons.air.vehicle.helicopter&hl=en&gl=us'
+  },
+  {
+    title: 'LayerPaint HD',
+    installs: 14349,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ny_w1M3gL4xmETBDTC0FT7dGm6DyhFGQO0H7g0Rah0ML1IzwyMF8pAOLCbqS29VnbA',
+    appId: 'org.nattou.layerpainthd',
+    url: 'https://play.google.com/store/apps/details?id=org.nattou.layerpainthd&hl=en&gl=us'
+  },
+  {
+    title: 'ColorPixel',
+    installs: 301427,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/yx9-vsRNaKnmNEu6YC7desybRQtdZOGrObJ8VW1-H9jqaWktULrbgeUioRpk1_FePA',
+    appId: 'com.colorfun.pixelart.colorbynumber.coloring.colorpixel.free',
+    url: 'https://play.google.com/store/apps/details?id=com.colorfun.pixelart.colorbynumber.coloring.colorpixel.free&hl=en&gl=us'
+  },
+  {
+    title: 'Colored Pencil Picker: The Ultimate Drawing Tool',
+    installs: 23621,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/V_3DkqlV11fc1xitaX8V3szgOwTKg8vbAQpWWCVAe1izsiKWuHc37kHFeckrRK9kQ6w',
+    appId: 'com.merg3d.android.coloredpencilpicker',
+    url: 'https://play.google.com/store/apps/details?id=com.merg3d.android.coloredpencilpicker&hl=en&gl=us'
+  },
+  {
+    title: 'Cross Stitch Thread Organizer',
+    installs: 4258,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Ur2xSQeGAmGNGbPe_Jx6ZT9oCUtgQPGg4S4exqOxGblT4-3YdQ_G0jopV3ZkCiBuBA',
+    appId: 'de.isegrim.threadorganizer',
+    url: 'https://play.google.com/store/apps/details?id=de.isegrim.threadorganizer&hl=en&gl=us'
+  },
+  {
+    title: 'Tattoomoon',
+    installs: 2,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/TekNnh0nUwa-joQp4djVf0gEnZt8ho4an6F5CzRI7lzUmPK5u0CjKEWE1hZgtl1fuFY',
+    appId: 'com.maingriz.tattoomoon',
+    url: 'https://play.google.com/store/apps/details?id=com.maingriz.tattoomoon&hl=en&gl=us'
+  },
+  {
+    title: 'Fraksl',
+    installs: 691695,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/4si7COxi8C0QCG5ZJxh9HX-x6zJ9MAC0haHrR_wYp7BeuLo196CGxrr01LuenzC-Jx0',
+    appId: 'com.workSPACE.Fraksl',
+    url: 'https://play.google.com/store/apps/details?id=com.workSPACE.Fraksl&hl=en&gl=us'
+  },
+  {
+    title: 'Character Maker -How to draw',
+    installs: 21681,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/B0hTEbOIcbhqsXGIMtPlm1k7TN4ETRszXBRkP4z6cQeapeFMCPYk-Wu0U1t6K_YNUn0T',
+    appId: 'com.charmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.charmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Paintastic : draw, color, paint',
+    installs: 642546,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/tz6gbl4-moXng7g2NIT0dmyujy5cc_NaGweVZYZTG8PZAalRVj2UQxJKl5NY08PnRg',
+    appId: 'com.paintastic',
+    url: 'https://play.google.com/store/apps/details?id=com.paintastic&hl=en&gl=us'
+  },
+  {
+    title: 'PixArt Gallery - Art on your TV screen',
+    installs: 6857,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/1EzHtowOxvul5Vw7tBOhVXzWDg9M39sPXrqwIMJ_m2Sc8aeb99rWMeLhJHWtt2b0Ujc',
+    appId: 'org.nativescript.pixtoppermobile',
+    url: 'https://play.google.com/store/apps/details?id=org.nativescript.pixtoppermobile&hl=en&gl=us'
+  },
+  {
+    title: 'Pixelz - Color by Number Pixel Art Coloring Book',
+    installs: 1029265,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/8mb0wbohyl1MYuTLPfr2TIyGFcvAeEPuDuKnwXRFC3LR0V-lVpRdpDbimnwz0GM-p-c',
+    appId: 'color.by.number.pixel.art.sandbox.paint.draw.free',
+    url: 'https://play.google.com/store/apps/details?id=color.by.number.pixel.art.sandbox.paint.draw.free&hl=en&gl=us'
+  },
+  {
+    title: 'U Launcher Pro-NO ADS',
+    installs: 4228,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/SpjQArMwQ2qosTTPARzsQyyz9Rtpy6VqDmEdNEhJWa4ZEpYyHjpy9EUxUIyHdX40NbA',
+    appId: 'com.phone.ulauncher.pro.no.ad',
+    url: 'https://play.google.com/store/apps/details?id=com.phone.ulauncher.pro.no.ad&hl=en&gl=us'
+  },
+  {
+    title: 'ArtPose Pro',
+    installs: 4017,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/7aN4qxi208Jrq5zrvCSRINKJGZrUHSnOxv0uCCKr5753OO1P0iMUWviLaH9hccNQ6g',
+    appId: 'com.artware.ArtP',
+    url: 'https://play.google.com/store/apps/details?id=com.artware.ArtP&hl=en&gl=us'
+  },
+  {
+    title: 'Llumar',
+    installs: 6159,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/OaOfgt1iE_H6e0mEK_iu706huQCCf4b4zKBEw_Ckqx95Qo1Q6oEUmxAZh1rr93nlBng',
+    appId: 'com.leafmorth.llumar',
+    url: 'https://play.google.com/store/apps/details?id=com.leafmorth.llumar&hl=en&gl=us'
+  },
+  {
+    title: 'FocoDesign - Insta Story Editor & Highlight Maker',
+    installs: 487466,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Saw9dhvAKi_PWjN2-1QkvCuRHXanowiMubQGMz3ZtSYVGGvOSdZNC_aVSK5rRDR-keM',
+    appId: 'com.focodesign.focodesign',
+    url: 'https://play.google.com/store/apps/details?id=com.focodesign.focodesign&hl=en&gl=us'
+  },
+  {
+    title: 'Ad Maker, Video Editor, Explainer Video Maker',
+    installs: 171284,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/llHHiaMFThEmaTZAjR0emDzgtccotC8SkBh8igrhOBKmExaa2c00IDzBDtxhq1iJ9UA',
+    appId: 'com.admaker.videoeditor',
+    url: 'https://play.google.com/store/apps/details?id=com.admaker.videoeditor&hl=en&gl=us'
+  },
+  {
+    title: 'Post Maker, Story Maker, Video Marketing',
+    installs: 366636,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/SuXsbnl5HcOyrh-zn9DXBhOTfu3l9v_bKza-IRPvJ6AyObQG2Aq2ikmNSezwOMRTV1QV',
+    appId: 'com.socialmediavideoadsmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.socialmediavideoadsmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Ivy Draw: Vector Drawing',
+    installs: 321401,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/O-8IfX_CzhYNGL3MhEDRB1dTBHO5HsiF1Pm9MLLqWciYT5dOsGTXJUX8aXEfjI6P_u0',
+    appId: 'com.shoebillsoftware.vectordraw',
+    url: 'https://play.google.com/store/apps/details?id=com.shoebillsoftware.vectordraw&hl=en&gl=us'
+  },
+  {
+    title: 'Color Mixer',
+    installs: 115310,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/uoQT63GAdORPOOOMFGpW-etutrQ6FGIF-FLuPazkJHCD5RWdqb-f-0Jo98airuqYOvM4',
+    appId: 'com.ideamats.colormixer',
+    url: 'https://play.google.com/store/apps/details?id=com.ideamats.colormixer&hl=en&gl=us'
+  },
+  {
+    title: 'Drawing from reference',
+    installs: 180179,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/BnHnkdRFcvTBcZnSGP_rjobgwpmH-y_EHEgpvpBOPdq42OUP2099R703qa4_zIQ1I1H2',
+    appId: 'io.fnx.draw',
+    url: 'https://play.google.com/store/apps/details?id=io.fnx.draw&hl=en&gl=us'
+  },
+  {
+    title: 'Palette Pantone 📷 Add color palettes to photos',
+    installs: 54658,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/yFxMM34ZRiLTROIBGNkAZDQH8JWAHtQX19zIDqMrU66hWQoXy7w_KQVR08HCa5Cg026M',
+    appId: 'color.palette.pantone.photo.editor',
+    url: 'https://play.google.com/store/apps/details?id=color.palette.pantone.photo.editor&hl=en&gl=us'
+  },
+  {
+    title: 'Shaders Pack for Pe',
+    installs: 105672,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/I_5p2kZaiEho0W4a4sDP7P5o1Zao880rBnVfEocqMKwX15OFSXUc2wOSkRDU_XT20xI',
+    appId: 'com.shaders.texture.pack.seus.ultra.mod',
+    url: 'https://play.google.com/store/apps/details?id=com.shaders.texture.pack.seus.ultra.mod&hl=en&gl=us'
+  },
+  {
+    title: 'Pinreel - Social Media Video Maker',
+    installs: 23672,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/W-ggvkc0eeE4QWQWY5zN_ug7U9_ioNKYOZI0Buuc7jkS2ckkNKugEtbSkyFIqM2mO9Q',
+    appId: 'com.neurondigital.pinreel',
+    url: 'https://play.google.com/store/apps/details?id=com.neurondigital.pinreel&hl=en&gl=us'
+  },
+  {
+    title: 'Art Model - 3D Pose tool and morphing tool',
+    installs: 3760,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/L0pZZm_NR3vTAG_fjOFN4p6lBDhXvojmgo_-uGrqDhNrWL3N1ijz4MTSIFro-XEjmg',
+    appId: 'com.nevato75.artmodel',
+    url: 'https://play.google.com/store/apps/details?id=com.nevato75.artmodel&hl=en&gl=us'
+  },
+  {
+    title: 'Mod Fall Guys - Addons and Mods',
+    installs: 333,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/xe9WRXWmNZtJSlbFddB8-Vdo0uEXx-UfkTyV2Gnw9-UWYqcgp_PybO7hcE5zzjfTOsDt',
+    appId: 'com.fall.mods.guys.parkour.minigames',
+    url: 'https://play.google.com/store/apps/details?id=com.fall.mods.guys.parkour.minigames&hl=en&gl=us'
+  },
+  {
+    title: 'Swords Mod - Shields Mods and Addons',
+    installs: 37217,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/PZZac-d99-vJEqPxrH860kIBnY39Q4jhxwnTHnhIIgey5tsBVyrc5kCvoeOYzMi8DiA',
+    appId: 'com.sword.mods.addons.power.blade',
+    url: 'https://play.google.com/store/apps/details?id=com.sword.mods.addons.power.blade&hl=en&gl=us'
+  },
+  {
+    title: 'Ai illustrator viewer',
+    installs: 896731,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/HpVMSLIifhgZAgFc3QYy2eb8wV1ja6HZGM3gKMu23rYg4r7NKHXA26aJn7C7gA53sJu6',
+    appId: 'com.ai.viewer.illustrator',
+    url: 'https://play.google.com/store/apps/details?id=com.ai.viewer.illustrator&hl=en&gl=us'
+  },
+  {
+    title: 'Simple Draw Pro - App for quick & easy sketches',
+    installs: 65951,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/4Uk2cyr4tBeiNm8bCjvYWb2ZDtKlw-wTg7icKG--n2NKNoCY0oKX4HCbCXI10SbRlI8',
+    appId: 'com.simplemobiletools.draw.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro&hl=en&gl=us'
+  },
+  {
+    title: 'School Maps',
+    installs: 28264,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/X-fq0vvHZFZfyh2cQOjf_Zla94QkU0nINd6KeR-ZgupeKZh7ZnNxcC9A2Slt551tlw',
+    appId: 'com.school.maps.adventure',
+    url: 'https://play.google.com/store/apps/details?id=com.school.maps.adventure&hl=en&gl=us'
+  },
+  {
+    title: 'Sand Draw Sketch Drawing Pad: Creative Doodle Art',
+    installs: 6297365,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/FEtDcu77tw3XdrDRscfDVe4_-4_xcL-DuKlmQdjiu9Dqtzn8umCyk2sjGGNuxMqWAyc',
+    appId: 'air.com.KalromSystems.SandDrawLite',
+    url: 'https://play.google.com/store/apps/details?id=air.com.KalromSystems.SandDrawLite&hl=en&gl=us'
+  },
+  {
+    title: 'Crochet Graphghan Pattern Creator',
+    installs: 18098,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/fYN_j7nlqxGtZ9mBFnH5bl1wcMThW1Yzlhg-pDcSsoar-GGn0vP4uhT7lTVK14an-Uw5',
+    appId: 'com.crochetdesigns.graphghan',
+    url: 'https://play.google.com/store/apps/details?id=com.crochetdesigns.graphghan&hl=en&gl=us'
+  },
+  {
+    title: 'CorelCAD Mobile - .DWG CAD annotation & design',
+    installs: 597271,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/wj62dg_2NpcZxPfcwTyBCNOwI7ZxzPM7NYrzN_1pwO8Rm0Ylgoi-V_SQV8phzv223kM',
+    appId: 'com.corel.corelcadmobile',
+    url: 'https://play.google.com/store/apps/details?id=com.corel.corelcadmobile&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Book - Calm & Rest. Tap to Paint App',
+    installs: 6802,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ZVVDeLL3wDi9Mvlnc2jNNOcjta7xQc_xfYzmVPLCQp2Gg0iIJZkFCd74vmCBXVHgdq0',
+    appId: 'coloring.book.number.calm.color.pixel.art.game',
+    url: 'https://play.google.com/store/apps/details?id=coloring.book.number.calm.color.pixel.art.game&hl=en&gl=us'
+  },
+  {
+    title: 'Draw Graffiti - Name Creator',
+    installs: 14182,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/WCrmNR-8n4XICs4rusFDcmUg7UvD8uf5A69Twoti100jercC0V8kQCJ6YaTxbdxKYwNR',
+    appId: 'com.hb.gc.app',
+    url: 'https://play.google.com/store/apps/details?id=com.hb.gc.app&hl=en&gl=us'
+  },
+  {
+    title: 'HEAVYPAINT',
+    installs: 24618,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gmscSxCdpkhD70eEijxChZMqACndneE7CbmXGYdBmurP58k4Fv2t9ngIPsxUTca0Q8Y',
+    appId: 'com.heavypoly.heavypaint',
+    url: 'https://play.google.com/store/apps/details?id=com.heavypoly.heavypaint&hl=en&gl=us'
+  },
+  {
+    title: 'Fantasy for VRChat Avatars',
+    installs: 21439,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/UM_5TS7mK5Z0P0t9NB6Do7hNWhKT-Od9b_A-qMt9b_AC52B4cghANclJyqSBQ-Xt8Be-',
+    appId: 'com.vrchat.avatars.fantasy.skins',
+    url: 'https://play.google.com/store/apps/details?id=com.vrchat.avatars.fantasy.skins&hl=en&gl=us'
+  },
+  {
+    title: 'Mobile Lucida',
+    installs: 189,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/UfrgUNLxc9_JVU6teddUpNUh781UQrMgXe7IgIvU04VE7b3vgDEwGyWEzvB4NNEjQfoz',
+    appId: 'com.arlucida.mobilelucida',
+    url: 'https://play.google.com/store/apps/details?id=com.arlucida.mobilelucida&hl=en&gl=us'
+  },
+  {
+    title: 'BeadApp',
+    installs: 2324,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/m5-nAVdV7IRDYkWLgsQ-AyZPl_1_TEGKb8GLejFQtmpkb4x01M4cLhgtOCjwvyvVi7lr',
+    appId: 'com.jakubtomes.beadapp',
+    url: 'https://play.google.com/store/apps/details?id=com.jakubtomes.beadapp&hl=en&gl=us'
+  },
+  {
+    title: 'TypiMage - Typography Editor',
+    installs: 78895,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6pUfIy7DlDVvcZ9Bg-wW-HrNRV5dieTAm1bKXUPLcG8NqyVizmDebRc-fJ1uSOlUK24',
+    appId: 'com.typimage.macbook.styleengine',
+    url: 'https://play.google.com/store/apps/details?id=com.typimage.macbook.styleengine&hl=en&gl=us'
+  },
+  {
+    title: 'Calligrapher Pro',
+    installs: 15254,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6nY21_J18EayRamCyui0nXqp3Z-vTkupMxt934v0U0Kl7UY6LiLk2-WJkZ0bfMwZtVE',
+    appId: 'com.mark.calligrapherpro',
+    url: 'https://play.google.com/store/apps/details?id=com.mark.calligrapherpro&hl=en&gl=us'
+  },
+  {
+    title: 'DoodleLens',
+    installs: 3154,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/09cEC-h_xjN7zWKbso5SniO9PX5op1clB2JsE5HD8nWfmvC87ivMvZrBNoAklLA',
+    appId: 'com.kevaid.doodlelens',
+    url: 'https://play.google.com/store/apps/details?id=com.kevaid.doodlelens&hl=en&gl=us'
+  },
+  {
+    title: 'Crystal: Sketch Mirror for Android',
+    installs: 64781,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6R82e8NdPenNOk-q0J0z8dtj9jTD7NM7ISx7-ohccPVa-2_cjBdywN4AOmzn286D41E',
+    appId: 'com.smithyproductions.crystal',
+    url: 'https://play.google.com/store/apps/details?id=com.smithyproductions.crystal&hl=en&gl=us'
+  },
+  {
+    title: 'SketchBook 🖌🖍 - draw, sketch & paint',
+    installs: 1383532,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/n-6OtSfY8nmagfMqLLL4GT0hnbyifc78ecOIgdVCMpo6wjtcvVFVingVem0Qrv90emy_',
+    appId: 'com.raed.sketchbook',
+    url: 'https://play.google.com/store/apps/details?id=com.raed.sketchbook&hl=en&gl=us'
+  },
+  {
+    title: 'ePic Character Generator',
+    installs: 71969,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/6CHv6Tbfd8K2mITHIENBls4d9zsqMnMRg8svwJY6b33m34AUUzdhN3ZEnzqh8JD4UFgm',
+    appId: 'com.overheadgames.epicgenerator',
+    url: 'https://play.google.com/store/apps/details?id=com.overheadgames.epicgenerator&hl=en&gl=us'
+  },
+  {
+    title: 'Circle Clock',
+    installs: 69442,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/FJpLNNiPp3Ons0NLaRlkA834quIwXqliSQejP-DUyn-AusTrhvWTiT0k_ZCXmn9zsJA',
+    appId: 'zopsoft.com.circleclock',
+    url: 'https://play.google.com/store/apps/details?id=zopsoft.com.circleclock&hl=en&gl=us'
+  },
+  {
+    title: 'CrossStitch Editor Pro',
+    installs: 1764,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/mwxSjNK4A4uez3-osAHT2BaRO_tqJUL7vDxwVVJZVXHewE-z6nnwpEKZnQBmW23qYpTn',
+    appId: 'com.serjthware.crossstitcheditorpro',
+    url: 'https://play.google.com/store/apps/details?id=com.serjthware.crossstitcheditorpro&hl=en&gl=us'
+  },
+  {
+    title: 'Word Swag B -  Premium Version',
+    installs: 287,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/v3W8rm9pVFRtGYSiCanPS7kfZTVpRsfv7jZ1aHbr2oIXDeS6pIb_ivApojlSXQjih14',
+    appId: 'wordswagb.stylishfont.gwyn',
+    url: 'https://play.google.com/store/apps/details?id=wordswagb.stylishfont.gwyn&hl=en&gl=us'
+  },
+  {
+    title: 'Video Invitation Maker : Video Ecards & invites',
+    installs: 796025,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/t9PhwH4W3iC9pE1NtnHRAFlo-xqEWRooiXEozTiyeCqV0MVGN3dzmi8BxVkHlE36H9Q',
+    appId: 'com.psma.videoinvitationmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.psma.videoinvitationmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Shark Mannequin',
+    installs: 557998,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/l8k9MPpTYfr8HWqtmZjPzt-_FOJFXx-Zj4i997NbsvGUpgXqdXTphTP4xV51CV8zM6s',
+    appId: 'com.apps3DMannequins.SharkMannequin',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.SharkMannequin&hl=en&gl=us'
+  },
+  {
+    title: 'Color Picker for Artists',
+    installs: 1376,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/nniVa8j7XNuU5PYKKa-xsXJTLC1fGQWJiUsWrU6ygNOiFJqjOnPCw4Ac67nyJSUGzs4',
+    appId: 'color.picker.artists',
+    url: 'https://play.google.com/store/apps/details?id=color.picker.artists&hl=en&gl=us'
+  },
+  {
+    title: 'U Launcher Lite-New 3D Launcher 2020, Hide apps',
+    installs: 16978636,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/1-d8bEwvbj4cZjUrAI2_bMKmyTQtcTmoGAo2UU1sLD6Ri-uFaHi2hmW8Gu2Y5HN5nklS',
+    appId: 'com.phone.launcher.lite',
+    url: 'https://play.google.com/store/apps/details?id=com.phone.launcher.lite&hl=en&gl=us'
+  },
+  {
+    title: 'EPS (Encapsulated PostScript) File Viewer',
+    installs: 200998,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/qubVZwinn0Q8b_kdvyZ1UMRGNpo01-o1QhKhdjOjmDPVhxI-FDLpVkcmUgaYD8fK_B8',
+    appId: 'com.viewer.eps',
+    url: 'https://play.google.com/store/apps/details?id=com.viewer.eps&hl=en&gl=us'
+  },
+  {
+    title: 'Social Media Post Maker - Social Post',
+    installs: 456656,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/4QQPSBb_QHUaugjoGjfbePR-BBDz_SHqlSF7JOgWYB1Y3Q_dGcPUqaJGwN79LU1qmgY',
+    appId: 'com.socialmedia.socialmediapostmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.socialmedia.socialmediapostmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Zen Brush',
+    installs: 465632,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/VgzRSO2RN5m5F2aUrYHmnhFSRRbUs04NcqtQmqWqiUaRXCy0njQUDoxcHb65EKJz1kmg',
+    appId: 'jp.co.psoft.zenbrushfree',
+    url: 'https://play.google.com/store/apps/details?id=jp.co.psoft.zenbrushfree&hl=en&gl=us'
+  },
+  {
+    title: 'I Can Animate',
+    installs: 337273,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Ekb-ZjZg5G8rtxd8B334wF6iGKXfqLvpjQC1_drwqxorGBnWLAmMe-0ZzI_2dSXmlwY',
+    appId: 'net.kudlian.icananimate2',
+    url: 'https://play.google.com/store/apps/details?id=net.kudlian.icananimate2&hl=en&gl=us'
+  },
+  {
+    title: 'Trycolors - mix colors',
+    installs: 282,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/y5IKxlbR1XjZ4L9kKvWQ512IsgaD54ITRwlmd_sXmdBZQ0kcSluCbEWcbLe51LBMih8',
+    appId: 'com.trycolors',
+    url: 'https://play.google.com/store/apps/details?id=com.trycolors&hl=en&gl=us'
+  },
+  {
+    title: 'Pigments - Color Scheme Generator',
+    installs: 238258,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/JzRFcbZA2KTpoqPjqACW1SJfSrcNv7my06TUXDhB1yRHbkLM9_cRDermRKuGqRrYMqps',
+    appId: 'com.sorincovor.pigments',
+    url: 'https://play.google.com/store/apps/details?id=com.sorincovor.pigments&hl=en&gl=us'
+  },
+  {
+    title: 'Design Studio: Graphic Design, Invite & Logo Maker',
+    installs: 14832,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/t9L2rXsVZUoV5afJukMvh870s_2Fjdh4fUDjQ7w_-JG_rERoUMHUjOF2UWOrd5b7aA',
+    appId: 'com.design.studio',
+    url: 'https://play.google.com/store/apps/details?id=com.design.studio&hl=en&gl=us'
+  },
+  {
+    title: 'NotanIzer',
+    installs: 1406,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/IdpoDPigzmbYFQEOVElsrBpgLMTyA3VRmMz6eVvQfMOd_Qs3-moPQVifE9UdCv3GXGt9',
+    appId: 'com.bigpantsgroup.notanizer',
+    url: 'https://play.google.com/store/apps/details?id=com.bigpantsgroup.notanizer&hl=en&gl=us'
+  },
+  {
+    title: 'Hand Draw 3D Pose Tool',
+    installs: 1398,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/BbV5VLHzvu7tsjpsyy46d0Oa3HXX9xUzWckv_0uB_OfdTd67lMH88A6iI_7vGQw1Ww',
+    appId: 'com.JindoBlu.HandDraw3D',
+    url: 'https://play.google.com/store/apps/details?id=com.JindoBlu.HandDraw3D&hl=en&gl=us'
+  },
+  {
+    title: 'Poster Maker, Flyer, Banner Maker, Graphic Design',
+    installs: 532356,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/25HSddiKrK6xMoC-6f40Q49fV0D7yDCynFbu7SQuZUOYHHu-5bQiLOSKuBKUoNC45w',
+    appId: 'com.letsmake.atoz.design',
+    url: 'https://play.google.com/store/apps/details?id=com.letsmake.atoz.design&hl=en&gl=us'
+  },
+  {
+    title: 'Business Card Maker, Visiting Card Maker',
+    installs: 185410,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/1Npzp1YONSHPxleRHBejy-ieLoa4CZSK8TgT8AFQOpQ0jVoJxNosgxIp9wyQ_eqvXA',
+    appId: 'com.businesscardmaker',
+    url: 'https://play.google.com/store/apps/details?id=com.businesscardmaker&hl=en&gl=us'
+  },
+  {
+    title: 'Make Ambigrams',
+    installs: 339,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/PVUbgU6a9fZx-AE2ww5I4AhPewru92m4ldgIs8rBL4MYXAdstV_Qs-SXoaoOiBhH3Q',
+    appId: 'com.ambgen.makeambigram',
+    url: 'https://play.google.com/store/apps/details?id=com.ambgen.makeambigram&hl=en&gl=us'
+  },
+  {
+    title: 'Vintage Design - Make Menu and Logo Template',
+    installs: 481329,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/F6600hJN0D3HNOi1bQhG_C6Rdtj1VDmPsRgpOTT68mdxj7j09RmgDloywQBr9F4XLMIZ',
+    appId: 'com.simple.design.material',
+    url: 'https://play.google.com/store/apps/details?id=com.simple.design.material&hl=en&gl=us'
+  },
+  {
+    title: 'Live Message',
+    installs: 135411,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/L85XEc0FCykhROyPCyY-QWmcD5_ASfbpjIC9-EWziRtzoCqmOHjfLOktUiT-jUG2db5Z',
+    appId: 'com.ctech.livemessage',
+    url: 'https://play.google.com/store/apps/details?id=com.ctech.livemessage&hl=en&gl=us'
+  },
+  {
+    title: 'X Launcher Prime | Stylish OS Theme Phone X Max',
+    installs: 39053,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/UxfzOdQGQ46kZcEJJF2wFeMqfX7BOJs_8CJ3LKEEVFKBDGmaYZfqGSNw30chuyDxaw',
+    appId: 'com.iphone.xs.launcher.prime.ios12.theme',
+    url: 'https://play.google.com/store/apps/details?id=com.iphone.xs.launcher.prime.ios12.theme&hl=en&gl=us'
+  },
+  {
+    title: 'Highlight Cover Maker',
+    installs: 132741,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/hQGs3YVRAOKDCVBjgBM2miaerjX0IfA4kZfL8hb_1Ef6REGDdxvpyA6T-dYE3JjsA6w',
+    appId: 'com.oristudios.highlights',
+    url: 'https://play.google.com/store/apps/details?id=com.oristudios.highlights&hl=en&gl=us'
+  },
+  {
+    title: 'Ambigram Studio 3.0',
+    installs: 149370,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gzjPhnHB7CwsElTRiJJ1ZdTZQ01HCJ7dePAH5T8cXUKFurQa0Z28q0dJD5d4NStC1nU',
+    appId: 'com.digitalenergy.ambigramstudio',
+    url: 'https://play.google.com/store/apps/details?id=com.digitalenergy.ambigramstudio&hl=en&gl=us'
+  },
+  {
+    title: 'Bead Pattern Creator',
+    installs: 23706,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/oNto5xo-0YZDLXYgpY1eKeH-KPQvG5AP63dNGYJMBrO6pRQovkGS8aKXKUFzMQPE38Ms',
+    appId: 'com.crochetdesigns.beadpatterncreator',
+    url: 'https://play.google.com/store/apps/details?id=com.crochetdesigns.beadpatterncreator&hl=en&gl=us'
+  },
+  {
+    title: 'Pango Paper Color - colouring book game for kids',
+    installs: 1305,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Xqpc3cSBNQxwglzxNzeT-l3TNtDAF_qSA0hIoiEqwJKZjy3hZ-vq8pAIY8xpOaeBzA',
+    appId: 'com.studiopango.pangocolor',
+    url: 'https://play.google.com/store/apps/details?id=com.studiopango.pangocolor&hl=en&gl=us'
+  },
+  {
+    title: 'Tie Dye 2 - Color by number. Best coloring pages.',
+    installs: 191335,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/pq0h5BvGv9Pg6l2La3crPdGK_9IUxYOjfDLULFrXfvdxBAUA-lGTH5mPulE_pmYwWQ',
+    appId: 'com.tiedye.color.free.pixelart',
+    url: 'https://play.google.com/store/apps/details?id=com.tiedye.color.free.pixelart&hl=en&gl=us'
+  },
+  {
+    title: 'Manikin',
+    installs: 5892,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/cfmtZNBA0Zs8QT0v95K5tKjnJnpZGgK2kmtH3T-IcAgwn30QWTdZbv_FZYz3MXngxw',
+    appId: 'com.UNSH.Manikin',
+    url: 'https://play.google.com/store/apps/details?id=com.UNSH.Manikin&hl=en&gl=us'
+  },
+  {
+    title: 'SketchOne - Create Your Live Drawings',
+    installs: 196670,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/vei3K4xruzlQRJKfOhainYEnfnXjq6Nu6bnBatdrpp2Zdca3sohL447BCv1yxGvNtLg',
+    appId: 'com.draw.paint.sketch.one',
+    url: 'https://play.google.com/store/apps/details?id=com.draw.paint.sketch.one&hl=en&gl=us'
+  },
+  {
+    title: 'Jewels Burst',
+    installs: 14195,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/s0SQl1OdL1xkmL6-XjEnTzMlj4rfsQEOqOylEjQYzXDCBYd0F_XPmVgbgn2YRMYZYEU',
+    appId: 'com.m2studio.jewelstarblast',
+    url: 'https://play.google.com/store/apps/details?id=com.m2studio.jewelstarblast&hl=en&gl=us'
+  },
+  {
+    title: 'WordCloud - Presentation Mode',
+    installs: 15,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/kqlaXbLy-AIxY5EmOY4qBGiGySTIoa2TBenXabvd4RJXLv_Kt1ZI6OzaAYX8lUsnPjw',
+    appId: 'wordcloud.presentation',
+    url: 'https://play.google.com/store/apps/details?id=wordcloud.presentation&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Book Mandala - Calm & Rest. Tap to Paint',
+    installs: 4035,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Jq_ULUmkhDUncWbMC4KXfrl4QCw567yBSFzAzpqWlrFJHiPY3UJyN9Vyzsl3OwNu8AFV',
+    appId: 'mandala.coloring.book.calm.color.number.pixel.art.game',
+    url: 'https://play.google.com/store/apps/details?id=mandala.coloring.book.calm.color.number.pixel.art.game&hl=en&gl=us'
+  },
+  {
+    title: 'Fashion Design Sketches Book',
+    installs: 68867,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/DQxCRPQZTyYnrZ11Sd9IE7UXM12vaTQMJnzLFtTMNRRjub5qfxXaFBpOuxaRehYNNmA',
+    appId: 'com.pocketartsturiogp.FashionDesignSketches',
+    url: 'https://play.google.com/store/apps/details?id=com.pocketartsturiogp.FashionDesignSketches&hl=en&gl=us'
+  },
+  {
+    title: 'Collage Fun - Photo Collage Maker and Editor',
+    installs: 2583,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/ahFo5Cl4ghfecAqCY_SQTOaPds9xxXkWhc2DkpIaxNQMrQhJAbFUHyWtRD3Dn_h0',
+    appId: 'com.photofun.collagefun',
+    url: 'https://play.google.com/store/apps/details?id=com.photofun.collagefun&hl=en&gl=us'
+  },
+  {
+    title: 'Wedding Cards Invitation Maker',
+    installs: 618922,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/gjIRGiHW1qSDVYJeFNYovX_xebloOQxRq4k6Nhy1dFWYVQljSq9NYMaNi783h1Zuxc4',
+    appId: 'com.a380apps.weddingcards',
+    url: 'https://play.google.com/store/apps/details?id=com.a380apps.weddingcards&hl=en&gl=us'
+  },
+  {
+    title: 'U Launcher 3D: New Launcher 2020, 3d themes',
+    installs: 10529257,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/bgXCQ7c3ahr0zfqFOrSNRlJPx_0pWyBs5B4uOgpP7eBL4ZnAyyiCcx5AQhlFNa1ASkc',
+    appId: 'com.phone.launcher.android',
+    url: 'https://play.google.com/store/apps/details?id=com.phone.launcher.android&hl=en&gl=us'
+  },
+  {
+    title: 'watercolor & oil painting color by number Free',
+    installs: 1659,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/b3ywHgimd_3xXHmR3-dNAuhDHFL6CNNXJq_bI_GMxGYcgC_wyPYiwpCUZUDIEoyltqw',
+    appId: 'watercolor.oil.painting.color.by.number',
+    url: 'https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number&hl=en&gl=us'
+  },
+  {
+    title: 'Poster Maker, Flyers, Ads, Graphic Design - Postro',
+    installs: 156201,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/sNZ-wICzu5nx-YwXe7_Jp7tB2CHlyzDr3nu8ukGB7TZHIecS9vFVOUtLrjXcK8oz0Q',
+    appId: 'com.appxstudio.postro',
+    url: 'https://play.google.com/store/apps/details?id=com.appxstudio.postro&hl=en&gl=us'
+  },
+  {
+    title: 'Bead Loom Pattern Creator',
+    installs: 12536,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/4tBriFbYSbBzOifcYdEswbDJXzLELp4U7I392xHMSwpBQgn3xgnOT_12qfrukBcvlg',
+    appId: 'com.crochetdesigns.beadloom',
+    url: 'https://play.google.com/store/apps/details?id=com.crochetdesigns.beadloom&hl=en&gl=us'
+  },
+  {
+    title: '8bit Painter - Pixel Painter',
+    installs: 757606,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/QBD0clnGpGjtAYcZB917xsRCH0M0e08jkopNxThiaeD7YmIywyW-a8Rm-SSEtvXUqq6h',
+    appId: 'osmandroid.a8bitpainter',
+    url: 'https://play.google.com/store/apps/details?id=osmandroid.a8bitpainter&hl=en&gl=us'
+  },
+  {
+    title: 'Kiln Diary',
+    installs: 56,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/LvvKL6mIde92ChDP6Lk40Wkwr5E-iTPADk6KXXFcGNgTjRuyMq8cblnnYpliPueP0Do',
+    appId: 'uk.co.sparcliff.kilndiary',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.sparcliff.kilndiary&hl=en&gl=us'
+  },
+  {
+    title: 'Dragon Mannequin',
+    installs: 370198,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/rZoJmHx3fJ39ac6L77gyZhd-0REPExO2N9-F0NYdP8t83E_hLok0i9DjU-V7tg4A-weC',
+    appId: 'com.apps3DMannequins.DragonMannequin',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.DragonMannequin&hl=en&gl=us'
+  },
+  {
+    title: 'Chromascreen',
+    installs: 80454,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/HzgHgyU9iLuhf5iysGyF8sCDABi-8p4OTVa1bxQu91mvpZBoBkttF1zEn77cF0X8kCRZ',
+    appId: 'com.rocketjump.chromascreenapp',
+    url: 'https://play.google.com/store/apps/details?id=com.rocketjump.chromascreenapp&hl=en&gl=us'
+  },
+  {
+    title: 'Grid Maker For Drawing',
+    installs: 173493,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/t_-vJ86OQW8gqSVqThfbd0unB0t7JWDmwuoewREEB9TtUOuuTnrn_tAsWFKBce00iA',
+    appId: 'grant.grid.maker.drawing',
+    url: 'https://play.google.com/store/apps/details?id=grant.grid.maker.drawing&hl=en&gl=us'
+  },
+  {
+    title: 'What Makes A Graphic Designer Course By Ask.Video',
+    installs: 0,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/wye5jOvP5Ycw3ZHZx2L9auKSaSlitREw9fEvDmOA6D2TFo6O4yC29IMv_2hmGsOL9w',
+    appId: 'com.askvideo.graphicdesign101_2',
+    url: 'https://play.google.com/store/apps/details?id=com.askvideo.graphicdesign101_2&hl=en&gl=us'
+  },
+  {
+    title: 'Designing Books and Covers Course By Ask.Video',
+    installs: 0,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Qb1-WC_fUC3kxkqfzXMP3fO8qvbwib3ok5j3quXKyCgCEikQ8kkrumSwA-wUoUiYdzM',
+    appId: 'com.askvideo.graphicdesign201_2',
+    url: 'https://play.google.com/store/apps/details?id=com.askvideo.graphicdesign201_2&hl=en&gl=us'
+  },
+  {
+    title: 'Principles of Background Design by Ask.Video',
+    installs: 0,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/3YCPGnCsTaD_H06ARwb1qekRrFkTGFSZL3JDxcdrHTcfAuQyql-EvXYEe5j_Ntt6Phg',
+    appId: 'com.askvideo.animationconcepts201',
+    url: 'https://play.google.com/store/apps/details?id=com.askvideo.animationconcepts201&hl=en&gl=us'
+  },
+  {
+    title: 'Digital Drawing Course by Ask.Video',
+    installs: 0,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/aqc_yXxY7w8U4558I0FmoL6vZki4ApZ8xLi9DkRIJXH68kgJ_DRAsLncw47RcUd_bJ0',
+    appId: 'com.askvideo.drawingtechniques4',
+    url: 'https://play.google.com/store/apps/details?id=com.askvideo.drawingtechniques4&hl=en&gl=us'
+  },
+  {
+    title: 'Meme Maker Free Graphic Design Meme Generator',
+    installs: 8082,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/j1B6wsRWEAYNOYaS6rf_d6YqBNuahueUOtNTo4MERj2sJq_TJ4cXEueh8E-48jWAWBRe',
+    appId: 'com.graphic.design.meme.maker',
+    url: 'https://play.google.com/store/apps/details?id=com.graphic.design.meme.maker&hl=en&gl=us'
+  },
+  {
+    title: 'Mosasaurus Mannequin',
+    installs: 399710,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/jhTw56ueDTwKy-BLJo1aKRzzmZVuSp3nSl0uokcnp2uT3dLfB4_RuDzMsYtClgRxVXn_',
+    appId: 'com.apps3DMannequins.MosasaurusMannequin',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.MosasaurusMannequin&hl=en&gl=us'
+  },
+  {
+    title: 'Allosaurus Mannequin',
+    installs: 444101,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/JzwfNBeutukWm7qTdo7RuOvKrip_L32vgTFaEq7Gps2TPHo4i7AL3qF9NMGjRZSV9zY',
+    appId: 'com.apps3DMannequins.AllosaurusMannequin',
+    url: 'https://play.google.com/store/apps/details?id=com.apps3DMannequins.AllosaurusMannequin&hl=en&gl=us'
+  },
+  {
+    title: 'Creating Animation Characters Course by Ask.Video',
+    installs: 0,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/AsiOO72oaeznppsTInn3h27W9hzY59feWkxddTFbHoUH_uh1K8kc2qbpsZkPBKhp6DA6',
+    appId: 'com.askvideo.characterdesign102_2',
+    url: 'https://play.google.com/store/apps/details?id=com.askvideo.characterdesign102_2&hl=en&gl=us'
+  },
+  {
+    title: 'Design Creator Pro',
+    installs: 28,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/zUzFJxQHqg1VWeJjiOrbfKIheQD21ietesjfZjf7uAMT92c2azWj1UjCQpvTBTC9m3M',
+    appId: 'com.serjthware.designcreatorpro',
+    url: 'https://play.google.com/store/apps/details?id=com.serjthware.designcreatorpro&hl=en&gl=us'
+  },
+  {
+    title: 'Amandala - Mandala Coloring Pages for adults',
+    installs: 2092,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Pn7LHE6-p5ui2Ex2HfXt0_OUr7m3pY7zgsHDpZY7PhhzdrtwWDejL7LJHGsfR7Q0df4',
+    appId: 'com.draw.amandala',
+    url: 'https://play.google.com/store/apps/details?id=com.draw.amandala&hl=en&gl=us'
+  },
+  {
+    title: 'Coloring Book for Adults 🎨 HoliColoring',
+    installs: 104590,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/EuRSuWWFuUskw31fPw0VIUUxhQXmmqKL7Frf371fLpLrKpITckdZTKfyNu1W6CP5GL8',
+    appId: 'coloring.book.adults',
+    url: 'https://play.google.com/store/apps/details?id=coloring.book.adults&hl=en&gl=us'
+  },
+  {
+    title: 'PFA Album Viewer',
+    installs: 58,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/UNzDLBfS90garPUMQmbjFH28AinP2aam_OYvzhpr9q6IJaFYklWEd8WzQFGFgUOUwcg',
+    appId: 'com.app.p7798FG',
+    url: 'https://play.google.com/store/apps/details?id=com.app.p7798FG&hl=en&gl=us'
+  },
+  {
+    title: 'Halloween Color By Number : Zombie, Ghost Coloring',
+    installs: 251,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/VIZPdQoAwuGalciNtHW1FEwLxudcunZ3rsLN-PghWDJiV7b7Y4gkiZKVnElfyfcu35Q',
+    appId: 'com.coloringforall.halloween.glitter.color.by.number.prime.pixel.art.book',
+    url: 'https://play.google.com/store/apps/details?id=com.coloringforall.halloween.glitter.color.by.number.prime.pixel.art.book&hl=en&gl=us'
+  },
+  {
+    title: 'Stitchart - Knitting Chart Designer and Tracker',
+    installs: 4475,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/PDHtAmZCm07QKx_8bXehi6RZnpuCcSWO92-VF9dXk0aIsZITbNHe4PQZzBV4apAGGA',
+    appId: 'com.lemnik.stitchart',
+    url: 'https://play.google.com/store/apps/details?id=com.lemnik.stitchart&hl=en&gl=us'
+  },
+  {
+    title: "Artist's Eye",
+    installs: 3640,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/Q99fnMBLnH4vneM3BA1AhH2daHrd_O673kMgeJ6VfSyOjouVwtncW7lQXcHEWGln6A',
+    appId: 'karhulabs.daid',
+    url: 'https://play.google.com/store/apps/details?id=karhulabs.daid&hl=en&gl=us'
+  },
+  {
+    title: 'Color Palette',
+    installs: 66368,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/MUeU_4caEy1GSDGznXqcNEdCAz8-9RLprNWdggVm5tbfpTxY07eEw5NVbQ0SVHOo0xk',
+    appId: 'com.blogspot.yashas003.colorpalette',
+    url: 'https://play.google.com/store/apps/details?id=com.blogspot.yashas003.colorpalette&hl=en&gl=us'
+  },
+  {
+    title: 'Quilt Creator',
+    installs: 7381,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/e1O-cH-ux6TsGdj13h-LQQKkTo7susVlObAN_RZam5BUE3-X-uoul6K3Pi-o5RfOcPnH',
+    appId: 'com.crochetdesigns.quiltblockcreator',
+    url: 'https://play.google.com/store/apps/details?id=com.crochetdesigns.quiltblockcreator&hl=en&gl=us'
+  },
+  {
+    title: 'Art Portfolio: Create and download your portfolios',
+    installs: 583,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/15yXCvpFfF_uQytGjzjsN_dzKzXsI5F_EhvS-MB4BXsVMbWlrXxiKOqu2lFdR3lS6Xw',
+    appId: 'com.robledostudios.artportfolio.pro',
+    url: 'https://play.google.com/store/apps/details?id=com.robledostudios.artportfolio.pro&hl=en&gl=us'
+  },
+  {
+    title: 'Touch Embroidery',
+    installs: 646,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/r54x475phymUV8sf4OcJgNJR4KrUgRDuT3xmD8AsRZxs6w2jbMJQHR0Qr3DVP8TsmZQ',
+    appId: 'com.photoembroidery.tat.touchembroidery',
+    url: 'https://play.google.com/store/apps/details?id=com.photoembroidery.tat.touchembroidery&hl=en&gl=us'
+  },
+  {
+    title: 'How to Draw Comics',
+    installs: 71504,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/FzxcsC7l_LitEZqjpIpORg6djCHZe4HKXjwYjPGx9Jvn4cfdzdMusean4LI86gzre7g',
+    appId: 'com.draw2godrawcomicslite',
+    url: 'https://play.google.com/store/apps/details?id=com.draw2godrawcomicslite&hl=en&gl=us'
+  },
+  {
+    title: 'Just Palette',
+    installs: 14525,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/Shq5Nl-4NR2ytHyRUx0ivA4OOfBYwS3Iq8yFS-F7wHiJ8OURSidX69TjyF7La_4QpgA',
+    appId: 'com.guidapasquale.justpalette',
+    url: 'https://play.google.com/store/apps/details?id=com.guidapasquale.justpalette&hl=en&gl=us'
+  },
+  {
+    title: 'Ambigram Studio Pro',
+    installs: 326,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/eCz0bElAsUhVU5GK_H2yFC5uu-p8IIuUtCtR00P-l5XP8jlVZ0erTsH39XTODQyIaOU',
+    appId: 'com.digitalenergy.ambigramstudiopaid',
+    url: 'https://play.google.com/store/apps/details?id=com.digitalenergy.ambigramstudiopaid&hl=en&gl=us'
+  },
+  {
+    title: 'Stickman: draw animation, creator & maker, drawing',
+    installs: 2988328,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/fOqgUtKmX8HClJr6vzs9zoRkVR9-BQqHh-OYHMfT3dy0vE7aLOK8ugZ4kcacLsU67yI',
+    appId: 'com.appolo13.stickmandrawanimation',
+    url: 'https://play.google.com/store/apps/details?id=com.appolo13.stickmandrawanimation&hl=en&gl=us'
+  },
+  {
+    title: 'My Typewriter',
+    installs: 525,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/1NoUejjrNpZLLW0I_Lt1CrRmpkFEqZkPkYTxv5MuSJAkgmJG2jJzJjZHlmhfG89eJKjy',
+    appId: 'com.winnonapartners.mytypewriter',
+    url: 'https://play.google.com/store/apps/details?id=com.winnonapartners.mytypewriter&hl=en&gl=us'
+  },
+  {
+    title: 'X Launcher for Phone X Max - OS 12 Theme Launcher',
+    installs: 1377695,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/dqvUar2VGQv-OGwSgEAqtOv-w6pU2CS2OxBapSO8qKOeCI9lSSpfraBWaL4B8bJ6vWs',
+    appId: 'com.iphone.xs.launcher.ios12.theme',
+    url: 'https://play.google.com/store/apps/details?id=com.iphone.xs.launcher.ios12.theme&hl=en&gl=us'
+  },
+  {
+    title: 'Character Maker - Children',
+    installs: 1348,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/If3IMdAeWsUq4ygNmFA0uQKDnciXPLGFUmVWjP9XwIH65LgskIsbTtPA4veGAhWPqkI',
+    appId: 'com.artipunk.charmakerchild',
+    url: 'https://play.google.com/store/apps/details?id=com.artipunk.charmakerchild&hl=en&gl=us'
+  },
+  {
+    title: 'Anime Wallpaper Sekai',
+    installs: 813096,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/vtucu6nFpM3dWaTheUJhs7lZ0nxy8WHjeTjqvKAPwdNxVifyfYj8LNpVg7_JjwEuSQ',
+    appId: 'com.ova.studio.anime.wallpaper',
+    url: 'https://play.google.com/store/apps/details?id=com.ova.studio.anime.wallpaper&hl=en&gl=us'
+  },
+  {
+    title: 'Watercolour Reference',
+    installs: 503,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://play-lh.googleusercontent.com/fnBitwIyCwz1iVNGZsdmuX3ERN5A3nzW4RRGsWe0oar7-oEi3kphu5E8kHgKBZ6Duxer',
+    appId: 'uk.co.shingler.watercolourreference2',
+    url: 'https://play.google.com/store/apps/details?id=uk.co.shingler.watercolourreference2&hl=en&gl=us'
+  },
+  {
+    title: 'Animated Sticker Maker for WhatsApp',
+    installs: 357768,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/f7fhvuuIGyIkYufb_YsCFBHGVe43_u5Jz2QPc_L1X221S3F3Z8uCRSTqoFiUrPbE68k',
+    appId: 'alpha.sticker.maker',
+    url: 'https://play.google.com/store/apps/details?id=alpha.sticker.maker&hl=en&gl=us'
+  },
+  {
+    title: 'The Prado Guide',
+    installs: 269,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/qDK-D8ybJBiF2_6ylsV-NNuCUsZjv7qgRlUamHs5XpU5K0JMxoLv5w2t6qzIUK6SZFI',
+    appId: 'es.museodelprado.guia3delpradoandroid',
+    url: 'https://play.google.com/store/apps/details?id=es.museodelprado.guia3delpradoandroid&hl=en&gl=us'
+  },
+  {
+    title: 'Draw Signature Pro (No Ads)',
+    installs: 244,
+    genre: 'ART_AND_DESIGN',
+    icon: 'https://lh3.googleusercontent.com/aZQNy35-T9hr7j2hB6934piixWjNm2r4_kYgR-D9DbyW9Ln_Z06cQAyt3XDfl4I__gw',
+    appId: 'com.diytech.drawsignaturepro',
+    url: 'https://play.google.com/store/apps/details?id=com.diytech.drawsignaturepro&hl=en&gl=us'
+  }
+]
