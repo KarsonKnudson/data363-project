@@ -71,9 +71,9 @@ const categories = {
   GAME_WORD: gplay.category.GAME_WORD
   }
 
-// On success, write scraped app data to file
+// On success, write scraped app data to file, including regex formatting to ensure JSON compatibility
 function write_data(cat, d) {
-	fs.appendFile(path + cat + '.dat', util.format(d), function (err) {
+	fs.appendFile(path + cat + '.dat', util.format(d).replace(/'/g, '"').replace(/""/g, '"'), function (err) {
 	  if (err) throw err;
 	  console.log('\t- [FINISH]\tCategory: ' + cat);
 	});
