@@ -13,19 +13,19 @@ num_worker_threads = 10
 
 def worker(thread_id):
     """Get tasks from queue and execute them"""
-	while True:
+    while True:
         root, filename = q_in.get()
         get_icons(root, filename, thread_id)
         q_in.task_done()
 
 def main():
     # Start worker threads
-	for i in range(num_worker_threads):
+    for i in range(num_worker_threads):
         t = threading.Thread(target=worker, args=(i,))
         t.daemon = True
         t.start()
-	
-	# Put each '.dat' file into the queue for download
+
+    # Put each '.dat' file into the queue for download
     for root, dirs, files in os.walk("."):
         for filename in files:
             if filename[-4::] == '.dat':
@@ -51,12 +51,13 @@ def get_icons(root, filename, num):
         appId = id_sanitize((data[i])['appId'])
         url = (data[i])['icon']
         installs = (data[i])['installs']
+        score = (data[i])['score']
         log("\t[" + str(i + 1) + "/" + str(len(data)) + "] " + "Downloading icon of " + appId, logfile, 0)
         r = requests.get(url, allow_redirects=True)
         # If image malformed or other error, skip
         try:
             icon = Image.open(BytesIO(r.content))
-            icon.save(new_path + '\\' + appId + '_' + str(installs) + '.png')
+            icon.save(new_path + '\\' + appId + '_' + str(score) + '_' + str(installs) + '.png')
         except Exception as e:
             log("! [Thread " + str(num) + "] ERROR: cat:{" + category + "} appId:{" + appId + "} message:{" + str(e) + "}", logfile, 1)
             logfile.flush()   

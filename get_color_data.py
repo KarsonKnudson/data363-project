@@ -67,8 +67,15 @@ def get_pal(folder, id):
                 print("! [Thread " + str(id) + "] " + path + str(e))
                 error = 1
             if error == 0:
-                downloads = filename.split('_')[1].rstrip('.png')
-                log_colors.write(str(colors) + '\n' + str(downloads) + '\n')
+                appId = filename.split('_')[0].rstrip('.png')
+                rating = filename.split('_')[1].rstrip('.png')
+                downloads = filename.split('_')[2].rstrip('.png')
+                to_write = str(appId) + '\n' + str(colors) + '\n' + str(rating) + '\n' + str(downloads) + '\n'
+                chars = ["[","]","(",")"," "]
+                for char in chars:
+                    to_write = to_write.replace(char, "")
+                to_write =  to_write.replace(","," ")
+                log_colors.write(to_write)
                 save_palette(colors, 20, outfile = (".\\PAL\\" + folder + "\\" + filename.rstrip('.png') + "_pal.png"))
     log_colors.close()
 
