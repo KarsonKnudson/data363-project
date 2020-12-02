@@ -11,3 +11,13 @@
 1. Install the os, json, and requests libraries to your Python environment.
 2. Run 'download_icon_from_dat.py' using Python from the command line.
 3. The output images are located within the same directory as the data files, organized by app category and named according to appId and number of installs.
+
+## TO GET COLOR DATA AND PALLETTES
+1. Move all of the folders of downloaded icons into a folder called 'ICONS'.
+2. Run 'get_color_data.py' using Python from the command line.
+3. The output data files will be in '\COLOR_DAT' and the color pallettes will be in '\PAL'.
+
+## TO VISUALIZE
+1. Make sure 'visualization.R' is in the same folder as '\COLOR_DAT'.
+2. Run 'visualization.R' in your R interpreter of choice.
+3. The output visualizations will be in '\VIS'.
